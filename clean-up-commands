@@ -1,5 +1,5 @@
 find . -type f -exec sed -i 's/?ver=1.12.4//g' {} +
 find . -type f -exec sed -i 's/?ver=4.8.1//g' {} +
-find . -type f -exec sed -i 's/agent-thebubbleindex.rhcloud.com/anautonomousagent.github.io/g' {} +
+find . -type f -exec sed -i 's/agent-thebubbleindex.rhcloud.com/anautonomousagent.com/g' {} +
 find . -type f -exec sed -i 's#http://anautonomousagent#https://anautonomousagent#g' {} +
-
+find . -type f -exec sed -i 's#https://anautonomousagent.github.io#https://anautonomousagent.com#g' {} +
