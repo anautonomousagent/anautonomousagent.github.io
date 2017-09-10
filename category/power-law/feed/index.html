@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/category/power-law/feed/" rel="self" type="application/rss+xml" />
 	<link>http://localhost</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Sat, 09 Sep 2017 23:56:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Aug 2017 14:26:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -32,24 +32,24 @@
 		<category><![CDATA[self-organization]]></category>
 		<category><![CDATA[social behavior]]></category>
 
-		<guid isPermaLink="false">http://agent-thebubbleindex.rhcloud.com/?p=57</guid>
+		<guid isPermaLink="false">http://anautonomousagent.github.io/?p=57</guid>
 		<description><![CDATA[Do there exist studies on the distribution of the lengths of kingdoms and dynasties &#8212; &#160;distinct political entities &#8212; since the 3rd millennium B.C.E.? It seems likely that someone has already studied this topic, but I can not find any papers online. To explain, I have included a file, here, containing the beginning and end [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Do there exist studies on the distribution of the lengths of kingdoms and dynasties &#8212; &nbsp;distinct political entities &#8212; since the 3rd millennium B.C.E.? It seems likely that someone has already studied this topic, but I can not find any papers online. To explain, I have included a file, <a href="//speedy.sh/qez3J/DynastiesAndKingdoms.csv" target="_blank">here</a>, containing the beginning and end dates of about 700 distinct social groups since the dawn of recorded history. It was complied from various Wikipedia pages. I do not doubt that the data is not very reliable, however, graphing the histogram of these lengths, see Figure 1, would provide at least a rough idea of their distribution.</p>
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 <tbody>
 <tr>
-<td style="text-align: center;"><a href="//agent-thebubbleindex.rhcloud.com/wp-content/uploads/2014/05/Histogram-of-Dynasty-Kingdom-Lifespan1.png" style="margin-left: auto; margin-right: auto;"><img border="0" src="//agent-thebubbleindex.rhcloud.com/wp-content/uploads/2014/05/Histogram-of-Dynasty-Kingdom-Lifespan1.png" height="320" width="400" /></a></td>
+<td style="text-align: center;"><a href="//anautonomousagent.github.io/wp-content/uploads/2014/05/Histogram-of-Dynasty-Kingdom-Lifespan1.png" style="margin-left: auto; margin-right: auto;"><img border="0" src="//anautonomousagent.github.io/wp-content/uploads/2014/05/Histogram-of-Dynasty-Kingdom-Lifespan1.png" height="320" width="400" /></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figure 1</td>
 </tr>
 </tbody>
 </table>
-<p>It does seem that a nice distribution curve exists which models the data. The distribution seems to take the shape of a power law at first glance. Doing some work in R, I found that a power law with one set of parameters fits the tail nicely but fails to fit the first half; and vice versa, a power law with a different set of parameters fits the majority but not the tail. My hypothesis is that a power law with alpha equal to 3 may be the best fit. This is a prediction based on the <a href="//agent-thebubbleindex.rhcloud.com/?p=185" target="_blank">lectures of Geoffrey West</a>, in which he explains that most biological systems exhibit power law distributions with alpha in the 2.5-3.0 range. However, as seen in Figure 2, this does not seem to be the correct range for alpha if a power law is the best fit for this preliminary data.</p>
+<p>It does seem that a nice distribution curve exists which models the data. The distribution seems to take the shape of a power law at first glance. Doing some work in R, I found that a power law with one set of parameters fits the tail nicely but fails to fit the first half; and vice versa, a power law with a different set of parameters fits the majority but not the tail. My hypothesis is that a power law with alpha equal to 3 may be the best fit. This is a prediction based on the <a href="//anautonomousagent.github.io/?p=185" target="_blank">lectures of Geoffrey West</a>, in which he explains that most biological systems exhibit power law distributions with alpha in the 2.5-3.0 range. However, as seen in Figure 2, this does not seem to be the correct range for alpha if a power law is the best fit for this preliminary data.</p>
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 <tbody>
 <tr>
-<td style="text-align: center;"><a href="//agent-thebubbleindex.rhcloud.com/wp-content/uploads/2014/05/EmpericalvsTheoretical1.png" style="margin-left: auto; margin-right: auto;"><img border="0" src="//agent-thebubbleindex.rhcloud.com/wp-content/uploads/2014/05/EmpericalvsTheoretical1.png" height="310" width="400" /></a></td>
+<td style="text-align: center;"><a href="//anautonomousagent.github.io/wp-content/uploads/2014/05/EmpericalvsTheoretical1.png" style="margin-left: auto; margin-right: auto;"><img border="0" src="//anautonomousagent.github.io/wp-content/uploads/2014/05/EmpericalvsTheoretical1.png" height="310" width="400" /></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figure 2</td>
