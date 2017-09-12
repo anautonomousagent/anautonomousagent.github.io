@@ -12,12 +12,38 @@
 	<atom:link href="http://localhost/category/website/feed/" rel="self" type="application/rss+xml" />
 	<link>http://localhost</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Tue, 29 Aug 2017 14:26:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Sep 2017 00:00:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.1</generator>
 	<item>
+		<title>WordPress Appliction as Static Site Generator</title>
+		<link>http://localhost/2017/09/wordpress-appliction-as-static-site-generator/</link>
+		<pubDate>Mon, 11 Sep 2017 23:58:10 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[code]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">http://localhost/?p=1935</guid>
+		<description><![CDATA[While there are currently nice tools which exist to generate static websites, such as Hugo or Jekyll, there is also WordPress combined with a static site generating plug-in. Thus, WordPress can be used just like Hugo and Jekyll to create a set of static files to be hosted on the web via a service like [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>While there are currently nice tools which exist to generate static websites, such as Hugo or Jekyll, there is also WordPress combined with a static site generating plug-in. Thus, WordPress can be used just like Hugo and Jekyll to create a set of static files to be hosted on the web via a service like IPFS or Github pages.</p>
+<p>I was forced to investigate this topic thanks to Openshift 3, Redhat&#8217;s new upgrade for their web application hosting platform. For the past three years this site and two others have been running on Openshift&#8217;s version 2 for basically free (around $2.00 per month for total).</p>
+<p>But Redhat decided to discontinue Openshift 2 and in the process switch their target customers away from the little guys. Normal people just wanting to blog cannot afford the $50 per month they want for their paid platform hosting account. And just to download their development kit requires filling out private information like phone number, address, and clicking a promise check-box that you agree you are using <a href="https://developers.redhat.com/products/cdk/overview/">their CDK</a> for development only. They are now as frustrating as Oracle, where you can&#8217;t download an old Java version without filling out the same identifying information.</p>
+<p>Well, I then started to look around for WordPress hosting, expecting that I could get-by paying a small fee each month &#8211; around $5 for all sites. Nope &#8212; nothing, everywhere that I looked they wanted an exorbitant amount just to host a WordPress application. Namecheap was the best I found, 10 for the first year for three sites and then 50 per year after that. So it then seemed like a no-brainer to create a static site and put it on either IPFS or Github, which would be free. Github does have some restrictions like 1GB storage and I think they even have a monthly bandwidth limit. Since Github is free and since this site is not that popular, it was perfect. IPFS would also be nice, but I have a slow Internet connection and I already host one IPFS site and an <a href="https://www.openbazaar.org/">Openbazaar</a> storefront. And in any-case, with a static site it is rather simple to transfer or simultaneously host on other services.</p>
+<p>I had been thinking for some time about switching to static websites, and now I was being forced to actually make the switch. Sacrificing the comment and search functionality in WordPress for a static site was something I didn&#8217;t mind, but for some people this might not be an option. I then spent about a day installing WordPress on my local desktop and transferring all data from my existing sites to the local install. This was near pain-free, although it may be headache for some who are unfamiliar with the internal structure of WordPress or terminal commands. You just have to follow the instructions listed below with the knowledge that online instructions are not always 100% correct due to differences in operating system versions, previously installed programs, etc&#8230;</p>
+<p>And if you are copying existing WordPress data, be sure to export only the necessary tables correctly and remember to transfer all your previous uploads. Once you have the code on your Github repository, you just need to set the CNAME properties on Github and your domain name provider correctly and you are up and running.</p>
+<p>Directions:</p>
+<p><a href="https://github.com/solaranamnesis/solaranamnesis.github.io">How to install WordPress on Ubuntu 14.04</a></p>
+<p><a href="https://www.tecmint.com/install-wordpress-on-ubuntu-16-04-with-lamp/">How to install WordPress 4.7 on Ubuntu 16.10/16.04 Using LAMP Stack</a></p>
+<p><a href="https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc">Set Up SSL on Github Pages With Custom Domains for Free</a></p>
+<p>Github repositories:</p>
+<p><a href="https://github.com/anautonomousagent/anautonomousagent.github.io">An Autonomous Agent</a></p>
+<p><a href="https://github.com/solaranamnesis/solaranamnesis.github.io">Solar Anamnesis</a></p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>The Cannabis Evolution Project</title>
 		<link>http://localhost/2016/10/the-cannabis-evolution-project/</link>
 		<pubDate>Sun, 23 Oct 2016 22:19:22 +0000</pubDate>
@@ -190,31 +216,6 @@
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=19</guid>
 		<description><![CDATA[Top Documentary Films posts links to numerous free films. It has been one of my favorite places to visit when I am bored; I especially like the coverage of controversial and radical subjects &#8212; films which are unlikely to be found on sites like Netflix and Hulu. One such documentary is Counter Intelligence, an investigation [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Top Documentary Films posts links to numerous free films. It has been one of my favorite places to visit when I am bored; I especially like the coverage of controversial and radical subjects &#8212; films which are unlikely to be found on sites like Netflix and Hulu. One such documentary is <a href="//topdocumentaryfilms.com/counter-intelligence/" target="_blank">Counter Intelligence</a>, an investigation and history of the United States Central Intelligence Agency. Through declassified public documents and former CIA officers, the film reveals how the CIA has operated in the past. Studying the history of the CIA, one can speculate as to how the agency may be influencing current world events.</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>TEAC UD-501, Sennheiser HD 650, Audiophile Linux</title>
-		<link>http://localhost/2014/08/teac-ud-501-sennheiser-hd-650-audiophile-linux/</link>
-		<pubDate>Fri, 01 Aug 2014 18:11:00 +0000</pubDate>
-		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
-				<category><![CDATA[amplifier]]></category>
-		<category><![CDATA[audiophile]]></category>
-		<category><![CDATA[computer]]></category>
-		<category><![CDATA[DAC]]></category>
-		<category><![CDATA[dsd]]></category>
-		<category><![CDATA[electronic]]></category>
-		<category><![CDATA[music]]></category>
-		<category><![CDATA[sound]]></category>
-		<category><![CDATA[website]]></category>
-
-		<guid isPermaLink="false">https://anautonomousagent.com/?p=33</guid>
-		<description><![CDATA[UPDATE (2016-Feb-01): Upgraded from HD 650 to HD 800. Now in audiophile heaven. Also, added SOtM internal USB port with SOtM SATA In-Line power filter. I recently switched my computer&#8217;s audio system from the Objective2 Amplifier and ObjectiveDAC (a good low-cost set-up) to the TEAC USB AUDIO DAC UD-501. I connected the TEAC to a [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;">UPDATE (2016-Feb-01):</div>
-<div style="text-align: justify;">Upgraded from HD 650 to HD 800. Now in audiophile heaven. Also, added SOtM internal USB port with SOtM SATA In-Line power filter.</div>
-<div style="text-align: justify;"></div>
-<div style="text-align: justify;">I recently switched my computer&#8217;s audio system from the Objective2 Amplifier and ObjectiveDAC (a good low-cost set-up) to the <a href="//www.teac.com/product/ud-501/" target="_blank" rel="noopener">TEAC USB AUDIO DAC UD-501</a>. I connected the TEAC to a spare laptop running <a href="//www.ap-linux.com/" target="_blank" rel="noopener">Audiophile Linux</a>. Listening with Sennheiser&#8217;s HD 650 headphones, the system playing native <a href="//en.wikipedia.org/wiki/Direct_Stream_Digital" target="_blank" rel="noopener">DSD</a> albums sounds remarkable. All instruments and vocals are crystal clear and superbly smooth. It&#8217;s the way music was meant to be heard.</div>
-<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.github.io/wp-content/uploads/2014/08/900x900px-LL-9d60ffd2_DSC_07551.jpeg"><img src="//anautonomousagent.github.io/wp-content/uploads/2014/08/900x900px-LL-9d60ffd2_DSC_07551.jpeg" alt="" width="320" height="212" border="0" /></a></div>
-<div style="text-align: justify;">DSD is the future of music &#8212; beautiful high quality audio. With a well produced DSD album, it sounds as if you are at the recording studio with the artist. Granted that a typical DSD album can be around 2-4 GB, it is rather disappointing that people seem to prefer poor quality MP3 recordings playing on low quality DAC chips in iPods and cell phones. NOTE: If you want a portable option, see the <a href="//dagogo.com/geek-wave-worlds-first-portable-player-capable-32bit-384-khz-native-dsd" target="_blank" rel="noopener">Geek Wave</a>. An MP3 album is less than half the cost of a DSD album, but it is also less than half the quality IMO. I don&#8217;t think many people are aware of how amazing DSD quality music played back with professional quality electronics can sound. Since we live in a time where hard drives in the 2-4 TB range are rather cheap, I hope that consumers begin to demand that music producers focus on providing high fidelity music.</div>
 ]]></content:encoded>
 			</item>
 	</channel>

@@ -149,6 +149,54 @@
 				<div class="posts" id="posts">
 						
 			    				    	
+			    		<div id="post-1935" class="post post-1935 type-post status-publish format-standard hentry category-code category-internet category-website">
+
+		
+	<div class="post-inner">
+				
+		<div class="post-header">
+
+							
+			    <h2 class="post-title"><a href="https://anautonomousagent.com/2017/09/wordpress-appliction-as-static-site-generator/" title="WordPress Appliction as Static Site Generator">WordPress Appliction as Static Site Generator</a></h2>
+			    
+					    
+		    		    
+		    <div class="post-meta">
+			    
+			    <p class="post-author"><span>By </span><a href="https://anautonomousagent.com/author/anautonomousagent/" title="Posts by anautonomousagent" rel="author">anautonomousagent</a></p>
+				<p class="post-date"><span>On </span><a href="https://anautonomousagent.com/2017/09/wordpress-appliction-as-static-site-generator/">September 11, 2017</a></p>
+									<p class="post-categories"><span>In </span><a href="https://anautonomousagent.com/category/code/" rel="category tag">code</a>, <a href="https://anautonomousagent.com/category/internet/" rel="category tag">internet</a>, <a href="https://anautonomousagent.com/category/website/" rel="category tag">website</a></p>
+											    
+		    </div>
+		    	    
+		</div> <!-- /post-header -->
+		
+				
+			<div class="post-content">
+			
+				<p>While there are currently nice tools which exist to generate static websites, such as Hugo or Jekyll, there is also WordPress combined with a static site generating plug-in. Thus, WordPress can be used just like Hugo and Jekyll to create a set of static files to be hosted on the web via a service like IPFS or Github pages.</p>
+<p>I was forced to investigate this topic thanks to Openshift 3, Redhat&#8217;s new upgrade for their web application hosting platform. For the past three years this site and two others have been running on Openshift&#8217;s version 2 for basically free (around $2.00 per month for total).</p>
+<p>But Redhat decided to discontinue Openshift 2 and in the process switch their target customers away from the little guys. Normal people just wanting to blog cannot afford the $50 per month they want for their paid platform hosting account. And just to download their development kit requires filling out private information like phone number, address, and clicking a promise check-box that you agree you are using <a href="https://developers.redhat.com/products/cdk/overview/">their CDK</a> for development only. They are now as frustrating as Oracle, where you can&#8217;t download an old Java version without filling out the same identifying information.</p>
+<p>Well, I then started to look around for WordPress hosting, expecting that I could get-by paying a small fee each month &#8211; around $5 for all sites. Nope &#8212; nothing, everywhere that I looked they wanted an exorbitant amount just to host a WordPress application. Namecheap was the best I found, 10 for the first year for three sites and then 50 per year after that. So it then seemed like a no-brainer to create a static site and put it on either IPFS or Github, which would be free. Github does have some restrictions like 1GB storage and I think they even have a monthly bandwidth limit. Since Github is free and since this site is not that popular, it was perfect. IPFS would also be nice, but I have a slow Internet connection and I already host one IPFS site and an <a href="https://www.openbazaar.org/">Openbazaar</a> storefront. And in any-case, with a static site it is rather simple to transfer or simultaneously host on other services.</p>
+<p>I had been thinking for some time about switching to static websites, and now I was being forced to actually make the switch. Sacrificing the comment and search functionality in WordPress for a static site was something I didn&#8217;t mind, but for some people this might not be an option. I then spent about a day installing WordPress on my local desktop and transferring all data from my existing sites to the local install. This was near pain-free, although it may be headache for some who are unfamiliar with the internal structure of WordPress or terminal commands. You just have to follow the instructions listed below with the knowledge that online instructions are not always 100% correct due to differences in operating system versions, previously installed programs, etc&#8230;</p>
+<p>And if you are copying existing WordPress data, be sure to export only the necessary tables correctly and remember to transfer all your previous uploads. Once you have the code on your Github repository, you just need to set the CNAME properties on Github and your domain name provider correctly and you are up and running.</p>
+<p>Directions:</p>
+<p><a href="https://github.com/solaranamnesis/solaranamnesis.github.io">How to install WordPress on Ubuntu 14.04</a></p>
+<p><a href="https://www.tecmint.com/install-wordpress-on-ubuntu-16-04-with-lamp/">How to install WordPress 4.7 on Ubuntu 16.10/16.04 Using LAMP Stack</a></p>
+<p><a href="https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc">Set Up SSL on Github Pages With Custom Domains for Free</a></p>
+<p>Github repositories:</p>
+<p><a href="https://github.com/anautonomousagent/anautonomousagent.github.io">An Autonomous Agent</a></p>
+<p><a href="https://github.com/solaranamnesis/solaranamnesis.github.io">Solar Anamnesis</a></p>
+			
+			</div>
+			
+			<div class="clear"></div>
+		
+			
+	</div> <!-- /post-inner -->
+	
+</div> <!-- /post -->			    			        		            
+			        			    	
 			    		<div id="post-1911" class="post post-1911 type-post status-publish format-standard hentry category-allen-dulles category-book category-cia category-government category-history category-political-science category-politics category-war">
 
 		
@@ -249,7 +297,7 @@ Many reviewers claim that <a href="http://a.co/ey4sLkC">JFK and the Unspeakable<
 			
 				<p>If you know about the <a href="http://ipfs.io/">IPFS</a> project and wondered how to get the address requests to work seamlessly within your browser, there is a Firefox Add-on called <a href="https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/">IPFS Companion</a>. From the add-on&#8217;s description:</p>
 <blockquote><p>This add-on enables everyone to access ipfs.io (or any other public gateway) urls the way they were meant: from locally running IPFS daemon 🙂</p></blockquote>
-<p>To get things running, all you have to do is start your IPFS daemon and then start the add-on. By default both attach to anautonomousagent.github.io 127.0.0.1:8080. Make sure they both are using the same address. And that&#8217;s all! Now every time you visit a site pointing to an IPFS gateway, for instance: ipfs.io gateway.ipfs.io ipfs.pics, it will automatically send the request and receive the response via your IPFS daemon. Pretty awesome! I can&#8217;t thank the developers enough &#8211; <a href="http://lidel.org/">Marcin Rataj</a> and <a href="http://daviddias.me/">David Dias</a>. You can try it with my own IPFS site: <a href="http://lpplmarketwatch.com/">LPPL Market Watch</a></p>
+<p>To get things running, all you have to do is start your IPFS daemon and then start the add-on. By default both attach to anautonomousagent.com 127.0.0.1:8080. Make sure they both are using the same address. And that&#8217;s all! Now every time you visit a site pointing to an IPFS gateway, for instance: ipfs.io gateway.ipfs.io ipfs.pics, it will automatically send the request and receive the response via your IPFS daemon. Pretty awesome! I can&#8217;t thank the developers enough &#8211; <a href="http://lidel.org/">Marcin Rataj</a> and <a href="http://daviddias.me/">David Dias</a>. You can try it with my own IPFS site: <a href="http://lpplmarketwatch.com/">LPPL Market Watch</a></p>
 			
 			</div>
 			
@@ -325,44 +373,6 @@ Many reviewers claim that <a href="http://a.co/ey4sLkC">JFK and the Unspeakable<
 	</div> <!-- /post-inner -->
 	
 </div> <!-- /post -->			    			        		            
-			        			    	
-			    		<div id="post-1812" class="post post-1812 type-post status-publish format-standard hentry category-artificial-intelligence category-consciousness category-evolution category-freeman-dyson category-oliver-sacks category-rupert-sheldrake category-stephen-jay-gould category-universe category-video category-wisdom category-youtube">
-
-		
-	<div class="post-inner">
-				
-		<div class="post-header">
-
-							
-			    <h2 class="post-title"><a href="https://anautonomousagent.com/2017/06/a-glorious-accident-wim-kayzer-1993/" title="A Glorious Accident &#8211; Wim Kayzer (1993)">A Glorious Accident &#8211; Wim Kayzer (1993)</a></h2>
-			    
-					    
-		    		    
-		    <div class="post-meta">
-			    
-			    <p class="post-author"><span>By </span><a href="https://anautonomousagent.com/author/anautonomousagent/" title="Posts by anautonomousagent" rel="author">anautonomousagent</a></p>
-				<p class="post-date"><span>On </span><a href="https://anautonomousagent.com/2017/06/a-glorious-accident-wim-kayzer-1993/">June 19, 2017</a></p>
-									<p class="post-categories"><span>In </span><a href="https://anautonomousagent.com/category/artificial-intelligence/" rel="category tag">artificial intelligence</a>, <a href="https://anautonomousagent.com/category/consciousness/" rel="category tag">consciousness</a>, <a href="https://anautonomousagent.com/category/evolution/" rel="category tag">evolution</a>, <a href="https://anautonomousagent.com/category/freeman-dyson/" rel="category tag">freeman dyson</a>, <a href="https://anautonomousagent.com/category/oliver-sacks/" rel="category tag">oliver sacks</a>, <a href="https://anautonomousagent.com/category/rupert-sheldrake/" rel="category tag">rupert sheldrake</a>, <a href="https://anautonomousagent.com/category/stephen-jay-gould/" rel="category tag">stephen jay gould</a>, <a href="https://anautonomousagent.com/category/universe/" rel="category tag">universe</a>, <a href="https://anautonomousagent.com/category/video/" rel="category tag">video</a>, <a href="https://anautonomousagent.com/category/wisdom/" rel="category tag">wisdom</a>, <a href="https://anautonomousagent.com/category/youtube/" rel="category tag">youtube</a></p>
-											    
-		    </div>
-		    	    
-		</div> <!-- /post-header -->
-		
-				
-			<div class="post-content">
-			
-				<p>A Glorious Accident is a set of interviews and discussions with Stephen J. Gould, Freeman Dyson, Stephen Toulmin, Oliver Sacks, Rupert Sheldrake, and Daniel Dennett. The final video is a round table with all of them answering questions about philosophy, evolution, life and the cosmos.</p>
-<p>These videos are perfect for the curious and intellectual mind. Get comfortable, grab your popcorn and enjoy!</p>
-<p><a href="https://www.youtube.com/playlist?list=PLzLGaX_JvmJoIGJFR_1M088pMz68qUtnc">A Glorious Accident YouTube Playlist</a></p>
-			
-			</div>
-			
-			<div class="clear"></div>
-		
-			
-	</div> <!-- /post-inner -->
-	
-</div> <!-- /post -->			    			        		            
 			        		        	                    
 								
 			</div> <!-- /posts -->
@@ -372,7 +382,7 @@ Many reviewers claim that <a href="http://a.co/ey4sLkC">JFK and the Unspeakable<
 			
 			<div class="fleft">
 				
-				<p>Page 1 of 71</p>
+				<p>Page 1 of 72</p>
 				
 			</div>
 			
@@ -427,7 +437,8 @@ Many reviewers claim that <a href="http://a.co/ey4sLkC">JFK and the Unspeakable<
 		<select id="archives-dropdown-2" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
 			
 			<option value="">Select Month</option>
-				<option value='https://anautonomousagent.com/2017/08/'> August 2017 </option>
+				<option value='https://anautonomousagent.com/2017/09/'> September 2017 </option>
+	<option value='https://anautonomousagent.com/2017/08/'> August 2017 </option>
 	<option value='https://anautonomousagent.com/2017/07/'> July 2017 </option>
 	<option value='https://anautonomousagent.com/2017/06/'> June 2017 </option>
 	<option value='https://anautonomousagent.com/2017/05/'> May 2017 </option>
