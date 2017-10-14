@@ -4,4 +4,4 @@ find . -type f -exec sed -i 's/agent-thebubbleindex.rhcloud.com/anautonomousagen
 find . -type f -exec sed -i 's#http://anautonomousagent#https://anautonomousagent#g' {} +
 find . -type f -exec sed -i 's#https://anautonomousagent.github.io#https://anautonomousagent.com#g' {} +
 find . -type f -exec sed -i 's#http://localhost/#https://anautonomousagent.com/#g' {} +
-find . -type f -exec sed -i 's#http://anautonomousagent.disqus.com/embed.js#https://anautonomousagent.disqus.com/embed.js#g' {} +
+find . -type f -exec sed -i "s#dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/' + 'embed' + '.js' + '?pname=wordpress&pver=2.84';#dsq.src = 'https//' + disqus_shortname + '.' + 'disqus.com' + '/' + 'embed' + '.js' + '?pname=wordpress&pver=2.84';#g" {} +
