@@ -5,3 +5,6 @@ find . -type f -exec sed -i 's#http://anautonomousagent#https://anautonomousagen
 find . -type f -exec sed -i 's#https://anautonomousagent.github.io#https://anautonomousagent.com#g' {} +
 find . -type f -exec sed -i 's#http://localhost/#https://anautonomousagent.com/#g' {} +
 find . -type f -exec sed -i "s#dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/' + 'embed' + '.js' + '?pname=wordpress&pver=2.84';#dsq.src = 'https//' + disqus_shortname + '.' + 'disqus.com' + '/' + 'embed' + '.js' + '?pname=wordpress&pver=2.84';#g" {} +
+find . -type f -exec sed -i 's#dsq.src = "http://" + window.disqus_shortname + ".disqus.com/embed.js";#dsq.src = "https://" + window.disqus_shortname + ".disqus.com/embed.js";#g' {} +
+
+
