@@ -9,24 +9,24 @@
 
 <channel>
 	<title>code &#8211; An Autonomous Agent</title>
-	<atom:link href="http://localhost/category/code/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anautonomousagent.com/category/code/feed/" rel="self" type="application/rss+xml" />
 	<link>http://localhost</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Tue, 12 Sep 2017 00:10:51 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 14 Oct 2017 03:36:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.1</generator>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>WordPress Application as Static Site Generator</title>
-		<link>http://localhost/2017/09/wordpress-appliction-as-static-site-generator/</link>
+		<link>https://anautonomousagent.com/2017/09/wordpress-appliction-as-static-site-generator/</link>
 		<pubDate>Mon, 11 Sep 2017 23:58:10 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[code]]></category>
 		<category><![CDATA[internet]]></category>
 		<category><![CDATA[website]]></category>
 
-		<guid isPermaLink="false">http://localhost/?p=1935</guid>
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=1935</guid>
 		<description><![CDATA[While there are currently nice tools which exist to generate static websites, such as Hugo or Jekyll, there is also WordPress combined with a static site generating plug-in. Thus, WordPress can be used just like Hugo and Jekyll to create a set of static files to be hosted on the web via a service like [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>While there are currently nice tools which exist to generate static websites, such as Hugo or Jekyll, there is also WordPress combined with a static site generating plug-in. Thus, WordPress can be used just like Hugo and Jekyll to create a set of static files to be hosted on the web via a service like IPFS or Github pages.</p>
 <p>I was forced to investigate this topic thanks to Openshift 3, Redhat&#8217;s new upgrade for their web application hosting platform. For the past three years this site and two others have been running on Openshift&#8217;s version 2 for basically free (around $2.00 per month for total).</p>
@@ -45,7 +45,7 @@
 			</item>
 		<item>
 		<title>Removing Bad, Hot, Dead Pixels &#8211; GIMP</title>
-		<link>http://localhost/2016/12/removing-bad-pixels-gimp/</link>
+		<link>https://anautonomousagent.com/2016/12/removing-bad-pixels-gimp/</link>
 		<pubDate>Fri, 16 Dec 2016 19:38:57 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[code]]></category>
@@ -53,17 +53,17 @@
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1682</guid>
 		<description><![CDATA[My 5MP A3550UPA Omax CCD has about 20 bad (hot or dead) pixel groups in every image. They seem to be identical through time and are noticeable on my raw images. Typically, the panoramas I create are composed of between 80 and 200 individual images that I stitch together manually. Before stitching I go through [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>My 5MP <a href="http://www.microscopenet.com/omax-50mp-high-sensitivity-digital-camera-microscope-with-reduction-lens-p-10085.html" target="_blank">A3550UPA Omax</a> CCD has about 20 bad (hot or dead) pixel groups in every image. They seem to be identical through time and are noticeable on my raw images. Typically, the panoramas I create are composed of between 80 and 200 individual images that I stitch together manually. Before stitching I go through the images with the GIMP blur tool in order to remove these bad CCD pixels. Thus, I have to blur between 1,600 and 4,000 pixel groups. A tedious task! This takes between one and two weeks to complete, depending on my free time.</p>
-<div id="attachment_1691" style="width: 310px" class="wp-caption alignnone"><a href="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-1.png"><img class="size-medium wp-image-1691" src="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-1-300x239.png" alt="Bad CCD Example" width="300" height="239" srcset="http://localhost/wp-content/uploads/2016/12/bad-ccd-1-300x239.png 300w, http://localhost/wp-content/uploads/2016/12/bad-ccd-1-768x611.png 768w, http://localhost/wp-content/uploads/2016/12/bad-ccd-1-900x716.png 900w, http://localhost/wp-content/uploads/2016/12/bad-ccd-1.png 929w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Bad CCD Example &#8211; Blue</p></div>
+<div id="attachment_1691" style="width: 310px" class="wp-caption alignnone"><a href="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-1.png"><img class="size-medium wp-image-1691" src="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-1-300x239.png" alt="Bad CCD Example" width="300" height="239" srcset="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-1-300x239.png 300w, https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-1-768x611.png 768w, https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-1-900x716.png 900w, https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-1.png 929w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Bad CCD Example &#8211; Blue</p></div>
 <p>My patience for this corrective task has run dry. Since I knew that GIMP was theoretically capable of performing such a repetitive task via a custom script, I decided to develop such a script. The final result is a tiny piece of code. Its brevity masks the hours of frustration and hopeless despair I encountered while learning <a href="http://www.scheme.com/tspl4/" target="_blank">Scheme</a> and integrating the commands into GIMP as a valid working procedure. My work has paid off. I now have a script which corrects all my bad pixels.</p>
 <p><a href="https://github.com/bigttrott/gimp/blob/master/fix-bad-ccd/script/script-fu-fix-bad-ccd-pixels.scm" target="_blank">Github &#8211; Bad CCD Fix Script</a></p>
 <p>At first I tried to develop a script based on layer masks and Gaussian blurring. The results were never what I wanted. For instance a Gaussian blur mask on only the bad pixels still contained some of the original RGB color information from the bad pixels. I then tried doing the Gaussian blur preceded by a selection remove of the bad pixels. However, this had a problem &#8211; the Gaussian blur is not fully colored in the removed bad pixel areas, i.e. transparency issues remain in the removed pixel holes. The final result had colors were not quite correct.</p>
-<div id="attachment_1693" style="width: 310px" class="wp-caption alignleft"><a href="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-5.png"><img class="size-medium wp-image-1693" src="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-5-300x229.png" alt="Gaussian Blur Without Bad Pixel" width="300" height="229" srcset="http://localhost/wp-content/uploads/2016/12/bad-ccd-5-300x229.png 300w, http://localhost/wp-content/uploads/2016/12/bad-ccd-5-768x586.png 768w, http://localhost/wp-content/uploads/2016/12/bad-ccd-5.png 845w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Gaussian Blur Without Bad Pixel</p></div>
-<div id="attachment_1692" style="width: 310px" class="wp-caption alignright"><a href="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-6.png"><img class="wp-image-1692 size-medium" src="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-6-300x129.png" alt="Isolate the Pixel" width="300" height="129" srcset="http://localhost/wp-content/uploads/2016/12/bad-ccd-6-300x129.png 300w, http://localhost/wp-content/uploads/2016/12/bad-ccd-6-768x330.png 768w, http://localhost/wp-content/uploads/2016/12/bad-ccd-6-1024x441.png 1024w, http://localhost/wp-content/uploads/2016/12/bad-ccd-6-900x387.png 900w, http://localhost/wp-content/uploads/2016/12/bad-ccd-6.png 1155w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Isolate the Pixel</p></div>
+<div id="attachment_1693" style="width: 310px" class="wp-caption alignleft"><a href="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-5.png"><img class="size-medium wp-image-1693" src="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-5-300x229.png" alt="Gaussian Blur Without Bad Pixel" width="300" height="229" srcset="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-5-300x229.png 300w, https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-5-768x586.png 768w, https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-5.png 845w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Gaussian Blur Without Bad Pixel</p></div>
+<div id="attachment_1692" style="width: 310px" class="wp-caption alignright"><a href="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-6.png"><img class="wp-image-1692 size-medium" src="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-6-300x129.png" alt="Isolate the Pixel" width="300" height="129" srcset="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-6-300x129.png 300w, https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-6-768x330.png 768w, https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-6-1024x441.png 1024w, https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-6-900x387.png 900w, https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-6.png 1155w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Isolate the Pixel</p></div>
 <p>I thought I had reached a brick wall and that I may have to do the pixel correction manually as before.</p>
 <p>After a little research I found the work of Dr. Paul Harrison, who has created an amazing GIMP Python plugin designed for complex pixel correction. You can read about this plugin and all its cool features at <a href="http://blog.patdavid.net/2012/08/getting-around-in-gimp-heal-selection.html" target="_blank">Pat David&#8217;s blog</a>.</p>
 <p>The final code flows from this discovery and the entire script is centered around the Heal Selection plugin. The script loops through a set of images and prepares them for the Heal Selection function.</p>
 <p>The selection is based off a static file containing the black points in the precise locations of the bad CCD pixels. The script takes this reference file and using the GIMP &#8220;Alpha to Selection&#8221; creates a selection based on the black points.</p>
-<div id="attachment_1695" style="width: 310px" class="wp-caption alignnone"><a href="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-2.png"><img class="size-medium wp-image-1695" src="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-2-300x254.png" alt="Black Point Example" width="300" height="254" srcset="http://localhost/wp-content/uploads/2016/12/bad-ccd-2-300x254.png 300w, http://localhost/wp-content/uploads/2016/12/bad-ccd-2-768x651.png 768w, http://localhost/wp-content/uploads/2016/12/bad-ccd-2.png 775w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Black Point Example</p></div>
+<div id="attachment_1695" style="width: 310px" class="wp-caption alignnone"><a href="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-2.png"><img class="size-medium wp-image-1695" src="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-2-300x254.png" alt="Black Point Example" width="300" height="254" srcset="https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-2-300x254.png 300w, https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-2-768x651.png 768w, https://anautonomousagent.com/wp-content/uploads/2016/12/bad-ccd-2.png 775w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Black Point Example</p></div>
 <p>The manual GIMP steps for the script are:</p>
 <ol>
 <li>Open the image</li>
@@ -80,7 +80,7 @@
 			</item>
 		<item>
 		<title>A Few Interesting Projects</title>
-		<link>http://localhost/2016/05/a-few-interesting-projects/</link>
+		<link>https://anautonomousagent.com/2016/05/a-few-interesting-projects/</link>
 		<pubDate>Wed, 04 May 2016 17:55:32 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[bitcoin]]></category>
@@ -135,7 +135,7 @@ If you have any others which are of similar scope, please let me know. Will add 
 			</item>
 		<item>
 		<title>Nerdy Method to Encode Email Address to Avoid Spam</title>
-		<link>http://localhost/2016/04/nerdy-method-to-encode-email-address-to-avoid-spam/</link>
+		<link>https://anautonomousagent.com/2016/04/nerdy-method-to-encode-email-address-to-avoid-spam/</link>
 		<pubDate>Thu, 07 Apr 2016 13:07:09 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[code]]></category>
@@ -155,7 +155,7 @@ If you have any others which are of similar scope, please let me know. Will add 
 			</item>
 		<item>
 		<title>Code: The Hidden Language of Computer Hardware and Software &#8211; Charles Petzold</title>
-		<link>http://localhost/2013/10/code-the-hidden-language-of-computer-hardware-and-software-charles-petzold/</link>
+		<link>https://anautonomousagent.com/2013/10/code-the-hidden-language-of-computer-hardware-and-software-charles-petzold/</link>
 		<pubDate>Sun, 20 Oct 2013 22:37:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[alan turing]]></category>
