@@ -13,6 +13,8 @@
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="An Autonomous Agent &raquo; Feed" href="https://anautonomousagent.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="An Autonomous Agent &raquo; Comments Feed" href="https://anautonomousagent.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="An Autonomous Agent &raquo; Updated Site Comments Feed" href="https://anautonomousagent.com/2014/01/updated-site/feed/" />
 <link rel='stylesheet' id='lovecraft_googleFonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C900%7CPlayfair+Display%3A400%2C700%2C400italic&#038;ver=4.8.2' type='text/css' media='all' />
 <link rel='stylesheet' id='lovecraft_genericons-css'  href='https://anautonomousagent.com/wp-content/themes/lovecraft/genericons/genericons.css?ver=4.8.2' type='text/css' media='all' />
 <link rel='stylesheet' id='lovecraft_style-css'  href='https://anautonomousagent.com/wp-content/themes/lovecraft/style.css?ver=4.8.2' type='text/css' media='all' />
@@ -212,7 +214,55 @@
 					
 					</div> <!-- /post-navigation -->
 										
-									
+						
+	<!-- Here we load disqus comments -->
+	<div class="dcl-disqus-thread" id="comments" >
+	<div id="disqus_thread">
+		</div>
+	</div>
+	
+		
+			<script type="text/javascript">
+	/* <![CDATA[ */
+		var disqus_url = 'https://anautonomousagent.com/2014/01/updated-site/';
+		var disqus_identifier = '122 https://anautonomousagent.com/?p=122';
+		var disqus_container_id = 'disqus_thread';
+		var disqus_domain = 'disqus.com';
+		var disqus_shortname = 'anautonomousagent';
+		var disqus_title = "Updated Site";
+		var disqus_config = function () {
+			var config = this; // Access to the config object
+			config.language = '';
+
+			/* Add the ability to add javascript callbacks */
+			
+			/*
+			   All currently supported events:
+				* preData — fires just before we request for initial data
+				* preInit - fires after we get initial data but before we load any dependencies
+				* onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+				* afterRender - fires when template is rendered but before we show it
+				* onReady - everything is done
+			 */
+
+			config.callbacks.preData.push(function() {
+				// clear out the container (its filled for SEO/legacy purposes)
+				document.getElementById(disqus_container_id).innerHTML = '';
+			});
+								};
+	/* ]]> */
+	</script>
+	
+		
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		var DsqLocal = {
+			'trackbacks': [
+				],
+			'trackback_url': "http:\/\/anautonomousagent.com\/2014\/01\/updated-site\/trackback\/"		};
+	/* ]]> */
+	</script>
+							
 				</div> <!-- /post -->
 											                        
 		   	    
@@ -978,6 +1028,55 @@ $(function() {
 </script>
 <script type='text/javascript' src='https://anautonomousagent.com/wp-content/themes/lovecraft/js/doubletaptogo.js?ver=4.8.2'></script>
 <script type='text/javascript' src='https://anautonomousagent.com/wp-content/themes/lovecraft/js/global.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://anautonomousagent.com/wp-includes/js/comment-reply.min.js?ver=4.8.2'></script>
+<script  type="text/javascript">
 
+    var disqus_shortname = "anautonomousagent";
+    if (typeof ds_loaded == "undefined") {
+        var ds_loaded = false;
+    }
+    function loadDisqus() {
+        var disqus_div = document.getElementById("disqus_thread");
+        var top = disqus_div.offsetTop;
+        var disqus_data = disqus_div.dataset;
+        if ( !ds_loaded && ( window.scrollY || window.pageYOffset ) + window.innerHeight > top ) {
+            ds_loaded = true;
+            for (var key in disqus_data) {
+                if (key.substr(0,6) == "disqus") {
+                    window["disqus_" + key.replace("disqus","").toLowerCase()] = disqus_data[key];
+								}
+                }
+                var dsq = document.createElement("script");
+                dsq.type = "text/javascript";
+                dsq.async = true;
+                dsq.src = "http://" + window.disqus_shortname + ".disqus.com/embed.js";
+                if(document.getElementById("dcl-hidden-div")) {
+                    document.getElementById("dcl-hidden-div").innerHTML = "Loading...";
+                }
+                (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(dsq);
+            }
+        }
+					var disqus_div_new = document.getElementById("disqus_thread");
+		var divExists = disqus_div_new != null;
+                if(document.body.scrollHeight < window.innerHeight){
+                    loadDisqus();
+                } else if(divExists) {
+                    window.onscroll = function() { loadDisqus(); }
+                }
+	</script><script   type='text/javascript'>
+                /* <![CDATA[ */
+                var hash = window.location.hash;
+                var disqus_shortname = 'anautonomousagent';
+                if(hash!==''){
+                    var ds_loaded = true;
+                    var dcl_loaded = 1;
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+                        dsq.async = true;
+                        dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/' + 'embed' + '.js' + '?pname=wordpress&pver=2.84';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();}
+                /* ]]> */
+            </script>
 </body>
 </html>
