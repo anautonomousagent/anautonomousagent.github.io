@@ -4,11 +4,15 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://anautonomousagent.com/</loc>
-	<lastmod>2017-12-02T02:10:05+00:00</lastmod>
+	<lastmod>2017-12-16T05:06:26+00:00</lastmod>
+</url>
+<url>
+	<loc>https://anautonomousagent.com/2017/12/dancing-wu-li-masters-zukav/</loc>
+	<lastmod>2017-12-16T05:02:32+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2017/12/endocannabinoid-system/</loc>
-	<lastmod>2017-12-02T02:07:04+00:00</lastmod>
+	<lastmod>2017-12-04T03:02:12+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2017/10/pikhal-and-tihkal/</loc>
@@ -16,7 +20,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2017/09/wordpress-appliction-as-static-site-generator/</loc>
-	<lastmod>2017-10-15T02:47:05+00:00</lastmod>
+	<lastmod>2017-12-07T02:39:04+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2017/08/the-devils-chessboard-david-talbot/</loc>
@@ -24,11 +28,11 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2017/07/debt-the-first-5000-years-david-graeber/</loc>
-	<lastmod>2017-10-15T02:47:06+00:00</lastmod>
+	<lastmod>2017-12-07T02:40:07+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2017/07/ipfs-firefox-companion/</loc>
-	<lastmod>2017-10-15T02:47:06+00:00</lastmod>
+	<lastmod>2017-12-07T02:40:31+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2017/07/free-software-foundation/</loc>
@@ -724,7 +728,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/04/ancient-computer-nova/</loc>
-	<lastmod>2017-10-15T02:51:04+00:00</lastmod>
+	<lastmod>2017-12-07T02:42:43+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/04/underset/</loc>
@@ -832,7 +836,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/02/earth-from-space-nova/</loc>
-	<lastmod>2017-10-15T02:51:24+00:00</lastmod>
+	<lastmod>2017-12-07T02:43:23+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/02/a-walk-through-time/</loc>
@@ -948,15 +952,15 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/doomsday-volcanos-nova/</loc>
-	<lastmod>2017-10-15T02:52:33+00:00</lastmod>
+	<lastmod>2017-12-07T02:44:13+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/lord-of-the-ants-nova/</loc>
-	<lastmod>2017-10-15T02:52:34+00:00</lastmod>
+	<lastmod>2017-12-07T02:44:55+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/iceman-murder-mystery-nova/</loc>
-	<lastmod>2017-10-15T02:52:34+00:00</lastmod>
+	<lastmod>2017-12-07T02:45:39+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/125-great-science-videos/</loc>
