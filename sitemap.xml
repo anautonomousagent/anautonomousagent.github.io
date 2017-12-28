@@ -4,7 +4,11 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://anautonomousagent.com/</loc>
-	<lastmod>2017-12-16T05:06:26+00:00</lastmod>
+	<lastmod>2017-12-28T22:26:12+00:00</lastmod>
+</url>
+<url>
+	<loc>https://anautonomousagent.com/2017/12/hidden-forces-interview-series/</loc>
+	<lastmod>2017-12-28T22:15:26+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2017/12/dancing-wu-li-masters-zukav/</loc>
@@ -1444,7 +1448,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/to-read/</loc>
-	<lastmod>2017-10-22T19:52:26+00:00</lastmod>
+	<lastmod>2017-12-28T22:22:11+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/miscellaneous/</loc>
