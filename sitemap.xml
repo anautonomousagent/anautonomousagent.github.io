@@ -4,15 +4,19 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://anautonomousagent.com/</loc>
-	<lastmod>2018-02-27T02:46:19+00:00</lastmod>
+	<lastmod>2018-03-15T02:05:11+00:00</lastmod>
+</url>
+<url>
+	<loc>https://anautonomousagent.com/2018/03/mastering-bitcoin-andreas-m-antonopoulos/</loc>
+	<lastmod>2018-03-15T01:57:05+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2018/02/opening-the-doors-of-perception-anthony-peake/</loc>
-	<lastmod>2018-02-27T02:39:55+00:00</lastmod>
+	<lastmod>2018-03-01T01:59:39+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2018/02/decentralized-blockchain-wireless-internet-service-provider/</loc>
-	<lastmod>2018-02-27T02:25:23+00:00</lastmod>
+	<lastmod>2018-03-01T01:59:01+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2018/01/order-out-of-chaos-ilya-prigogine-and-isabelle-stengers/</loc>
