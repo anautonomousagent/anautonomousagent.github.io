@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jeremy allaire &#8211; An Autonomous Agent</title>
+	<atom:link href="/category/jeremy-allaire/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>exploring the noosphere</description>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Digital Currency, Bitcoin and &#8220;Money-over-IP&#8221; &#8211; Jeremy Allaire and John Beccia</title>
+		<link>/2013/11/digital-currency-bitcoin-and-money-over-ip-jeremy-allaire-and-john-beccia/</link>
+		<comments>/2013/11/digital-currency-bitcoin-and-money-over-ip-jeremy-allaire-and-john-beccia/#respond</comments>
+		<pubDate>Wed, 06 Nov 2013 01:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[currency]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[information theory]]></category>
+		<category><![CDATA[jeremy allaire]]></category>
+		<category><![CDATA[john beccia]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=137</guid>
+		<description><![CDATA[I recently attended a presentation on Digital Currency, Bitcoin and &#8220;Money-over-IP&#8221; by Jeremy Allaire and John Beccia. The audience was general and the details light, but my general impression is that the future lies in digital currencies. Really amazing ideas can be spawned and generated through this new area of technology. Digital Currency, Bitcoin and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I recently attended a presentation on <i>Digital Currency, Bitcoin and &#8220;Money-over-IP&#8221;</i> by <a href="//en.wikipedia.org/wiki/Jeremy_Allaire" target="_blank">Jeremy Allaire</a> and John Beccia. The audience was general and the details light, but my general impression is that the future lies in digital currencies. Really amazing ideas can be spawned and generated through this new area of technology.</p>
+<div style="-x-system-font: none; display: block; font-family: Helvetica,Arial,Sans-serif; font-size-adjust: none; font-size: 14px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal; margin: 12px auto 6px auto;"><a href="//www.scribd.com/doc/181891153/Digital-Currency-Bitcoin-and-Money-over-ip-by-Jeremy-Allaire-and-John-Beccia" style="text-decoration: underline;" title="View Digital Currency, Bitcoin and Money-over-ip by Jeremy Allaire and John Beccia on Scribd">Digital Currency, Bitcoin and Money-over-ip by Jeremy Allaire and John Beccia</a></div>
+<p><iframe data-aspect-ratio="undefined" data-auto-height="false" frameborder="0" height="600" scrolling="no" src="//www.scribd.com/embeds/181891153/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%"></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/11/digital-currency-bitcoin-and-money-over-ip-jeremy-allaire-and-john-beccia/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

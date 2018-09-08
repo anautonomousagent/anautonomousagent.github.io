@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>otzi &#8211; An Autonomous Agent</title>
+	<atom:link href="/category/otzi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>exploring the noosphere</description>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Iceman Murder Mystery &#8211; NOVA</title>
+		<link>/2013/01/iceman-murder-mystery-nova/</link>
+		<comments>/2013/01/iceman-murder-mystery-nova/#respond</comments>
+		<pubDate>Mon, 14 Jan 2013 05:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[biology]]></category>
+		<category><![CDATA[dna]]></category>
+		<category><![CDATA[documentary]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[nova]]></category>
+		<category><![CDATA[otzi]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=289</guid>
+		<description><![CDATA[NOVA does a great job in Iceman Murder Mystery, a documentary on Otzi. Preserved in ice for 5,300 years, his body survived the test of time and provides an enormous amount of information about ancient man. I find it amazing that humans have been burying their dead for thousands of years in preparation for a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/iceman-oetzi-otzi-reconstructed-new_32525_600x4501.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2013/01/iceman-oetzi-otzi-reconstructed-new_32525_600x4501.jpg" width="253" /></a></div>
+<div style="text-align: justify;"><a href="//www.pbs.org/wgbh/nova/" target="_blank">NOVA</a> does a great job in <a href="//video.pbs.org/video/2159408847/" target="_blank"><i>Iceman Murder Mystery</i></a>, a documentary on <a href="//en.wikipedia.org/wiki/%C3%96tzi" target="_blank">Otzi</a>. Preserved in ice for 5,300 years, his body survived the test of time and provides an enormous amount of information about ancient man. I find it amazing that humans have been burying their dead for thousands of years in preparation for a future life. But Otzi achieved the greatest rebirth of any mummy. In ways he could have never dreamed of, he has been brought back to life. Watching this show on Otzi makes me want to write a novel about the events which lead up to his death. This could provide the basis for a fascinating story full of clan rivalry, intrigue,&nbsp;revenge, backstabbing, and murder.</div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;">Also watch it on YouTube&nbsp;<a href="//youtu.be/EhkG29VzJoI" target="_blank">here</a>.</div>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/iceman-murder-mystery-nova/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

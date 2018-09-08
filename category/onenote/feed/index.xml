@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>onenote &#8211; An Autonomous Agent</title>
+	<atom:link href="/category/onenote/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>exploring the noosphere</description>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Wacom Pen Tablets</title>
+		<link>/2013/01/wacom-pen-tablets/</link>
+		<comments>/2013/01/wacom-pen-tablets/#respond</comments>
+		<pubDate>Thu, 03 Jan 2013 19:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[art]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[onenote]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[wacom]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=341</guid>
+		<description><![CDATA[&#160; Wacom produces high quality pen inputs for the PC. These tablets allow users to write or draw on the computer screen with a pen. The Intuos series provides the best quality reproduction of pen to digital information. These are a favorite among artists wishing to create digital masterpieces. I purchased the Intuos 3 a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/01/Wacom_Pen-tablet1.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/01/Wacom_Pen-tablet1.jpg" width="320" height="237" border="0" /></a></div>
+<p>&nbsp;</p>
+<div style="text-align: justify;"><a href="//en.wikipedia.org/wiki/Wacom" target="_blank" rel="noopener">Wacom</a> produces high quality pen inputs for the PC. These tablets allow users to write or draw on the computer screen with a pen. The <a href="http://www.wacom.com/en-us/products/pen-tablets/intuos" target="_blank" rel="noopener">Intuos series</a> provides the best quality reproduction of pen to digital information. These are a favorite among artists wishing to create digital masterpieces. I purchased the Intuos 3 a few years ago; with it I took notes, kept a journal, and drew. <a href="//office.microsoft.com/en-us/onenote/" target="_blank" rel="noopener">Microsoft</a> OneNote goes perfectly with most pen inputs. Thanks to OneNote, all my notes from college are contained in numerous, easily organized, digital notebooks.</div>
+<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/01/IC743831.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/01/IC743831.jpg" width="320" height="310" border="0" /></a><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/01/2012-06-21-14-13418476201.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/01/2012-06-21-14-13418476201.jpg" width="320" height="211" border="0" /></a></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/wacom-pen-tablets/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

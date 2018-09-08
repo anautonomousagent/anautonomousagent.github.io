@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>blockchain &#8211; An Autonomous Agent</title>
+	<atom:link href="/category/blockchain/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>exploring the noosphere</description>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Mastering Bitcoin – Andreas M. Antonopoulos</title>
+		<link>/2018/08/mastering-bitcoin-andreas-m-antonopoulos/</link>
+		<comments>/2018/08/mastering-bitcoin-andreas-m-antonopoulos/#respond</comments>
+		<pubDate>Sun, 12 Aug 2018 03:51:56 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[andreas antonopoulos]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[internet]]></category>
+
+		<guid isPermaLink="false">/?p=2550</guid>
+		<description><![CDATA[I’ve been following Bitcoin since 2011 but sadly never researched its technical foundations. A few weeks ago I decided to dive into the subject. Mastering Bitcoin, by Andreas M. Antonopoulos, clearly explains the fundamental designs of Bitcoin. The book is well written and an excellent entry point for developers new to the subject. Many sites [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div class="post-content">
+<p>I’ve been following Bitcoin since 2011 but sadly never researched its technical foundations. A few weeks ago I decided to dive into the subject. <a href="http://a.co/4VbZiYq">Mastering Bitcoin</a>, by Andreas M. Antonopoulos, clearly explains the fundamental designs of Bitcoin. The book is well written and an excellent entry point for developers new to the subject. Many sites and people recommend this book and rightly so, because after reading it, I feel that I have a new understanding and appreciation of everything blockchain related. While it is detailed and technical — geared towards an audience familiar with programming and Internet technologies, it can be a great resource for those wanting an intellectual challenge.</p>
+<p>If you decide to purchase the book, make sure you do it on <a href="https://purse.io/shop">purse.io</a> with Bitcoin. Purse is now where I make any purchases for books or things I would have bought directly from Amazon.</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2018/08/mastering-bitcoin-andreas-m-antonopoulos/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Decentralized Blockchain Wireless Internet Service Provider</title>
+		<link>/2018/08/decentralized-blockchain-wireless-internet-service-provider/</link>
+		<comments>/2018/08/decentralized-blockchain-wireless-internet-service-provider/#respond</comments>
+		<pubDate>Sun, 12 Aug 2018 03:47:49 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[thoughts]]></category>
+
+		<guid isPermaLink="false">/?p=2546</guid>
+		<description><![CDATA[It would be greatly beneficial to human communication freedom if we all worked together to create a decentralized blockchain wireless internet provider network. I think there are already at least two projects addressing this idea: DENT and IUNGO.NETWORK. I am still reading the whitepapers for these projects. Before searching for existing projects based on this [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It would be greatly beneficial to human communication freedom if we all worked together to create a decentralized blockchain wireless internet provider network. I think there are already at least two projects addressing this idea: <a href="https://www.dentwireless.com/whitepaper">DENT</a> and <a href="https://iungo.network/">IUNGO.NETWORK</a>. I am still reading the whitepapers for these projects. Before searching for existing projects based on this idea, I imagined a decentralized blockchain where each node in the network operates a wireless access point. And the data sent and received would be computed and deducted from a users wallet. Ideally, a person would be able to purchase a given amount of coins on an exchange which could then be used to exchange for a certain amount of wireless data. There are similarities with SIA coin, etc… where the blockchain provides a decentralized service with security. The key is decentralization, anonymity, security, privacy, and freedom.</p>
+<p>There are other options, but not what I have in mind: <a href="https://www.gotenna.com/pages/mesh">goTenna</a>, <a href="https://www.opengarden.com/firechat.html">FireChat</a>, etc…</p>
+]]></content:encoded>
+			<wfw:commentRss>/2018/08/decentralized-blockchain-wireless-internet-service-provider/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A Few Interesting Projects</title>
+		<link>/2016/05/a-few-interesting-projects/</link>
+		<comments>/2016/05/a-few-interesting-projects/#respond</comments>
+		<pubDate>Wed, 04 May 2016 17:55:32 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[ipfs]]></category>
+		<category><![CDATA[thoughts]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=1540</guid>
+		<description><![CDATA[This post is aimed at people who are perhaps unaware of some new technologies and platforms. I have listed the ones I think have great potential to benefit an open society. If you have any others which are of similar scope, please let me know. Will add to these links as I continue to research. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This post is aimed at people who are perhaps unaware of some new technologies and platforms. I have listed the ones I think have great potential to benefit an open society.<br />
+If you have any others which are of similar scope, please let me know. Will add to these links as I continue to research.</p>
+<p>Update (06-12-2016):</p>
+<p><a href="http://sia.tech/" target="_blank">Sia</a> &#8211; Will someone develop a MySQL version to run a database that exists on Sia? I imagine hosting a WordPress site on IPFS, and the database for the site will be on Sia, I think that is a correct way to view the future of WordPress&#8230;?</p>
+<p><a href="https://steem.io/" target="_blank">Steem</a></p>
+<p><a href="https://github.com/ligi/IPFSDroid" target="_blank">IPFSDroid</a> &#8211; IPFS for Android, eventually I imagine it will support a full node on a cell phone!</p>
+<p>Update (05-11-2016):</p>
+<p><a href="http://akasha.world/" target="_blank">AKASHA PROJECT</a></p>
+<p>IPFS:</p>
+<p><a href="https://ipfs.io/" target="_blank">InterPlanetary File System</a> and <a href="https://ipfs.io/blog/" target="_blank">IPFS Blog</a></p>
+<p><a href="https://speakerdeck.com/jbenet/ipfs-at-dotscale" target="_blank">Juan Batiz-Benet slide deck</a></p>
+<p>Ethereum:</p>
+<p><a href="https://www.ethereum.org/" target="_blank">Ethereum</a> and <a href="https://blog.ethereum.org/" target="_blank">Ethereum Blog</a></p>
+<p><a href="https://dappsforbeginners.wordpress.com/tutorials/introduction-to-development-on-ethereum/">Developing Dapps</a></p>
+<p>Synereo:</p>
+<p><a href="http://www.synereo.com/" target="_blank">Synereo</a> and <a href="http://blog.synereo.com/" target="_blank">Synereo Blog</a></p>
+<p>Others:</p>
+<p><a href="https://anautonomousagent.com/2016/04/follow-my-vote-online-voting-platform/">Follow My Vote</a></p>
+<p>Kim Dotcom&#8217;s MegaNet (link and status pending&#8230;)</p>
+<h6>Videos:</h6>
+<p>Juan Batiz-Benet at DEVCON1:</p>
+<div class="youtube"
+     id="ewpIi1y_KDc"
+     style="width: 100%; height: 360px;">
+</div>
+<p>Ethereum for Dummies &#8211; Dr. Gavin Wood at DEVCON1:</p>
+<div class="youtube"
+     id="U_LK0t_qaPo"
+     style="width: 100%; height: 360px;">
+</div>
+<p>MegaNet Kim Dotcom on RT:</p>
+<div class="youtube"
+     id="2fVl06phBGg"
+     style="width: 100%; height: 360px;">
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2016/05/a-few-interesting-projects/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Follow My Vote &#8211; Online Voting Platform</title>
+		<link>/2016/04/follow-my-vote-online-voting-platform/</link>
+		<comments>/2016/04/follow-my-vote-online-voting-platform/#respond</comments>
+		<pubDate>Mon, 25 Apr 2016 17:13:11 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[democracy]]></category>
+		<category><![CDATA[political science]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[website]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=1536</guid>
+		<description><![CDATA[CURRENT: Donate to make this platform a powerful political tool! Kickstarter Campaign. Follow My Vote is a revolutionary new platform which utilizes blockchain technology to allow voters to vote at home and on their own time. The blockchain has enormous potential for many applications, especially voting: Another application for blockchain technology is voting. By casting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>CURRENT: Donate to make this platform a powerful political tool! <a href="https://www.kickstarter.com/projects/adamkalebernest/e2e-verifiable-blockchain-voting-software-follow-m/" target="_blank">Kickstarter Campaign</a>.</p>
+<p><a href="https://followmyvote.com/" target="_blank">Follow My Vote</a> is a revolutionary new platform which utilizes blockchain technology to allow voters to vote at home and on their own time. The blockchain has enormous potential for many applications, especially voting:</p>
+<blockquote><p>Another application for blockchain technology is voting. By casting votes as transactions, we can create a blockchain which keeps track of the tallies of the votes. This way, everyone can agree on the final count because they can count the votes themselves, and because of the blockchain audit trail, they can verify that no votes were changed or removed, and no illegitimate votes were added.</p></blockquote>
+<p>Full length demo:</p>
+<div class="youtube"
+     id="R53pDz4vp1s"
+     style="width: 100%; height: 360px;">
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2016/04/follow-my-vote-online-voting-platform/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>andreas antonopoulos &#8211; An Autonomous Agent</title>
+	<atom:link href="/category/andreas-antonopoulos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>exploring the noosphere</description>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Mastering Bitcoin – Andreas M. Antonopoulos</title>
+		<link>/2018/08/mastering-bitcoin-andreas-m-antonopoulos/</link>
+		<comments>/2018/08/mastering-bitcoin-andreas-m-antonopoulos/#respond</comments>
+		<pubDate>Sun, 12 Aug 2018 03:51:56 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[andreas antonopoulos]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[internet]]></category>
+
+		<guid isPermaLink="false">/?p=2550</guid>
+		<description><![CDATA[I’ve been following Bitcoin since 2011 but sadly never researched its technical foundations. A few weeks ago I decided to dive into the subject. Mastering Bitcoin, by Andreas M. Antonopoulos, clearly explains the fundamental designs of Bitcoin. The book is well written and an excellent entry point for developers new to the subject. Many sites [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div class="post-content">
+<p>I’ve been following Bitcoin since 2011 but sadly never researched its technical foundations. A few weeks ago I decided to dive into the subject. <a href="http://a.co/4VbZiYq">Mastering Bitcoin</a>, by Andreas M. Antonopoulos, clearly explains the fundamental designs of Bitcoin. The book is well written and an excellent entry point for developers new to the subject. Many sites and people recommend this book and rightly so, because after reading it, I feel that I have a new understanding and appreciation of everything blockchain related. While it is detailed and technical — geared towards an audience familiar with programming and Internet technologies, it can be a great resource for those wanting an intellectual challenge.</p>
+<p>If you decide to purchase the book, make sure you do it on <a href="https://purse.io/shop">purse.io</a> with Bitcoin. Purse is now where I make any purchases for books or things I would have bought directly from Amazon.</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2018/08/mastering-bitcoin-andreas-m-antonopoulos/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>daniel kahneman &#8211; An Autonomous Agent</title>
+	<atom:link href="/category/daniel-kahneman/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>exploring the noosphere</description>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Thinking, Fast and Slow &#8211; Daniel Kahneman</title>
+		<link>/2013/02/thinking-fast-and-slow-daniel-kahneman/</link>
+		<comments>/2013/02/thinking-fast-and-slow-daniel-kahneman/#respond</comments>
+		<pubDate>Thu, 07 Feb 2013 04:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[anthropology]]></category>
+		<category><![CDATA[biology]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[brain]]></category>
+		<category><![CDATA[consciousness]]></category>
+		<category><![CDATA[daniel kahneman]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[edward wilson]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=243</guid>
+		<description><![CDATA[A friend recommended that I read Thinking, Fast and Slow by Daniel Kahneman. Since the book appears to be extremely popular, I guess my curiosity is piqued and I will have to give it a read. Perhaps it develops sociobiological concepts introduced by Edward O. Wilson in On Human Nature.]]></description>
+				<content:encoded><![CDATA[<p>A friend recommended that I read <i><a href="//amzn.com/0374275637" target="_blank">Thinking, Fast and Slow</a> </i>by <a href="//en.wikipedia.org/wiki/Daniel_Kahneman" target="_blank">Daniel Kahneman</a>. Since the book appears to be extremely popular, I guess my curiosity is piqued and I will have to give it a read. Perhaps it develops sociobiological concepts introduced by <a href="//ttrott.blogspot.com/2013/01/lord-of-ants-nova.html" target="_blank">Edward O. Wilson</a> in <i><a href="//ttrott.blogspot.com/2013/01/on-human-nature-edward-o-wilson.html" target="_blank">On Human Nature</a></i>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/thinking-fast-and-slow-daniel-kahneman/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

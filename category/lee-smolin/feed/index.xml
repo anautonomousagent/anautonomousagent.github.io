@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lee smolin &#8211; An Autonomous Agent</title>
+	<atom:link href="/category/lee-smolin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>exploring the noosphere</description>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next &#8211; Lee Smolin</title>
+		<link>/2013/02/the-trouble-with-physics-the-rise-of-string-theory-the-fall-of-a-science-and-what-comes-next-lee-smolin/</link>
+		<comments>/2013/02/the-trouble-with-physics-the-rise-of-string-theory-the-fall-of-a-science-and-what-comes-next-lee-smolin/#respond</comments>
+		<pubDate>Wed, 27 Feb 2013 03:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[book]]></category>
+		<category><![CDATA[cosmos]]></category>
+		<category><![CDATA[lee smolin]]></category>
+		<category><![CDATA[physics]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[universe]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=217</guid>
+		<description><![CDATA[The reviews of The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next praise the well written work of Lee Smolin. Talking about the big ideas in physics like strings, many universes, etc. Smolin argues that physics may be pursuing theories in a &#8220;herd&#8221; like manner; the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/02/110-21.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/02/110-21.jpg" height="320" width="212" /></a></div>
+<div style="text-align: justify;">The reviews of <i><a href="//amzn.com/061891868X" target="_blank">The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next</a></i> praise the well written work of <a href="//en.wikipedia.org/wiki/Lee_Smolin" target="_blank">Lee Smolin</a>. Talking about the big ideas in physics like strings, many universes, etc. Smolin argues that physics may be pursuing theories in a &#8220;herd&#8221; like manner; the popular theories tend to get more experimental funding than other less favoured ideas. Interesting point! Many of the breakthroughs in science are not expected and come from areas where people would never expect.</div>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/the-trouble-with-physics-the-rise-of-string-theory-the-fall-of-a-science-and-what-comes-next-lee-smolin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

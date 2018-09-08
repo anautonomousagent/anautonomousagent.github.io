@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>meteorite &#8211; An Autonomous Agent</title>
+	<atom:link href="/category/meteorite/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>exploring the noosphere</description>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>NOVA &#8211; Life&#8217;s Rocky Start</title>
+		<link>/2017/04/nova-lifes-rocky-start/</link>
+		<comments>/2017/04/nova-lifes-rocky-start/#respond</comments>
+		<pubDate>Mon, 24 Apr 2017 15:01:33 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[documentary]]></category>
+		<category><![CDATA[earth]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[meteorite]]></category>
+		<category><![CDATA[nova]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=1741</guid>
+		<description><![CDATA[Life&#8217;s Rocky Start gives a decent educational account of the importance of minerals to both the formation (assuming life originated on Earth) and the progressive development of life. It is one of the few documentaries I have seen that properly shines light on the importance of meteorites to the understanding of planetary formation. The documentary [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Life&#8217;s Rocky Start</em> gives a decent educational account of the importance of minerals to both the formation (assuming life originated on Earth) and the progressive development of life. It is one of the few documentaries I have seen that properly shines light on the importance of meteorites to the understanding of planetary formation. The documentary starts by visiting Marrakesh, Morocco to show how meteorites are obtained in the infamous Northwest Africa region. I only wished it developed more on this meteorite theme.</p>
+<div class="youtube"
+     id="xyhZcEY5PCQ"
+     style="width: 100%; height: 360px;">
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2017/04/nova-lifes-rocky-start/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rocks from Space: Meteorites and Meteorite Hunters by O. Richard Norton</title>
+		<link>/2015/08/rocks-from-space-meteorites-and-meteorite-hunters-by-o-richard-norton/</link>
+		<comments>/2015/08/rocks-from-space-meteorites-and-meteorite-hunters-by-o-richard-norton/#respond</comments>
+		<pubDate>Sat, 08 Aug 2015 17:51:36 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[book]]></category>
+		<category><![CDATA[harvey nininger]]></category>
+		<category><![CDATA[meteorite]]></category>
+		<category><![CDATA[robert haag]]></category>
+		<category><![CDATA[solar system]]></category>
+		<category><![CDATA[space]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=1217</guid>
+		<description><![CDATA[Rocks from Space: Meteorites and Meteorite Hunters by O. Richard Norton provides an easy to read and informative glance at the conceptual and scientific history of meteorites. It also explains the basic ideas regarding the classification of meteorites. It is surprising to me that man&#8217;s awareness of meteorites as being &#8220;rocks from space&#8221; is relatively [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://amzn.com/0878423737" target="_blank">Rocks from Space: Meteorites and Meteorite Hunters by O. Richard Norton</a> provides an easy to read and informative glance at the conceptual and scientific history of meteorites. It also explains the basic ideas regarding the classification of meteorites.</p>
+<p>It is surprising to me that man&#8217;s awareness of meteorites as being &#8220;rocks from space&#8221; is relatively recent (early 1900&#8217;s). There have been numerous &#8220;witnessed falls&#8221; throughout written history; however, the association of these heavenly phenomena (meteors) with solid iron and rocky objects was almost non-existent. Instead they were commonly regarded as apparitions much like rainbows. This explains the existence of several English words which are all related to these objects, their atmospheric interaction and their final discovery as a rock like object &#8212; i.e., a meteoroid becomes a meteor which becomes a meteorite. The realization that meteors are formed by space rocks began the &#8220;meteorite rush.&#8221;</p>
+<p>The search for specimens was initially done by a small group of people, and in some cases a single man, <a href="https://en.wikipedia.org/wiki/Harvey_H._Nininger" target="_blank">Harvey Nininger</a>; Nininger was as American meteorite pioneer in the early/middle part of the 20th century. He raised awareness and spent his entire life devoted to meteorite hunting and study. After Nininger, <a href="https://en.wikipedia.org/wiki/Robert_A._Haag" target="_blank">Robert Haag</a> became the most widely known meteorite hunter and collector in America. Now scientific teams and other meteorite hunters all over the world are providing vast numbers of finds in the Antarctic and in various deserts spanning the globe.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/08/rocks-from-space-meteorites-and-meteorite-hunters-by-o-richard-norton/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>currency &#8211; An Autonomous Agent</title>
+	<atom:link href="/category/currency/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>exploring the noosphere</description>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Dunbar’s Law and Economic Relationships</title>
+		<link>/2018/08/dunbars-law-and-economic-relationships/</link>
+		<comments>/2018/08/dunbars-law-and-economic-relationships/#respond</comments>
+		<pubDate>Sun, 12 Aug 2018 03:55:15 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[currency]]></category>
+		<category><![CDATA[david graeber]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[networks]]></category>
+		<category><![CDATA[sociology]]></category>
+		<category><![CDATA[thoughts]]></category>
+
+		<guid isPermaLink="false">/?p=2554</guid>
+		<description><![CDATA[On page 306 of Scale, Geoffrey West discusses Dunbar’s Law and its implication for human social networks. To summarize this law: it claims that humans have multiple levels of bonding strength. At the lowest level a human will have around five connections of the strongest type of friendship and intimacy. Typically this would include some [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div class="post-content">
+<p>On page 306 of <a href="https://anautonomousagent.com/2018/04/scale-geoffrey-west/">Scale</a>, Geoffrey West discusses <a href="https://en.wikipedia.org/wiki/Dunbar%27s_number">Dunbar’s Law</a> and its implication for human social networks. To summarize this law: it claims that humans have multiple levels of bonding strength. At the lowest level a human will have around five connections of the strongest type of friendship and intimacy. Typically this would include some members of one’s family or a best friend. At the next level there are around fifteen connections that are not as strong as the first level, but are still firm. This would include close friends you might talk to on a daily or weekly basis. At the next level there are about fifty connections… and so on… The numbers of connections scales by tripling the connections at each higher level. In the book the levels are labeled as: 1) Kin, 2) Super-family 3) Clan, 4) Tribe, and 5) Strangers.</p>
+<p>When I first read this in Scale, I was immediately reminded of David Graeber’s anthropological work regarding economic relationships among humans. In his book <a href="https://anautonomousagent.com/2017/07/debt-the-first-5000-years-david-graeber/">Debt: The First 5,000 Years</a>, Graeber observes on page 99-100 that baseline communism (sharing) follows a similar structure. Thus, using the terminology from above: At the kin level Graeber notes that there is much sharing between members and the relationship is baseline communism. Thus, you can extend this and map these economic relationships with those of Dunbar’s Law: 1) Kin (~5 people) : Almost all sharing with very little debt or IOU, 2) Super-family (~15 people) : IOU with a good amount of sharing, 3) Clan (~ 50 people) : Mostly IOU and little sharing, and 4) Tribe (~150 people) : Almost entirely IOU with very little sharing. Anything outside the tribe would be exchange via a cash medium except in rare occasions, such as a child falling in front of an on-coming vehicle (a person would naturally share his strength to save the child’s life). Although I may not have followed Graeber’s observations exactly I find this train of thought to be interesting as it requires one to rethink the concept of currency, exchange, and economic relationships. Indeed, Graeber’s book challenges the entire paradigm of the historical development of currency and debt by analyzing the anthropological record.</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2018/08/dunbars-law-and-economic-relationships/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hidden Forces &#8211; Interview Series</title>
+		<link>/2017/12/hidden-forces-interview-series/</link>
+		<comments>/2017/12/hidden-forces-interview-series/#respond</comments>
+		<pubDate>Thu, 28 Dec 2017 22:13:13 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[complexity theory]]></category>
+		<category><![CDATA[consciousness]]></category>
+		<category><![CDATA[currency]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[geoffrey west]]></category>
+		<category><![CDATA[Godel]]></category>
+		<category><![CDATA[investing]]></category>
+		<category><![CDATA[ludwig wittgenstein]]></category>
+		<category><![CDATA[mathematics]]></category>
+		<category><![CDATA[ray monk]]></category>
+		<category><![CDATA[santa fe institute]]></category>
+		<category><![CDATA[self-organization]]></category>
+		<category><![CDATA[social behavior]]></category>
+		<category><![CDATA[socionomics]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">/?p=2528</guid>
+		<description><![CDATA[Hidden Forces, hosted by Demetri Kofinas is an nice set of interviews with various people on topics including: finance, complexity, mathematics, and cryptocurrencies. I struggled listening to some of the interviewees because I did not agree with their ideas or conclusions; but I guess it is good to have conflicting opinions in order to encourage [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.youtube.com/channel/UC8URhgYos5fjHqFSO4RSIEg">Hidden Forces</a>, hosted by Demetri Kofinas is an nice set of interviews with various people on topics including: finance, complexity, mathematics, and cryptocurrencies. I struggled listening to some of the interviewees because I did not agree with their ideas or conclusions; but I guess it is good to have conflicting opinions in order to encourage debate in the comments and to help review one&#8217;s own opinions and understandings. Regardless, Kofinas provides a highly accessible medium through which advanced ideas can be grasped.</p>
+<p>I first ran across Hidden Forces while listening to the <a href="https://youtu.be/NxERVnvHV4c">interview with Ray Monk</a> about philosophical mathematics. Monk&#8217;s narration on the work of Frege, Russell, Whitehead, Wittgenstein, and Gödel is excellent &#8211; by far one of the clearest and easiest to grasp. It was learning about these paradigms and paradoxes of mathematics via <a href="https://anautonomousagent.com/2012/12/godel-escher-bach-douglas-hofstadter/">Hofstadter&#8217;s famous book</a> which led me to start this website.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2017/12/hidden-forces-interview-series/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Digital Currency, Bitcoin and &#8220;Money-over-IP&#8221; &#8211; Jeremy Allaire and John Beccia</title>
+		<link>/2013/11/digital-currency-bitcoin-and-money-over-ip-jeremy-allaire-and-john-beccia/</link>
+		<comments>/2013/11/digital-currency-bitcoin-and-money-over-ip-jeremy-allaire-and-john-beccia/#respond</comments>
+		<pubDate>Wed, 06 Nov 2013 01:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[currency]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[information theory]]></category>
+		<category><![CDATA[jeremy allaire]]></category>
+		<category><![CDATA[john beccia]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=137</guid>
+		<description><![CDATA[I recently attended a presentation on Digital Currency, Bitcoin and &#8220;Money-over-IP&#8221; by Jeremy Allaire and John Beccia. The audience was general and the details light, but my general impression is that the future lies in digital currencies. Really amazing ideas can be spawned and generated through this new area of technology. Digital Currency, Bitcoin and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I recently attended a presentation on <i>Digital Currency, Bitcoin and &#8220;Money-over-IP&#8221;</i> by <a href="//en.wikipedia.org/wiki/Jeremy_Allaire" target="_blank">Jeremy Allaire</a> and John Beccia. The audience was general and the details light, but my general impression is that the future lies in digital currencies. Really amazing ideas can be spawned and generated through this new area of technology.</p>
+<div style="-x-system-font: none; display: block; font-family: Helvetica,Arial,Sans-serif; font-size-adjust: none; font-size: 14px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal; margin: 12px auto 6px auto;"><a href="//www.scribd.com/doc/181891153/Digital-Currency-Bitcoin-and-Money-over-ip-by-Jeremy-Allaire-and-John-Beccia" style="text-decoration: underline;" title="View Digital Currency, Bitcoin and Money-over-ip by Jeremy Allaire and John Beccia on Scribd">Digital Currency, Bitcoin and Money-over-ip by Jeremy Allaire and John Beccia</a></div>
+<p><iframe data-aspect-ratio="undefined" data-auto-height="false" frameborder="0" height="600" scrolling="no" src="//www.scribd.com/embeds/181891153/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%"></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/11/digital-currency-bitcoin-and-money-over-ip-jeremy-allaire-and-john-beccia/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Creation of Stocks</title>
+		<link>/2013/01/the-creation-of-stocks/</link>
+		<comments>/2013/01/the-creation-of-stocks/#respond</comments>
+		<pubDate>Thu, 03 Jan 2013 20:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[autonomous agent]]></category>
+		<category><![CDATA[Bach]]></category>
+		<category><![CDATA[currency]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[escher]]></category>
+		<category><![CDATA[Godel]]></category>
+		<category><![CDATA[investing]]></category>
+		<category><![CDATA[self-organization]]></category>
+		<category><![CDATA[stocks]]></category>
+		<category><![CDATA[strange loop]]></category>
+		<category><![CDATA[thoughts]]></category>
+		<category><![CDATA[warren buffett]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=340</guid>
+		<description><![CDATA[Warren, Ben, David, and Taylor are four friends who meet on weekends to discuss various ideas and have a good time. They are together one night and begin discussing a business venture. Warren: I know a great idea! Ben: Sure, tell us another one of your &#8220;great&#8221; ideas. I hope this one is better than [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Warren, Ben, David, and Taylor are four friends who meet on weekends to discuss various ideas and have a good time. They are together one night and begin discussing a business venture.</p>
+<p>Warren: I know a great idea! </p>
+<p>Ben: Sure, tell us another one of your &#8220;great&#8221; ideas. I hope this one is better than that silly farming device.</p>
+<p>David: Alright, let Warren indulge us.</p>
+<p>Warren: Ok&#8230; so, what if we printed pieces of paper and told people that they were worth the value of a certain company?</p>
+<p>Taylor: Is that your idea? Hahahaha, what could that possibly achieve? I am leaving.</p>
+<p>Warren: No, wait! Just think about it. If we printed a fixed number of these papers and said that the sum of the them are worth the value of the company, then we could sell them for that value to people.</p>
+<p>Ben: Yes, but what fool would fall for such an obvious scam.</p>
+<p>Taylor: What value? How can pieces of paper be worth more than paper? How can we claim that they are worth the value of a certain company?</p>
+<p>David: You know, I think Warren has a point. All we have to do is sound reputable and create a way for these pieces of paper to be traded.</p>
+<p>Warren: See! David is following me!</p>
+<p>David: If this were a scam, we would just sell the papers and run off with the money.</p>
+<p>Ben: But isn&#8217;t that your plan?</p>
+<p>Warren: Hmm&#8230; True. But in this case, the people are able to trade with each other to get their money back and possibly a profit.</p>
+<p>Ben: In fact the potential for a profit would be the only reason for buying these pieces of paper.</p>
+<p>Taylor: Hahahah, so this is a giant Ponzi Scheme?</p>
+<p>David: Yes, it does seem so, now that you mention it.</p>
+<p>Warren: No, there is a difference. We will simply be selling pieces of paper. The &#8220;Ponzi Scheme&#8221; that Taylor mentioned would be caused by the infinite self-repeating pattern of people buying the paper from each other and then selling it to other people for a return.</p>
+<p>David: That is a very strange concept. Kinda like a strange loop.</p>
+<p>Ben: Ok, but wouldn&#8217;t each person value the pieces of paper differently, based on their opinion on the value of the company?</p>
+<p>Taylor: Yes, person Expensive may be willing to pay ten the piece of paper; while person Cheap may only pay ten for the same piece of paper.</p>
+<p>David: Then this is idea is doomed. It will never work.</p>
+<p>Ben: Too much chaos! </p>
+<p>Warren: No! Someone, perhaps seeing an opportunity to profit will establish a definite lower bound to the value of the piece of paper. Let&#8217;s say that lower bound is ten; i.e., there is a person who believes that he can buy a piece of paper for ten and, at a later date, sell it to people for more than ten.</p>
+<p>David: Ok. I follow.</p>
+<p>Warren: Then, someone else, seeing that there is a potential to make money, will offer 12 for the piece of paper.</p>
+<p>Ben: AHH! Yes, a price will dynamically form based on the interactions of all these people.</p>
+<p>Taylor: And then?!?!</p>
+<p>Warren: Well, then we have a way to sell these pieces of paper for more than the value of paper?</p>
+<p>Ben: Yes, precisely.</p>
+<p>David: So, by simply saying we have pieces of paper which represent the value of a company we have made a handsome profit?</p>
+<p>Warren: Exactly! </p>
+<p>Ben: And, in the process we have discovered a way to find the value of a company!</p>
+<p>Taylor: Wow! I must say Warren, this is a brilliant idea!</p>
+<p>David: What will we do will all this money?</p>
+<p>Warren: I think I will buy some of these pieces of paper.</p>
+<p>Ben: Me too! And make even more money!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/the-creation-of-stocks/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bitcoin</title>
+		<link>/2013/01/bitcoin/</link>
+		<comments>/2013/01/bitcoin/#respond</comments>
+		<pubDate>Thu, 03 Jan 2013 18:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[currency]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[tor]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=344</guid>
+		<description><![CDATA[Bitcoin is the largest alternative digital currency. Unique and brilliant idea. Check it out here for more information.]]></description>
+				<content:encoded><![CDATA[<div style="text-align: justify;"><a href="https://bitcoin.org/img/opengraph.png" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="https://bitcoin.org/img/opengraph.png" width="320" /></a><span style="font-size: large;"><span style="font-weight: normal;"><span style="font-family: inherit;"><a href="//bitcoin.org/" target="_blank">Bitcoin</a> is the <span style="font-family: inherit;">largest<span style="font-family: inherit;"> altern</span>ative digital currency. Unique and brilliant idea. Check it out <a href="//en.wikipedia.org/wiki/Bitcoin" target="_blank">here</a> for more information.</span></span></span></span></div>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/bitcoin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MMT- Modern Monetary Theory</title>
+		<link>/2013/01/mmt-modern-monetary-theory/</link>
+		<comments>/2013/01/mmt-modern-monetary-theory/#respond</comments>
+		<pubDate>Tue, 01 Jan 2013 18:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[banks]]></category>
+		<category><![CDATA[cullen roche]]></category>
+		<category><![CDATA[currency]]></category>
+		<category><![CDATA[debt]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[mmt]]></category>
+		<category><![CDATA[modern monetary theory]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=399</guid>
+		<description><![CDATA[I first learned about MMT or Modern Monetary Theory after reading an article by Cullen Roche. The article contains a link to a detailed description of MMT. The ideas presented in these articles provide a different perspective on capitalism and the economics of federal governments. Found this visual model of MMT from this webpage &#160;]]></description>
+				<content:encoded><![CDATA[<p>I first learned about MMT or Modern Monetary Theory after reading an <a href="//seekingalpha.com/article/317527-the-burden-we-leave-our-grandchildren" target="_blank" rel="noopener">article</a> by <a href="//seekingalpha.com/author/cullen-roche">Cullen Roche</a>. The article contains a <a href="//pragcap.com/understanding-modern-monetary-system" target="_blank" rel="noopener">link</a> to a detailed description of MMT. The ideas presented in these articles provide a different perspective on capitalism and the economics of federal governments.</p>
+<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="text-align: center;"><a style="margin-left: auto; margin-right: auto;" href="//anautonomousagent.com/wp-content/uploads/2013/01/flowoffunds.png"><img src="//anautonomousagent.com/wp-content/uploads/2013/01/flowoffunds.png" width="640" height="512" border="0" /></a></td>
+</tr>
+<tr>
+<td style="text-align: start;"><span style="font-size: small;">Found this visual model of MMT from <a href="http://shmookey.net/blog/2012/01/the-flow-of-funds/" target="_blank" rel="noopener">this webpage</a></span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/mmt-modern-monetary-theory/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

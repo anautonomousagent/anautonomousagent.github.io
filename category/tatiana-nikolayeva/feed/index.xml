@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tatiana Nikolayeva &#8211; An Autonomous Agent</title>
+	<atom:link href="/category/tatiana-nikolayeva/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>exploring the noosphere</description>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Godel, Escher, Bach &#8211; Douglas Hofstadter</title>
+		<link>/2012/12/godel-escher-bach-douglas-hofstadter/</link>
+		<comments>/2012/12/godel-escher-bach-douglas-hofstadter/#respond</comments>
+		<pubDate>Sun, 30 Dec 2012 03:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[art]]></category>
+		<category><![CDATA[Bach]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[consciousness]]></category>
+		<category><![CDATA[Douglas Hofstadter]]></category>
+		<category><![CDATA[escher]]></category>
+		<category><![CDATA[Godel]]></category>
+		<category><![CDATA[math]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[strange loop]]></category>
+		<category><![CDATA[Tatiana Nikolayeva]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=424</guid>
+		<description><![CDATA[In early November I ran across a book called Godel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter.  I began reading that book recently. Every page seems to be a remarkable insight into the universe. Highly recommended as one of the best books I have ever opened. Check out the following music by Bach: Musical [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In early November I ran across a book called <i><a href="//amzn.com/0465026567" target="_blank" rel="noopener">Godel, Escher, Bach: An Eternal Golden Braid</a> </i>by <a href="//en.wikipedia.org/wiki/Douglas_Hofstadter" target="_blank" rel="noopener">Douglas Hofstadter</a>.  I began reading that book recently. Every page seems to be a remarkable insight into the universe. Highly recommended as one of the best books I have ever opened. Check out the following music by Bach: <a href="//youtu.be/5-o5lkoI6vE" target="_blank" rel="noopener">Musical Offering</a>, <a href="//youtu.be/A41CITk85jk" target="_blank" rel="noopener">Never-ending Canon</a>, <a href="//youtu.be/Lrb0dHKJBR4" target="_blank" rel="noopener">Die Kunst Der Fuge (The Art of Fugue)</a>, and <a href="//youtu.be/BgFxMnQcLm4" target="_blank" rel="noopener">Kleines harmonisches labyrinth (Little Harmonic Labyrinth)</a>. To complement the book, I purchased the <a href="//amzn.com/B000002ZS9" target="_blank" rel="noopener">The Art of Fugue</a> by Bach and Tatiana Nikolayeva. The book explains the concept of <a href="//en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" target="_blank" rel="noopener">Godel&#8217;s Incompleteness Theorems</a> and their relationship to cognition. (ISBN-13: 978-0465026562)<br />
+Also, check out the work of M.C. Escher: <a href="http://www.mcescher.com/gallery/" target="_blank" rel="noopener">Gallery</a><br />
+My Favorites:</p>
+<div style="text-align: center;">Convex and Concave</div>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2012/12/convex-and-concave.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2012/12/convex-and-concave.jpg" width="320" height="265" border="0" /></a></div>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: center;">The Waterfall</div>
+<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2012/12/mc_escher_origional-waterfall.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2012/12/mc_escher_origional-waterfall.jpg" width="320" height="318" border="0" /></a></div>
+]]></content:encoded>
+			<wfw:commentRss>/2012/12/godel-escher-bach-douglas-hofstadter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
