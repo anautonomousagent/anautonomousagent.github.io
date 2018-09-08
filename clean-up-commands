@@ -7,7 +7,6 @@ find . -type f -exec sed -i 's#http://anautonomousagent#https://anautonomousagen
 find . -type f -exec sed -i 's#https://anautonomousagent.github.io#https://anautonomousagent.com#g' {} +
 find . -type f -exec sed -i 's#https://anautonomousagent.com.vn#https://anautonomousagent.com#g' {} +
 find . -type f -exec sed -i 's#http://anautonomousagent.com.vn#https://anautonomousagent.com#g' {} +
-find . -type f -exec sed -i 's#solaranamnesis.com#anautonomousagent.com#g' {} +
 find . -type f -exec sed -i 's#http://localhost/#https://anautonomousagent.com/#g' {} +
 find . -type f -exec sed -i "s#dsq.src = '//'#dsq.src = 'https://'#g" {} +
 find . -type f -exec sed -i 's#dsq.src = "http://" + window.disqus_shortname + ".disqus.com/embed.js";#dsq.src = "https://" + window.disqus_shortname + ".disqus.com/embed.js";#g' {} +
