@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>david graeber &#8211; An Autonomous Agent</title>
+	<atom:link href="https://anautonomousagent.com/category/david-graeber/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anautonomousagent.com</link>
+	<description>exploring the noosphere</description>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Dunbar’s Law and Economic Relationships</title>
+		<link>https://anautonomousagent.com/2018/08/dunbars-law-and-economic-relationships/</link>
+		<comments>https://anautonomousagent.com/2018/08/dunbars-law-and-economic-relationships/#respond</comments>
+		<pubDate>Sun, 12 Aug 2018 03:55:15 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[currency]]></category>
+		<category><![CDATA[david graeber]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[networks]]></category>
+		<category><![CDATA[sociology]]></category>
+		<category><![CDATA[thoughts]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/</guid>
+		<description><![CDATA[On page 306 of Scale, Geoffrey West discusses Dunbar’s Law and its implication for human social networks. To summarize this law: it claims that humans have multiple levels of bonding strength. At the lowest level a human will have around five connections of the strongest type of friendship and intimacy. Typically this would include some [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div class="post-content">
+<p>On page 306 of <a href="https://anautonomousagent.com/2018/04/scale-geoffrey-west/">Scale</a>, Geoffrey West discusses <a href="https://en.wikipedia.org/wiki/Dunbar%27s_number">Dunbar’s Law</a> and its implication for human social networks. To summarize this law: it claims that humans have multiple levels of bonding strength. At the lowest level a human will have around five connections of the strongest type of friendship and intimacy. Typically this would include some members of one’s family or a best friend. At the next level there are around fifteen connections that are not as strong as the first level, but are still firm. This would include close friends you might talk to on a daily or weekly basis. At the next level there are about fifty connections… and so on… The numbers of connections scales by tripling the connections at each higher level. In the book the levels are labeled as: 1) Kin, 2) Super-family 3) Clan, 4) Tribe, and 5) Strangers.</p>
+<p>When I first read this in Scale, I was immediately reminded of David Graeber’s anthropological work regarding economic relationships among humans. In his book <a href="https://anautonomousagent.com/2017/07/debt-the-first-5000-years-david-graeber/">Debt: The First 5,000 Years</a>, Graeber observes on page 99-100 that baseline communism (sharing) follows a similar structure. Thus, using the terminology from above: At the kin level Graeber notes that there is much sharing between members and the relationship is baseline communism. Thus, you can extend this and map these economic relationships with those of Dunbar’s Law: 1) Kin (~5 people) : Almost all sharing with very little debt or IOU, 2) Super-family (~15 people) : IOU with a good amount of sharing, 3) Clan (~ 50 people) : Mostly IOU and little sharing, and 4) Tribe (~150 people) : Almost entirely IOU with very little sharing. Anything outside the tribe would be exchange via a cash medium except in rare occasions, such as a child falling in front of an on-coming vehicle (a person would naturally share his strength to save the child’s life). Although I may not have followed Graeber’s observations exactly I find this train of thought to be interesting as it requires one to rethink the concept of currency, exchange, and economic relationships. Indeed, Graeber’s book challenges the entire paradigm of the historical development of currency and debt by analyzing the anthropological record.</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>https://anautonomousagent.com/2018/08/dunbars-law-and-economic-relationships/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Debt: The First 5,000 Years &#8211; David Graeber</title>
+		<link>https://anautonomousagent.com/2017/07/debt-the-first-5000-years-david-graeber/</link>
+		<comments>https://anautonomousagent.com/2017/07/debt-the-first-5000-years-david-graeber/#respond</comments>
+		<pubDate>Sat, 29 Jul 2017 13:49:59 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[book]]></category>
+		<category><![CDATA[david graeber]]></category>
+		<category><![CDATA[debt]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[finance]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=1896</guid>
+		<description><![CDATA[Debt: The First 5,000 Years, by David Graeber, is a fascinating and astounding look at the ubiquity of debt in human affairs. It replaces many &#8220;accepted&#8221; theories on the origins of money and debt and disproves the Myth of Barter by studying the anthropological record. From my own experience, economic theories and models are almost [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years">Debt: The First 5,000 Years</a>, by David Graeber, is a fascinating and astounding look at the ubiquity of debt in human affairs. It replaces many &#8220;accepted&#8221; theories on the origins of money and debt and disproves the Myth of Barter by studying the anthropological record. From my own experience, economic theories and models are almost never based on actual historical observations, only upon assumptions about human behavior and interaction that I personally find naive. Just look at the Efficient Market Hypothesis or the idea that humans are rational decision makers &#8212; these ideas or their assumptions quickly fall apart with a simple analysis. For instance, as Chomsky points out, the advertising industry exists to create irrational decisions. People can lie and manipulate; they can be greedy or ascetic. It is nice to finally have a down-to-Earth study of actual historical accounts of human interactions without forcing the current paradigm on the past. Graeber&#8217;s book provides a wake-up call for people to see a more realistic view of the interactions of humans, debt, markets, government and money.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://anautonomousagent.com/2017/07/debt-the-first-5000-years-david-graeber/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

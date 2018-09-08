@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vaporizor &#8211; An Autonomous Agent</title>
+	<atom:link href="https://anautonomousagent.com/category/vaporizor/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anautonomousagent.com</link>
+	<description>exploring the noosphere</description>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Volcano Vaporizer</title>
+		<link>https://anautonomousagent.com/2013/01/volcano-vaporizer/</link>
+		<comments>https://anautonomousagent.com/2013/01/volcano-vaporizer/#respond</comments>
+		<pubDate>Thu, 03 Jan 2013 18:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[germany]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[hemp]]></category>
+		<category><![CDATA[peace]]></category>
+		<category><![CDATA[vaporizor]]></category>
+		<category><![CDATA[volcano]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">https://anautonomousagent.com/?p=343</guid>
+		<description><![CDATA[Created by the German company Storz and Bickel, the Volcano Vaporizer is the best on the market.  Highly recommend for anyone wishing to aromatically flavour their food.]]></description>
+				<content:encoded><![CDATA[<div style="text-align: justify;">
+<div style="clear: both; text-align: center;"><a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="//anautonomousagent.com/contents/data/2013/01/volcanoclassicfront3501.jpg"><img src="//anautonomousagent.com/contents/data/2013/01/volcanoclassicfront3501.jpg" width="302" height="320" border="0" /></a></div>
+<p>Created by the German company Storz and Bickel, the <a href="https://www.storz-bickel.com/us/en/volcano/" target="_blank" rel="noopener">Volcano Vaporizer</a> is the best on the market.  Highly recommend for anyone wishing to aromatically flavour their food.</div>
+]]></content:encoded>
+			<wfw:commentRss>https://anautonomousagent.com/2013/01/volcano-vaporizer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

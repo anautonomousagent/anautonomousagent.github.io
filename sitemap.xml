@@ -4,27 +4,31 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://anautonomousagent.com/</loc>
-	<lastmod>2018-04-07T02:16:52+00:00</lastmod>
+	<lastmod>2018-09-08T19:02:03+00:00</lastmod>
 </url>
 <url>
-	<loc>https://anautonomousagent.com/2018/04/dunbars-law-and-economic-relationships/</loc>
-	<lastmod>2018-04-07T02:05:57+00:00</lastmod>
+	<loc>https://anautonomousagent.com/2018/09/daniel-sheehan/</loc>
+	<lastmod>2018-09-08T18:47:40+00:00</lastmod>
 </url>
 <url>
-	<loc>https://anautonomousagent.com/2018/04/scale-geoffrey-west/</loc>
-	<lastmod>2018-04-07T01:17:18+00:00</lastmod>
+	<loc>https://anautonomousagent.com/2018/08/dunbars-law-and-economic-relationships/</loc>
+	<lastmod>2018-08-12T03:55:15+00:00</lastmod>
 </url>
 <url>
-	<loc>https://anautonomousagent.com/2018/03/mastering-bitcoin-andreas-m-antonopoulos/</loc>
-	<lastmod>2018-03-15T02:06:38+00:00</lastmod>
+	<loc>https://anautonomousagent.com/2018/08/scale-geoffrey-west/</loc>
+	<lastmod>2018-08-12T03:54:09+00:00</lastmod>
 </url>
 <url>
-	<loc>https://anautonomousagent.com/2018/02/opening-the-doors-of-perception-anthony-peake/</loc>
-	<lastmod>2018-03-01T01:59:39+00:00</lastmod>
+	<loc>https://anautonomousagent.com/2018/08/mastering-bitcoin-andreas-m-antonopoulos/</loc>
+	<lastmod>2018-08-12T03:51:56+00:00</lastmod>
 </url>
 <url>
-	<loc>https://anautonomousagent.com/2018/02/decentralized-blockchain-wireless-internet-service-provider/</loc>
-	<lastmod>2018-03-01T01:59:01+00:00</lastmod>
+	<loc>https://anautonomousagent.com/2018/08/opening-the-doors-of-perception-anthony-peake/</loc>
+	<lastmod>2018-08-12T03:49:39+00:00</lastmod>
+</url>
+<url>
+	<loc>https://anautonomousagent.com/2018/08/decentralized-blockchain-wireless-internet-service-provider/</loc>
+	<lastmod>2018-08-12T03:47:49+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2018/01/order-out-of-chaos-ilya-prigogine-and-isabelle-stengers/</loc>
@@ -108,7 +112,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2016/12/removing-bad-pixels-gimp/</loc>
-	<lastmod>2018-02-10T23:51:13+00:00</lastmod>
+	<lastmod>2017-10-15T02:47:11+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2016/12/the-coming-war-on-china-john-pilger/</loc>
@@ -616,7 +620,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2014/01/socionomics-the-science-of-history-and-social-prediction-robert-r-prechter-jr/</loc>
-	<lastmod>2018-02-10T22:48:56+00:00</lastmod>
+	<lastmod>2017-10-15T02:50:41+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2014/01/updated-site/</loc>
@@ -632,7 +636,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/11/an-interesting-model-of-asset-price-behavior-using-a-tri-valued-matrix-of-states/</loc>
-	<lastmod>2018-02-10T22:50:56+00:00</lastmod>
+	<lastmod>2017-10-15T02:50:43+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/11/simulated-stock-price-data-ising-type-model/</loc>
@@ -648,7 +652,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/11/countdown-our-last-best-hope-for-a-future-on-earth-alan-weisman/</loc>
-	<lastmod>2018-02-10T22:52:44+00:00</lastmod>
+	<lastmod>2017-10-15T02:50:45+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/11/brainstorming-ways-to-protect-the-earths-ecosystem-to-be-continued/</loc>
@@ -668,7 +672,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/10/thoughts-based-on-the-essays-of-stephen-jay-gould/</loc>
-	<lastmod>2018-02-10T22:55:20+00:00</lastmod>
+	<lastmod>2017-10-15T02:50:48+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/10/code-the-hidden-language-of-computer-hardware-and-software-charles-petzold/</loc>
@@ -696,7 +700,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/07/genome-the-autobiography-of-a-species-in-23-chapters-matt-ridley/</loc>
-	<lastmod>2018-02-10T22:56:43+00:00</lastmod>
+	<lastmod>2017-10-15T02:50:52+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/06/youtube-channel-waronyourmind/</loc>
@@ -736,7 +740,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/05/new-blog-lppl-market-watch/</loc>
-	<lastmod>2018-02-10T23:36:53+00:00</lastmod>
+	<lastmod>2017-10-15T02:50:59+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/05/the-big-picture-barry-ritholtz/</loc>
@@ -752,7 +756,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/05/log-periodic-power-law-oscillations-lppl-to-predict-market-crashes/</loc>
-	<lastmod>2018-02-10T22:58:31+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:03+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/04/ancient-computer-nova/</loc>
@@ -764,19 +768,19 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/04/thoughts-about-thoughts/</loc>
-	<lastmod>2018-02-10T22:59:32+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:06+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/04/geoffrey-west-question-and-response/</loc>
-	<lastmod>2018-02-10T22:47:34+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:06+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/03/jason-silva-videos/</loc>
-	<lastmod>2018-02-10T23:01:19+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:07+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/03/cambridge-nights/</loc>
-	<lastmod>2018-02-10T23:02:11+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:08+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/03/bonobo/</loc>
@@ -784,7 +788,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/03/geoffrey-west-videos/</loc>
-	<lastmod>2018-02-10T23:03:34+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:09+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/03/overview-and-continuum-trailer/</loc>
@@ -800,11 +804,11 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/03/after-capitalism-david-schweickart/</loc>
-	<lastmod>2018-02-10T23:04:56+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:12+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/03/energy-stardust-consciousness/</loc>
-	<lastmod>2018-02-10T23:05:42+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:13+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/03/home-2009/</loc>
@@ -840,7 +844,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/02/human-collective-intelligence/</loc>
-	<lastmod>2018-02-10T23:06:30+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:18+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/02/qatsi-trilogy/</loc>
@@ -872,11 +876,11 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/02/inherited-consciousness/</loc>
-	<lastmod>2018-02-10T23:08:26+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:25+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/02/complex-system-vs-stochastic-models-of-market-returns/</loc>
-	<lastmod>2018-02-10T23:10:58+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:25+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/02/chromatics/</loc>
@@ -896,7 +900,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/02/thinking-fast-and-slow-daniel-kahneman/</loc>
-	<lastmod>2018-02-10T23:12:44+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:28+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/02/soil-manufacturing/</loc>
@@ -912,7 +916,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/02/didier-sornette-predicting-risk/</loc>
-	<lastmod>2018-02-10T23:14:59+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:31+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/02/red-hot-chili-peppers-funky-monks-documentary/</loc>
@@ -928,7 +932,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/a-simple-strategy-to-earn-good-returns/</loc>
-	<lastmod>2018-02-10T23:16:25+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:33+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/northern-exposure-i-ii-iii-dj-sasha-and-john-digweed/</loc>
@@ -944,23 +948,23 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/the-blind-watchmaker-why-the-evidence-of-evolution-reveals-a-universe-without-design-richard-dawkins/</loc>
-	<lastmod>2018-02-10T23:17:23+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:35+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/the-selfish-gene-richard-dawkins/</loc>
-	<lastmod>2018-02-10T23:18:14+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:36+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/the-music-of-the-primes-searching-to-solve-the-greatest-mystery-in-mathematics-marcus-du-sautoy/</loc>
-	<lastmod>2018-02-10T23:19:00+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:36+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/an-idea-for-a-short-story/</loc>
-	<lastmod>2018-02-10T23:19:43+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:37+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/7-lectures-on-physics-richard-feynman/</loc>
-	<lastmod>2018-02-10T23:20:28+00:00</lastmod>
+	<lastmod>2017-10-15T02:51:37+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/oliver-schories/</loc>
@@ -996,7 +1000,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/the-future-materials-of-earths-life-forms/</loc>
-	<lastmod>2018-02-10T23:21:18+00:00</lastmod>
+	<lastmod>2017-10-15T02:52:35+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/worakls/</loc>
@@ -1016,11 +1020,11 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/avaxhome-download-site/</loc>
-	<lastmod>2018-02-10T23:22:11+00:00</lastmod>
+	<lastmod>2017-10-15T02:52:37+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/v-sag/</loc>
-	<lastmod>2018-02-10T23:23:18+00:00</lastmod>
+	<lastmod>2017-10-15T02:52:38+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/wonders-of-the-universe-2011-brian-cox/</loc>
@@ -1040,11 +1044,11 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/can-a-stock-market-crash-be-avoided-can-the-collapse-of-society-be-avoided/</loc>
-	<lastmod>2018-02-10T23:24:52+00:00</lastmod>
+	<lastmod>2017-10-15T02:52:42+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/natural-resource-depletion-solution-algae-oil-and-water-cavitation/</loc>
-	<lastmod>2018-02-10T23:26:35+00:00</lastmod>
+	<lastmod>2017-10-15T02:52:42+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/small-stuff/</loc>
@@ -1080,7 +1084,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/interesting-books-on-human-consciousness-and-the-history-of-consciousness/</loc>
-	<lastmod>2018-02-10T23:27:56+00:00</lastmod>
+	<lastmod>2017-10-15T02:52:47+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/youtube-channel-d1gitalsound/</loc>
@@ -1100,7 +1104,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/an-organization-which-creates-a-market-for-clean-air/</loc>
-	<lastmod>2018-02-10T23:29:24+00:00</lastmod>
+	<lastmod>2017-10-15T02:52:51+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/melanie-mitchell-exploring-complexity/</loc>
@@ -1152,7 +1156,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/audiophile-headphones/</loc>
-	<lastmod>2018-02-10T23:30:08+00:00</lastmod>
+	<lastmod>2017-10-15T02:52:59+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/volcano-vaporizer/</loc>
@@ -1288,7 +1292,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/security-analysis-benjamin-graham-and-david-dodd/</loc>
-	<lastmod>2018-02-10T23:30:53+00:00</lastmod>
+	<lastmod>2017-10-15T02:53:22+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2013/01/the-intelligent-investor-benjamin-graham/</loc>
@@ -1376,7 +1380,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2012/12/investigations-stuart-kauffman/</loc>
-	<lastmod>2018-02-10T23:31:45+00:00</lastmod>
+	<lastmod>2017-10-15T02:55:14+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2012/12/flight-facilities/</loc>
@@ -1412,7 +1416,7 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2012/12/mit-opencourseware-physics-walter-lewin/</loc>
-	<lastmod>2018-02-10T23:32:31+00:00</lastmod>
+	<lastmod>2017-10-15T02:55:19+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2012/12/into-the-universe-with-steven-hawking/</loc>
@@ -1440,11 +1444,11 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2012/12/boinc/</loc>
-	<lastmod>2018-02-10T23:33:17+00:00</lastmod>
+	<lastmod>2017-10-15T02:55:25+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2012/12/tree-of-knowledge-maturana-and-varela/</loc>
-	<lastmod>2018-02-10T23:34:03+00:00</lastmod>
+	<lastmod>2017-10-15T02:55:26+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2012/12/youtube-channel-mojiitos-eargasm/</loc>
@@ -1456,11 +1460,11 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2012/12/phase-transitions-and-signs-of-life-ricard-sole/</loc>
-	<lastmod>2018-02-10T23:36:15+00:00</lastmod>
+	<lastmod>2017-10-15T02:55:27+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2012/12/godel-escher-bach-douglas-hofstadter/</loc>
-	<lastmod>2018-02-10T23:34:56+00:00</lastmod>
+	<lastmod>2017-10-15T02:55:28+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2012/12/headphone-amp/</loc>
@@ -1472,22 +1476,22 @@
 </url>
 <url>
 	<loc>https://anautonomousagent.com/to-read/</loc>
-	<lastmod>2018-04-07T02:11:59+00:00</lastmod>
+	<lastmod>2017-12-28T22:22:11+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/miscellaneous/</loc>
-	<lastmod>2018-02-10T22:39:16+00:00</lastmod>
+	<lastmod>2017-06-30T17:01:16+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/videos/</loc>
-	<lastmod>2018-02-10T22:42:53+00:00</lastmod>
+	<lastmod>2017-06-30T13:52:26+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/thoughts/</loc>
-	<lastmod>2018-02-10T22:40:20+00:00</lastmod>
+	<lastmod>2017-06-29T20:08:27+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/books/</loc>
-	<lastmod>2018-02-10T22:37:03+00:00</lastmod>
+	<lastmod>2017-10-22T19:51:15+00:00</lastmod>
 </url>
 </urlset>
