@@ -1,14 +1,14 @@
-find . -type f -exec sed -i 's///g' {} +
-find . -type f -exec sed -i 's///g' {} +
-find . -type f -exec sed -i 's///g' {} +
-find . -type f -exec sed -i 's///g' {} +
-find . -type f -exec sed -i 's/anautonomousagent.com/anautonomousagent.com/g' {} +
-find . -type f -exec sed -i 's#https://anautonomousagent#https://anautonomousagent#g' {} +
-find . -type f -exec sed -i 's#https://anautonomousagent.com#https://anautonomousagent.com#g' {} +
-find . -type f -exec sed -i 's#https://anautonomousagent.com#https://anautonomousagent.com#g' {} +
-find . -type f -exec sed -i 's#https://anautonomousagent.com#https://anautonomousagent.com#g' {} +
-find . -type f -exec sed -i 's#https://anautonomousagent.com/#https://anautonomousagent.com/#g' {} +
-find . -type f -exec sed -i "s#dsq.src = 'https://'#dsq.src = 'https://'#g" {} +
-find . -type f -exec sed -i 's#dsq.src = "https://" + window.disqus_shortname + ".disqus.com/embed.js";#dsq.src = "https://" + window.disqus_shortname + ".disqus.com/embed.js";#g' {} +
+find . -type f -exec sed -i 's/?ver=1.12.4//g' {} +
+find . -type f -exec sed -i 's/?ver=4.8.1//g' {} +
+find . -type f -exec sed -i 's/?ver=4.9.1//g' {} +
+find . -type f -exec sed -i 's/?ver=4.9.2//g' {} +
+find . -type f -exec sed -i 's/agent-thebubbleindex.rhcloud.com/anautonomousagent.com/g' {} +
+find . -type f -exec sed -i 's#http://anautonomousagent#https://anautonomousagent#g' {} +
+find . -type f -exec sed -i 's#https://anautonomousagent.github.io#https://anautonomousagent.com#g' {} +
+find . -type f -exec sed -i 's#https://anautonomousagent.com.vn#https://anautonomousagent.com#g' {} +
+find . -type f -exec sed -i 's#http://anautonomousagent.com.vn#https://anautonomousagent.com#g' {} +
+find . -type f -exec sed -i 's#http://localhost/#https://anautonomousagent.com/#g' {} +
+find . -type f -exec sed -i "s#dsq.src = '//'#dsq.src = 'https://'#g" {} +
+find . -type f -exec sed -i 's#dsq.src = "http://" + window.disqus_shortname + ".disqus.com/embed.js";#dsq.src = "https://" + window.disqus_shortname + ".disqus.com/embed.js";#g' {} +
 
 
