@@ -12,12 +12,39 @@
 	<atom:link href="/category/philosophy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 02 Jan 2019 04:07:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
 	<item>
+		<title>From Virus to Cosmology &#8211; Fred Hoyle</title>
+		<link>/2019/01/from-virus-to-cosmology-fred-hoyle/</link>
+		<comments>/2019/01/from-virus-to-cosmology-fred-hoyle/#respond</comments>
+		<pubDate>Wed, 09 Jan 2019 07:34:08 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[astrobiology]]></category>
+		<category><![CDATA[biology]]></category>
+		<category><![CDATA[dna]]></category>
+		<category><![CDATA[fred hoyle]]></category>
+		<category><![CDATA[panspermia]]></category>
+		<category><![CDATA[philosophy]]></category>
+		<category><![CDATA[physics]]></category>
+		<category><![CDATA[space]]></category>
+		<category><![CDATA[universe]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">/?p=2598</guid>
+		<description><![CDATA[This lecture provides a decent glance at Fred Hoyle&#8217;s understanding of the universe. One can certainly say that he held a view quite different than most. Fred Hoyle&#8217;s IFS Lecture December 1982]]></description>
+				<content:encoded><![CDATA[<p>This lecture provides a decent glance at Fred Hoyle&#8217;s understanding of the universe. One can certainly say that he held a view quite different than most.</p>
+<p>Fred Hoyle&#8217;s IFS Lecture December 1982</p>
+<div id="hsiFvCYSjHI" class="youtube" style="width: 100%; height: 360px;"></div>
+]]></content:encoded>
+			<wfw:commentRss>/2019/01/from-virus-to-cosmology-fred-hoyle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Order Out of Chaos &#8211; Ilya Prigogine and Isabelle Stengers</title>
 		<link>/2018/01/order-out-of-chaos-ilya-prigogine-and-isabelle-stengers/</link>
 		<comments>/2018/01/order-out-of-chaos-ilya-prigogine-and-isabelle-stengers/#respond</comments>
@@ -286,33 +313,6 @@
 </div>
 ]]></content:encoded>
 			<wfw:commentRss>/2015/03/the-greatest-talk-of-jacque-fresco/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Tao Is Silent &#8211; Raymond Smullyan</title>
-		<link>/2014/07/the-tao-is-silent-raymond-smullyan/</link>
-		<comments>/2014/07/the-tao-is-silent-raymond-smullyan/#respond</comments>
-		<pubDate>Mon, 07 Jul 2014 11:40:00 +0000</pubDate>
-		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
-				<category><![CDATA[alan watts]]></category>
-		<category><![CDATA[book]]></category>
-		<category><![CDATA[consciousness]]></category>
-		<category><![CDATA[god]]></category>
-		<category><![CDATA[logic]]></category>
-		<category><![CDATA[mathematics]]></category>
-		<category><![CDATA[philosophy]]></category>
-		<category><![CDATA[raymond smullyan]]></category>
-		<category><![CDATA[religion]]></category>
-		<category><![CDATA[tao]]></category>
-		<category><![CDATA[universe]]></category>
-		<category><![CDATA[zen]]></category>
-
-		<guid isPermaLink="false">https://anautonomousagent.com/?p=46</guid>
-		<description><![CDATA[The Tao Is Silent, by Raymond Smullyan, has been a wonderful read. Insightful and witty to say the least. It&#8217;s a series of discourses on life, religion, culture, logic, and philosophy; I would recommend the book to anyone interested in these subjects. Once again I am surprised how long it took me to discover a [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/07/JLI4974346.1395032639.580x5801.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/07/JLI4974346.1395032639.580x5801.jpg" height="320" width="208" /></a></div>
-<p><a href="//amzn.com/0060674695" target="_blank">The Tao Is Silent</a>, by <a href="//en.wikipedia.org/wiki/Raymond_Smullyan" target="_blank">Raymond Smullyan</a>, has been a wonderful read. Insightful and witty to say the least. It&#8217;s a series of discourses on life, religion, culture, logic, and philosophy; I would recommend the book to anyone interested in these subjects. Once again I am surprised how long it took me to discover a wonderful author. I look forward to reading several of his other works.</p>
-]]></content:encoded>
-			<wfw:commentRss>/2014/07/the-tao-is-silent-raymond-smullyan/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

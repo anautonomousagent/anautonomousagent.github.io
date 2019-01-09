@@ -4,11 +4,15 @@
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://anautonomousagent.com/</loc>
-	<lastmod>2019-01-02T06:43:37+00:00</lastmod>
+	<lastmod>2019-01-09T07:59:30+00:00</lastmod>
+</url>
+<url>
+	<loc>https://anautonomousagent.com/2019/01/from-virus-to-cosmology-fred-hoyle/</loc>
+	<lastmod>2019-01-09T07:49:22+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2019/01/massive-crater-and-younger-dryas/</loc>
-	<lastmod>2019-01-02T04:01:16+00:00</lastmod>
+	<lastmod>2019-01-09T07:24:27+00:00</lastmod>
 </url>
 <url>
 	<loc>https://anautonomousagent.com/2018/11/microfossils-and-biomolecules-in-meteorites-dr-richard-b-hoover/</loc>

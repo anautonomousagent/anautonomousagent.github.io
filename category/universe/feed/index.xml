@@ -12,12 +12,39 @@
 	<atom:link href="/category/universe/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 02 Jan 2019 04:07:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
 	<item>
+		<title>From Virus to Cosmology &#8211; Fred Hoyle</title>
+		<link>/2019/01/from-virus-to-cosmology-fred-hoyle/</link>
+		<comments>/2019/01/from-virus-to-cosmology-fred-hoyle/#respond</comments>
+		<pubDate>Wed, 09 Jan 2019 07:34:08 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[astrobiology]]></category>
+		<category><![CDATA[biology]]></category>
+		<category><![CDATA[dna]]></category>
+		<category><![CDATA[fred hoyle]]></category>
+		<category><![CDATA[panspermia]]></category>
+		<category><![CDATA[philosophy]]></category>
+		<category><![CDATA[physics]]></category>
+		<category><![CDATA[space]]></category>
+		<category><![CDATA[universe]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">/?p=2598</guid>
+		<description><![CDATA[This lecture provides a decent glance at Fred Hoyle&#8217;s understanding of the universe. One can certainly say that he held a view quite different than most. Fred Hoyle&#8217;s IFS Lecture December 1982]]></description>
+				<content:encoded><![CDATA[<p>This lecture provides a decent glance at Fred Hoyle&#8217;s understanding of the universe. One can certainly say that he held a view quite different than most.</p>
+<p>Fred Hoyle&#8217;s IFS Lecture December 1982</p>
+<div id="hsiFvCYSjHI" class="youtube" style="width: 100%; height: 360px;"></div>
+]]></content:encoded>
+			<wfw:commentRss>/2019/01/from-virus-to-cosmology-fred-hoyle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>The Dancing Wu Li Masters &#8211; Gary Zukav</title>
 		<link>/2017/12/dancing-wu-li-masters-zukav/</link>
 		<comments>/2017/12/dancing-wu-li-masters-zukav/#respond</comments>
@@ -276,31 +303,6 @@
 </div>
 ]]></content:encoded>
 			<wfw:commentRss>/2015/09/few-talks-by-terence-mckenna/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Nice Interview with David Bohm</title>
-		<link>/2015/08/nice-interview-with-david-bohm/</link>
-		<comments>/2015/08/nice-interview-with-david-bohm/#respond</comments>
-		<pubDate>Sat, 29 Aug 2015 22:55:21 +0000</pubDate>
-		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
-				<category><![CDATA[albert einstein]]></category>
-		<category><![CDATA[david bohm]]></category>
-		<category><![CDATA[physics]]></category>
-		<category><![CDATA[science]]></category>
-		<category><![CDATA[universe]]></category>
-		<category><![CDATA[video]]></category>
-		<category><![CDATA[youtube]]></category>
-
-		<guid isPermaLink="false">https://anautonomousagent.com/?p=1263</guid>
-		<description><![CDATA[About to start reading Bohm&#8217;s Wholeness and the Implicate Order. His ideas are appealing to my own experiences and I hope to learn a great deal from his book. Pretty good interview with David Bohm:]]></description>
-				<content:encoded><![CDATA[<p>About to start reading Bohm&#8217;s Wholeness and the Implicate Order. His ideas are appealing to my own experiences and I hope to learn a great deal from his book. Pretty good interview with David Bohm:</p>
-<div class="youtube"
-     id="QI66ZglzcO0"
-     style="width: 100%; height: 360px;">
-</div>
-]]></content:encoded>
-			<wfw:commentRss>/2015/08/nice-interview-with-david-bohm/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
