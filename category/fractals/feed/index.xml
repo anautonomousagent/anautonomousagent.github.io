@@ -12,16 +12,18 @@
 	<atom:link href="/category/fractals/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:55:24 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Misbehavior of Markets: A Fractal View of Financial Turbulence &#8211; Benoit Mandelbrot</title>
 		<link>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/</link>
-		<comments>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/#respond</comments>
-		<pubDate>Wed, 27 Aug 2014 23:45:00 +0000</pubDate>
+				<comments>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/#disqus_thread</comments>
+				<pubDate>Wed, 27 Aug 2014 23:45:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[benoit mandelbrot]]></category>
 		<category><![CDATA[book]]></category>
@@ -39,19 +41,19 @@
 		<category><![CDATA[wave theory]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=26</guid>
-		<description><![CDATA[I&#8217;ve been wanting to read The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" width="211" /></a></div>
+				<description><![CDATA[I&#8217;ve been wanting to read The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" width="211" /></a></div>
 <div style="text-align: justify;">I&#8217;ve been wanting to read <a href="//amzn.com/0465043577" target="_blank">The Misbehavior of Markets: A Fractal View of Financial Turbulence</a> by <a href="//en.wikipedia.org/wiki/Benoit_Mandelbrot" target="_blank">Benoit Mandelbrot</a> for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It is a little surprising that Mandelbrot did not talk in detail about the work of <a href="//anautonomousagent.com/?p=138" target="_blank">R.N. Elliott or Robert Prechter</a>, among others, which I think complement Mandelbrot&#8217;s work on financial fractals. Patrick Harris wrote a short paper discussing whether Mandelbrot should have cited Elliott (<a href="//www.math.utah.edu/vigre/reu/reports/harris_fall2005.pdf" target="_blank">link to paper</a>).</p>
 <p>To me, the idea of infinite memory processes is one of the most important concepts touched on by Mandelbrot in this book. It suggests that economists and traders should be developing models and theories which value the importance of price series and data going back decades. And it makes sense to me that people and prices do not change their fundamental behavior over extended periods of technological evolution. However, I suspect that organisms do change their fundamental behavior if the time horizon is thousands or millions of years. I am very curious to read more about Hurst&#8217;s studies of the Nile.</p></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>The Elliott Wave Principle</title>
 		<link>/2013/11/the-elliott-wave-principle/</link>
-		<comments>/2013/11/the-elliott-wave-principle/#respond</comments>
-		<pubDate>Sun, 03 Nov 2013 14:36:00 +0000</pubDate>
+				<comments>/2013/11/the-elliott-wave-principle/#disqus_thread</comments>
+				<pubDate>Sun, 03 Nov 2013 14:36:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[book]]></category>
@@ -68,8 +70,8 @@
 		<category><![CDATA[wave theory]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=138</guid>
-		<description><![CDATA[&#160; In the financial industry many models are based on Geometric Brownian Motion. However, these models tend to be inadequate and breakdown when the assumptions are violated. Searching for better stochastic models to model the market, I recently ran across an interesting topic in the field of market prediction and structure &#8212; the ideas of [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/11/250px-Elliott_wave.svg_1.png"><img src="//anautonomousagent.com/wp-content/uploads/2013/11/250px-Elliott_wave.svg_1.png" border="0" /></a></div>
+				<description><![CDATA[&#160; In the financial industry many models are based on Geometric Brownian Motion. However, these models tend to be inadequate and breakdown when the assumptions are violated. Searching for better stochastic models to model the market, I recently ran across an interesting topic in the field of market prediction and structure &#8212; the ideas of [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/11/250px-Elliott_wave.svg_1.png"><img src="//anautonomousagent.com/wp-content/uploads/2013/11/250px-Elliott_wave.svg_1.png" border="0" /></a></div>
 <p>&nbsp;</p>
 <div style="text-align: justify;">In the financial industry many models are based on <a href="//en.wikipedia.org/wiki/Geometric_Brownian_motion" target="_blank" rel="noopener">Geometric Brownian Motion</a>. However, these models tend to be inadequate and breakdown when the assumptions are violated. Searching for better stochastic models to model the market, I recently ran across an interesting topic in the field of market prediction and structure &#8212; the ideas of <a href="//en.wikipedia.org/wiki/Ralph_Nelson_Elliott" target="_blank" rel="noopener">Ralph Nelson Elliott</a>. It is remarkable that his ideas of market waves and structure were formulated in the 1930&#8217;s.  His ideas were popularized by <a href="//en.wikipedia.org/wiki/Robert_Prechter" target="_blank" rel="noopener">Robert Prechter</a> who has numerous books and articles written on the subject. In this post I have introduced these ideas and will post all the articles and books I have and will read on this subject. I hope to develop these ideas further.</div>
 <p>&nbsp;</p>
@@ -89,14 +91,14 @@
 <p>Videos:</p>
 <p><a href="//youtu.be/JspcunzCw1o" target="_blank" rel="noopener">Mastering Elliott Wave &#8211; Jamie Saettele</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/11/the-elliott-wave-principle/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/11/the-elliott-wave-principle/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Big Think Lectures and Interviews</title>
 		<link>/2013/05/big-think-lectures-and-interviews/</link>
-		<comments>/2013/05/big-think-lectures-and-interviews/#respond</comments>
-		<pubDate>Sun, 19 May 2013 00:09:00 +0000</pubDate>
+				<comments>/2013/05/big-think-lectures-and-interviews/#disqus_thread</comments>
+				<pubDate>Sun, 19 May 2013 00:09:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[benoit mandelbrot]]></category>
 		<category><![CDATA[brain]]></category>
@@ -117,21 +119,21 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=165</guid>
-		<description><![CDATA[Steven Pinker talking about how language helps scientists understand cognition.Steven Pinker: Linguistics as a Window to Understand the Brain Nicholas Christakis talks about important revolutions in understanding the social&#160;sciences.Nicholas Christakis: The Sociological Science Behind Social Networks and Social Influence Benoit Mandelbrot interview, talking about fractals.Big Think Interview with Benoit Mandelbrot Richard Dawkins interview, talking about [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Steven Pinker talking about how language helps scientists understand cognition.<br /><a href="//youtu.be/Q-B_ONJIEcE" target="_blank">Steven Pinker: Linguistics as a Window to Understand the Brain</a></p>
+				<description><![CDATA[Steven Pinker talking about how language helps scientists understand cognition.Steven Pinker: Linguistics as a Window to Understand the Brain Nicholas Christakis talks about important revolutions in understanding the social&#160;sciences.Nicholas Christakis: The Sociological Science Behind Social Networks and Social Influence Benoit Mandelbrot interview, talking about fractals.Big Think Interview with Benoit Mandelbrot Richard Dawkins interview, talking about [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Steven Pinker talking about how language helps scientists understand cognition.<br /><a href="//youtu.be/Q-B_ONJIEcE" target="_blank">Steven Pinker: Linguistics as a Window to Understand the Brain</a></p>
 <p>Nicholas Christakis talks about important revolutions in understanding the social&nbsp;sciences.<br /><a href="//youtu.be/wadBvDPeE4E" target="_blank">Nicholas Christakis: The Sociological Science Behind Social Networks and Social Influence</a></p>
 <p>Benoit Mandelbrot interview, talking about fractals.<br /><a href="//youtu.be/Xm-2ouPGrlY" target="_blank">Big Think Interview with Benoit Mandelbrot</a></p>
 <p>Richard Dawkins interview, talking about evolution and other related topics.<br /><a href="//youtu.be/gLgNWp7_cg8" target="_blank">Richard Dawkins &#8211; Evolutionary Biologist &#8211; Big Think &#8211; discussing a multitude of scientific topics</a></p>
 <p>First time I have heard about Stewart Brand; really smart and wise guy.<br /><a href="//youtu.be/iV3PBfmnI4I" target="_blank">Big Think Interview With Stewart Brand</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/05/big-think-lectures-and-interviews/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/05/big-think-lectures-and-interviews/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Why Stock Markets Crash &#8211; Didier Sornette</title>
 		<link>/2013/01/why-stock-markets-crash-didier-sornette/</link>
-		<comments>/2013/01/why-stock-markets-crash-didier-sornette/#respond</comments>
-		<pubDate>Tue, 01 Jan 2013 21:50:00 +0000</pubDate>
+				<comments>/2013/01/why-stock-markets-crash-didier-sornette/#disqus_thread</comments>
+				<pubDate>Tue, 01 Jan 2013 21:50:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[book]]></category>
 		<category><![CDATA[complexity theory]]></category>
@@ -147,19 +149,19 @@
 		<category><![CDATA[stocks]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=379</guid>
-		<description><![CDATA[Why Stock Markets Crash by Didier Sornette could be one of the most creative and unique scientific approaches to understanding the stock market I have read. The approach lies in complexity theory and involves identifying properties of critical self-organizing systems. I highly recommend this book for any reader interested in complexity theory, self-organization, and financial markets.]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/01/k73411.gif"><img src="//anautonomousagent.com/wp-content/uploads/2013/01/k73411.gif" width="211" height="320" border="0" /></a></div>
+				<description><![CDATA[Why Stock Markets Crash by Didier Sornette could be one of the most creative and unique scientific approaches to understanding the stock market I have read. The approach lies in complexity theory and involves identifying properties of critical self-organizing systems. I highly recommend this book for any reader interested in complexity theory, self-organization, and financial markets.]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/01/k73411.gif"><img src="//anautonomousagent.com/wp-content/uploads/2013/01/k73411.gif" width="211" height="320" border="0" /></a></div>
 <div style="clear: both; text-align: center;"></div>
 <p><a href="//amzn.com/0691118507"><i>Why Stock Markets Crash</i></a> by <a href="http://www.er.ethz.ch/about-us/people/sornette.html" target="_blank" rel="noopener">Didier Sornette</a> could be one of the most creative and unique scientific approaches to understanding the stock market I have read. The approach lies in complexity theory and involves identifying properties of critical self-organizing systems. I highly recommend this book for any reader interested in complexity theory, self-organization, and financial markets.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/why-stock-markets-crash-didier-sornette/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/why-stock-markets-crash-didier-sornette/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Hofstadter&#8217;s Butterfly</title>
 		<link>/2013/01/hofstadters-butterfly/</link>
-		<comments>/2013/01/hofstadters-butterfly/#respond</comments>
-		<pubDate>Tue, 01 Jan 2013 21:08:00 +0000</pubDate>
+				<comments>/2013/01/hofstadters-butterfly/#disqus_thread</comments>
+				<pubDate>Tue, 01 Jan 2013 21:08:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[Bach]]></category>
@@ -176,8 +178,8 @@
 		<category><![CDATA[self-organization]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=385</guid>
-		<description><![CDATA[Hofstadter&#8217;s Butterfly, what a beautiful self-repeating pattern! Discovered by Douglas Hofstadter. Credit]]></description>
-				<content:encoded><![CDATA[<p><a href="//en.wikipedia.org/wiki/Hofstadter%27s_butterfly" target="_blank">Hofstadter&#8217;s Butterfly</a>, what a beautiful self-repeating pattern! Discovered by <a href="//en.wikipedia.org/wiki/Douglas_Hofstadter" target="_blank">Douglas Hofstadter</a>.</p>
+				<description><![CDATA[Hofstadter&#8217;s Butterfly, what a beautiful self-repeating pattern! Discovered by Douglas Hofstadter. Credit]]></description>
+								<content:encoded><![CDATA[<p><a href="//en.wikipedia.org/wiki/Hofstadter%27s_butterfly" target="_blank">Hofstadter&#8217;s Butterfly</a>, what a beautiful self-repeating pattern! Discovered by <a href="//en.wikipedia.org/wiki/Douglas_Hofstadter" target="_blank">Douglas Hofstadter</a>.</p>
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 <tbody>
 <tr>
@@ -190,14 +192,14 @@
 </table>
 <p></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/hofstadters-butterfly/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/hofstadters-butterfly/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Infinity Imagined</title>
 		<link>/2012/12/infinity-imagined/</link>
-		<comments>/2012/12/infinity-imagined/#respond</comments>
-		<pubDate>Sun, 30 Dec 2012 05:44:00 +0000</pubDate>
+				<comments>/2012/12/infinity-imagined/#disqus_thread</comments>
+				<pubDate>Sun, 30 Dec 2012 05:44:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[astronomy]]></category>
 		<category><![CDATA[biology]]></category>
@@ -211,8 +213,8 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=418</guid>
-		<description><![CDATA[Possibly my&#160;favorite&#160;website:&#160;Infinity Imagined. &#160;The pictures and themes posted are incredibly beautiful and insightful. Pictures range from the entire universe to the inside of an atom; from animal cells to river deltas; fractals;&#160;physics&#160; biology, and chemistry &#8211; all portrayed in images.]]></description>
-				<content:encoded><![CDATA[<p>Possibly my&nbsp;favorite&nbsp;website:&nbsp;<a href="//infinity-imagined.tumblr.com/" target="_blank">Infinity Imagined</a>. &nbsp;The pictures and themes posted are incredibly beautiful and insightful. Pictures range from the entire universe to the inside of an atom; from animal cells to river deltas; fractals;&nbsp;physics&nbsp; biology, and chemistry &#8211; all portrayed in images. </p>
+				<description><![CDATA[Possibly my&#160;favorite&#160;website:&#160;Infinity Imagined. &#160;The pictures and themes posted are incredibly beautiful and insightful. Pictures range from the entire universe to the inside of an atom; from animal cells to river deltas; fractals;&#160;physics&#160; biology, and chemistry &#8211; all portrayed in images.]]></description>
+								<content:encoded><![CDATA[<p>Possibly my&nbsp;favorite&nbsp;website:&nbsp;<a href="//infinity-imagined.tumblr.com/" target="_blank">Infinity Imagined</a>. &nbsp;The pictures and themes posted are incredibly beautiful and insightful. Pictures range from the entire universe to the inside of an atom; from animal cells to river deltas; fractals;&nbsp;physics&nbsp; biology, and chemistry &#8211; all portrayed in images. </p>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2012/12/tumblr_mf5aqapTJz1qzprlbo1_1280.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="239" src="//anautonomousagent.com/wp-content/uploads/2012/12/tumblr_mf5aqapTJz1qzprlbo1_1280.png" width="320" /></a></div>
 <div style="clear: both; text-align: center;"></div>
 <div style="clear: both; text-align: center;"></div>
@@ -223,8 +225,8 @@
 <div style="clear: both; text-align: center;"></div>
 <p></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2012/12/infinity-imagined/feed/</wfw:commentRss>
+							<wfw:commentRss>/2012/12/infinity-imagined/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

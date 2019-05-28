@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: The Great War for Civilisation &#8211; Robert Fisk</title>
+	<title>
+	Comments on: The Great War for Civilisation &#8211; Robert Fisk	</title>
 	<atom:link href="/2017/05/the-great-war-for-civilisation-robert-fisk/feed/" rel="self" type="application/rss+xml" />
 	<link>/2017/05/the-great-war-for-civilisation-robert-fisk/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:09 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

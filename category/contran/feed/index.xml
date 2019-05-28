@@ -12,16 +12,18 @@
 	<atom:link href="/category/contran/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:15 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Brief Overview of My Experiences with Stocks</title>
 		<link>/2014/03/brief-overview-of-my-experiences-with-stocks/</link>
-		<comments>/2014/03/brief-overview-of-my-experiences-with-stocks/#respond</comments>
-		<pubDate>Tue, 25 Mar 2014 01:29:00 +0000</pubDate>
+				<comments>/2014/03/brief-overview-of-my-experiences-with-stocks/#disqus_thread</comments>
+				<pubDate>Tue, 25 Mar 2014 01:29:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[benjamin graham]]></category>
 		<category><![CDATA[contran]]></category>
@@ -34,8 +36,8 @@
 		<category><![CDATA[warren buffett]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=83</guid>
-		<description><![CDATA[My first foray into the stock market was after reading the books of the popular writer, Jim Cramer. And it resulted in buying several penny stocks which were developing &#8220;revolutionary&#8221; new products. They did rather poorly and I decided to try buying stocks of more well-known companies, like Goldman Sachs and some others which I [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;">My first foray into the stock market was after reading the books of the popular writer, Jim Cramer. And it resulted in buying several penny stocks which were developing &#8220;revolutionary&#8221; new products. They did rather poorly and I decided to try buying stocks of more well-known companies, like Goldman Sachs and some others which I do not remember. This was in 2007-8 and the tiny gains from my small investments were financially negligible; however, it was an experience.</div>
+				<description><![CDATA[My first foray into the stock market was after reading the books of the popular writer, Jim Cramer. And it resulted in buying several penny stocks which were developing &#8220;revolutionary&#8221; new products. They did rather poorly and I decided to try buying stocks of more well-known companies, like Goldman Sachs and some others which I [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;">My first foray into the stock market was after reading the books of the popular writer, Jim Cramer. And it resulted in buying several penny stocks which were developing &#8220;revolutionary&#8221; new products. They did rather poorly and I decided to try buying stocks of more well-known companies, like Goldman Sachs and some others which I do not remember. This was in 2007-8 and the tiny gains from my small investments were financially negligible; however, it was an experience.</div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">My knowledge of markets began to change as 2008 progressed into 2009 and I gained experience trading stocks. I lost interest in Cramer and found the work of Benjamin Graham to be far more fascinating. While in high-school I was fascinated by Benjamin Graham&#8217;s record of success and his value investing approach to choosing investments. My interest continued as an undergrad in college; I remember reading all of Graham&#8217;s articles while sitting through accounting class. Reading <i>Security Analysis </i>more than twice, I attempted to put my newly learned skills to the test. The potential to find muddied gems hidden from view by the dirty coating applied by &#8220;Mr. Market&#8221; spurred my desire to master the art.</div>
 <div style="text-align: justify;"></div>
@@ -46,8 +48,8 @@
 <div style="text-align: justify;">Today I am surprised to learn that <a href="//www.dallasnews.com/news/headlines/20131229-flashback-the-inside-story-of-harold-c.-simmons-from-huck-finn-looks-to-high-rolling-investments.ece" target="_blank" rel="noopener">Harold Simmons passed away in December of 2013</a>. He was a clever man who grew a few thousand dollars into billions.</div>
 <div style="text-align: justify;"></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/03/brief-overview-of-my-experiences-with-stocks/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/03/brief-overview-of-my-experiences-with-stocks/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

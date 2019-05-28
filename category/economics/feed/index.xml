@@ -12,16 +12,18 @@
 	<atom:link href="/category/economics/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Aug 2018 03:55:15 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Dunbar’s Law and Economic Relationships</title>
 		<link>/2018/08/dunbars-law-and-economic-relationships/</link>
-		<comments>/2018/08/dunbars-law-and-economic-relationships/#respond</comments>
-		<pubDate>Sun, 12 Aug 2018 03:55:15 +0000</pubDate>
+				<comments>/2018/08/dunbars-law-and-economic-relationships/#disqus_thread</comments>
+				<pubDate>Sun, 12 Aug 2018 03:55:15 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[currency]]></category>
 		<category><![CDATA[david graeber]]></category>
@@ -31,20 +33,20 @@
 		<category><![CDATA[thoughts]]></category>
 
 		<guid isPermaLink="false">/?p=2554</guid>
-		<description><![CDATA[On page 306 of Scale, Geoffrey West discusses Dunbar’s Law and its implication for human social networks. To summarize this law: it claims that humans have multiple levels of bonding strength. At the lowest level a human will have around five connections of the strongest type of friendship and intimacy. Typically this would include some [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div class="post-content">
+				<description><![CDATA[On page 306 of Scale, Geoffrey West discusses Dunbar’s Law and its implication for human social networks. To summarize this law: it claims that humans have multiple levels of bonding strength. At the lowest level a human will have around five connections of the strongest type of friendship and intimacy. Typically this would include some [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div class="post-content">
 <p>On page 306 of <a href="https://anautonomousagent.com/2018/04/scale-geoffrey-west/">Scale</a>, Geoffrey West discusses <a href="https://en.wikipedia.org/wiki/Dunbar%27s_number">Dunbar’s Law</a> and its implication for human social networks. To summarize this law: it claims that humans have multiple levels of bonding strength. At the lowest level a human will have around five connections of the strongest type of friendship and intimacy. Typically this would include some members of one’s family or a best friend. At the next level there are around fifteen connections that are not as strong as the first level, but are still firm. This would include close friends you might talk to on a daily or weekly basis. At the next level there are about fifty connections… and so on… The numbers of connections scales by tripling the connections at each higher level. In the book the levels are labeled as: 1) Kin, 2) Super-family 3) Clan, 4) Tribe, and 5) Strangers.</p>
 <p>When I first read this in Scale, I was immediately reminded of David Graeber’s anthropological work regarding economic relationships among humans. In his book <a href="https://anautonomousagent.com/2017/07/debt-the-first-5000-years-david-graeber/">Debt: The First 5,000 Years</a>, Graeber observes on page 99-100 that baseline communism (sharing) follows a similar structure. Thus, using the terminology from above: At the kin level Graeber notes that there is much sharing between members and the relationship is baseline communism. Thus, you can extend this and map these economic relationships with those of Dunbar’s Law: 1) Kin (~5 people) : Almost all sharing with very little debt or IOU, 2) Super-family (~15 people) : IOU with a good amount of sharing, 3) Clan (~ 50 people) : Mostly IOU and little sharing, and 4) Tribe (~150 people) : Almost entirely IOU with very little sharing. Anything outside the tribe would be exchange via a cash medium except in rare occasions, such as a child falling in front of an on-coming vehicle (a person would naturally share his strength to save the child’s life). Although I may not have followed Graeber’s observations exactly I find this train of thought to be interesting as it requires one to rethink the concept of currency, exchange, and economic relationships. Indeed, Graeber’s book challenges the entire paradigm of the historical development of currency and debt by analyzing the anthropological record.</p>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2018/08/dunbars-law-and-economic-relationships/feed/</wfw:commentRss>
+							<wfw:commentRss>/2018/08/dunbars-law-and-economic-relationships/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Scale – Geoffrey West</title>
 		<link>/2018/08/scale-geoffrey-west/</link>
-		<comments>/2018/08/scale-geoffrey-west/#respond</comments>
-		<pubDate>Sun, 12 Aug 2018 03:54:09 +0000</pubDate>
+				<comments>/2018/08/scale-geoffrey-west/#disqus_thread</comments>
+				<pubDate>Sun, 12 Aug 2018 03:54:09 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[book]]></category>
@@ -66,17 +68,17 @@
 		<category><![CDATA[socionomics]]></category>
 
 		<guid isPermaLink="false">/?p=2552</guid>
-		<description><![CDATA[Scale, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://a.co/0tTatb5">Scale</a>, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is an important summary of really profound work and research performed at the Santa Fe Institute. And it is a great introduction to understanding power laws and scaling in biology and network topologies.</p>
+				<description><![CDATA[Scale, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="http://a.co/0tTatb5">Scale</a>, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is an important summary of really profound work and research performed at the Santa Fe Institute. And it is a great introduction to understanding power laws and scaling in biology and network topologies.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2018/08/scale-geoffrey-west/feed/</wfw:commentRss>
+							<wfw:commentRss>/2018/08/scale-geoffrey-west/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Hidden Forces &#8211; Interview Series</title>
 		<link>/2017/12/hidden-forces-interview-series/</link>
-		<comments>/2017/12/hidden-forces-interview-series/#respond</comments>
-		<pubDate>Thu, 28 Dec 2017 22:13:13 +0000</pubDate>
+				<comments>/2017/12/hidden-forces-interview-series/#disqus_thread</comments>
+				<pubDate>Thu, 28 Dec 2017 22:13:13 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[artificial intelligence]]></category>
 		<category><![CDATA[complexity theory]]></category>
@@ -96,18 +98,18 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">/?p=2528</guid>
-		<description><![CDATA[Hidden Forces, hosted by Demetri Kofinas is an nice set of interviews with various people on topics including: finance, complexity, mathematics, and cryptocurrencies. I struggled listening to some of the interviewees because I did not agree with their ideas or conclusions; but I guess it is good to have conflicting opinions in order to encourage [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://www.youtube.com/channel/UC8URhgYos5fjHqFSO4RSIEg">Hidden Forces</a>, hosted by Demetri Kofinas is an nice set of interviews with various people on topics including: finance, complexity, mathematics, and cryptocurrencies. I struggled listening to some of the interviewees because I did not agree with their ideas or conclusions; but I guess it is good to have conflicting opinions in order to encourage debate in the comments and to help review one&#8217;s own opinions and understandings. Regardless, Kofinas provides a highly accessible medium through which advanced ideas can be grasped.</p>
+				<description><![CDATA[Hidden Forces, hosted by Demetri Kofinas is an nice set of interviews with various people on topics including: finance, complexity, mathematics, and cryptocurrencies. I struggled listening to some of the interviewees because I did not agree with their ideas or conclusions; but I guess it is good to have conflicting opinions in order to encourage [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="https://www.youtube.com/channel/UC8URhgYos5fjHqFSO4RSIEg">Hidden Forces</a>, hosted by Demetri Kofinas is an nice set of interviews with various people on topics including: finance, complexity, mathematics, and cryptocurrencies. I struggled listening to some of the interviewees because I did not agree with their ideas or conclusions; but I guess it is good to have conflicting opinions in order to encourage debate in the comments and to help review one&#8217;s own opinions and understandings. Regardless, Kofinas provides a highly accessible medium through which advanced ideas can be grasped.</p>
 <p>I first ran across Hidden Forces while listening to the <a href="https://youtu.be/NxERVnvHV4c">interview with Ray Monk</a> about philosophical mathematics. Monk&#8217;s narration on the work of Frege, Russell, Whitehead, Wittgenstein, and Gödel is excellent &#8211; by far one of the clearest and easiest to grasp. It was learning about these paradigms and paradoxes of mathematics via <a href="https://anautonomousagent.com/2012/12/godel-escher-bach-douglas-hofstadter/">Hofstadter&#8217;s famous book</a> which led me to start this website.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2017/12/hidden-forces-interview-series/feed/</wfw:commentRss>
+							<wfw:commentRss>/2017/12/hidden-forces-interview-series/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Debt: The First 5,000 Years &#8211; David Graeber</title>
 		<link>/2017/07/debt-the-first-5000-years-david-graeber/</link>
-		<comments>/2017/07/debt-the-first-5000-years-david-graeber/#respond</comments>
-		<pubDate>Sat, 29 Jul 2017 13:49:59 +0000</pubDate>
+				<comments>/2017/07/debt-the-first-5000-years-david-graeber/#disqus_thread</comments>
+				<pubDate>Sat, 29 Jul 2017 13:49:59 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[book]]></category>
 		<category><![CDATA[david graeber]]></category>
@@ -117,17 +119,17 @@
 		<category><![CDATA[finance]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1896</guid>
-		<description><![CDATA[Debt: The First 5,000 Years, by David Graeber, is a fascinating and astounding look at the ubiquity of debt in human affairs. It replaces many &#8220;accepted&#8221; theories on the origins of money and debt and disproves the Myth of Barter by studying the anthropological record. From my own experience, economic theories and models are almost [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years">Debt: The First 5,000 Years</a>, by David Graeber, is a fascinating and astounding look at the ubiquity of debt in human affairs. It replaces many &#8220;accepted&#8221; theories on the origins of money and debt and disproves the Myth of Barter by studying the anthropological record. From my own experience, economic theories and models are almost never based on actual historical observations, only upon assumptions about human behavior and interaction that I personally find naive. Just look at the Efficient Market Hypothesis or the idea that humans are rational decision makers &#8212; these ideas or their assumptions quickly fall apart with a simple analysis. For instance, as Chomsky points out, the advertising industry exists to create irrational decisions. People can lie and manipulate; they can be greedy or ascetic. It is nice to finally have a down-to-Earth study of actual historical accounts of human interactions without forcing the current paradigm on the past. Graeber&#8217;s book provides a wake-up call for people to see a more realistic view of the interactions of humans, debt, markets, government and money.</p>
+				<description><![CDATA[Debt: The First 5,000 Years, by David Graeber, is a fascinating and astounding look at the ubiquity of debt in human affairs. It replaces many &#8220;accepted&#8221; theories on the origins of money and debt and disproves the Myth of Barter by studying the anthropological record. From my own experience, economic theories and models are almost [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years">Debt: The First 5,000 Years</a>, by David Graeber, is a fascinating and astounding look at the ubiquity of debt in human affairs. It replaces many &#8220;accepted&#8221; theories on the origins of money and debt and disproves the Myth of Barter by studying the anthropological record. From my own experience, economic theories and models are almost never based on actual historical observations, only upon assumptions about human behavior and interaction that I personally find naive. Just look at the Efficient Market Hypothesis or the idea that humans are rational decision makers &#8212; these ideas or their assumptions quickly fall apart with a simple analysis. For instance, as Chomsky points out, the advertising industry exists to create irrational decisions. People can lie and manipulate; they can be greedy or ascetic. It is nice to finally have a down-to-Earth study of actual historical accounts of human interactions without forcing the current paradigm on the past. Graeber&#8217;s book provides a wake-up call for people to see a more realistic view of the interactions of humans, debt, markets, government and money.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2017/07/debt-the-first-5000-years-david-graeber/feed/</wfw:commentRss>
+							<wfw:commentRss>/2017/07/debt-the-first-5000-years-david-graeber/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Tragedy and Hope &#8211; Carroll Quigley</title>
 		<link>/2016/10/tragedy-and-hope-carroll-quigley/</link>
-		<comments>/2016/10/tragedy-and-hope-carroll-quigley/#respond</comments>
-		<pubDate>Sun, 23 Oct 2016 19:50:56 +0000</pubDate>
+				<comments>/2016/10/tragedy-and-hope-carroll-quigley/#disqus_thread</comments>
+				<pubDate>Sun, 23 Oct 2016 19:50:56 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[american]]></category>
 		<category><![CDATA[carroll quigley]]></category>
@@ -138,8 +140,8 @@
 		<category><![CDATA[politics]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1601</guid>
-		<description><![CDATA[Tragedy and Hope by Carroll Quigley narrates and analyzes world history from the late 1800&#8217;s to 1964. Throughout Quigley&#8217;s narration he mentions details of individual people who welded enormous power and influence over events; it would be naive to suggest that they were &#8220;all powerful&#8221; &#8211; some of the time they successfully shaped history while [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><em><a href="https://amzn.com/094500110X">Tragedy and Hope</a></em> by Carroll Quigley narrates and analyzes world history from the late 1800&#8217;s to 1964. Throughout Quigley&#8217;s narration he mentions details of individual people who welded enormous power and influence over events; it would be naive to suggest that they were &#8220;all powerful&#8221; &#8211; some of the time they successfully shaped history while at other times they failed. It is simply the nature of the hierarchical system of organization of society which encourages and allows such influence.</p>
+				<description><![CDATA[Tragedy and Hope by Carroll Quigley narrates and analyzes world history from the late 1800&#8217;s to 1964. Throughout Quigley&#8217;s narration he mentions details of individual people who welded enormous power and influence over events; it would be naive to suggest that they were &#8220;all powerful&#8221; &#8211; some of the time they successfully shaped history while [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><em><a href="https://amzn.com/094500110X">Tragedy and Hope</a></em> by Carroll Quigley narrates and analyzes world history from the late 1800&#8217;s to 1964. Throughout Quigley&#8217;s narration he mentions details of individual people who welded enormous power and influence over events; it would be naive to suggest that they were &#8220;all powerful&#8221; &#8211; some of the time they successfully shaped history while at other times they failed. It is simply the nature of the hierarchical system of organization of society which encourages and allows such influence.</p>
 <p>I would agree with <a href="https://anautonomousagent.com/2016/07/the-quigley-formula-g-edward-griffin-lecture/">G. Edward Griffin</a> that conspiracy is an important force in the formation of history and is critical to understanding <em>why </em>events progress in various ways. However, we must be careful with attributing full power of determination to such forces. We should qualify with Bismarck&#8217;s comment that: &#8220;The statesman&#8217;s task is to hear God&#8217;s footsteps marching through history, and to try and catch on to His coattails as He marches past.&#8221;</p>
 <p>It is humorous that most people on the far right recommend Quigley when he mentions several times in the book that he despises them and their motives. For instance on page 1244:</p>
 <blockquote><p>The second most numerous group in the United States is the petty bourgeoisie, including millions of persons who regard themselves as middle class and are under all the middle-class anxieties and pressures, but often earn less money than unionized laborers. As a results of these things, they are often very insecure, envious, filled with hatreds, and are generally the chief recruits for any Radical Right, Fascist, or hate campaigns against any group that is different or which refuses to conform to middle-class values. &#8230; They form the major portion of the Republican Party&#8217;s supporters in the towns of America, as they did for the Nazis in Germany&#8230;</p></blockquote>
@@ -158,14 +160,14 @@
 </ol>
 <p>However, Quigley is no idealist, and his thoughts help to provide a realistic understanding of the nature of power in the hierarchies which control and function on various levels in nation-states. And he does this through a narration and analysis of &#8220;history in our time.&#8221;</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/10/tragedy-and-hope-carroll-quigley/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/10/tragedy-and-hope-carroll-quigley/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Politics and Vision &#8211; Sheldon Wolin</title>
 		<link>/2016/07/politics-and-vision-sheldon-wolin/</link>
-		<comments>/2016/07/politics-and-vision-sheldon-wolin/#respond</comments>
-		<pubDate>Fri, 22 Jul 2016 19:56:32 +0000</pubDate>
+				<comments>/2016/07/politics-and-vision-sheldon-wolin/#disqus_thread</comments>
+				<pubDate>Fri, 22 Jul 2016 19:56:32 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[book]]></category>
 		<category><![CDATA[economics]]></category>
@@ -178,17 +180,17 @@
 		<category><![CDATA[western]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1588</guid>
-		<description><![CDATA[After watching Chris Hedges&#8217; interview with Sheldon Wolin, I desired to read Wolin&#8217;s books. Democracy Incorporated provided a creative perspective with which to interpret recent American political and social events. Upon completion, I had an urge to continue extracting the political ideas of Wolin and I concluded that the best way to do this would [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>After watching Chris Hedges&#8217; interview with Sheldon Wolin, I desired to read Wolin&#8217;s books. <em>Democracy Incorporated</em> provided a creative perspective with which to interpret recent American political and social events. Upon completion, I had an urge to continue extracting the political ideas of Wolin and I concluded that the best way to do this would be to jump into the deep end and open his book, <a href="https://amzn.com/0691126275" target="_blank">Politics and Vision</a>. Not only do I now have incredible respect for his ideas but I also feel that he has broadened my personal awareness of my place in society and history. There are criticisms I have toward the content (exclusively focused on &#8220;European/American&#8221;), but they are rather minimal in scope compared to the benefits any reader would gain by reading it thoroughly. I would say that <em>Politics and Vision</em>, as time progresses, will turn out to be one of the most important books I have ever read.</p>
+				<description><![CDATA[After watching Chris Hedges&#8217; interview with Sheldon Wolin, I desired to read Wolin&#8217;s books. Democracy Incorporated provided a creative perspective with which to interpret recent American political and social events. Upon completion, I had an urge to continue extracting the political ideas of Wolin and I concluded that the best way to do this would [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>After watching Chris Hedges&#8217; interview with Sheldon Wolin, I desired to read Wolin&#8217;s books. <em>Democracy Incorporated</em> provided a creative perspective with which to interpret recent American political and social events. Upon completion, I had an urge to continue extracting the political ideas of Wolin and I concluded that the best way to do this would be to jump into the deep end and open his book, <a href="https://amzn.com/0691126275" target="_blank">Politics and Vision</a>. Not only do I now have incredible respect for his ideas but I also feel that he has broadened my personal awareness of my place in society and history. There are criticisms I have toward the content (exclusively focused on &#8220;European/American&#8221;), but they are rather minimal in scope compared to the benefits any reader would gain by reading it thoroughly. I would say that <em>Politics and Vision</em>, as time progresses, will turn out to be one of the most important books I have ever read.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/07/politics-and-vision-sheldon-wolin/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/07/politics-and-vision-sheldon-wolin/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>The End of Certainty &#8211; Ilya Prigogine</title>
 		<link>/2015/01/the-end-of-certainty-ilya-prigogine/</link>
-		<comments>/2015/01/the-end-of-certainty-ilya-prigogine/#respond</comments>
-		<pubDate>Sun, 18 Jan 2015 20:05:10 +0000</pubDate>
+				<comments>/2015/01/the-end-of-certainty-ilya-prigogine/#disqus_thread</comments>
+				<pubDate>Sun, 18 Jan 2015 20:05:10 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[book]]></category>
 		<category><![CDATA[economics]]></category>
@@ -203,22 +205,22 @@
 		<category><![CDATA[universe]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=7</guid>
-		<description><![CDATA[The End of Certainty by Ilya Prigogine provides insight into the natural processes which give rise to the novelty of life. Despite being published in 1997, there are so many great quotes and concepts which are still applicable today, that I will just say, &#8220;Read the book!&#8221; It will also help to read Stuart Kauffman&#8217;s [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="//amzn.com/0684837056" target="_blank">The End of Certainty</a> by <a href="//en.wikipedia.org/wiki/Ilya_Prigogine" target="_blank">Ilya Prigogine</a> provides insight into the natural processes which give rise to the novelty of life. Despite being published in 1997, there are so many great quotes and concepts which are still applicable today, that I will just say, &#8220;Read the book!&#8221; It will also help to read Stuart Kauffman&#8217;s book, <a href="//anautonomousagent.com/2012/12/investigations-stuart-kauffman/" target="_blank">Investigations</a>, either before or after reading Prigogine&#8217;s book. Approaching from a different angle, Kauffman explores biological processes of nature which give rise to novelty and creative adaptive structures. Both books talk heavily about the dynamics of equilibrium and entropy. In the words of Prigogine, on page 67, &#8220;&#8230;matter at equilibrium is &#8216;blind,&#8217; but far from equilibrium it begins to &#8216;see.'&#8221; Thus, non-equilibrium systems can think and observe the world, whereas systems in equilibrium are ignorant of all outside processes.</p>
+				<description><![CDATA[The End of Certainty by Ilya Prigogine provides insight into the natural processes which give rise to the novelty of life. Despite being published in 1997, there are so many great quotes and concepts which are still applicable today, that I will just say, &#8220;Read the book!&#8221; It will also help to read Stuart Kauffman&#8217;s [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="//amzn.com/0684837056" target="_blank">The End of Certainty</a> by <a href="//en.wikipedia.org/wiki/Ilya_Prigogine" target="_blank">Ilya Prigogine</a> provides insight into the natural processes which give rise to the novelty of life. Despite being published in 1997, there are so many great quotes and concepts which are still applicable today, that I will just say, &#8220;Read the book!&#8221; It will also help to read Stuart Kauffman&#8217;s book, <a href="//anautonomousagent.com/2012/12/investigations-stuart-kauffman/" target="_blank">Investigations</a>, either before or after reading Prigogine&#8217;s book. Approaching from a different angle, Kauffman explores biological processes of nature which give rise to novelty and creative adaptive structures. Both books talk heavily about the dynamics of equilibrium and entropy. In the words of Prigogine, on page 67, &#8220;&#8230;matter at equilibrium is &#8216;blind,&#8217; but far from equilibrium it begins to &#8216;see.'&#8221; Thus, non-equilibrium systems can think and observe the world, whereas systems in equilibrium are ignorant of all outside processes.</p>
 <p>The approach of Prigogine lies in understanding the importance of <a href="//www.sciencedirect.com/science/article/pii/0960077995000429" target="_blank">Poincaré Resonances</a> on dynamics and the construction/destruction of correlations at the microscopic level. How these resonances and these correlations behave leads to macroscopic features and the breaking of time symmetry. He deals with solving these Large Poincare Systems outside of the Hilbert Space; this is a concept which is important to biology and human social sciences. Because in these fields, we are always dealing with a system (human beings) which is far from equilibrium and behaves in novel and creative ways.</p>
 <p>In other words, life, as  a non-equilibrium dissipative structure emerging from the non-living world, needs to be studied under the auspices of &#8220;The End of Certainty.&#8221; Irreversible processes and long range correlations are critical to understanding the development of self-organization and the novelty of life.</p>
 <p>All social sciences deal with a biological organism (humans), which is a product of non-equilibrium processes. Even Prigogine and the book itself are correlated with the mass of knowledge produced by humanity in the 20th century. In other words, his ideas and those of all scientists are subject to the same non-equilibrium dynamics which Prigogine talks about in his book. Resonances and correlations in the social sphere can lead to amazing discoveries or a lack thereof.</p>
 <p>One subject that I think could see development from Prigogine&#8217;s ideas is economics. Economics should be considered: &#8220;The study of non-equilibirum dissipative structures created by the self-organized social species known as <em>homo sapiens</em>, to reproduce and adapt in the biosphere called &#8216;Earth.'&#8221;</p>
 <p>What I thought about the most was the concept of correlation creation and destruction. In terms of self-organizing systems and financial markets, perhaps crashes are correlation destruction events, while bubbles are correlations spreading through time. And after a crash occurs, correlations can be created which makes a crisis even worse.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/01/the-end-of-certainty-ilya-prigogine/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/01/the-end-of-certainty-ilya-prigogine/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Secular Cycles &#8211;  Peter Turchin and Sergey A. Nefedov</title>
 		<link>/2014/12/secular-cycles-peter-turchin-and-sergey-a-nefedov/</link>
-		<comments>/2014/12/secular-cycles-peter-turchin-and-sergey-a-nefedov/#respond</comments>
-		<pubDate>Thu, 18 Dec 2014 22:16:00 +0000</pubDate>
+				<comments>/2014/12/secular-cycles-peter-turchin-and-sergey-a-nefedov/#disqus_thread</comments>
+				<pubDate>Thu, 18 Dec 2014 22:16:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[book]]></category>
@@ -230,38 +232,38 @@
 		<category><![CDATA[sociobiology]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=8</guid>
-		<description><![CDATA[Secular Cycles&#160;by&#160;Peter Turchin and Sergey A. Nefedov investigates the nature of biological and economic growth in combination with the characteristic social structures and power relationships unique to humans. This combination of Marxian and Malthusian analysis provides an interesting approach which can be developed to help predict future developments and understand how history develops. The book [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="//amzn.com/0691136963">Secular Cycles</a>&nbsp;by&nbsp;<a href="http://peterturchin.com/">Peter Turchin</a> and Sergey A. Nefedov investigates the nature of biological and economic growth in combination with the characteristic social structures and power relationships unique to humans. This combination of Marxian and Malthusian analysis provides an interesting approach which can be developed to help predict future developments and understand how history develops.</p>
+				<description><![CDATA[Secular Cycles&#160;by&#160;Peter Turchin and Sergey A. Nefedov investigates the nature of biological and economic growth in combination with the characteristic social structures and power relationships unique to humans. This combination of Marxian and Malthusian analysis provides an interesting approach which can be developed to help predict future developments and understand how history develops. The book [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="//amzn.com/0691136963">Secular Cycles</a>&nbsp;by&nbsp;<a href="http://peterturchin.com/">Peter Turchin</a> and Sergey A. Nefedov investigates the nature of biological and economic growth in combination with the characteristic social structures and power relationships unique to humans. This combination of Marxian and Malthusian analysis provides an interesting approach which can be developed to help predict future developments and understand how history develops.</p>
 <p>The book (really an academic paper) is an analysis based on various data which have survived the ravages of time. It looks at cycles which occurred in various regions and times in the past, including Rome, France, England, and Russia. It shows how time after time humans progress, only to regress. And this &#8220;dis-integration&#8221; may be caused by either biological constraints <i>and/or </i>existing&nbsp;political structures.&nbsp;There also appears to be characteristic times which tend to correspond to successive generations or every other generation. And this wave or cyclical behavior is inherent in the complex system of homo-sapiens &#8212; being a social animal who spends 20+ years acquiring the knowledge and skills of ancestors.</p>
 <p>I can only wish that more quantitative data were available to study ancient humans; ironically it is the &#8220;dis-integrative&#8221; phases of growth where data, observations, and history are destroyed and lost forever. Perhaps the next &#8220;integrative&#8221; phase of societal growth is a function of how much information is preserved from the previous &#8220;integrative&#8221; phase (think about Library of Alexandria). Formulaic conclusions based upon detailed and consistent data extending to the remote reaches of the past may forever be lost. Sometimes this data can be cleverly reconstructed (<a href="//www.lehigh.edu/~inarcmet/papers/pense%201992.pdf" target="_blank">see here</a>). Most of the time the data can not be obtained and this should serve to emphasize the importance of preserving the Noosphere for the sake of future societies.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/12/secular-cycles-peter-turchin-and-sergey-a-nefedov/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/12/secular-cycles-peter-turchin-and-sergey-a-nefedov/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>War or Peace</title>
 		<link>/2014/11/war-or-peace/</link>
-		<comments>/2014/11/war-or-peace/#respond</comments>
-		<pubDate>Fri, 28 Nov 2014 21:14:00 +0000</pubDate>
+				<comments>/2014/11/war-or-peace/#disqus_thread</comments>
+				<pubDate>Fri, 28 Nov 2014 21:14:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[economics]]></category>
 		<category><![CDATA[Ralph nelson elliott]]></category>
 		<category><![CDATA[thoughts]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=14</guid>
-		<description><![CDATA[I believe the developed world has the potential knowledge and power to prevent a large scale religious war in the Middle East which threatens to involve numerous superpowers. For the sake of all civilization, we must force a peaceful resolution. There is a hope that our technology has enabled us to predict and even prevent [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I believe the developed world has the potential knowledge and power to prevent a large scale religious war in the Middle East which threatens to involve numerous superpowers. For the sake of all civilization, we must force a peaceful resolution. There is a hope that our technology has enabled us to predict and even prevent global disasters. Sadly, I have the impression that there are people and groups in power who are rather intent upon war, regardless of predictions. Or they are at least not supporting a peaceful resolution. Their very refusal to step down or change their strategy is in fact the problem.</p>
+				<description><![CDATA[I believe the developed world has the potential knowledge and power to prevent a large scale religious war in the Middle East which threatens to involve numerous superpowers. For the sake of all civilization, we must force a peaceful resolution. There is a hope that our technology has enabled us to predict and even prevent [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I believe the developed world has the potential knowledge and power to prevent a large scale religious war in the Middle East which threatens to involve numerous superpowers. For the sake of all civilization, we must force a peaceful resolution. There is a hope that our technology has enabled us to predict and even prevent global disasters. Sadly, I have the impression that there are people and groups in power who are rather intent upon war, regardless of predictions. Or they are at least not supporting a peaceful resolution. Their very refusal to step down or change their strategy is in fact the problem.</p>
 <p>Perhaps they don&#8217;t realize that most developed economies, including the United States, Europe and Japan are in dis-integrative secular cycles. Any global fighting will only accelerate the descent into local unrest and civil dissidence in the developed economies. It is important to remember that World World II began around ten years after the start of the Great Depression. The current global depression, yes depression (not recession), occurred about seven years ago. History does progress in cycles, not necessarily at periodic intervals, but the highest probability of global war is in the years following a global depression. Martin Armstrong has mentioned that November 20, 2014 was a critical date in his war cycle and that <a href="//armstrongeconomics.com/cycle-of-war-political-economy/" target="_blank">2015 and 2016 are going to be volatile years</a>.</p>
 <p>Looking at <a href="//www.thebubbleindex.com/" target="_blank">The Bubble Index</a> (10,080 and 20,160 days), shows that the DJIA and S&amp;P 500 are both still in large scale decompression phases which started in 2008-9. Similar decompression phases in The Bubble Index occurred in the late 1960&#8217;s and lasted through the 1970&#8217;s. This marked a time of great civil unrest. And if you are an Elliott Wave follower, <a href="//danericselliottwaves.blogspot.com/" target="_blank">Daneric&#8217;s blog</a> suggests the recent bull market is a &#8220;sucker&#8217;s rally&#8221; B wave off the 2009 lows, and that a C wave is about to unfold in the Wilshire 5000 (although there are other EW blogs, such as <a href="//caldaro.wordpress.com/" target="_blank">Caldaro</a>, which predict different outcomes). If these predictions come true we are looking at a future in the next few years of political unrest and economic volatility. Only time will tell&#8230;</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/11/war-or-peace/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/11/war-or-peace/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>The Misbehavior of Markets: A Fractal View of Financial Turbulence &#8211; Benoit Mandelbrot</title>
 		<link>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/</link>
-		<comments>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/#respond</comments>
-		<pubDate>Wed, 27 Aug 2014 23:45:00 +0000</pubDate>
+				<comments>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/#disqus_thread</comments>
+				<pubDate>Wed, 27 Aug 2014 23:45:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[benoit mandelbrot]]></category>
 		<category><![CDATA[book]]></category>
@@ -279,13 +281,13 @@
 		<category><![CDATA[wave theory]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=26</guid>
-		<description><![CDATA[I&#8217;ve been wanting to read The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" width="211" /></a></div>
+				<description><![CDATA[I&#8217;ve been wanting to read The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" width="211" /></a></div>
 <div style="text-align: justify;">I&#8217;ve been wanting to read <a href="//amzn.com/0465043577" target="_blank">The Misbehavior of Markets: A Fractal View of Financial Turbulence</a> by <a href="//en.wikipedia.org/wiki/Benoit_Mandelbrot" target="_blank">Benoit Mandelbrot</a> for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It is a little surprising that Mandelbrot did not talk in detail about the work of <a href="//anautonomousagent.com/?p=138" target="_blank">R.N. Elliott or Robert Prechter</a>, among others, which I think complement Mandelbrot&#8217;s work on financial fractals. Patrick Harris wrote a short paper discussing whether Mandelbrot should have cited Elliott (<a href="//www.math.utah.edu/vigre/reu/reports/harris_fall2005.pdf" target="_blank">link to paper</a>).</p>
 <p>To me, the idea of infinite memory processes is one of the most important concepts touched on by Mandelbrot in this book. It suggests that economists and traders should be developing models and theories which value the importance of price series and data going back decades. And it makes sense to me that people and prices do not change their fundamental behavior over extended periods of technological evolution. However, I suspect that organisms do change their fundamental behavior if the time horizon is thousands or millions of years. I am very curious to read more about Hurst&#8217;s studies of the Nile.</p></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

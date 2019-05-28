@@ -12,16 +12,18 @@
 	<atom:link href="/category/democracy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:20 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Follow My Vote &#8211; Online Voting Platform</title>
 		<link>/2016/04/follow-my-vote-online-voting-platform/</link>
-		<comments>/2016/04/follow-my-vote-online-voting-platform/#respond</comments>
-		<pubDate>Mon, 25 Apr 2016 17:13:11 +0000</pubDate>
+				<comments>/2016/04/follow-my-vote-online-voting-platform/#disqus_thread</comments>
+				<pubDate>Mon, 25 Apr 2016 17:13:11 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[blockchain]]></category>
 		<category><![CDATA[democracy]]></category>
@@ -32,8 +34,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1536</guid>
-		<description><![CDATA[CURRENT: Donate to make this platform a powerful political tool! Kickstarter Campaign. Follow My Vote is a revolutionary new platform which utilizes blockchain technology to allow voters to vote at home and on their own time. The blockchain has enormous potential for many applications, especially voting: Another application for blockchain technology is voting. By casting [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>CURRENT: Donate to make this platform a powerful political tool! <a href="https://www.kickstarter.com/projects/adamkalebernest/e2e-verifiable-blockchain-voting-software-follow-m/" target="_blank">Kickstarter Campaign</a>.</p>
+				<description><![CDATA[CURRENT: Donate to make this platform a powerful political tool! Kickstarter Campaign. Follow My Vote is a revolutionary new platform which utilizes blockchain technology to allow voters to vote at home and on their own time. The blockchain has enormous potential for many applications, especially voting: Another application for blockchain technology is voting. By casting [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>CURRENT: Donate to make this platform a powerful political tool! <a href="https://www.kickstarter.com/projects/adamkalebernest/e2e-verifiable-blockchain-voting-software-follow-m/" target="_blank">Kickstarter Campaign</a>.</p>
 <p><a href="https://followmyvote.com/" target="_blank">Follow My Vote</a> is a revolutionary new platform which utilizes blockchain technology to allow voters to vote at home and on their own time. The blockchain has enormous potential for many applications, especially voting:</p>
 <blockquote><p>Another application for blockchain technology is voting. By casting votes as transactions, we can create a blockchain which keeps track of the tallies of the votes. This way, everyone can agree on the final count because they can count the votes themselves, and because of the blockchain audit trail, they can verify that no votes were changed or removed, and no illegitimate votes were added.</p></blockquote>
 <p>Full length demo:</p>
@@ -42,8 +44,8 @@
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/04/follow-my-vote-online-voting-platform/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/04/follow-my-vote-online-voting-platform/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

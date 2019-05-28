@@ -12,16 +12,18 @@
 	<atom:link href="/category/konrad-zuse/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:52:41 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Rechnender Raum (Calculating Space) &#8211; Konrad Zuse</title>
 		<link>/2013/01/rechnender-raum-calculating-space-konrad-zuse/</link>
-		<comments>/2013/01/rechnender-raum-calculating-space-konrad-zuse/#respond</comments>
-		<pubDate>Tue, 08 Jan 2013 21:07:00 +0000</pubDate>
+				<comments>/2013/01/rechnender-raum-calculating-space-konrad-zuse/#disqus_thread</comments>
+				<pubDate>Tue, 08 Jan 2013 21:07:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[autonomous agent]]></category>
 		<category><![CDATA[biology]]></category>
@@ -36,12 +38,12 @@
 		<category><![CDATA[universe]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=308</guid>
-		<description><![CDATA[Konrad Zuse&#8217;s Rechnender Raum (Calculating Space) is a book which proposes the idea that the universe is computed by cellular automaton. Thanks to MIT and Zuse&#8217;s family, the book can be downloaded as a pdf.]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/Konrad-Zuse1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/Konrad-Zuse1.jpg" height="320" width="248" /></a></div>
+				<description><![CDATA[Konrad Zuse&#8217;s Rechnender Raum (Calculating Space) is a book which proposes the idea that the universe is computed by cellular automaton. Thanks to MIT and Zuse&#8217;s family, the book can be downloaded as a pdf.]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/Konrad-Zuse1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/Konrad-Zuse1.jpg" height="320" width="248" /></a></div>
 <p><a href="//en.wikipedia.org/wiki/Konrad_Zuse" target="_blank">Konrad Zuse&#8217;s</a> <i>Rechnender Raum (<a href="//en.wikipedia.org/wiki/Calculating_Space" target="_blank">Calculating Space</a>)</i> is a book which proposes the idea that the universe is computed by <a href="//en.wikipedia.org/wiki/Cellular_automaton" target="_blank">cellular automaton</a>. Thanks to MIT and Zuse&#8217;s family, the book can be <a href="//www.mathrix.org/zenil/ZuseCalculatingSpace-GermanZenil.pdf" target="_blank">downloaded as a pdf</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/rechnender-raum-calculating-space-konrad-zuse/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/rechnender-raum-calculating-space-konrad-zuse/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

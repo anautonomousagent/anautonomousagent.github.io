@@ -12,16 +12,18 @@
 	<atom:link href="/category/ray-kurzweil/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:52:40 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>How to Create a Mind: The Secret of Human Thought Revealed &#8211; Ray Kurzweil</title>
 		<link>/2013/01/how-to-create-a-mind-the-secret-of-human-thought-revealed-ray-kurzweil/</link>
-		<comments>/2013/01/how-to-create-a-mind-the-secret-of-human-thought-revealed-ray-kurzweil/#respond</comments>
-		<pubDate>Tue, 08 Jan 2013 22:02:00 +0000</pubDate>
+				<comments>/2013/01/how-to-create-a-mind-the-secret-of-human-thought-revealed-ray-kurzweil/#disqus_thread</comments>
+				<pubDate>Tue, 08 Jan 2013 22:02:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[artificial intelligence]]></category>
 		<category><![CDATA[biology]]></category>
@@ -36,12 +38,12 @@
 		<category><![CDATA[science]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=305</guid>
-		<description><![CDATA[I think one of the next books I read will be Ray Kurzweil&#8217;s How to Create a Mind: The Secret of Human Thought Revealed. The book was recently published and Kurzweil has been known to produce some interesting ideas. In fact, I am planning to read a few of his other books as well.]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/how-to-create-a-mind1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/how-to-create-a-mind1.jpg" height="320" width="212" /></a></div>
+				<description><![CDATA[I think one of the next books I read will be Ray Kurzweil&#8217;s How to Create a Mind: The Secret of Human Thought Revealed. The book was recently published and Kurzweil has been known to produce some interesting ideas. In fact, I am planning to read a few of his other books as well.]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/how-to-create-a-mind1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/how-to-create-a-mind1.jpg" height="320" width="212" /></a></div>
 <p>I think one of the next books I read will be <a href="//en.wikipedia.org/wiki/Ray_Kurzweil" target="_blank">Ray Kurzweil&#8217;s</a> <a href="//amzn.com/0670025291" target="_blank"><i>How to Create a Mind: The Secret of Human Thought Revealed</i></a>. The book was recently published and Kurzweil has been known to produce some interesting ideas. In fact, I am planning to read a few of his other books as well.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/how-to-create-a-mind-the-secret-of-human-thought-revealed-ray-kurzweil/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/how-to-create-a-mind-the-secret-of-human-thought-revealed-ray-kurzweil/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

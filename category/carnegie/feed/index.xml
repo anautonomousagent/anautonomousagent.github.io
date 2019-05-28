@@ -12,16 +12,18 @@
 	<atom:link href="/category/carnegie/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:51 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Cognitive Astrophysics: A View from Nowhere</title>
 		<link>/2013/07/cognitive-astrophysics-a-view-from-nowhere/</link>
-		<comments>/2013/07/cognitive-astrophysics-a-view-from-nowhere/#respond</comments>
-		<pubDate>Thu, 11 Jul 2013 12:10:00 +0000</pubDate>
+				<comments>/2013/07/cognitive-astrophysics-a-view-from-nowhere/#disqus_thread</comments>
+				<pubDate>Thu, 11 Jul 2013 12:10:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[astronomy]]></category>
 		<category><![CDATA[barry madore]]></category>
@@ -33,13 +35,13 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=153</guid>
-		<description><![CDATA[Really cool lecture about the limits of human cognition. Cognitive Astrophysics: A View from Nowhere I was really amazed when I found out that tree leaves are, in effect, pinhole cameras. See here:&#160;Tree Leaves as “Pinhole Cameras” During a Solar Eclipse]]></description>
-				<content:encoded><![CDATA[<p>Really cool lecture about the limits of human cognition.</p>
+				<description><![CDATA[Really cool lecture about the limits of human cognition. Cognitive Astrophysics: A View from Nowhere I was really amazed when I found out that tree leaves are, in effect, pinhole cameras. See here:&#160;Tree Leaves as “Pinhole Cameras” During a Solar Eclipse]]></description>
+								<content:encoded><![CDATA[<p>Really cool lecture about the limits of human cognition.</p>
 <p><a href="//youtu.be/fdvIm1Qes9Q">Cognitive Astrophysics: A View from Nowhere</a></p>
 <p>I was really amazed when I found out that tree leaves are, in effect, pinhole cameras. See here:&nbsp;<a href="//petapixel.com/2012/05/21/crescent-shaped-projections-through-tree-leaves-during-the-solar-eclipse/" target="_blank">Tree Leaves as “Pinhole Cameras” During a Solar Eclipse</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/07/cognitive-astrophysics-a-view-from-nowhere/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/07/cognitive-astrophysics-a-view-from-nowhere/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

@@ -12,16 +12,18 @@
 	<atom:link href="/category/hed-capital/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:49 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>HED Capital Management and Parallax Financial Research</title>
 		<link>/2013/08/hed-capital-management-and-parallax-financial-research/</link>
-		<comments>/2013/08/hed-capital-management-and-parallax-financial-research/#respond</comments>
-		<pubDate>Sat, 31 Aug 2013 14:12:00 +0000</pubDate>
+				<comments>/2013/08/hed-capital-management-and-parallax-financial-research/#disqus_thread</comments>
+				<pubDate>Sat, 31 Aug 2013 14:12:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[bubble]]></category>
 		<category><![CDATA[finance]]></category>
@@ -35,8 +37,8 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=148</guid>
-		<description><![CDATA[There are two sites which deliver similar analysis, when compared to The Bubble Index™, of financial markets and indices. These two sites are: HED Capital Management Ltd. Parallax Financial Research And here are two videos associated with these sites: HED Captial Management Video on VimeoParallax Financial Research Video on Vimeo]]></description>
-				<content:encoded><![CDATA[<p>There are two sites which deliver similar analysis, when compared to The Bubble Index<img src="https://s.w.org/images/core/emoji/11/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />, of financial markets and indices.</p>
+				<description><![CDATA[There are two sites which deliver similar analysis, when compared to The Bubble Index™, of financial markets and indices. These two sites are: HED Capital Management Ltd. Parallax Financial Research And here are two videos associated with these sites: HED Captial Management Video on VimeoParallax Financial Research Video on Vimeo]]></description>
+								<content:encoded><![CDATA[<p>There are two sites which deliver similar analysis, when compared to The Bubble Index<img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />, of financial markets and indices.</p>
 <p>These two sites are:</p>
 <ul>
 <li><a href="//hedcapital.com/" target="_blank">HED Capital Management Ltd.</a></li>
@@ -45,8 +47,8 @@
 <p>And here are two videos associated with these sites:</p>
 <p><a href="//vimeo.com/32777378" target="_blank">HED Captial Management Video on Vimeo</a><br /><a href="//vimeo.com/66865737" target="_blank">Parallax Financial Research Video on Vimeo</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/08/hed-capital-management-and-parallax-financial-research/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/08/hed-capital-management-and-parallax-financial-research/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

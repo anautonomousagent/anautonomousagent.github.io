@@ -12,16 +12,18 @@
 	<atom:link href="/category/michael-pitiot/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:49:59 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Planet Ocean (2012) &#8211; Yann Arthus-Bertrand and Michael Pitiot</title>
 		<link>/2014/08/planet-ocean-2012-yann-arthus-bertrand-and-michael-pitiot/</link>
-		<comments>/2014/08/planet-ocean-2012-yann-arthus-bertrand-and-michael-pitiot/#respond</comments>
-		<pubDate>Fri, 22 Aug 2014 15:05:00 +0000</pubDate>
+				<comments>/2014/08/planet-ocean-2012-yann-arthus-bertrand-and-michael-pitiot/#disqus_thread</comments>
+				<pubDate>Fri, 22 Aug 2014 15:05:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropocene]]></category>
 		<category><![CDATA[biology]]></category>
@@ -38,11 +40,11 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=28</guid>
-		<description><![CDATA[I absolutely loved the stunning imagery and awe captured in Planet Ocean. Looking at the microscopic organisms blooming in the ocean, then witnessing the entire Gaia system interacting in complex ways, the perspectives are inspiring for scientists and artists. It was one of the best visual documentaries I have seen. Definitely worth watching!]]></description>
-				<content:encoded><![CDATA[<p>I absolutely loved the stunning imagery and awe captured in <a href="//youtu.be/eH1s9GCqPKo" target="_blank">Planet Ocean</a>. Looking at the microscopic organisms blooming in the ocean, then witnessing the entire Gaia system interacting in complex ways, the perspectives are inspiring for scientists and artists. It was one of the best visual documentaries I have seen. Definitely worth watching!</p>
+				<description><![CDATA[I absolutely loved the stunning imagery and awe captured in Planet Ocean. Looking at the microscopic organisms blooming in the ocean, then witnessing the entire Gaia system interacting in complex ways, the perspectives are inspiring for scientists and artists. It was one of the best visual documentaries I have seen. Definitely worth watching!]]></description>
+								<content:encoded><![CDATA[<p>I absolutely loved the stunning imagery and awe captured in <a href="//youtu.be/eH1s9GCqPKo" target="_blank">Planet Ocean</a>. Looking at the microscopic organisms blooming in the ocean, then witnessing the entire Gaia system interacting in complex ways, the perspectives are inspiring for scientists and artists. It was one of the best visual documentaries I have seen. Definitely worth watching!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/08/planet-ocean-2012-yann-arthus-bertrand-and-michael-pitiot/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/08/planet-ocean-2012-yann-arthus-bertrand-and-michael-pitiot/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

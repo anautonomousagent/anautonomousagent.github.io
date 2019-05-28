@@ -12,16 +12,18 @@
 	<atom:link href="/category/rupert-sheldrake/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:07 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>A Glorious Accident &#8211; Wim Kayzer (1993)</title>
 		<link>/2017/06/a-glorious-accident-wim-kayzer-1993/</link>
-		<comments>/2017/06/a-glorious-accident-wim-kayzer-1993/#respond</comments>
-		<pubDate>Mon, 19 Jun 2017 02:20:13 +0000</pubDate>
+				<comments>/2017/06/a-glorious-accident-wim-kayzer-1993/#disqus_thread</comments>
+				<pubDate>Mon, 19 Jun 2017 02:20:13 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[artificial intelligence]]></category>
 		<category><![CDATA[consciousness]]></category>
@@ -36,13 +38,13 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1812</guid>
-		<description><![CDATA[A Glorious Accident is a set of interviews and discussions with Stephen J. Gould, Freeman Dyson, Stephen Toulmin, Oliver Sacks, Rupert Sheldrake, and Daniel Dennett. The final video is a round table with all of them answering questions about philosophy, evolution, life and the cosmos. These videos are perfect for the curious and intellectual mind. [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>A Glorious Accident is a set of interviews and discussions with Stephen J. Gould, Freeman Dyson, Stephen Toulmin, Oliver Sacks, Rupert Sheldrake, and Daniel Dennett. The final video is a round table with all of them answering questions about philosophy, evolution, life and the cosmos.</p>
+				<description><![CDATA[A Glorious Accident is a set of interviews and discussions with Stephen J. Gould, Freeman Dyson, Stephen Toulmin, Oliver Sacks, Rupert Sheldrake, and Daniel Dennett. The final video is a round table with all of them answering questions about philosophy, evolution, life and the cosmos. These videos are perfect for the curious and intellectual mind. [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>A Glorious Accident is a set of interviews and discussions with Stephen J. Gould, Freeman Dyson, Stephen Toulmin, Oliver Sacks, Rupert Sheldrake, and Daniel Dennett. The final video is a round table with all of them answering questions about philosophy, evolution, life and the cosmos.</p>
 <p>These videos are perfect for the curious and intellectual mind. Get comfortable, grab your popcorn and enjoy!</p>
 <p><a href="https://www.youtube.com/playlist?list=PLzLGaX_JvmJoIGJFR_1M088pMz68qUtnc">A Glorious Accident YouTube Playlist</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2017/06/a-glorious-accident-wim-kayzer-1993/feed/</wfw:commentRss>
+							<wfw:commentRss>/2017/06/a-glorious-accident-wim-kayzer-1993/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

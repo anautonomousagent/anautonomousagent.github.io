@@ -12,16 +12,18 @@
 	<atom:link href="/category/escher/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:55:28 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Big Picture &#8211; Barry Ritholtz</title>
 		<link>/2013/05/the-big-picture-barry-ritholtz/</link>
-		<comments>/2013/05/the-big-picture-barry-ritholtz/#respond</comments>
-		<pubDate>Sun, 12 May 2013 01:41:00 +0000</pubDate>
+				<comments>/2013/05/the-big-picture-barry-ritholtz/#disqus_thread</comments>
+				<pubDate>Sun, 12 May 2013 01:41:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[Bach]]></category>
 		<category><![CDATA[Barry Ritholtz]]></category>
@@ -35,17 +37,17 @@
 		<category><![CDATA[The Big Picture]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=168</guid>
-		<description><![CDATA[The Big Picture is the name of Barry Ritholtz&#8217;s blog about stocks, investing, financial markets, and economics. Interestingly, I actually ran across this good blog will searching for Godel, Escher, Bach.]]></description>
-				<content:encoded><![CDATA[<p><a href="//www.ritholtz.com/blog/" target="_blank">The Big Picture</a> is the name of Barry Ritholtz&#8217;s blog about stocks, investing, financial markets, and economics. Interestingly, I actually ran across this good blog will searching for Godel, Escher, Bach.</p>
+				<description><![CDATA[The Big Picture is the name of Barry Ritholtz&#8217;s blog about stocks, investing, financial markets, and economics. Interestingly, I actually ran across this good blog will searching for Godel, Escher, Bach.]]></description>
+								<content:encoded><![CDATA[<p><a href="//www.ritholtz.com/blog/" target="_blank">The Big Picture</a> is the name of Barry Ritholtz&#8217;s blog about stocks, investing, financial markets, and economics. Interestingly, I actually ran across this good blog will searching for Godel, Escher, Bach.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/05/the-big-picture-barry-ritholtz/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/05/the-big-picture-barry-ritholtz/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Jason Silva Videos</title>
 		<link>/2013/03/jason-silva-videos/</link>
-		<comments>/2013/03/jason-silva-videos/#respond</comments>
-		<pubDate>Wed, 27 Mar 2013 14:49:00 +0000</pubDate>
+				<comments>/2013/03/jason-silva-videos/#disqus_thread</comments>
+				<pubDate>Wed, 27 Mar 2013 14:49:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[Bach]]></category>
@@ -65,8 +67,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=181</guid>
-		<description><![CDATA[Jason Silva creates some incredible philosophical videos. He is noted for reiterating Timothy Leary&#8217;s description of the computer and internet as the LSD of the 90&#8217;s. And his short clips are intended to be such a psychedelic experience. Really great; as most of them are based on many of the books and ideas posted in this blog. Be sure [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/03/jason_silva1.png"><img src="//anautonomousagent.com/wp-content/uploads/2013/03/jason_silva1.png" width="400" height="266" border="0" /></a></div>
+				<description><![CDATA[Jason Silva creates some incredible philosophical videos. He is noted for reiterating Timothy Leary&#8217;s description of the computer and internet as the LSD of the 90&#8217;s. And his short clips are intended to be such a psychedelic experience. Really great; as most of them are based on many of the books and ideas posted in this blog. Be sure [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/03/jason_silva1.png"><img src="//anautonomousagent.com/wp-content/uploads/2013/03/jason_silva1.png" width="400" height="266" border="0" /></a></div>
 <p><a href="//en.wikipedia.org/wiki/Jason_Silva" target="_blank" rel="noopener">Jason Silva</a> creates some incredible philosophical videos. He is noted for reiterating Timothy Leary&#8217;s description of the computer and internet as the LSD of the 90&#8217;s. And his short clips are intended to be such a psychedelic experience. Really great; as most of them are based on many of the books and ideas posted in this blog. Be sure to watch his videos:</p>
 <p><a href="//vimeo.com/jasonsilva/videos" target="_blank" rel="noopener">Jason Silva on Vimeo</a></p>
 <p><a href="//www.youtube.com/user/jasonsilvamindmeld" target="_blank" rel="noopener">Jason Silva on YouTube</a></p>
@@ -76,14 +78,14 @@
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/03/jason-silva-videos/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/03/jason-silva-videos/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Energy &#8211; Stardust &#8211; Consciousness</title>
 		<link>/2013/03/energy-stardust-consciousness/</link>
-		<comments>/2013/03/energy-stardust-consciousness/#respond</comments>
-		<pubDate>Wed, 20 Mar 2013 02:58:00 +0000</pubDate>
+				<comments>/2013/03/energy-stardust-consciousness/#disqus_thread</comments>
+				<pubDate>Wed, 20 Mar 2013 02:58:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[Bach]]></category>
 		<category><![CDATA[biology]]></category>
@@ -102,8 +104,8 @@
 		<category><![CDATA[universe]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=193</guid>
-		<description><![CDATA[Quote from Edgar Mitchell: &#8220;I realized that the molecules of my body and the molecules of the spacecraft had been manufactured in an ancient generation of stars. It wasn’t just intellectual knowledge — it was a subjective visceral experience accompanied by ecstasy — a transformational experience. (…) The experience in space was so powerful that [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/03/UFO-UFOS-sighting-sightings-space-alien-aliens-moon-announcement-nasa-astronot-ufo-ay-apollo-edg-300x2381.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="158" src="//anautonomousagent.com/wp-content/uploads/2013/03/UFO-UFOS-sighting-sightings-space-alien-aliens-moon-announcement-nasa-astronot-ufo-ay-apollo-edg-300x2381-300x238.jpg" width="200" /></a></div>
+				<description><![CDATA[Quote from Edgar Mitchell: &#8220;I realized that the molecules of my body and the molecules of the spacecraft had been manufactured in an ancient generation of stars. It wasn’t just intellectual knowledge — it was a subjective visceral experience accompanied by ecstasy — a transformational experience. (…) The experience in space was so powerful that [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/03/UFO-UFOS-sighting-sightings-space-alien-aliens-moon-announcement-nasa-astronot-ufo-ay-apollo-edg-300x2381.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="158" src="//anautonomousagent.com/wp-content/uploads/2013/03/UFO-UFOS-sighting-sightings-space-alien-aliens-moon-announcement-nasa-astronot-ufo-ay-apollo-edg-300x2381-300x238.jpg" width="200" /></a></div>
 <div style="text-align: justify;">Quote from <a href="//en.wikipedia.org/wiki/Edgar_Mitchell" target="_blank">Edgar Mitchell</a>:</div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">&#8220;I realized that the molecules of my body and the molecules of the spacecraft had been manufactured in an ancient generation of stars. It wasn’t just intellectual knowledge — it was a subjective visceral experience accompanied by ecstasy — a transformational experience.</div>
@@ -115,14 +117,14 @@
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">But tracing back our origins to the first stars suffers as a mental process. The neurons in our brain store such information and understanding as electrical impulses. Neurons acting in complex patterns inside our brain produce such visions of the past. Our emotions stimulate their&nbsp;acceptance&nbsp;and development. &nbsp;In effect, these thought processes only show our continual ignorance. Me, writing about this very idea seems to be in direct opposition to what I am trying to say. There seems to be an infinitude of ignorance and a strange loop of never ending information. For it seems simple to imagine the universe as only a&nbsp;manifestation&nbsp;of these information patterns. Perhaps the only solution is to accept ignorance and live. Or maybe there is a single source of information from which all information flows which we will eventually discover. Or, as I suggest, the only answer is to read <i><a href="//ttrott.blogspot.com/2012/12/godel-escher-bach-douglas-hofstadter.html" target="_blank">Godel, Escher, Bach</a></i> over and over until your eyes are sore. But,&nbsp;throughout&nbsp;history, spiritual&nbsp;enlightenment has been the provider of such answers. Living through a religion in ignorance provides the simple answer to the universe. A religion allows us to stop asking questions; to stop searching for the answer. This raises the question: Can science be considered a religion?</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/03/energy-stardust-consciousness/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/03/energy-stardust-consciousness/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>The Creation of Stocks</title>
 		<link>/2013/01/the-creation-of-stocks/</link>
-		<comments>/2013/01/the-creation-of-stocks/#respond</comments>
-		<pubDate>Thu, 03 Jan 2013 20:52:00 +0000</pubDate>
+				<comments>/2013/01/the-creation-of-stocks/#disqus_thread</comments>
+				<pubDate>Thu, 03 Jan 2013 20:52:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[autonomous agent]]></category>
 		<category><![CDATA[Bach]]></category>
@@ -138,8 +140,8 @@
 		<category><![CDATA[warren buffett]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=340</guid>
-		<description><![CDATA[Warren, Ben, David, and Taylor are four friends who meet on weekends to discuss various ideas and have a good time. They are together one night and begin discussing a business venture. Warren: I know a great idea! Ben: Sure, tell us another one of your &#8220;great&#8221; ideas. I hope this one is better than [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Warren, Ben, David, and Taylor are four friends who meet on weekends to discuss various ideas and have a good time. They are together one night and begin discussing a business venture.</p>
+				<description><![CDATA[Warren, Ben, David, and Taylor are four friends who meet on weekends to discuss various ideas and have a good time. They are together one night and begin discussing a business venture. Warren: I know a great idea! Ben: Sure, tell us another one of your &#8220;great&#8221; ideas. I hope this one is better than [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Warren, Ben, David, and Taylor are four friends who meet on weekends to discuss various ideas and have a good time. They are together one night and begin discussing a business venture.</p>
 <p>Warren: I know a great idea! </p>
 <p>Ben: Sure, tell us another one of your &#8220;great&#8221; ideas. I hope this one is better than that silly farming device.</p>
 <p>David: Alright, let Warren indulge us.</p>
@@ -177,14 +179,14 @@
 <p>Warren: I think I will buy some of these pieces of paper.</p>
 <p>Ben: Me too! And make even more money!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/the-creation-of-stocks/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/the-creation-of-stocks/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Hofstadter&#8217;s Butterfly</title>
 		<link>/2013/01/hofstadters-butterfly/</link>
-		<comments>/2013/01/hofstadters-butterfly/#respond</comments>
-		<pubDate>Tue, 01 Jan 2013 21:08:00 +0000</pubDate>
+				<comments>/2013/01/hofstadters-butterfly/#disqus_thread</comments>
+				<pubDate>Tue, 01 Jan 2013 21:08:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[Bach]]></category>
@@ -201,8 +203,8 @@
 		<category><![CDATA[self-organization]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=385</guid>
-		<description><![CDATA[Hofstadter&#8217;s Butterfly, what a beautiful self-repeating pattern! Discovered by Douglas Hofstadter. Credit]]></description>
-				<content:encoded><![CDATA[<p><a href="//en.wikipedia.org/wiki/Hofstadter%27s_butterfly" target="_blank">Hofstadter&#8217;s Butterfly</a>, what a beautiful self-repeating pattern! Discovered by <a href="//en.wikipedia.org/wiki/Douglas_Hofstadter" target="_blank">Douglas Hofstadter</a>.</p>
+				<description><![CDATA[Hofstadter&#8217;s Butterfly, what a beautiful self-repeating pattern! Discovered by Douglas Hofstadter. Credit]]></description>
+								<content:encoded><![CDATA[<p><a href="//en.wikipedia.org/wiki/Hofstadter%27s_butterfly" target="_blank">Hofstadter&#8217;s Butterfly</a>, what a beautiful self-repeating pattern! Discovered by <a href="//en.wikipedia.org/wiki/Douglas_Hofstadter" target="_blank">Douglas Hofstadter</a>.</p>
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 <tbody>
 <tr>
@@ -215,14 +217,14 @@
 </table>
 <p></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/hofstadters-butterfly/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/hofstadters-butterfly/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Tree of Knowledge &#8211; Maturana and Varela</title>
 		<link>/2012/12/tree-of-knowledge-maturana-and-varela/</link>
-		<comments>/2012/12/tree-of-knowledge-maturana-and-varela/#respond</comments>
-		<pubDate>Sun, 30 Dec 2012 04:05:00 +0000</pubDate>
+				<comments>/2012/12/tree-of-knowledge-maturana-and-varela/#disqus_thread</comments>
+				<pubDate>Sun, 30 Dec 2012 04:05:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[Bach]]></category>
 		<category><![CDATA[biology]]></category>
@@ -238,17 +240,17 @@
 		<category><![CDATA[tree of knowledge]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=420</guid>
-		<description><![CDATA[I have yet to read&#160;Tree of Knowledge&#160;by Humberto Maturana and Francisco Varela&#160; (ISBN-13: 978-0877736424). I have the book, sitting in my room. Flipping through the pages, it seems like a must read. The book came to my attention after reading some reviews on Amazon about Godel, Escher, and Bach.]]></description>
-				<content:encoded><![CDATA[<p><a href="//anautonomousagent.com/wp-content/uploads/2012/12/baum.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2012/12/baum.jpg" height="153" width="200" /></a><a href="//anautonomousagent.com/wp-content/uploads/2012/12/maturana_y_varela_2.jpg" style="clear: right; display: inline ! important; float: right; margin-bottom: 1em; margin-left: 1em; text-align: center;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2012/12/maturana_y_varela_2.jpg" /></a>I have yet to read&nbsp;<a href="//amzn.com/0877736421" style="font-style: italic;" target="_blank">Tree of Knowledge</a><i>&nbsp;</i>by <a href="//en.wikipedia.org/wiki/Humberto_Maturana" target="_blank">Humberto Maturana</a> and <a href="//en.wikipedia.org/wiki/Francisco_Varela" target="_blank">Francisco Varela</a>&nbsp; (ISBN-13: 978-0877736424). I have the book, sitting in my room. Flipping through the pages, it seems like a must read. The book came to my attention after reading some reviews<i> </i>on Amazon about <a href="//ttrott.blogspot.com/2012/12/godel-escher-bach-douglas-hofstadter.html" target="_blank"><i>Godel, Escher, and Bach</i></a>.</p>
+				<description><![CDATA[I have yet to read&#160;Tree of Knowledge&#160;by Humberto Maturana and Francisco Varela&#160; (ISBN-13: 978-0877736424). I have the book, sitting in my room. Flipping through the pages, it seems like a must read. The book came to my attention after reading some reviews on Amazon about Godel, Escher, and Bach.]]></description>
+								<content:encoded><![CDATA[<p><a href="//anautonomousagent.com/wp-content/uploads/2012/12/baum.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2012/12/baum.jpg" height="153" width="200" /></a><a href="//anautonomousagent.com/wp-content/uploads/2012/12/maturana_y_varela_2.jpg" style="clear: right; display: inline ! important; float: right; margin-bottom: 1em; margin-left: 1em; text-align: center;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2012/12/maturana_y_varela_2.jpg" /></a>I have yet to read&nbsp;<a href="//amzn.com/0877736421" style="font-style: italic;" target="_blank">Tree of Knowledge</a><i>&nbsp;</i>by <a href="//en.wikipedia.org/wiki/Humberto_Maturana" target="_blank">Humberto Maturana</a> and <a href="//en.wikipedia.org/wiki/Francisco_Varela" target="_blank">Francisco Varela</a>&nbsp; (ISBN-13: 978-0877736424). I have the book, sitting in my room. Flipping through the pages, it seems like a must read. The book came to my attention after reading some reviews<i> </i>on Amazon about <a href="//ttrott.blogspot.com/2012/12/godel-escher-bach-douglas-hofstadter.html" target="_blank"><i>Godel, Escher, and Bach</i></a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2012/12/tree-of-knowledge-maturana-and-varela/feed/</wfw:commentRss>
+							<wfw:commentRss>/2012/12/tree-of-knowledge-maturana-and-varela/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Godel, Escher, Bach &#8211; Douglas Hofstadter</title>
 		<link>/2012/12/godel-escher-bach-douglas-hofstadter/</link>
-		<comments>/2012/12/godel-escher-bach-douglas-hofstadter/#respond</comments>
-		<pubDate>Sun, 30 Dec 2012 03:15:00 +0000</pubDate>
+				<comments>/2012/12/godel-escher-bach-douglas-hofstadter/#disqus_thread</comments>
+				<pubDate>Sun, 30 Dec 2012 03:15:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[Bach]]></category>
@@ -264,8 +266,8 @@
 		<category><![CDATA[Tatiana Nikolayeva]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=424</guid>
-		<description><![CDATA[In early November I ran across a book called Godel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter.  I began reading that book recently. Every page seems to be a remarkable insight into the universe. Highly recommended as one of the best books I have ever opened. Check out the following music by Bach: Musical [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>In early November I ran across a book called <i><a href="//amzn.com/0465026567" target="_blank" rel="noopener">Godel, Escher, Bach: An Eternal Golden Braid</a> </i>by <a href="//en.wikipedia.org/wiki/Douglas_Hofstadter" target="_blank" rel="noopener">Douglas Hofstadter</a>.  I began reading that book recently. Every page seems to be a remarkable insight into the universe. Highly recommended as one of the best books I have ever opened. Check out the following music by Bach: <a href="//youtu.be/5-o5lkoI6vE" target="_blank" rel="noopener">Musical Offering</a>, <a href="//youtu.be/A41CITk85jk" target="_blank" rel="noopener">Never-ending Canon</a>, <a href="//youtu.be/Lrb0dHKJBR4" target="_blank" rel="noopener">Die Kunst Der Fuge (The Art of Fugue)</a>, and <a href="//youtu.be/BgFxMnQcLm4" target="_blank" rel="noopener">Kleines harmonisches labyrinth (Little Harmonic Labyrinth)</a>. To complement the book, I purchased the <a href="//amzn.com/B000002ZS9" target="_blank" rel="noopener">The Art of Fugue</a> by Bach and Tatiana Nikolayeva. The book explains the concept of <a href="//en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" target="_blank" rel="noopener">Godel&#8217;s Incompleteness Theorems</a> and their relationship to cognition. (ISBN-13: 978-0465026562)<br />
+				<description><![CDATA[In early November I ran across a book called Godel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter.  I began reading that book recently. Every page seems to be a remarkable insight into the universe. Highly recommended as one of the best books I have ever opened. Check out the following music by Bach: Musical [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>In early November I ran across a book called <i><a href="//amzn.com/0465026567" target="_blank" rel="noopener">Godel, Escher, Bach: An Eternal Golden Braid</a> </i>by <a href="//en.wikipedia.org/wiki/Douglas_Hofstadter" target="_blank" rel="noopener">Douglas Hofstadter</a>.  I began reading that book recently. Every page seems to be a remarkable insight into the universe. Highly recommended as one of the best books I have ever opened. Check out the following music by Bach: <a href="//youtu.be/5-o5lkoI6vE" target="_blank" rel="noopener">Musical Offering</a>, <a href="//youtu.be/A41CITk85jk" target="_blank" rel="noopener">Never-ending Canon</a>, <a href="//youtu.be/Lrb0dHKJBR4" target="_blank" rel="noopener">Die Kunst Der Fuge (The Art of Fugue)</a>, and <a href="//youtu.be/BgFxMnQcLm4" target="_blank" rel="noopener">Kleines harmonisches labyrinth (Little Harmonic Labyrinth)</a>. To complement the book, I purchased the <a href="//amzn.com/B000002ZS9" target="_blank" rel="noopener">The Art of Fugue</a> by Bach and Tatiana Nikolayeva. The book explains the concept of <a href="//en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" target="_blank" rel="noopener">Godel&#8217;s Incompleteness Theorems</a> and their relationship to cognition. (ISBN-13: 978-0465026562)<br />
 Also, check out the work of M.C. Escher: <a href="http://www.mcescher.com/gallery/" target="_blank" rel="noopener">Gallery</a><br />
 My Favorites:</p>
 <div style="text-align: center;">Convex and Concave</div>
@@ -276,8 +278,8 @@ My Favorites:</p>
 <div style="clear: both; text-align: center;">The Waterfall</div>
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2012/12/mc_escher_origional-waterfall.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2012/12/mc_escher_origional-waterfall.jpg" width="320" height="318" border="0" /></a></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2012/12/godel-escher-bach-douglas-hofstadter/feed/</wfw:commentRss>
+							<wfw:commentRss>/2012/12/godel-escher-bach-douglas-hofstadter/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

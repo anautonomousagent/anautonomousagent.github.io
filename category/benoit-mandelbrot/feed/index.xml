@@ -12,16 +12,18 @@
 	<atom:link href="/category/benoit-mandelbrot/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:57 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Misbehavior of Markets: A Fractal View of Financial Turbulence &#8211; Benoit Mandelbrot</title>
 		<link>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/</link>
-		<comments>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/#respond</comments>
-		<pubDate>Wed, 27 Aug 2014 23:45:00 +0000</pubDate>
+				<comments>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/#disqus_thread</comments>
+				<pubDate>Wed, 27 Aug 2014 23:45:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[benoit mandelbrot]]></category>
 		<category><![CDATA[book]]></category>
@@ -39,19 +41,19 @@
 		<category><![CDATA[wave theory]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=26</guid>
-		<description><![CDATA[I&#8217;ve been wanting to read The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" width="211" /></a></div>
+				<description><![CDATA[I&#8217;ve been wanting to read The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" width="211" /></a></div>
 <div style="text-align: justify;">I&#8217;ve been wanting to read <a href="//amzn.com/0465043577" target="_blank">The Misbehavior of Markets: A Fractal View of Financial Turbulence</a> by <a href="//en.wikipedia.org/wiki/Benoit_Mandelbrot" target="_blank">Benoit Mandelbrot</a> for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It is a little surprising that Mandelbrot did not talk in detail about the work of <a href="//anautonomousagent.com/?p=138" target="_blank">R.N. Elliott or Robert Prechter</a>, among others, which I think complement Mandelbrot&#8217;s work on financial fractals. Patrick Harris wrote a short paper discussing whether Mandelbrot should have cited Elliott (<a href="//www.math.utah.edu/vigre/reu/reports/harris_fall2005.pdf" target="_blank">link to paper</a>).</p>
 <p>To me, the idea of infinite memory processes is one of the most important concepts touched on by Mandelbrot in this book. It suggests that economists and traders should be developing models and theories which value the importance of price series and data going back decades. And it makes sense to me that people and prices do not change their fundamental behavior over extended periods of technological evolution. However, I suspect that organisms do change their fundamental behavior if the time horizon is thousands or millions of years. I am very curious to read more about Hurst&#8217;s studies of the Nile.</p></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Big Think Lectures and Interviews</title>
 		<link>/2013/05/big-think-lectures-and-interviews/</link>
-		<comments>/2013/05/big-think-lectures-and-interviews/#respond</comments>
-		<pubDate>Sun, 19 May 2013 00:09:00 +0000</pubDate>
+				<comments>/2013/05/big-think-lectures-and-interviews/#disqus_thread</comments>
+				<pubDate>Sun, 19 May 2013 00:09:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[benoit mandelbrot]]></category>
 		<category><![CDATA[brain]]></category>
@@ -72,15 +74,15 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=165</guid>
-		<description><![CDATA[Steven Pinker talking about how language helps scientists understand cognition.Steven Pinker: Linguistics as a Window to Understand the Brain Nicholas Christakis talks about important revolutions in understanding the social&#160;sciences.Nicholas Christakis: The Sociological Science Behind Social Networks and Social Influence Benoit Mandelbrot interview, talking about fractals.Big Think Interview with Benoit Mandelbrot Richard Dawkins interview, talking about [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Steven Pinker talking about how language helps scientists understand cognition.<br /><a href="//youtu.be/Q-B_ONJIEcE" target="_blank">Steven Pinker: Linguistics as a Window to Understand the Brain</a></p>
+				<description><![CDATA[Steven Pinker talking about how language helps scientists understand cognition.Steven Pinker: Linguistics as a Window to Understand the Brain Nicholas Christakis talks about important revolutions in understanding the social&#160;sciences.Nicholas Christakis: The Sociological Science Behind Social Networks and Social Influence Benoit Mandelbrot interview, talking about fractals.Big Think Interview with Benoit Mandelbrot Richard Dawkins interview, talking about [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Steven Pinker talking about how language helps scientists understand cognition.<br /><a href="//youtu.be/Q-B_ONJIEcE" target="_blank">Steven Pinker: Linguistics as a Window to Understand the Brain</a></p>
 <p>Nicholas Christakis talks about important revolutions in understanding the social&nbsp;sciences.<br /><a href="//youtu.be/wadBvDPeE4E" target="_blank">Nicholas Christakis: The Sociological Science Behind Social Networks and Social Influence</a></p>
 <p>Benoit Mandelbrot interview, talking about fractals.<br /><a href="//youtu.be/Xm-2ouPGrlY" target="_blank">Big Think Interview with Benoit Mandelbrot</a></p>
 <p>Richard Dawkins interview, talking about evolution and other related topics.<br /><a href="//youtu.be/gLgNWp7_cg8" target="_blank">Richard Dawkins &#8211; Evolutionary Biologist &#8211; Big Think &#8211; discussing a multitude of scientific topics</a></p>
 <p>First time I have heard about Stewart Brand; really smart and wise guy.<br /><a href="//youtu.be/iV3PBfmnI4I" target="_blank">Big Think Interview With Stewart Brand</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/05/big-think-lectures-and-interviews/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/05/big-think-lectures-and-interviews/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

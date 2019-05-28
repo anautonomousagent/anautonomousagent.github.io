@@ -12,16 +12,18 @@
 	<atom:link href="/category/holger-lippmann/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:56 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Holger Lippmann Art</title>
 		<link>/2013/06/holger-lippmann-art/</link>
-		<comments>/2013/06/holger-lippmann-art/#respond</comments>
-		<pubDate>Mon, 24 Jun 2013 19:27:00 +0000</pubDate>
+				<comments>/2013/06/holger-lippmann-art/#disqus_thread</comments>
+				<pubDate>Mon, 24 Jun 2013 19:27:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[computer]]></category>
@@ -32,16 +34,16 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=160</guid>
-		<description><![CDATA[Holger Lippmann creates fascinating digital art. Visit his page here. Some examples:]]></description>
-				<content:encoded><![CDATA[<p>Holger Lippmann creates fascinating digital art. Visit his page <a href="//www.lumicon.de/wp/" target="_blank">here</a>. Some examples:</p>
+				<description><![CDATA[Holger Lippmann creates fascinating digital art. Visit his page here. Some examples:]]></description>
+								<content:encoded><![CDATA[<p>Holger Lippmann creates fascinating digital art. Visit his page <a href="//www.lumicon.de/wp/" target="_blank">here</a>. Some examples:</p>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/06/1881_star2_grid_071.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="245" src="//anautonomousagent.com/wp-content/uploads/2013/06/1881_star2_grid_071.jpg" width="320" /></a></div>
 <div style="clear: both; text-align: center;"></div>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/06/41496-NoiseGrid_col_larger_points_square2_small7_21.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="160" src="//anautonomousagent.com/wp-content/uploads/2013/06/41496-NoiseGrid_col_larger_points_square2_small7_21.jpg" width="320" /></a></div>
 <div style="clear: both; text-align: center;"></div>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/06/3643026707_8b0c91419d_o1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2013/06/3643026707_8b0c91419d_o1.jpg" width="320" /></a></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/06/holger-lippmann-art/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/06/holger-lippmann-art/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

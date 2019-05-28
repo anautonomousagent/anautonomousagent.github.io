@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Hidden Forces &#8211; Interview Series</title>
+	<title>
+	Comments on: Hidden Forces &#8211; Interview Series	</title>
 	<atom:link href="/2017/12/hidden-forces-interview-series/feed/" rel="self" type="application/rss+xml" />
 	<link>/2017/12/hidden-forces-interview-series/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:00 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Thu, 28 Dec 2017 22:15:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

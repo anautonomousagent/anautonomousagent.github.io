@@ -12,16 +12,18 @@
 	<atom:link href="/category/red-hot-chili-peppers/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:51:32 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Red Hot Chili Peppers &#8211; Funky Monks Documentary</title>
 		<link>/2013/02/red-hot-chili-peppers-funky-monks-documentary/</link>
-		<comments>/2013/02/red-hot-chili-peppers-funky-monks-documentary/#respond</comments>
-		<pubDate>Sat, 02 Feb 2013 03:53:00 +0000</pubDate>
+				<comments>/2013/02/red-hot-chili-peppers-funky-monks-documentary/#disqus_thread</comments>
+				<pubDate>Sat, 02 Feb 2013 03:53:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[documentary]]></category>
 		<category><![CDATA[music]]></category>
@@ -30,12 +32,12 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=248</guid>
-		<description><![CDATA[A wonderful snapshot into the Red Hot Chili Peppers during the production of Blood Sugar Sex Magik, Funky Monks is a must see for any fan. Watch it here on YouTube.]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/02/Red-Hot-Chili-Peppers-Funky-Monks-51051.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2013/02/Red-Hot-Chili-Peppers-Funky-Monks-51051.jpg" width="190" /></a></div>
+				<description><![CDATA[A wonderful snapshot into the Red Hot Chili Peppers during the production of Blood Sugar Sex Magik, Funky Monks is a must see for any fan. Watch it here on YouTube.]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/02/Red-Hot-Chili-Peppers-Funky-Monks-51051.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2013/02/Red-Hot-Chili-Peppers-Funky-Monks-51051.jpg" width="190" /></a></div>
 <p>A wonderful snapshot into the Red Hot Chili Peppers during the production of <a href="//en.wikipedia.org/wiki/Blood_Sugar_Sex_Magik" target="_blank">Blood Sugar Sex Magik</a>, <i><a href="//www.imdb.com/title/tt0275623/" target="_blank">Funky Monks</a></i> is a must see for any fan. Watch it <a href="//youtu.be/y4O3I5X0q_4" target="_blank">here on YouTube</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/02/red-hot-chili-peppers-funky-monks-documentary/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/02/red-hot-chili-peppers-funky-monks-documentary/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

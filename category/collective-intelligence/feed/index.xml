@@ -12,16 +12,18 @@
 	<atom:link href="/category/collective-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:51:18 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Human Collective Intelligence</title>
 		<link>/2013/02/human-collective-intelligence/</link>
-		<comments>/2013/02/human-collective-intelligence/#respond</comments>
-		<pubDate>Thu, 28 Feb 2013 23:51:00 +0000</pubDate>
+				<comments>/2013/02/human-collective-intelligence/#disqus_thread</comments>
+				<pubDate>Thu, 28 Feb 2013 23:51:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropocene]]></category>
 		<category><![CDATA[autonomous agent]]></category>
@@ -35,13 +37,13 @@
 		<category><![CDATA[thoughts]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=214</guid>
-		<description><![CDATA[The collective intelligence of humans is remarkable. We all share 99% of genes, yet when you look at the vast majority of the population at any given instant, the amount of ignorance and differing&#160;knowledge&#160;is stunning. Look at the achievements&#160;of humans. But, given a single individual who is deemed to be the &#8220;most intelligent&#8221; of the [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;">The collective intelligence of humans is remarkable. We all share 99% of genes, yet when you look at the vast majority of the population at any given instant, the amount of ignorance and differing&nbsp;knowledge&nbsp;is stunning. Look at the achievements&nbsp;of humans. But, given a single individual who is deemed to be the &#8220;most intelligent&#8221; of the population, you will not find in him the majority of which is&nbsp;required&nbsp;to construct and maintain of the&nbsp;structures&nbsp;humans have built.&nbsp; The smartest one will only be an expert in a specific field of&nbsp;knowledge. Their contributions include&nbsp;discovering the Theory of Relativity, proving&nbsp;the incompleteness of logical systems (<a href="//ttrott.blogspot.com/2012/12/godel-escher-bach-douglas-hofstadter.html" target="_blank">Godel&#8217;s Theorem</a>) or writing rules for Calculus and other such concepts we now have in our library of&nbsp;knowledge.</div>
+				<description><![CDATA[The collective intelligence of humans is remarkable. We all share 99% of genes, yet when you look at the vast majority of the population at any given instant, the amount of ignorance and differing&#160;knowledge&#160;is stunning. Look at the achievements&#160;of humans. But, given a single individual who is deemed to be the &#8220;most intelligent&#8221; of the [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;">The collective intelligence of humans is remarkable. We all share 99% of genes, yet when you look at the vast majority of the population at any given instant, the amount of ignorance and differing&nbsp;knowledge&nbsp;is stunning. Look at the achievements&nbsp;of humans. But, given a single individual who is deemed to be the &#8220;most intelligent&#8221; of the population, you will not find in him the majority of which is&nbsp;required&nbsp;to construct and maintain of the&nbsp;structures&nbsp;humans have built.&nbsp; The smartest one will only be an expert in a specific field of&nbsp;knowledge. Their contributions include&nbsp;discovering the Theory of Relativity, proving&nbsp;the incompleteness of logical systems (<a href="//ttrott.blogspot.com/2012/12/godel-escher-bach-douglas-hofstadter.html" target="_blank">Godel&#8217;s Theorem</a>) or writing rules for Calculus and other such concepts we now have in our library of&nbsp;knowledge.</div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">This reliance on the collective is very interesting; especially considering the United States is built upon &nbsp;the concept of individual freedom. So, I suggest you compare the collective&nbsp;societies, where&nbsp;the individual has his freedom secondary to the state. In these populations, you don&#8217;t have the same level of massive collective intelligence as in&nbsp;Capitalist&nbsp;societies. Instead, these&nbsp;societies&nbsp;tend to have a population which share a single monotonous intelligence. It seems paradoxical to have such a collective strength emerge out of a multitude of distinct autonomous&nbsp;units and a lack of such strength when these units are more uniform in their actions. But is it precisely this power of individual freedom and expression which leads to the formation of reliance on collective interactions.</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/02/human-collective-intelligence/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/02/human-collective-intelligence/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

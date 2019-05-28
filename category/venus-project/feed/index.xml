@@ -12,16 +12,18 @@
 	<atom:link href="/category/venus-project/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:51 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Auroville &#8211; City of the Dawn</title>
 		<link>/2016/03/auroville-city-of-the-dawn/</link>
-		<comments>/2016/03/auroville-city-of-the-dawn/#respond</comments>
-		<pubDate>Mon, 21 Mar 2016 17:16:38 +0000</pubDate>
+				<comments>/2016/03/auroville-city-of-the-dawn/#disqus_thread</comments>
+				<pubDate>Mon, 21 Mar 2016 17:16:38 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[auroville]]></category>
 		<category><![CDATA[civilization]]></category>
@@ -34,8 +36,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1488</guid>
-		<description><![CDATA[These videos provide a fascinating look at the history and ongoing development of Auroville (City of the Dawn). Founded by Mirra Alfassa as a project of the Sri Aurobindo Society, it provides an example of a community designed to inspire unity and lead the way forward for humanity. City of the Dawn is a summary of [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>These videos provide a fascinating look at the history and ongoing development of <a href="http://www.auroville.org/" target="_blank">Auroville</a> (City of the Dawn). Founded by Mirra Alfassa as a project of the Sri Aurobindo Society, it provides an example of a community designed to inspire unity and lead the way forward for humanity.</p>
+				<description><![CDATA[These videos provide a fascinating look at the history and ongoing development of Auroville (City of the Dawn). Founded by Mirra Alfassa as a project of the Sri Aurobindo Society, it provides an example of a community designed to inspire unity and lead the way forward for humanity. City of the Dawn is a summary of [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>These videos provide a fascinating look at the history and ongoing development of <a href="http://www.auroville.org/" target="_blank">Auroville</a> (City of the Dawn). Founded by Mirra Alfassa as a project of the Sri Aurobindo Society, it provides an example of a community designed to inspire unity and lead the way forward for humanity.</p>
 <p>City of the Dawn is a summary of the city&#8217;s foundation and history since the late 1960&#8217;s and early 1970&#8217;s:</p>
 <div class="youtube"
      id="hU40Ba4GXjE"
@@ -47,14 +49,14 @@
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/03/auroville-city-of-the-dawn/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/03/auroville-city-of-the-dawn/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>The Venus Project &#8211; Jacque Fresco</title>
 		<link>/2015/03/the-greatest-talk-of-jacque-fresco/</link>
-		<comments>/2015/03/the-greatest-talk-of-jacque-fresco/#respond</comments>
-		<pubDate>Sat, 21 Mar 2015 16:46:46 +0000</pubDate>
+				<comments>/2015/03/the-greatest-talk-of-jacque-fresco/#disqus_thread</comments>
+				<pubDate>Sat, 21 Mar 2015 16:46:46 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[philosophy]]></category>
 		<category><![CDATA[social behavior]]></category>
@@ -65,8 +67,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1037</guid>
-		<description><![CDATA[First, if you have never seen documentaries or talks about Jacque Fresco, you should definitely do so now. He is quite a visionary. I can&#8217;t believe he was 58 years old in 1974 when he was on Larry King. And now nearly 100 years old. What an extraordinary life! Future By Design Paradise or Oblivion [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>First, if you have never seen documentaries or talks about Jacque Fresco, you should definitely do so now. He is quite a visionary. I can&#8217;t believe he was 58 years old in 1974 when <a href="https://youtu.be/VTfIdAfvxiQ" target="_blank">he was on Larry King</a>. And now nearly 100 years old. What an extraordinary life!</p>
+				<description><![CDATA[First, if you have never seen documentaries or talks about Jacque Fresco, you should definitely do so now. He is quite a visionary. I can&#8217;t believe he was 58 years old in 1974 when he was on Larry King. And now nearly 100 years old. What an extraordinary life! Future By Design Paradise or Oblivion [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>First, if you have never seen documentaries or talks about Jacque Fresco, you should definitely do so now. He is quite a visionary. I can&#8217;t believe he was 58 years old in 1974 when <a href="https://youtu.be/VTfIdAfvxiQ" target="_blank">he was on Larry King</a>. And now nearly 100 years old. What an extraordinary life!</p>
 <p><a href="https://youtu.be/5zn8MRKOskw" target="_blank">Future By Design</a></p>
 <p><a href="https://youtu.be/KphWsnhZ4Ag" target="_blank">Paradise or Oblivion</a></p>
 <p>An insightful speech from Mr. Jacque Fresco has caused me to wonder about our society and its future. I think he identifies the issues, but I can we fix them?</p>
@@ -82,8 +84,8 @@
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/03/the-greatest-talk-of-jacque-fresco/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/03/the-greatest-talk-of-jacque-fresco/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

@@ -12,16 +12,18 @@
 	<atom:link href="/category/schlegel/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:52:56 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Restless Universe: Understanding X-Ray Astronomy in the Age of Chandra and Newton &#8211; Eric Schlegel</title>
 		<link>/2013/01/the-restless-universe-understanding-x-ray-astronomy-in-the-age-of-chandra-and-newton-eric-schlegel/</link>
-		<comments>/2013/01/the-restless-universe-understanding-x-ray-astronomy-in-the-age-of-chandra-and-newton-eric-schlegel/#respond</comments>
-		<pubDate>Fri, 04 Jan 2013 00:30:00 +0000</pubDate>
+				<comments>/2013/01/the-restless-universe-understanding-x-ray-astronomy-in-the-age-of-chandra-and-newton-eric-schlegel/#disqus_thread</comments>
+				<pubDate>Fri, 04 Jan 2013 00:30:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[astronomy]]></category>
 		<category><![CDATA[book]]></category>
@@ -37,8 +39,8 @@
 		<category><![CDATA[universe]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=336</guid>
-		<description><![CDATA[&#160; Chandra X-Ray observatory, named after Subrahmanyan Chandrasekhar, has provided scientists with the best x-ray images ever taken of the universe. To explore the satellite&#8217;s mission and its discoveries, I would recommend reading The Restless Universe: Understanding X-Ray Astronomy in the Age of Chandra and Newton by Eric Schlegel. NGC 922 &#8211; X-Ray NGC 922 [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"></div>
+				<description><![CDATA[&#160; Chandra X-Ray observatory, named after Subrahmanyan Chandrasekhar, has provided scientists with the best x-ray images ever taken of the universe. To explore the satellite&#8217;s mission and its discoveries, I would recommend reading The Restless Universe: Understanding X-Ray Astronomy in the Age of Chandra and Newton by Eric Schlegel. NGC 922 &#8211; X-Ray NGC 922 [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"></div>
 <p>&nbsp;</p>
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/01/restless-universe-eric-m-schlegel-hardcover-cover-art1.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/01/restless-universe-eric-m-schlegel-hardcover-cover-art1.jpg" border="0" /></a></div>
 <p><span style="font-size: small;"><span style="font-size: small;"><a href="//en.wikipedia.org/wiki/Chandra_X-ray_Observatory" target="_blank" rel="noopener">Chandra X-Ray ob</a><span style="font-size: small;"><a href="//en.wikipedia.org/wiki/Chandra_X-ray_Observatory" target="_blank" rel="noopener">servator</a><span style="font-size: small;"><a href="//en.wikipedia.org/wiki/Chandra_X-ray_Observatory" target="_blank" rel="noopener">y</a><span style="font-size: small;">, </span>named a<span style="font-size: small;">fter <a href="//en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar" target="_blank" rel="noopener"><span style="font-size: small;">Subrahmanyan Chandrasek</span></a></span></span></span></span></span><a href="//en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar" target="_blank" rel="noopener">har</a>, has provided <span style="font-size: small;">scien<span style="font-size: small;">tists</span></span> <span style="font-size: small;">with </span>the best <a href="//chandra.harvard.edu/photo/" target="_blank" rel="noopener">x-ray images</a> ever taken of the universe. To explore the satellite&#8217;s mission and its discoveries, I would recommend reading <a href="//amzn.com/0195148479" target="_blank" rel="noopener"><i>The Restless Universe: Understanding X-Ray Astronomy in the Age of Chandra and Newton</i></a> by <a href="http://physics.utsa.edu/Faculty/Schlegel/Schlegel.html" target="_blank" rel="noopener">Eric Schlegel</a>.</p>
@@ -75,8 +77,8 @@
 </tbody>
 </table>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/the-restless-universe-understanding-x-ray-astronomy-in-the-age-of-chandra-and-newton-eric-schlegel/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/the-restless-universe-understanding-x-ray-astronomy-in-the-age-of-chandra-and-newton-eric-schlegel/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

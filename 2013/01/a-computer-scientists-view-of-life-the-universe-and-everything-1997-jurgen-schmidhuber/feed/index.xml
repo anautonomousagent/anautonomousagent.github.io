@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: A Computer Scientist&#8217;s View of Life, the Universe, and Everything (1997) &#8211; Jürgen Schmidhuber</title>
+	<title>
+	Comments on: A Computer Scientist&#8217;s View of Life, the Universe, and Everything (1997) &#8211; Jürgen Schmidhuber	</title>
 	<atom:link href="/2013/01/a-computer-scientists-view-of-life-the-universe-and-everything-1997-jurgen-schmidhuber/feed/" rel="self" type="application/rss+xml" />
 	<link>/2013/01/a-computer-scientists-view-of-life-the-universe-and-everything-1997-jurgen-schmidhuber/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:35 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:52:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

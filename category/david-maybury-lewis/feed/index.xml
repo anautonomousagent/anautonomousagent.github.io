@@ -12,16 +12,18 @@
 	<atom:link href="/category/david-maybury-lewis/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:27 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Millennium &#8211; David Maybury-Lewis</title>
 		<link>/2016/02/millennium-david-maybury-lewis/</link>
-		<comments>/2016/02/millennium-david-maybury-lewis/#respond</comments>
-		<pubDate>Sun, 21 Feb 2016 04:13:05 +0000</pubDate>
+				<comments>/2016/02/millennium-david-maybury-lewis/#disqus_thread</comments>
+				<pubDate>Sun, 21 Feb 2016 04:13:05 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropology]]></category>
 		<category><![CDATA[conservation]]></category>
@@ -35,12 +37,12 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1433</guid>
-		<description><![CDATA[Millennium is a powerful and inspiring documentary series with David Maybury-Lewis.]]></description>
-				<content:encoded><![CDATA[<p>Millennium is a powerful and inspiring documentary series with David Maybury-Lewis.</p>
+				<description><![CDATA[Millennium is a powerful and inspiring documentary series with David Maybury-Lewis.]]></description>
+								<content:encoded><![CDATA[<p>Millennium is a powerful and inspiring documentary series with David Maybury-Lewis.</p>
 <p><iframe width="629" height="354" src="https://www.youtube.com/embed/videoseries?list=PLptXIbS_lk8UfOKPcttyyzzmGaMsXR7xV" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/02/millennium-david-maybury-lewis/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/02/millennium-david-maybury-lewis/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

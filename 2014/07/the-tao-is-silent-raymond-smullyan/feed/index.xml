@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: The Tao Is Silent &#8211; Raymond Smullyan</title>
+	<title>
+	Comments on: The Tao Is Silent &#8211; Raymond Smullyan	</title>
 	<atom:link href="/2014/07/the-tao-is-silent-raymond-smullyan/feed/" rel="self" type="application/rss+xml" />
 	<link>/2014/07/the-tao-is-silent-raymond-smullyan/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:14 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

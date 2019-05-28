@@ -12,16 +12,18 @@
 	<atom:link href="/category/privacy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:53:01 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Bitcoin</title>
 		<link>/2013/01/bitcoin/</link>
-		<comments>/2013/01/bitcoin/#respond</comments>
-		<pubDate>Thu, 03 Jan 2013 18:16:00 +0000</pubDate>
+				<comments>/2013/01/bitcoin/#disqus_thread</comments>
+				<pubDate>Thu, 03 Jan 2013 18:16:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[bitcoin]]></category>
 		<category><![CDATA[computer]]></category>
@@ -33,17 +35,17 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=344</guid>
-		<description><![CDATA[Bitcoin is the largest alternative digital currency. Unique and brilliant idea. Check it out here for more information.]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;"><a href="https://bitcoin.org/img/opengraph.png" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="https://bitcoin.org/img/opengraph.png" width="320" /></a><span style="font-size: large;"><span style="font-weight: normal;"><span style="font-family: inherit;"><a href="//bitcoin.org/" target="_blank">Bitcoin</a> is the <span style="font-family: inherit;">largest<span style="font-family: inherit;"> altern</span>ative digital currency. Unique and brilliant idea. Check it out <a href="//en.wikipedia.org/wiki/Bitcoin" target="_blank">here</a> for more information.</span></span></span></span></div>
+				<description><![CDATA[Bitcoin is the largest alternative digital currency. Unique and brilliant idea. Check it out here for more information.]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;"><a href="https://bitcoin.org/img/opengraph.png" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="https://bitcoin.org/img/opengraph.png" width="320" /></a><span style="font-size: large;"><span style="font-weight: normal;"><span style="font-family: inherit;"><a href="//bitcoin.org/" target="_blank">Bitcoin</a> is the <span style="font-family: inherit;">largest<span style="font-family: inherit;"> altern</span>ative digital currency. Unique and brilliant idea. Check it out <a href="//en.wikipedia.org/wiki/Bitcoin" target="_blank">here</a> for more information.</span></span></span></span></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/bitcoin/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/bitcoin/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Tor</title>
 		<link>/2013/01/tor/</link>
-		<comments>/2013/01/tor/#respond</comments>
-		<pubDate>Thu, 03 Jan 2013 06:52:00 +0000</pubDate>
+				<comments>/2013/01/tor/#disqus_thread</comments>
+				<pubDate>Thu, 03 Jan 2013 06:52:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anonymity]]></category>
 		<category><![CDATA[cyber]]></category>
@@ -54,13 +56,13 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=345</guid>
-		<description><![CDATA[Cheers to online anonymity!! Download Tor here if you ever need to browse the internet anonymously.]]></description>
-				<content:encoded><![CDATA[<p>Cheers to online anonymity!! Download <a href="//en.wikipedia.org/wiki/Tor_%28anonymity_network%29" target="_blank">Tor</a> <a href="https://www.torproject.org/" target="_blank">here</a> if you ever need to browse the internet anonymously.</p>
+				<description><![CDATA[Cheers to online anonymity!! Download Tor here if you ever need to browse the internet anonymously.]]></description>
+								<content:encoded><![CDATA[<p>Cheers to online anonymity!! Download <a href="//en.wikipedia.org/wiki/Tor_%28anonymity_network%29" target="_blank">Tor</a> <a href="https://www.torproject.org/" target="_blank">here</a> if you ever need to browse the internet anonymously.</p>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/tor_sticker1.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/tor_sticker1.png" height="251" width="320" /></a></div>
 <p></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/tor/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/tor/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

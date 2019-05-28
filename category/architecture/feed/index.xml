@@ -12,16 +12,18 @@
 	<atom:link href="/category/architecture/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:51 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Evolution of Ecological Consciousness</title>
 		<link>/2014/12/the-evolution-of-ecological-consciousness/</link>
-		<comments>/2014/12/the-evolution-of-ecological-consciousness/#respond</comments>
-		<pubDate>Wed, 10 Dec 2014 14:25:00 +0000</pubDate>
+				<comments>/2014/12/the-evolution-of-ecological-consciousness/#disqus_thread</comments>
+				<pubDate>Wed, 10 Dec 2014 14:25:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[andrew faust]]></category>
 		<category><![CDATA[architecture]]></category>
@@ -35,21 +37,21 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=11</guid>
-		<description><![CDATA[The Evolution of Ecological Consciousness is a well made and must watch presentation by the Permaculture designer Andrew Faust of the Center for Bioregional Living. He summarizes many of the ideas presented by Carl and Dorion Sagan and Lynn Margulis. In addition, he presents many fascinating visions for a future living experience in conjunction with [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="//youtu.be/pK7Eeoypxfc" target="_blank">The Evolution of Ecological Consciousness</a> is a well made and must watch presentation by the Permaculture designer <a href="//www.homebiome.com/" target="_blank">Andrew Faust</a> of the Center for Bioregional Living. He summarizes many of the ideas presented by Carl and <a href="//anautonomousagent.com/?p=48" target="_blank">Dorion Sagan</a> and Lynn Margulis. In addition, he presents many fascinating visions for a future living experience in conjunction with biology.</p>
+				<description><![CDATA[The Evolution of Ecological Consciousness is a well made and must watch presentation by the Permaculture designer Andrew Faust of the Center for Bioregional Living. He summarizes many of the ideas presented by Carl and Dorion Sagan and Lynn Margulis. In addition, he presents many fascinating visions for a future living experience in conjunction with [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="//youtu.be/pK7Eeoypxfc" target="_blank">The Evolution of Ecological Consciousness</a> is a well made and must watch presentation by the Permaculture designer <a href="//www.homebiome.com/" target="_blank">Andrew Faust</a> of the Center for Bioregional Living. He summarizes many of the ideas presented by Carl and <a href="//anautonomousagent.com/?p=48" target="_blank">Dorion Sagan</a> and Lynn Margulis. In addition, he presents many fascinating visions for a future living experience in conjunction with biology.</p>
 <div class="youtube"
      id="pK7Eeoypxfc"
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/12/the-evolution-of-ecological-consciousness/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/12/the-evolution-of-ecological-consciousness/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>MIT Architecture</title>
 		<link>/2013/08/mit-architecture/</link>
-		<comments>/2013/08/mit-architecture/#respond</comments>
-		<pubDate>Fri, 30 Aug 2013 20:06:00 +0000</pubDate>
+				<comments>/2013/08/mit-architecture/#disqus_thread</comments>
+				<pubDate>Fri, 30 Aug 2013 20:06:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[architecture]]></category>
 		<category><![CDATA[mit]]></category>
@@ -57,11 +59,11 @@
 		<category><![CDATA[video]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=152</guid>
-		<description><![CDATA[The future of building structures and materials will be adaptable, self-assembling, and modular. This MIT video provides a glimpse of these ideas &#8212; on Vimeo here.]]></description>
-				<content:encoded><![CDATA[<p>The future of building structures and materials will be adaptable, self-assembling, and modular. This MIT video provides a glimpse of these ideas &#8212; <a href="//vimeo.com/47845783" target="_blank">on Vimeo here</a>.</p>
+				<description><![CDATA[The future of building structures and materials will be adaptable, self-assembling, and modular. This MIT video provides a glimpse of these ideas &#8212; on Vimeo here.]]></description>
+								<content:encoded><![CDATA[<p>The future of building structures and materials will be adaptable, self-assembling, and modular. This MIT video provides a glimpse of these ideas &#8212; <a href="//vimeo.com/47845783" target="_blank">on Vimeo here</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/08/mit-architecture/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/08/mit-architecture/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

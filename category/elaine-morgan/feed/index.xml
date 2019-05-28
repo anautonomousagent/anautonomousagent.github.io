@@ -12,16 +12,18 @@
 	<atom:link href="/category/elaine-morgan/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:53:05 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Aquatic Ape Hypothesis &#8211; Elaine Morgan</title>
 		<link>/2013/01/aquatic-ape-hypothesis-elaine-morgan/</link>
-		<comments>/2013/01/aquatic-ape-hypothesis-elaine-morgan/#respond</comments>
-		<pubDate>Wed, 02 Jan 2013 19:35:00 +0000</pubDate>
+				<comments>/2013/01/aquatic-ape-hypothesis-elaine-morgan/#disqus_thread</comments>
+				<pubDate>Wed, 02 Jan 2013 19:35:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[animals]]></category>
 		<category><![CDATA[ape]]></category>
@@ -35,11 +37,11 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=353</guid>
-		<description><![CDATA[Elaine Morgan suggests that humans evolved from an&#160;ape ancestor who lived in an aquatic environment. This explains the recession of hair on the skin, bipedal motion, large brain development, and other unique features. &#160; Check out Morgan&#8217;s TED&#160;talk here. Its interesting but there is little support in the academic community.]]></description>
-				<content:encoded><![CDATA[<p><a href="//en.wikipedia.org/wiki/Elaine_Morgan_(writer)" target="_blank">Elaine Morgan</a> suggests that humans evolved from an&nbsp;<a href="//en.wikipedia.org/wiki/Aquatic_ape_hypothesis" target="_blank">ape ancestor who lived in an aquatic</a> environment. This explains the recession of hair on the skin, bipedal motion, large brain development, and other unique features. &nbsp; Check out Morgan&#8217;s <a href="//www.ted.com/talks" target="_blank">TED</a>&nbsp;talk <a href="//youtu.be/gwPoM7lGYHw" target="_blank">here</a>. Its interesting but there is little support in the academic community.</p>
+				<description><![CDATA[Elaine Morgan suggests that humans evolved from an&#160;ape ancestor who lived in an aquatic environment. This explains the recession of hair on the skin, bipedal motion, large brain development, and other unique features. &#160; Check out Morgan&#8217;s TED&#160;talk here. Its interesting but there is little support in the academic community.]]></description>
+								<content:encoded><![CDATA[<p><a href="//en.wikipedia.org/wiki/Elaine_Morgan_(writer)" target="_blank">Elaine Morgan</a> suggests that humans evolved from an&nbsp;<a href="//en.wikipedia.org/wiki/Aquatic_ape_hypothesis" target="_blank">ape ancestor who lived in an aquatic</a> environment. This explains the recession of hair on the skin, bipedal motion, large brain development, and other unique features. &nbsp; Check out Morgan&#8217;s <a href="//www.ted.com/talks" target="_blank">TED</a>&nbsp;talk <a href="//youtu.be/gwPoM7lGYHw" target="_blank">here</a>. Its interesting but there is little support in the academic community.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/aquatic-ape-hypothesis-elaine-morgan/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/aquatic-ape-hypothesis-elaine-morgan/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

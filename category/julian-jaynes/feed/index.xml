@@ -12,16 +12,18 @@
 	<atom:link href="/category/julian-jaynes/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:52:47 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Interesting Books on Human Consciousness and the History of Consciousness</title>
 		<link>/2013/01/interesting-books-on-human-consciousness-and-the-history-of-consciousness/</link>
-		<comments>/2013/01/interesting-books-on-human-consciousness-and-the-history-of-consciousness/#respond</comments>
-		<pubDate>Sun, 06 Jan 2013 02:55:00 +0000</pubDate>
+				<comments>/2013/01/interesting-books-on-human-consciousness-and-the-history-of-consciousness/#disqus_thread</comments>
+				<pubDate>Sun, 06 Jan 2013 02:55:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[brain]]></category>
@@ -38,8 +40,8 @@
 		<category><![CDATA[timothy leary]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=323</guid>
-		<description><![CDATA[The history of consciousness and its origins fascinate me. It seems that either all life (and perhaps the universe itself) is &#8220;conscious&#8221; or, if false, then there existed an &#8220;Adam&#8221; who was the first human born with consciousness. These books propose other theories on this idea; they all deal with the brain and consciousness. I [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;">The history of consciousness and its origins fascinate me. It seems that either all life (and perhaps the universe itself) is &#8220;conscious&#8221; or, if false, then there existed an &#8220;Adam&#8221; who was the first human born with consciousness. These books propose other theories on this idea; they all deal with the brain and consciousness. I have not yet read them, as I am still in the process of reading <i><a href="//ttrott.blogspot.com/2012/12/godel-escher-bach-douglas-hofstadter.html" target="_blank">Godel, Escher, Bach</a></i> and the <i><a href="//ttrott.blogspot.com/search/label/tree%20of%20knowledge" target="_blank">Tree of Knowledge</a>.</i></div>
+				<description><![CDATA[The history of consciousness and its origins fascinate me. It seems that either all life (and perhaps the universe itself) is &#8220;conscious&#8221; or, if false, then there existed an &#8220;Adam&#8221; who was the first human born with consciousness. These books propose other theories on this idea; they all deal with the brain and consciousness. I [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;">The history of consciousness and its origins fascinate me. It seems that either all life (and perhaps the universe itself) is &#8220;conscious&#8221; or, if false, then there existed an &#8220;Adam&#8221; who was the first human born with consciousness. These books propose other theories on this idea; they all deal with the brain and consciousness. I have not yet read them, as I am still in the process of reading <i><a href="//ttrott.blogspot.com/2012/12/godel-escher-bach-douglas-hofstadter.html" target="_blank">Godel, Escher, Bach</a></i> and the <i><a href="//ttrott.blogspot.com/search/label/tree%20of%20knowledge" target="_blank">Tree of Knowledge</a>.</i></div>
 <p>&nbsp;</p>
 <div style="clear: both; text-align: center;"></div>
 <p><a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/01/The-Psychedelic-Experience-A-Manual-Based-on-the-Tibetan-Book-of-the-Dead-Citadel-Underground-01.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/01/The-Psychedelic-Experience-A-Manual-Based-on-the-Tibetan-Book-of-the-Dead-Citadel-Underground-01.jpg" width="133" height="200" border="0" /></a><i><a href="//amzn.com/0806516526" target="_blank">The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead</a></i> by <a href="//en.wikipedia.org/wiki/Timothy_Leary" target="_blank">Timothy Leary,</a><br />
@@ -51,8 +53,8 @@
 <div style="clear: both; text-align: center;"><a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/01/The-Origin-of-Consciousness-in-the-Breakdown-of-the-Bicameral-Mind-Jaynes-Julian-97806180570781.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/01/The-Origin-of-Consciousness-in-the-Breakdown-of-the-Bicameral-Mind-Jaynes-Julian-97806180570781.jpg" width="211" height="320" border="0" /></a></div>
 <p><a href="//amzn.com/0618057072" target="_blank"><i>The Origin of Consciousness in the Breakdown of the Bicameral Mind</i></a> by <a href="//en.wikipedia.org/wiki/Julian_Jaynes" target="_blank">Julian Jaynes</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/interesting-books-on-human-consciousness-and-the-history-of-consciousness/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/interesting-books-on-human-consciousness-and-the-history-of-consciousness/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

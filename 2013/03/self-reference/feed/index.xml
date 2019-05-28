@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: self-reference</title>
+	<title>
+	Comments on: self-reference	</title>
 	<atom:link href="/2013/03/self-reference/feed/" rel="self" type="application/rss+xml" />
 	<link>/2013/03/self-reference/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:20 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:51:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

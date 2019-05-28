@@ -12,23 +12,25 @@
 	<atom:link href="/category/bitcrane/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:49:52 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>BitCrane Miner T-110S and Antminer S5</title>
 		<link>/2014/12/bitcrane-miner-t-110s/</link>
-		<comments>/2014/12/bitcrane-miner-t-110s/#respond</comments>
-		<pubDate>Thu, 18 Dec 2014 21:28:00 +0000</pubDate>
+				<comments>/2014/12/bitcrane-miner-t-110s/#disqus_thread</comments>
+				<pubDate>Thu, 18 Dec 2014 21:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[bitcoin]]></category>
 		<category><![CDATA[bitcrane]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=9</guid>
-		<description><![CDATA[I recently purchased and set-up the BitCrane Miner T-110S. Purchased on-sale at newegg for $598, it provides 1 TH/s of Bitcoin mining power. It was extremely easy to get the rig started and connected to my mining pool; less than five minutes out of the box. So far I am very impressed. This would make [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"></div>
+				<description><![CDATA[I recently purchased and set-up the BitCrane Miner T-110S. Purchased on-sale at newegg for $598, it provides 1 TH/s of Bitcoin mining power. It was extremely easy to get the rig started and connected to my mining pool; less than five minutes out of the box. So far I am very impressed. This would make [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"></div>
 <p>I recently purchased and set-up the BitCrane Miner T-110S. Purchased on-sale at newegg for $598, it provides 1 TH/s of Bitcoin mining power. It was extremely easy to get the rig started and connected to my mining pool; less than five minutes out of the box. So far I am very impressed. This would make for a great gift to anyone interested in Bitcoin mining.</p>
 <p>My electricity costs are $0.11 per kWh per month. Since the T-110S consumes approximately 650 kWh per month operating 24/7 &#8212; $71.50 per month &#8212; it will take a number months to break even, depending on the exchange rate of Bitcoin. This boils down to about $2.31 per day in electric costs. And at 1 TH/s operating speed I earn approximately $3.90 &#8211; 4.50 per day depending on the difficulty level and exchange rate. With a fixed cost of $598 I should break even in 273 &#8211; 376 days.</p>
 <p>However, it is interesting to note that the T-110S could be considered a space heater &#8212; not sure how efficient. This would in effect replace some of the cost of heating a home in the winter. Unfortunately, the costs will not outweigh the benefits during the summer months. I believe in the future of Bitcoin and its ability as a unit of exchange. The purpose of my purchase was mostly to gain a participatory experience and support Bitcoin &#8212; rather than profit seeking.</p>
@@ -39,8 +41,8 @@
 <div style="clear: both; text-align: left;">NOTE: After running the miner in the horizontal position, I found that the temperature decreases. I would recommend NOT placing the miner in the vertical position since the water coolers fans would be in-taking air from above &#8212; hot air rises, hence not an efficient mode of cooling.</div>
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2014/12/20141226_005231_BEST1.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2014/12/20141226_005231_BEST1.jpg" alt="" width="320" height="239" border="0" /></a></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/12/bitcrane-miner-t-110s/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/12/bitcrane-miner-t-110s/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

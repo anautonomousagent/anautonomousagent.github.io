@@ -12,16 +12,18 @@
 	<atom:link href="/category/raphael-mechoulam/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:11 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Scientist &#8211; Raphael Mechoulam</title>
 		<link>/2016/11/the-scientist-raphael-mechoulam/</link>
-		<comments>/2016/11/the-scientist-raphael-mechoulam/#respond</comments>
-		<pubDate>Fri, 11 Nov 2016 02:13:07 +0000</pubDate>
+				<comments>/2016/11/the-scientist-raphael-mechoulam/#disqus_thread</comments>
+				<pubDate>Fri, 11 Nov 2016 02:13:07 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[albert hofmann]]></category>
 		<category><![CDATA[cannabis]]></category>
@@ -34,15 +36,15 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1629</guid>
-		<description><![CDATA[The Scientist details the life and work of Raphael Mechoulam, the grandfather of delta-9-tetrahydrocannabinol (THC). He stands in that class of wonderful thinkers which includes people like Albert Hofmann, Alexander Shulgin, among others.]]></description>
-				<content:encoded><![CDATA[<p>The Scientist details the life and work of Raphael Mechoulam, the grandfather of delta-9-tetrahydrocannabinol (THC). He stands in that class of wonderful thinkers which includes people like <a href="https://anautonomousagent.com/2016/06/the-philosophers-stone-lsd-documentary/">Albert Hofmann</a>, <a href="https://anautonomousagent.com/2016/03/dirty-pictures-2010-alexander-and-ann-shulgin-documentary/">Alexander Shulgin</a>, among others.</p>
+				<description><![CDATA[The Scientist details the life and work of Raphael Mechoulam, the grandfather of delta-9-tetrahydrocannabinol (THC). He stands in that class of wonderful thinkers which includes people like Albert Hofmann, Alexander Shulgin, among others.]]></description>
+								<content:encoded><![CDATA[<p>The Scientist details the life and work of Raphael Mechoulam, the grandfather of delta-9-tetrahydrocannabinol (THC). He stands in that class of wonderful thinkers which includes people like <a href="https://anautonomousagent.com/2016/06/the-philosophers-stone-lsd-documentary/">Albert Hofmann</a>, <a href="https://anautonomousagent.com/2016/03/dirty-pictures-2010-alexander-and-ann-shulgin-documentary/">Alexander Shulgin</a>, among others.</p>
 <div class="youtube"
      id="qwfC5ye2UBk"
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/11/the-scientist-raphael-mechoulam/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/11/the-scientist-raphael-mechoulam/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

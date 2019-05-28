@@ -12,16 +12,18 @@
 	<atom:link href="/category/ludwig-wittgenstein/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Dec 2017 22:15:26 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Hidden Forces &#8211; Interview Series</title>
 		<link>/2017/12/hidden-forces-interview-series/</link>
-		<comments>/2017/12/hidden-forces-interview-series/#respond</comments>
-		<pubDate>Thu, 28 Dec 2017 22:13:13 +0000</pubDate>
+				<comments>/2017/12/hidden-forces-interview-series/#disqus_thread</comments>
+				<pubDate>Thu, 28 Dec 2017 22:13:13 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[artificial intelligence]]></category>
 		<category><![CDATA[complexity theory]]></category>
@@ -41,18 +43,18 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">/?p=2528</guid>
-		<description><![CDATA[Hidden Forces, hosted by Demetri Kofinas is an nice set of interviews with various people on topics including: finance, complexity, mathematics, and cryptocurrencies. I struggled listening to some of the interviewees because I did not agree with their ideas or conclusions; but I guess it is good to have conflicting opinions in order to encourage [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://www.youtube.com/channel/UC8URhgYos5fjHqFSO4RSIEg">Hidden Forces</a>, hosted by Demetri Kofinas is an nice set of interviews with various people on topics including: finance, complexity, mathematics, and cryptocurrencies. I struggled listening to some of the interviewees because I did not agree with their ideas or conclusions; but I guess it is good to have conflicting opinions in order to encourage debate in the comments and to help review one&#8217;s own opinions and understandings. Regardless, Kofinas provides a highly accessible medium through which advanced ideas can be grasped.</p>
+				<description><![CDATA[Hidden Forces, hosted by Demetri Kofinas is an nice set of interviews with various people on topics including: finance, complexity, mathematics, and cryptocurrencies. I struggled listening to some of the interviewees because I did not agree with their ideas or conclusions; but I guess it is good to have conflicting opinions in order to encourage [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="https://www.youtube.com/channel/UC8URhgYos5fjHqFSO4RSIEg">Hidden Forces</a>, hosted by Demetri Kofinas is an nice set of interviews with various people on topics including: finance, complexity, mathematics, and cryptocurrencies. I struggled listening to some of the interviewees because I did not agree with their ideas or conclusions; but I guess it is good to have conflicting opinions in order to encourage debate in the comments and to help review one&#8217;s own opinions and understandings. Regardless, Kofinas provides a highly accessible medium through which advanced ideas can be grasped.</p>
 <p>I first ran across Hidden Forces while listening to the <a href="https://youtu.be/NxERVnvHV4c">interview with Ray Monk</a> about philosophical mathematics. Monk&#8217;s narration on the work of Frege, Russell, Whitehead, Wittgenstein, and Gödel is excellent &#8211; by far one of the clearest and easiest to grasp. It was learning about these paradigms and paradoxes of mathematics via <a href="https://anautonomousagent.com/2012/12/godel-escher-bach-douglas-hofstadter/">Hofstadter&#8217;s famous book</a> which led me to start this website.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2017/12/hidden-forces-interview-series/feed/</wfw:commentRss>
+							<wfw:commentRss>/2017/12/hidden-forces-interview-series/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Killing Time &#8211; Paul Feyerabend</title>
 		<link>/2015/08/killing-time-paul-feyerabend/</link>
-		<comments>/2015/08/killing-time-paul-feyerabend/#respond</comments>
-		<pubDate>Sun, 09 Aug 2015 12:31:34 +0000</pubDate>
+				<comments>/2015/08/killing-time-paul-feyerabend/#disqus_thread</comments>
+				<pubDate>Sun, 09 Aug 2015 12:31:34 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[alan watts]]></category>
 		<category><![CDATA[biography]]></category>
@@ -64,14 +66,14 @@
 		<category><![CDATA[zen]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1215</guid>
-		<description><![CDATA[Paul Feyerabend&#8217;s autobiography, Killing Time, is a nice summary of the life of a very interesting person. Very brief snapshot: Growing up in Austria he eventually participated (drafted) in World War II and became a Nazi officer. Shot in the spine and disabled for life he went back to university where he studied music, theatre, [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Paul Feyerabend&#8217;s autobiography, <a href="http://amzn.com/0226245322" target="_blank">Killing Time</a>, is a nice summary of the life of a very interesting person. Very brief snapshot:</p>
+				<description><![CDATA[Paul Feyerabend&#8217;s autobiography, Killing Time, is a nice summary of the life of a very interesting person. Very brief snapshot: Growing up in Austria he eventually participated (drafted) in World War II and became a Nazi officer. Shot in the spine and disabled for life he went back to university where he studied music, theatre, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Paul Feyerabend&#8217;s autobiography, <a href="http://amzn.com/0226245322" target="_blank">Killing Time</a>, is a nice summary of the life of a very interesting person. Very brief snapshot:</p>
 <p>Growing up in Austria he eventually participated (drafted) in World War II and became a Nazi officer. Shot in the spine and disabled for life he went back to university where he studied music, theatre, and science. He became an important intellectual in the philosophy of science. After the war he participated and became a key member of the yearly meetings in Alpbach. His ideas were influenced by Karl Popper (initially), Ludwig Wittgenstein, and Felix Ehrenhaft. He eventually found his way to Berkeley, California where he became a professor. He taught mostly at Berkeley and ETH Zürich.</p>
 <p>His life and ideas were intimately connected with many great thinkers of the 20th century: including Karl Popper, Thomas Kuhn, and Imre Lakatos. The autobiography is a good introduction to Feyerabend. Getting to know the background and personal experiences of the great thinker helps gain perspective while reading his philosophical works.</p>
 <p>I wonder what, if anything, Feyerabend had to say about Alan Watts? In some ways I feel that Feyerabend has helped to add elements of Eastern Philosophy to Western Philosophy. For instance, Feyerabend&#8217;s principal that <em>anything goes</em> and his scientific anarchy seem to have a Zen or Taoist connection. His continual insistence that reality fails to be objectively expressed by language also suggests a connection, but I believe this was also expressed by Wittgenstein?</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/08/killing-time-paul-feyerabend/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/08/killing-time-paul-feyerabend/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

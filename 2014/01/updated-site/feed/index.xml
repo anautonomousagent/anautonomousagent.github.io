@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Updated Site</title>
+	<title>
+	Comments on: Updated Site	</title>
 	<atom:link href="/2014/01/updated-site/feed/" rel="self" type="application/rss+xml" />
 	<link>/2014/01/updated-site/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:27 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

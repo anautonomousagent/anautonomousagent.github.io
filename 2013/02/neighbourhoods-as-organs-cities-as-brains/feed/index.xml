@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Neighbourhoods as Organs; Cities as Brains</title>
+	<title>
+	Comments on: Neighbourhoods as Organs; Cities as Brains	</title>
 	<atom:link href="/2013/02/neighbourhoods-as-organs-cities-as-brains/feed/" rel="self" type="application/rss+xml" />
 	<link>/2013/02/neighbourhoods-as-organs-cities-as-brains/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:53 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:51:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

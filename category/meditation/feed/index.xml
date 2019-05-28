@@ -12,16 +12,18 @@
 	<atom:link href="/category/meditation/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:53:23 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Inner Worlds, Outer Worlds (2012)</title>
 		<link>/2016/05/inner-worlds-outer-worlds-2012/</link>
-		<comments>/2016/05/inner-worlds-outer-worlds-2012/#respond</comments>
-		<pubDate>Thu, 12 May 2016 14:23:53 +0000</pubDate>
+				<comments>/2016/05/inner-worlds-outer-worlds-2012/#disqus_thread</comments>
+				<pubDate>Thu, 12 May 2016 14:23:53 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[consciousness]]></category>
 		<category><![CDATA[cosmos]]></category>
@@ -46,18 +48,18 @@
 		<category><![CDATA[zen]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1552</guid>
-		<description><![CDATA[Compilation of various ideas on mysticism and science.]]></description>
-				<content:encoded><![CDATA[<p>Compilation of various ideas on mysticism and science.</p>
+				<description><![CDATA[Compilation of various ideas on mysticism and science.]]></description>
+								<content:encoded><![CDATA[<p>Compilation of various ideas on mysticism and science.</p>
 <p><iframe width="629" height="354" src="https://www.youtube.com/embed/videoseries?list=PLD8E5F0D70B62BEFE" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/05/inner-worlds-outer-worlds-2012/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/05/inner-worlds-outer-worlds-2012/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Light on Yoga &#8211; B.K.S. Iyengar</title>
 		<link>/2013/01/light-on-yoga-b-k-s-iyengar/</link>
-		<comments>/2013/01/light-on-yoga-b-k-s-iyengar/#respond</comments>
-		<pubDate>Wed, 02 Jan 2013 19:15:00 +0000</pubDate>
+				<comments>/2013/01/light-on-yoga-b-k-s-iyengar/#disqus_thread</comments>
+				<pubDate>Wed, 02 Jan 2013 19:15:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[asana]]></category>
@@ -74,20 +76,20 @@
 		<category><![CDATA[yoga]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=354</guid>
-		<description><![CDATA[Great illustrated book on Yoga: Light on Yoga by B. K. S. Iyengar. Every asana contains several pictures and a detailed description. Some of the asanas are literally impossible!]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/0978080521031_500X5001.jpg" style="clear: right; display: inline !important; float: right; margin-bottom: 1em; margin-left: 1em; text-align: center;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/0978080521031_500X5001.jpg" height="320" width="320" /></a>Great illustrated book on Yoga:</div>
+				<description><![CDATA[Great illustrated book on Yoga: Light on Yoga by B. K. S. Iyengar. Every asana contains several pictures and a detailed description. Some of the asanas are literally impossible!]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/0978080521031_500X5001.jpg" style="clear: right; display: inline !important; float: right; margin-bottom: 1em; margin-left: 1em; text-align: center;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/0978080521031_500X5001.jpg" height="320" width="320" /></a>Great illustrated book on Yoga:</div>
 <div style="text-align: justify;"><i><a href="//amzn.com/0805210318" target="_blank">Light on Yoga</a></i> by <a href="//en.wikipedia.org/wiki/B._K._S._Iyengar" target="_blank">B. K. S. Iyengar</a>.</div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">Every <a href="//en.wikipedia.org/wiki/Asana" target="_blank">asana</a> contains several pictures and a detailed description. Some of the asanas are literally impossible!</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/light-on-yoga-b-k-s-iyengar/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/light-on-yoga-b-k-s-iyengar/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>The Miracle of Mindfulness: An Introduction to the Practice of Meditation &#8211; Thich Nhat Hanh</title>
 		<link>/2013/01/the-miracle-of-mindfulness-an-introduction-to-the-practice-of-meditation-thich-nhat-hanh/</link>
-		<comments>/2013/01/the-miracle-of-mindfulness-an-introduction-to-the-practice-of-meditation-thich-nhat-hanh/#respond</comments>
-		<pubDate>Tue, 01 Jan 2013 21:28:00 +0000</pubDate>
+				<comments>/2013/01/the-miracle-of-mindfulness-an-introduction-to-the-practice-of-meditation-thich-nhat-hanh/#disqus_thread</comments>
+				<pubDate>Tue, 01 Jan 2013 21:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[book]]></category>
 		<category><![CDATA[buddhism]]></category>
@@ -102,12 +104,12 @@
 		<category><![CDATA[zen]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=382</guid>
-		<description><![CDATA[I was introduced to meditation in a college class on the subject.  The teacher recommended The Miracle of Mindfulness: An Introduction to the Practice of Meditation, by Thich Nhat Hanh.  This book provides the reader with a wonderful way to start a meditation practice.]]></description>
-				<content:encoded><![CDATA[<p>I was introduced to meditation in a college class on the subject.  The teacher recommended <a href="//amzn.com/0807012394" target="_blank"><i>The Miracle of Mindfulness: An Introduction to the Practice of Meditation</i></a>, by <a href="//en.wikipedia.org/wiki/Thich_Nhat_Hanh" target="_blank">Thich Nhat Hanh</a>.  This book provides the reader with a wonderful way to start a meditation practice.</p>
+				<description><![CDATA[I was introduced to meditation in a college class on the subject.  The teacher recommended The Miracle of Mindfulness: An Introduction to the Practice of Meditation, by Thich Nhat Hanh.  This book provides the reader with a wonderful way to start a meditation practice.]]></description>
+								<content:encoded><![CDATA[<p>I was introduced to meditation in a college class on the subject.  The teacher recommended <a href="//amzn.com/0807012394" target="_blank"><i>The Miracle of Mindfulness: An Introduction to the Practice of Meditation</i></a>, by <a href="//en.wikipedia.org/wiki/Thich_Nhat_Hanh" target="_blank">Thich Nhat Hanh</a>.  This book provides the reader with a wonderful way to start a meditation practice.</p>
 <div style="clear: both; text-align: center;"></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/the-miracle-of-mindfulness-an-introduction-to-the-practice-of-meditation-thich-nhat-hanh/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/the-miracle-of-mindfulness-an-introduction-to-the-practice-of-meditation-thich-nhat-hanh/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

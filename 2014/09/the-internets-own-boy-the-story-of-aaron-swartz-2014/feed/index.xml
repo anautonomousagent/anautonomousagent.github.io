@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: The Internet&#8217;s Own Boy: The Story of Aaron Swartz (2014)</title>
+	<title>
+	Comments on: The Internet&#8217;s Own Boy: The Story of Aaron Swartz (2014)	</title>
 	<atom:link href="/2014/09/the-internets-own-boy-the-story-of-aaron-swartz-2014/feed/" rel="self" type="application/rss+xml" />
 	<link>/2014/09/the-internets-own-boy-the-story-of-aaron-swartz-2014/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:23 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:49:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

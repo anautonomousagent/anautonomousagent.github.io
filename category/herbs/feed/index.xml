@@ -12,16 +12,18 @@
 	<atom:link href="/category/herbs/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:47 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>TianChi</title>
 		<link>/2015/04/tianchi/</link>
-		<comments>/2015/04/tianchi/#respond</comments>
-		<pubDate>Sun, 26 Apr 2015 16:23:10 +0000</pubDate>
+				<comments>/2015/04/tianchi/#disqus_thread</comments>
+				<pubDate>Sun, 26 Apr 2015 16:23:10 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[chemistry]]></category>
@@ -34,8 +36,8 @@
 		<category><![CDATA[zen]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1092</guid>
-		<description><![CDATA[TianChi is a good herbal supplement for overall health and to maintain the energy centers of the body, i.e. the adrenal glands. I have had a really pleasant experience and a noticeable improvement in wellness and mental clarity. I didn&#8217;t try it because I was having any difficulties or problems with my health. Rather, I [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://tianchi.herbworks.com/">TianChi</a> is a good herbal supplement for overall health and to maintain the energy centers of the body, i.e. the adrenal glands. I have had a really pleasant experience and a noticeable improvement in wellness and mental clarity. I didn&#8217;t try it because I was having any difficulties or problems with my health. Rather, I find herbs and their influence on human chemistry to be worth experiencing. Even if you are not interested in it, I would research any of the herbs it contains and perhaps add some of them to your diet. <a href="https://plus.google.com/105159637087463970404?prsrc=5">Roger Drummer</a> is the formulator of the blend.</p>
+				<description><![CDATA[TianChi is a good herbal supplement for overall health and to maintain the energy centers of the body, i.e. the adrenal glands. I have had a really pleasant experience and a noticeable improvement in wellness and mental clarity. I didn&#8217;t try it because I was having any difficulties or problems with my health. Rather, I [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="http://tianchi.herbworks.com/">TianChi</a> is a good herbal supplement for overall health and to maintain the energy centers of the body, i.e. the adrenal glands. I have had a really pleasant experience and a noticeable improvement in wellness and mental clarity. I didn&#8217;t try it because I was having any difficulties or problems with my health. Rather, I find herbs and their influence on human chemistry to be worth experiencing. Even if you are not interested in it, I would research any of the herbs it contains and perhaps add some of them to your diet. <a href="https://plus.google.com/105159637087463970404?prsrc=5">Roger Drummer</a> is the formulator of the blend.</p>
 <p>Here is the list of herbs which are contained in TianChi:</p>
 <ul>
 <li>Albizzia (<em><a href="http://en.wikipedia.org/wiki/Albizia_julibrissin">Albizzia julibrissin</a></em>)</li>
@@ -61,8 +63,8 @@
 <li>Stevia (<em><a href="http://en.wikipedia.org/wiki/Stevia_rebaudiana">Stevia rebaudiana</a></em>)</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/04/tianchi/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/04/tianchi/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

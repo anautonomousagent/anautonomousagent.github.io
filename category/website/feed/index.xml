@@ -12,24 +12,26 @@
 	<atom:link href="/category/website/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Feb 2018 23:03:23 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>WordPress Application as Static Site Generator</title>
 		<link>/2017/09/wordpress-appliction-as-static-site-generator/</link>
-		<comments>/2017/09/wordpress-appliction-as-static-site-generator/#respond</comments>
-		<pubDate>Mon, 11 Sep 2017 23:58:10 +0000</pubDate>
+				<comments>/2017/09/wordpress-appliction-as-static-site-generator/#disqus_thread</comments>
+				<pubDate>Mon, 11 Sep 2017 23:58:10 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[code]]></category>
 		<category><![CDATA[internet]]></category>
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">/?p=1935</guid>
-		<description><![CDATA[While there are currently nice tools which exist to generate static websites, such as Hugo or Jekyll, there is also WordPress combined with a static site generating plug-in. Thus, WordPress can be used just like Hugo and Jekyll to create a set of static files to be hosted on the web via a service like [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>While there are currently nice tools which exist to generate static websites, such as Hugo or Jekyll, there is also WordPress combined with a static site generating plug-in. Thus, WordPress can be used just like Hugo and Jekyll to create a set of static files to be hosted on the web via a service like IPFS or Github pages.</p>
+				<description><![CDATA[While there are currently nice tools which exist to generate static websites, such as Hugo or Jekyll, there is also WordPress combined with a static site generating plug-in. Thus, WordPress can be used just like Hugo and Jekyll to create a set of static files to be hosted on the web via a service like [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>While there are currently nice tools which exist to generate static websites, such as Hugo or Jekyll, there is also WordPress combined with a static site generating plug-in. Thus, WordPress can be used just like Hugo and Jekyll to create a set of static files to be hosted on the web via a service like IPFS or Github pages.</p>
 <p>I was forced to investigate this topic thanks to Openshift 3, Redhat&#8217;s new upgrade for their web application hosting platform. For the past three years this site and two others have been running on Openshift&#8217;s version 2 for basically free (around $2.00 per month for total).</p>
 <p>But Redhat decided to discontinue Openshift 2 and in the process switch their target customers away from the little guys. Normal people just wanting to blog cannot afford the $50 per month they want for their paid platform hosting account. And just to download their development kit requires filling out private information like phone number, address, and clicking a promise check-box that you agree you are using <a href="https://developers.redhat.com/products/cdk/overview/">their CDK</a> for development only. They are now as frustrating as Oracle, where you can&#8217;t download an old Java version without filling out the same identifying information.</p>
 <p>Well, I then started to look around for WordPress hosting, expecting that I could get-by paying a small fee each month &#8211; around $5 for all sites. Nope &#8212; nothing, everywhere that I looked they wanted an exorbitant amount just to host a WordPress application. Namecheap was the best I found, 10 for the first year for three sites and then 50 per year after that. So it then seemed like a no-brainer to create a static site and put it on either IPFS or Github, which would be free. Github does have some restrictions like 1GB storage and I think they even have a monthly bandwidth limit. Since Github is free and since this site is not that popular, it was perfect. IPFS would also be nice, but I have a slow Internet connection and I already host one IPFS site and an <a href="https://www.openbazaar.org/">Openbazaar</a> storefront. And in any-case, with a static site it is rather simple to transfer or simultaneously host on other services.</p>
@@ -44,14 +46,14 @@
 <p><a href="https://github.com/anautonomousagent/anautonomousagent.github.io">An Autonomous Agent</a></p>
 <p><a href="https://github.com/solaranamnesis/solaranamnesis.github.io">Solar Anamnesis</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2017/09/wordpress-appliction-as-static-site-generator/feed/</wfw:commentRss>
+							<wfw:commentRss>/2017/09/wordpress-appliction-as-static-site-generator/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>The Cannabis Evolution Project</title>
 		<link>/2016/10/the-cannabis-evolution-project/</link>
-		<comments>/2016/10/the-cannabis-evolution-project/#respond</comments>
-		<pubDate>Sun, 23 Oct 2016 22:19:22 +0000</pubDate>
+				<comments>/2016/10/the-cannabis-evolution-project/#disqus_thread</comments>
+				<pubDate>Sun, 23 Oct 2016 22:19:22 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[cannabis]]></category>
@@ -63,8 +65,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1607</guid>
-		<description><![CDATA[The Cannabis Evolution Project did an amazing job sequencing thousands of strains of cannabis and displaying the resulting genetic data. Take a look at the results: The Phylos Galaxy And I recommend watching some of the Cannabis Science Pub &#8211; Feb 2016]]></description>
-				<content:encoded><![CDATA[<p>The Cannabis Evolution Project did an amazing job sequencing thousands of strains of cannabis and displaying the resulting genetic data. Take a look at the results:</p>
+				<description><![CDATA[The Cannabis Evolution Project did an amazing job sequencing thousands of strains of cannabis and displaying the resulting genetic data. Take a look at the results: The Phylos Galaxy And I recommend watching some of the Cannabis Science Pub &#8211; Feb 2016]]></description>
+								<content:encoded><![CDATA[<p>The Cannabis Evolution Project did an amazing job sequencing thousands of strains of cannabis and displaying the resulting genetic data. Take a look at the results:</p>
 <p><a href="http://www.phylosbioscience.com/the-phylos-galaxy/" target="_blank">The Phylos Galaxy</a></p>
 <p>And I recommend watching some of the Cannabis Science Pub &#8211; Feb 2016</p>
 <div class="youtube"
@@ -72,14 +74,14 @@
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/10/the-cannabis-evolution-project/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/10/the-cannabis-evolution-project/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Chang&#8217;e 3 Lander Pictures</title>
 		<link>/2016/07/change-3-lander-pictures/</link>
-		<comments>/2016/07/change-3-lander-pictures/#respond</comments>
-		<pubDate>Tue, 19 Jul 2016 01:43:07 +0000</pubDate>
+				<comments>/2016/07/change-3-lander-pictures/#disqus_thread</comments>
+				<pubDate>Tue, 19 Jul 2016 01:43:07 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[lunar]]></category>
 		<category><![CDATA[picture]]></category>
@@ -88,18 +90,18 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1586</guid>
-		<description><![CDATA[Great pictures of the Moon from Chinese lander: Fun with a new data set: Chang&#8217;e 3 lander and Yutu rover camera data]]></description>
-				<content:encoded><![CDATA[<p>Great pictures of the Moon from Chinese lander:</p>
+				<description><![CDATA[Great pictures of the Moon from Chinese lander: Fun with a new data set: Chang&#8217;e 3 lander and Yutu rover camera data]]></description>
+								<content:encoded><![CDATA[<p>Great pictures of the Moon from Chinese lander:</p>
 <p><a href="http://www.planetary.org/blogs/emily-lakdawalla/2016/01281656-fun-with-a-new-data-set-change.html" target="_blank">Fun with a new data set: Chang&#8217;e 3 lander and Yutu rover camera data</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/07/change-3-lander-pictures/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/07/change-3-lander-pictures/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Follow My Vote &#8211; Online Voting Platform</title>
 		<link>/2016/04/follow-my-vote-online-voting-platform/</link>
-		<comments>/2016/04/follow-my-vote-online-voting-platform/#respond</comments>
-		<pubDate>Mon, 25 Apr 2016 17:13:11 +0000</pubDate>
+				<comments>/2016/04/follow-my-vote-online-voting-platform/#disqus_thread</comments>
+				<pubDate>Mon, 25 Apr 2016 17:13:11 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[blockchain]]></category>
 		<category><![CDATA[democracy]]></category>
@@ -110,8 +112,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1536</guid>
-		<description><![CDATA[CURRENT: Donate to make this platform a powerful political tool! Kickstarter Campaign. Follow My Vote is a revolutionary new platform which utilizes blockchain technology to allow voters to vote at home and on their own time. The blockchain has enormous potential for many applications, especially voting: Another application for blockchain technology is voting. By casting [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>CURRENT: Donate to make this platform a powerful political tool! <a href="https://www.kickstarter.com/projects/adamkalebernest/e2e-verifiable-blockchain-voting-software-follow-m/" target="_blank">Kickstarter Campaign</a>.</p>
+				<description><![CDATA[CURRENT: Donate to make this platform a powerful political tool! Kickstarter Campaign. Follow My Vote is a revolutionary new platform which utilizes blockchain technology to allow voters to vote at home and on their own time. The blockchain has enormous potential for many applications, especially voting: Another application for blockchain technology is voting. By casting [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>CURRENT: Donate to make this platform a powerful political tool! <a href="https://www.kickstarter.com/projects/adamkalebernest/e2e-verifiable-blockchain-voting-software-follow-m/" target="_blank">Kickstarter Campaign</a>.</p>
 <p><a href="https://followmyvote.com/" target="_blank">Follow My Vote</a> is a revolutionary new platform which utilizes blockchain technology to allow voters to vote at home and on their own time. The blockchain has enormous potential for many applications, especially voting:</p>
 <blockquote><p>Another application for blockchain technology is voting. By casting votes as transactions, we can create a blockchain which keeps track of the tallies of the votes. This way, everyone can agree on the final count because they can count the votes themselves, and because of the blockchain audit trail, they can verify that no votes were changed or removed, and no illegitimate votes were added.</p></blockquote>
 <p>Full length demo:</p>
@@ -120,22 +122,22 @@
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/04/follow-my-vote-online-voting-platform/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/04/follow-my-vote-online-voting-platform/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Nerdy Method to Encode Email Address to Avoid Spam</title>
 		<link>/2016/04/nerdy-method-to-encode-email-address-to-avoid-spam/</link>
-		<comments>/2016/04/nerdy-method-to-encode-email-address-to-avoid-spam/#respond</comments>
-		<pubDate>Thu, 07 Apr 2016 13:07:09 +0000</pubDate>
+				<comments>/2016/04/nerdy-method-to-encode-email-address-to-avoid-spam/#disqus_thread</comments>
+				<pubDate>Thu, 07 Apr 2016 13:07:09 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[code]]></category>
 		<category><![CDATA[internet]]></category>
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1496</guid>
-		<description><![CDATA[Contact Email (spam robots&#8230; try to solve this!): Supply modulus N: 13503701 Decryption Key d: 2273 Ciphertext Message in numeric form: 8207129 334600 4505190 12801374 7109281 11118282 2016909 11164527 5778177 7691883 10206105 12801374 10206105 2976139 7669811 Decrypt Email Here NOTE: To encode your own email you must first find two prime numbers and then follow [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Contact Email (spam robots&#8230; try to solve this!):</p>
+				<description><![CDATA[Contact Email (spam robots&#8230; try to solve this!): Supply modulus N: 13503701 Decryption Key d: 2273 Ciphertext Message in numeric form: 8207129 334600 4505190 12801374 7109281 11118282 2016909 11164527 5778177 7691883 10206105 12801374 10206105 2976139 7669811 Decrypt Email Here NOTE: To encode your own email you must first find two prime numbers and then follow [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Contact Email (spam robots&#8230; try to solve this!):</p>
 <p>Supply modulus N: 13503701</p>
 <p>Decryption Key d: 2273</p>
 <p>Ciphertext Message in numeric form:</p>
@@ -143,29 +145,29 @@
 <p><a href="https://www.cs.drexel.edu/~introcs/Fa11/notes/10.1_Cryptography/RSA_Express_EncryptDecrypt.html" target="_blank">Decrypt Email Here</a></p>
 <p>NOTE: To encode your own email you must first find two prime numbers and then follow the steps listed in this <a href="https://www.cs.drexel.edu/~introcs/Fa11/notes/10.1_Cryptography/RSAWorksheetv4d.html" target="_blank">RSA Worksheet</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/04/nerdy-method-to-encode-email-address-to-avoid-spam/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/04/nerdy-method-to-encode-email-address-to-avoid-spam/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Thin Sections Now on Solar Anamnesis</title>
 		<link>/2015/09/thin-sections-now-on-solar-anamnesis/</link>
-		<comments>/2015/09/thin-sections-now-on-solar-anamnesis/#respond</comments>
-		<pubDate>Sat, 26 Sep 2015 13:24:31 +0000</pubDate>
+				<comments>/2015/09/thin-sections-now-on-solar-anamnesis/#disqus_thread</comments>
+				<pubDate>Sat, 26 Sep 2015 13:24:31 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1336</guid>
-		<description><![CDATA[The meteorite thin sections are now located on a separate website called Solar Anamnesis.]]></description>
-				<content:encoded><![CDATA[<p>The meteorite thin sections are now located on a separate website called <a href="https://solaranamnesis.com/" target="_blank">Solar Anamnesis</a>.</p>
+				<description><![CDATA[The meteorite thin sections are now located on a separate website called Solar Anamnesis.]]></description>
+								<content:encoded><![CDATA[<p>The meteorite thin sections are now located on a separate website called <a href="https://solaranamnesis.com/" target="_blank">Solar Anamnesis</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/09/thin-sections-now-on-solar-anamnesis/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/09/thin-sections-now-on-solar-anamnesis/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Mars Curiosity Panoramas on Gigapan</title>
 		<link>/2015/08/mars-curiosity-panoramas-on-gigapan/</link>
-		<comments>/2015/08/mars-curiosity-panoramas-on-gigapan/#respond</comments>
-		<pubDate>Mon, 17 Aug 2015 00:42:11 +0000</pubDate>
+				<comments>/2015/08/mars-curiosity-panoramas-on-gigapan/#disqus_thread</comments>
+				<pubDate>Mon, 17 Aug 2015 00:42:11 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[geology]]></category>
 		<category><![CDATA[mars]]></category>
@@ -173,17 +175,17 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1235</guid>
-		<description><![CDATA[Beautiful and breathtaking panoramic views from the Mars Curiosity Rover on Gigapan curiosity of Neville Thompson. Feels like you are actually on the surface of Mars, incredible!]]></description>
-				<content:encoded><![CDATA[<p>Beautiful and breathtaking panoramic views from the Mars Curiosity Rover on <a href="http://www.gigapan.com/profiles/pencilnev/gigapans" target="_blank">Gigapan curiosity of Neville Thompson</a>. Feels like you are actually on the surface of Mars, incredible!</p>
+				<description><![CDATA[Beautiful and breathtaking panoramic views from the Mars Curiosity Rover on Gigapan curiosity of Neville Thompson. Feels like you are actually on the surface of Mars, incredible!]]></description>
+								<content:encoded><![CDATA[<p>Beautiful and breathtaking panoramic views from the Mars Curiosity Rover on <a href="http://www.gigapan.com/profiles/pencilnev/gigapans" target="_blank">Gigapan curiosity of Neville Thompson</a>. Feels like you are actually on the surface of Mars, incredible!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/08/mars-curiosity-panoramas-on-gigapan/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/08/mars-curiosity-panoramas-on-gigapan/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Thorium &#8211; Kirk Sorenson</title>
 		<link>/2015/05/thorium-kirk-sorenson/</link>
-		<comments>/2015/05/thorium-kirk-sorenson/#respond</comments>
-		<pubDate>Mon, 11 May 2015 01:20:18 +0000</pubDate>
+				<comments>/2015/05/thorium-kirk-sorenson/#disqus_thread</comments>
+				<pubDate>Mon, 11 May 2015 01:20:18 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[documentary]]></category>
 		<category><![CDATA[electricity]]></category>
@@ -197,8 +199,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1107</guid>
-		<description><![CDATA[Kirk Sorenson does an excellent job describing the current state of the American nuclear energy program and its future. He sees hope from the current enthusiasm of the Chinese, who are developing extensive nuclear reactor technology. Perhaps their focus will encourage the rest of the world. The nuclear energy field has been plagued by misconceptions [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Kirk Sorenson does an excellent job describing the current state of the American nuclear energy program and its future. He sees hope from the current enthusiasm of the Chinese, who are developing extensive nuclear reactor technology. Perhaps their focus will encourage the rest of the world. The nuclear energy field has been plagued by misconceptions for decades. There is a definite need for someone to stand up and cut through all the ignorance surrounding this important subject.</p>
+				<description><![CDATA[Kirk Sorenson does an excellent job describing the current state of the American nuclear energy program and its future. He sees hope from the current enthusiasm of the Chinese, who are developing extensive nuclear reactor technology. Perhaps their focus will encourage the rest of the world. The nuclear energy field has been plagued by misconceptions [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Kirk Sorenson does an excellent job describing the current state of the American nuclear energy program and its future. He sees hope from the current enthusiasm of the Chinese, who are developing extensive nuclear reactor technology. Perhaps their focus will encourage the rest of the world. The nuclear energy field has been plagued by misconceptions for decades. There is a definite need for someone to stand up and cut through all the ignorance surrounding this important subject.</p>
 <p>There are probably hundreds of new reactor designs. Kirk&#8217;s favourite is the Liquid Fluoride Thorium Reactor (<a href="http://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor" target="_blank">LFTR</a>). He talks extensively about its benefits, its problems, its safety, and how it can be put into operation. Hopefully, people will see his arguments as valid and convincing. Read more on his blog: <a href="http://energyfromthorium.com/" target="_blank">Energy from Thorium</a>. <a href="http://gordonmcdowell.com/thorium/" target="_blank">Gordon McDowell&#8217;s videos</a> present the ideas of Sorenson in a clear and concise manner and there are numerous lectures and talks given by Sorenson on YouTube.</p>
 <p>I would also recommend <a href="https://anautonomousagent.com/2013/11/atomic-awakening-a-new-look-at-the-history-and-future-of-nuclear-power-james-mahaffey/" target="_blank">James Mahaffey&#8217;s book, Atomic Awakening</a>.</p>
 <div class="youtube"
@@ -210,31 +212,31 @@
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/05/thorium-kirk-sorenson/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/05/thorium-kirk-sorenson/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Bandcamp.com and Bleep.com</title>
 		<link>/2014/12/bandcamp-com/</link>
-		<comments>/2014/12/bandcamp-com/#respond</comments>
-		<pubDate>Sat, 20 Dec 2014 04:23:00 +0000</pubDate>
+				<comments>/2014/12/bandcamp-com/#disqus_thread</comments>
+				<pubDate>Sat, 20 Dec 2014 04:23:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[music]]></category>
 		<category><![CDATA[sound]]></category>
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=6</guid>
-		<description><![CDATA[This is just a brief post showing my appreciation and support for HQ music and musical freedom. Two of my favorite music stores: bandcamp and Bleep. I&#8217;ve been buying music from these site almost since they first started. It&#8217;s a great way to buy music directly from the artist and in my favorite digital music [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>This is just a brief post showing my appreciation and support for HQ music and musical freedom. Two of my favorite music stores: <a href="//www.bandcamp.com/" target="_blank">bandcamp</a> and <a href="//bleep.com" target="_blank">Bleep</a>. I&#8217;ve been buying music from these site almost since they first started. It&#8217;s a great way to buy music directly from the artist and in my favorite digital music format &#8211; FLAC!</p>
+				<description><![CDATA[This is just a brief post showing my appreciation and support for HQ music and musical freedom. Two of my favorite music stores: bandcamp and Bleep. I&#8217;ve been buying music from these site almost since they first started. It&#8217;s a great way to buy music directly from the artist and in my favorite digital music [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>This is just a brief post showing my appreciation and support for HQ music and musical freedom. Two of my favorite music stores: <a href="//www.bandcamp.com/" target="_blank">bandcamp</a> and <a href="//bleep.com" target="_blank">Bleep</a>. I&#8217;ve been buying music from these site almost since they first started. It&#8217;s a great way to buy music directly from the artist and in my favorite digital music format &#8211; FLAC!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/12/bandcamp-com/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/12/bandcamp-com/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Counter Intelligence (2013)</title>
 		<link>/2014/09/counter-intelligence-2013/</link>
-		<comments>/2014/09/counter-intelligence-2013/#respond</comments>
-		<pubDate>Sun, 28 Sep 2014 01:16:00 +0000</pubDate>
+				<comments>/2014/09/counter-intelligence-2013/#disqus_thread</comments>
+				<pubDate>Sun, 28 Sep 2014 01:16:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[cia]]></category>
 		<category><![CDATA[documentary]]></category>
@@ -243,11 +245,11 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=19</guid>
-		<description><![CDATA[Top Documentary Films posts links to numerous free films. It has been one of my favorite places to visit when I am bored; I especially like the coverage of controversial and radical subjects &#8212; films which are unlikely to be found on sites like Netflix and Hulu. One such documentary is Counter Intelligence, an investigation [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Top Documentary Films posts links to numerous free films. It has been one of my favorite places to visit when I am bored; I especially like the coverage of controversial and radical subjects &#8212; films which are unlikely to be found on sites like Netflix and Hulu. One such documentary is <a href="//topdocumentaryfilms.com/counter-intelligence/" target="_blank">Counter Intelligence</a>, an investigation and history of the United States Central Intelligence Agency. Through declassified public documents and former CIA officers, the film reveals how the CIA has operated in the past. Studying the history of the CIA, one can speculate as to how the agency may be influencing current world events.</p>
+				<description><![CDATA[Top Documentary Films posts links to numerous free films. It has been one of my favorite places to visit when I am bored; I especially like the coverage of controversial and radical subjects &#8212; films which are unlikely to be found on sites like Netflix and Hulu. One such documentary is Counter Intelligence, an investigation [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Top Documentary Films posts links to numerous free films. It has been one of my favorite places to visit when I am bored; I especially like the coverage of controversial and radical subjects &#8212; films which are unlikely to be found on sites like Netflix and Hulu. One such documentary is <a href="//topdocumentaryfilms.com/counter-intelligence/" target="_blank">Counter Intelligence</a>, an investigation and history of the United States Central Intelligence Agency. Through declassified public documents and former CIA officers, the film reveals how the CIA has operated in the past. Studying the history of the CIA, one can speculate as to how the agency may be influencing current world events.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/09/counter-intelligence-2013/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/09/counter-intelligence-2013/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

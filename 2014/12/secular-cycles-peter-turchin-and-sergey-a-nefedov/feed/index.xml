@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Secular Cycles &#8211;  Peter Turchin and Sergey A. Nefedov</title>
+	<title>
+	Comments on: Secular Cycles &#8211;  Peter Turchin and Sergey A. Nefedov	</title>
 	<atom:link href="/2014/12/secular-cycles-peter-turchin-and-sergey-a-nefedov/feed/" rel="self" type="application/rss+xml" />
 	<link>/2014/12/secular-cycles-peter-turchin-and-sergey-a-nefedov/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:20 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sat, 02 Dec 2017 01:48:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

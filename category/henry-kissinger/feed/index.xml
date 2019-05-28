@@ -12,16 +12,18 @@
 	<atom:link href="/category/henry-kissinger/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:49:57 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Trials of Henry Kissinger (2002)</title>
 		<link>/2014/08/the-trials-of-henry-kissinger-2002/</link>
-		<comments>/2014/08/the-trials-of-henry-kissinger-2002/#respond</comments>
-		<pubDate>Sun, 31 Aug 2014 05:56:00 +0000</pubDate>
+				<comments>/2014/08/the-trials-of-henry-kissinger-2002/#disqus_thread</comments>
+				<pubDate>Sun, 31 Aug 2014 05:56:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[american]]></category>
 		<category><![CDATA[christopher hitchens]]></category>
@@ -35,13 +37,13 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=25</guid>
-		<description><![CDATA[Watch it: The Trials of Henry Kissinger (2002) Summary: Part contemporary investigation and part historical inquiry, documentary follows the quest of one journalist in search of justice. The film focuses on Christopher Hitchens&#8217; charges against Henry Kissinger as a war criminal &#8211; allegations documented in Hitchens&#8217; book of the same title &#8211; based on his [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Watch it: <a href="//youtu.be/2bFOhAAYfqk" target="_blank">The Trials of Henry Kissinger (2002) </a></p>
+				<description><![CDATA[Watch it: The Trials of Henry Kissinger (2002) Summary: Part contemporary investigation and part historical inquiry, documentary follows the quest of one journalist in search of justice. The film focuses on Christopher Hitchens&#8217; charges against Henry Kissinger as a war criminal &#8211; allegations documented in Hitchens&#8217; book of the same title &#8211; based on his [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Watch it: <a href="//youtu.be/2bFOhAAYfqk" target="_blank">The Trials of Henry Kissinger (2002) </a></p>
 <p>Summary:</p>
 <blockquote><p>Part contemporary investigation and part historical inquiry, documentary  follows the quest of one journalist in search of justice. The film  focuses on Christopher Hitchens&#8217; charges against Henry Kissinger as a  war criminal &#8211; allegations documented in <a href="//amzn.com/145552297X" target="_blank">Hitchens&#8217; book </a>of the same  title &#8211; based on his role in countries such as Cambodia, Chile, and  Indonesia. Kissinger&#8217;s story raises profound questions about American  foreign policy and highlights a new era of human rights. Increasing  evidence about one man&#8217;s role in a long history of human rights abuses  leads to a critical examination of American diplomacy through the lens  of international standards of justice.                <em>Written by <a href="//www.imdb.com/search/title?plot_author=Sujit%20R.%20Varma&amp;view=simple&amp;sort=alpha">Sujit R. Varma</a></em></p></blockquote>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/08/the-trials-of-henry-kissinger-2002/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/08/the-trials-of-henry-kissinger-2002/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

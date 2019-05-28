@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Hearos High Fidelity Ear Plugs</title>
+	<title>
+	Comments on: Hearos High Fidelity Ear Plugs	</title>
 	<atom:link href="/2013/01/hearos-high-fidelity-ear-plugs/feed/" rel="self" type="application/rss+xml" />
 	<link>/2013/01/hearos-high-fidelity-ear-plugs/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:40 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:53:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

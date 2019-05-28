@@ -16,7 +16,7 @@
 <link rel="alternate" type="application/rss+xml" title="An Autonomous Agent &raquo; Comments Feed" href="/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="An Autonomous Agent &raquo; After Capitalism &#8211; David Schweickart Comments Feed" href="/2013/03/after-capitalism-david-schweickart/feed/" />
 <link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='lovecraft_googleFonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C900%7CPlayfair+Display%3A400%2C700%2C400italic&#038;ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lovecraft_googleFonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C900%7CPlayfair+Display%3A400%2C700%2C400italic&#038;ver=5.2.1' type='text/css' media='all' />
 <link rel='stylesheet' id='lovecraft_genericons-css'  href='/wp-content/themes/lovecraft/genericons/genericons.css' type='text/css' media='all' />
 <link rel='stylesheet' id='lovecraft_style-css'  href='/wp-content/themes/lovecraft/style.css' type='text/css' media='all' />
 <script type='text/javascript' src='https://code.jquery.com/jquery-1.12.4.min.js'></script>
@@ -25,7 +25,7 @@
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
 <link rel='prev' title='Energy &#8211; Stardust &#8211; Consciousness' href='/2013/03/energy-stardust-consciousness/' />
 <link rel='next' title='Carl Zimmer Videos' href='/2013/03/carl-zimmer-videos/' />
-<meta name="generator" content="WordPress 5.0.2" />
+<meta name="generator" content="WordPress 5.2.1" />
 <link rel="canonical" href="/2013/03/after-capitalism-david-schweickart/" />
 <link rel='shortlink' href='/?p=192' />
 <link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2F2013%2F03%2Fafter-capitalism-david-schweickart%2F" />
@@ -229,10 +229,38 @@
 		
 		<div class="sidebar">
 
-	<div class="widget widget_lovecraft_recent_posts"><div class="widget-content"><h3 class="widget-title">Recent Posts</h3>		
+	<div class="widget_text widget widget_custom_html"><div class="widget_text widget-content"><h3 class="widget-title">Search</h3><div class="textwidget custom-html-widget"><iframe src="https://duckduckgo.com/search.html?width=200&site=anautonomousagent.com&prefill=Search" style="overflow:hidden;margin:0;padding:0;width:258px;height:40px;" frameborder="0"></iframe></div></div><div class="clear"></div></div><div class="widget widget_lovecraft_recent_posts"><div class="widget-content"><h3 class="widget-title">Recent Posts</h3>		
 			<ul class="lovecraft-widget-list">
 				
 									
+						<li>
+						
+													
+							<a href="/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/" title="Evolution from Space &#8211; Fred Hoyle and Chandra Wickramasinghe">
+									
+								<div class="post-icon">
+								
+																		
+																		
+										<div class="genericon genericon-standard"></div>
+									
+																		
+								</div>
+								
+								<div class="inner">
+												
+									<p class="title">Evolution from Space &#8211; Fred Hoyle and Chandra Wickramasinghe</p>
+									<p class="meta">May 28, 2019</p>
+								
+								</div>
+								
+								<div class="clear"></div>
+													
+							</a>
+							
+						</li>
+					
+										
 						<li>
 						
 													
@@ -484,34 +512,6 @@
 							
 						</li>
 					
-										
-						<li>
-						
-													
-							<a href="/2018/08/decentralized-blockchain-wireless-internet-service-provider/" title="Decentralized Blockchain Wireless Internet Service Provider">
-									
-								<div class="post-icon">
-								
-																		
-																		
-										<div class="genericon genericon-standard"></div>
-									
-																		
-								</div>
-								
-								<div class="inner">
-												
-									<p class="title">Decentralized Blockchain Wireless Internet Service Provider</p>
-									<p class="meta">August 12, 2018</p>
-								
-								</div>
-								
-								<div class="clear"></div>
-													
-							</a>
-							
-						</li>
-					
 								
 				</ul>
 				
@@ -532,10 +532,11 @@
 			<div class="widgets">
 				
 				<div class="widget widget_archive"><div class="widget-content"><h3 class="widget-title">Archives</h3>		<label class="screen-reader-text" for="archives-dropdown-2">Archives</label>
-		<select id="archives-dropdown-2" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+		<select id="archives-dropdown-2" name="archive-dropdown">
 			
 			<option value="">Select Month</option>
-				<option value='https://anautonomousagent.com/2019/01/'> January 2019 </option>
+				<option value='https://anautonomousagent.com/2019/05/'> May 2019 </option>
+	<option value='https://anautonomousagent.com/2019/01/'> January 2019 </option>
 	<option value='https://anautonomousagent.com/2018/11/'> November 2018 </option>
 	<option value='https://anautonomousagent.com/2018/09/'> September 2018 </option>
 	<option value='https://anautonomousagent.com/2018/08/'> August 2018 </option>
@@ -599,6 +600,21 @@
 	<option value='https://anautonomousagent.com/2012/12/'> December 2012 </option>
 
 		</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-2" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+
 		</div><div class="clear"></div></div><div class="widget widget_nav_menu"><div class="widget-content"><h3 class="widget-title">Links</h3><div class="menu-links-container"><ul id="menu-links" class="menu"><li id="menu-item-928" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-928"><a href="https://thebubbleindex.com/">The Bubble Index</a></li>
 <li id="menu-item-1673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1673"><a href="https://solaranamnesis.com/">Solar Anamnesis</a></li>
 <li id="menu-item-926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-926"><a href="http://infinity-imagined.tumblr.com/">Infinity Imagined</a></li>
@@ -680,7 +696,7 @@ var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdenti
 var dclCustomVars = {"dcl_progress_text":"Loading..."};
 /* ]]> */
 </script>
-<script type='text/javascript' src='/wp-content/plugins/disqus-conditional-load/assets/js/public/embed-scroll.min.js?ver=11.0.0'></script>
+<script type='text/javascript' src='/wp-content/plugins/disqus-conditional-load/assets/js/public/embed-scroll.min.js?ver=11.0.1'></script>
 <script type='text/javascript' src='/wp-content/themes/lovecraft/js/doubletaptogo.js'></script>
 <script type='text/javascript' src='/wp-content/themes/lovecraft/js/global.js'></script>
 

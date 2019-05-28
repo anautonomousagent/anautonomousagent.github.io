@@ -12,16 +12,18 @@
 	<atom:link href="/category/qatsi/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:51:19 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Qatsi Trilogy</title>
 		<link>/2013/02/qatsi-trilogy/</link>
-		<comments>/2013/02/qatsi-trilogy/#respond</comments>
-		<pubDate>Thu, 28 Feb 2013 22:04:00 +0000</pubDate>
+				<comments>/2013/02/qatsi-trilogy/#disqus_thread</comments>
+				<pubDate>Thu, 28 Feb 2013 22:04:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropocene]]></category>
 		<category><![CDATA[anthropology]]></category>
@@ -41,8 +43,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=215</guid>
-		<description><![CDATA[The Qatsi Trilogy provides a powerful visualizations of the modern world. These movies changed the way I see the world. Worth watching. Part 1 &#8211; Koyaanisqatsi (1982) &#8211; Watch it here: Koyaanisqatsi on Amazon.com Koyaanisqatsi on Hulu Koyaanisqatsi on Vimeo Part 2 &#8211; Powaqqatsi (1988) &#8211; Watch it here:      Powaqqatsi on Vimeo      Powaqqatsi on [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>The <a href="//en.wikipedia.org/wiki/Qatsi_trilogy" target="_blank" rel="noopener">Qatsi Trilogy</a> provides a powerful visualizations of the modern world. These movies changed the way I see the world. Worth watching.</p>
+				<description><![CDATA[The Qatsi Trilogy provides a powerful visualizations of the modern world. These movies changed the way I see the world. Worth watching. Part 1 &#8211; Koyaanisqatsi (1982) &#8211; Watch it here: Koyaanisqatsi on Amazon.com Koyaanisqatsi on Hulu Koyaanisqatsi on Vimeo Part 2 &#8211; Powaqqatsi (1988) &#8211; Watch it here:      Powaqqatsi on Vimeo      Powaqqatsi on [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>The <a href="//en.wikipedia.org/wiki/Qatsi_trilogy" target="_blank" rel="noopener">Qatsi Trilogy</a> provides a powerful visualizations of the modern world. These movies changed the way I see the world. Worth watching.</p>
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/02/Qatsi-Trilogy-spread-BD-300x931.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/02/Qatsi-Trilogy-spread-BD-300x931-300x93.jpg" width="640" height="196" border="0" /></a></div>
 <div style="text-align: center;"></div>
 <div style="text-align: center;">Part 1 &#8211; <a href="//en.wikipedia.org/wiki/Koyaanisqatsi" target="_blank" rel="noopener">Koyaanisqatsi</a> (1982) &#8211;</div>
@@ -65,8 +67,8 @@
 <div style="clear: both; text-align: center;"><a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/02/Qatsi-package-box-300x1681.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/02/Qatsi-package-box-300x1681-300x168.jpg" width="320" height="179" border="0" /></a></div>
 <p>&nbsp;</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/02/qatsi-trilogy/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/02/qatsi-trilogy/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

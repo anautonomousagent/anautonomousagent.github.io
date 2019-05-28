@@ -12,16 +12,18 @@
 	<atom:link href="/category/robert-bauval/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:53:15 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Orion Mystery: Unlocking the Secrets of the Pyramids &#8211; Robert Bauval and Adrian Gilbert</title>
 		<link>/2013/01/the-orion-mystery-unlocking-the-secrets-of-the-pyramids-robert-bauval-and-adrian-gilbert/</link>
-		<comments>/2013/01/the-orion-mystery-unlocking-the-secrets-of-the-pyramids-robert-bauval-and-adrian-gilbert/#respond</comments>
-		<pubDate>Tue, 01 Jan 2013 23:29:00 +0000</pubDate>
+				<comments>/2013/01/the-orion-mystery-unlocking-the-secrets-of-the-pyramids-robert-bauval-and-adrian-gilbert/#disqus_thread</comments>
+				<pubDate>Tue, 01 Jan 2013 23:29:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[astronomy]]></category>
 		<category><![CDATA[book]]></category>
@@ -34,14 +36,14 @@
 		<category><![CDATA[science]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=371</guid>
-		<description><![CDATA[There exists a theory, called the Orion Correlation Theory, which claims that the Egyptians built the pyramids to&#160;mimic&#160;the asterism of Orion&#8217;s Belt. Thus, the Nile River would correspond to the Milky Way. This theory was first publish in a book, The Orion Mystery: Unlocking the Secrets of the Pyramids, by&#160;Robert Bauval and Adrian Gilbert. This [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/the-orion-mystery1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/the-orion-mystery1.jpg" height="320" width="192" /></a></div>
+				<description><![CDATA[There exists a theory, called the Orion Correlation Theory, which claims that the Egyptians built the pyramids to&#160;mimic&#160;the asterism of Orion&#8217;s Belt. Thus, the Nile River would correspond to the Milky Way. This theory was first publish in a book, The Orion Mystery: Unlocking the Secrets of the Pyramids, by&#160;Robert Bauval and Adrian Gilbert. This [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/the-orion-mystery1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/the-orion-mystery1.jpg" height="320" width="192" /></a></div>
 <div style="clear: both; text-align: center;"></div>
 <p><span style="background-color: white; font-family: Verdana, Arial, Helvetica, sans-serif;">There exists a theory, called the <a href="//en.wikipedia.org/wiki/Orion_correlation_theory" target="_blank">Orion Correlation Theory</a>, which claims that the Egyptians built the pyramids to&nbsp;mimic&nbsp;the <a href="//en.wikipedia.org/wiki/Asterism_(astronomy)" target="_blank">asterism</a> of <a href="//en.wikipedia.org/wiki/Orion%27s_Belt" target="_blank">Orion&#8217;s Belt</a>. Thus, the Nile River would correspond to the <a href="//en.wikipedia.org/wiki/Milky_Way" target="_blank">Milky Way</a>. This theory was first publish in a book, <a href="//amzn.com/0517884542" target="_blank"><i>The Orion Mystery: Unlocking the Secrets of the Pyramids</i></a>, by&nbsp;</span><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><a href="//en.wikipedia.org/wiki/Robert_Bauval" target="_blank">Robert Bauval</a> and Adrian Gilbert. This work provides a new perspective on the importance of&nbsp;astronomy&nbsp;to the ancient Egyptians. Anyone who loves ancient mysteries should give this book a read.</span><br /><span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;"><br /></span></p>
 <div style="clear: both; text-align: center;"><a href="//dialspace.dial.pipex.com/town/parade/henryr/quest/orion/orion.gif" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//dialspace.dial.pipex.com/town/parade/henryr/quest/orion/orion.gif" height="320" width="238" /></a></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/the-orion-mystery-unlocking-the-secrets-of-the-pyramids-robert-bauval-and-adrian-gilbert/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/the-orion-mystery-unlocking-the-secrets-of-the-pyramids-robert-bauval-and-adrian-gilbert/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

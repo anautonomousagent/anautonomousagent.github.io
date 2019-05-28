@@ -12,16 +12,18 @@
 	<atom:link href="/category/drew-berry/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:11 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Power of Scientific Visualization</title>
 		<link>/2014/05/the-power-of-scientific-visualization/</link>
-		<comments>/2014/05/the-power-of-scientific-visualization/#respond</comments>
-		<pubDate>Thu, 08 May 2014 12:36:00 +0000</pubDate>
+				<comments>/2014/05/the-power-of-scientific-visualization/#disqus_thread</comments>
+				<pubDate>Thu, 08 May 2014 12:36:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[computer]]></category>
@@ -38,13 +40,13 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=67</guid>
-		<description><![CDATA[&#8220;A picture is worth a thousand words&#8221;, a cliché, but true. A semester or even a textbook can be condensed into a beautiful visualization thanks to modern graphics. This is why I find the work of Drew Berry, XVIVO, and David Goodsell so powerful. Seeing DNA replication and intracellular transportation makes me speechless. Many of [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>&#8220;A picture is worth a thousand words&#8221;, a cliché, but true. A semester or even a textbook can be condensed into a beautiful visualization thanks to modern graphics. This is why I find the work of <a href="http://www.molecularmovies.com/movies/viewanimatorstudio/Drew%20Berry/" target="_blank" rel="noopener">Drew Berry</a>, <a href="//www.xvivo.net/" target="_blank" rel="noopener">XVIVO</a>, and <a href="//anautonomousagent.com/?p=97" target="_blank" rel="noopener">David Goodsell </a>so powerful. Seeing DNA replication and intracellular transportation makes me speechless. Many of these are created with Maya or Molecular Maya. I really want to explore Maya to visualize financial networks and data after watching these&#8230;</p>
+				<description><![CDATA[&#8220;A picture is worth a thousand words&#8221;, a cliché, but true. A semester or even a textbook can be condensed into a beautiful visualization thanks to modern graphics. This is why I find the work of Drew Berry, XVIVO, and David Goodsell so powerful. Seeing DNA replication and intracellular transportation makes me speechless. Many of [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>&#8220;A picture is worth a thousand words&#8221;, a cliché, but true. A semester or even a textbook can be condensed into a beautiful visualization thanks to modern graphics. This is why I find the work of <a href="http://www.molecularmovies.com/movies/viewanimatorstudio/Drew%20Berry/" target="_blank" rel="noopener">Drew Berry</a>, <a href="//www.xvivo.net/" target="_blank" rel="noopener">XVIVO</a>, and <a href="//anautonomousagent.com/?p=97" target="_blank" rel="noopener">David Goodsell </a>so powerful. Seeing DNA replication and intracellular transportation makes me speechless. Many of these are created with Maya or Molecular Maya. I really want to explore Maya to visualize financial networks and data after watching these&#8230;</p>
 <div id="WFCvkkDSfIU" class="youtube" style="width: 100%; height: 360px;"></div>
 <div id="TZuxuVJA36Q" class="youtube" style="width: 100%; height: 360px;"></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/05/the-power-of-scientific-visualization/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/05/the-power-of-scientific-visualization/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

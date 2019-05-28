@@ -12,16 +12,18 @@
 	<atom:link href="/category/abby-martin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:26 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>A Very Heavy Agenda &#8211; Robbie Martin</title>
 		<link>/2016/08/a-very-heavy-agenda-robbie-martin/</link>
-		<comments>/2016/08/a-very-heavy-agenda-robbie-martin/#respond</comments>
-		<pubDate>Sat, 13 Aug 2016 04:14:01 +0000</pubDate>
+				<comments>/2016/08/a-very-heavy-agenda-robbie-martin/#disqus_thread</comments>
+				<pubDate>Sat, 13 Aug 2016 04:14:01 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[9/11]]></category>
 		<category><![CDATA[abby martin]]></category>
@@ -35,18 +37,18 @@
 		<category><![CDATA[war]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1596</guid>
-		<description><![CDATA[Well done Mr. Martin.]]></description>
-				<content:encoded><![CDATA[<p>Well done Mr. Martin.</p>
+				<description><![CDATA[Well done Mr. Martin.]]></description>
+								<content:encoded><![CDATA[<p>Well done Mr. Martin.</p>
 <p><iframe src="https://player.vimeo.com/video/141983700" width="629" height="354" frameborder="0" title="A Very Heavy Agenda Part 1 : A Catalyzing Event" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/08/a-very-heavy-agenda-robbie-martin/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/08/a-very-heavy-agenda-robbie-martin/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Empire Files &#8211; Abby Martin</title>
 		<link>/2016/02/empire-files-abby-martin/</link>
-		<comments>/2016/02/empire-files-abby-martin/#respond</comments>
-		<pubDate>Mon, 22 Feb 2016 03:01:59 +0000</pubDate>
+				<comments>/2016/02/empire-files-abby-martin/#disqus_thread</comments>
+				<pubDate>Mon, 22 Feb 2016 03:01:59 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[9/11]]></category>
 		<category><![CDATA[abby martin]]></category>
@@ -61,13 +63,13 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1435</guid>
-		<description><![CDATA[The growth of a society into an Empire; how does this occur? is it desirable? if not, how can it be avoided? is it possible to create a set of cultural institutions which makes the probability of this transformation near zero?The study of this transformation is vital for future generations. Abby Martin has created a [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>The growth of a society into an Empire; how does this occur? is it desirable? if not, how can it be avoided? is it possible to create a set of cultural institutions which makes the probability of this transformation near zero?The study of this transformation is vital for future generations.</p>
+				<description><![CDATA[The growth of a society into an Empire; how does this occur? is it desirable? if not, how can it be avoided? is it possible to create a set of cultural institutions which makes the probability of this transformation near zero?The study of this transformation is vital for future generations. Abby Martin has created a [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>The growth of a society into an Empire; how does this occur? is it desirable? if not, how can it be avoided? is it possible to create a set of cultural institutions which makes the probability of this transformation near zero?The study of this transformation is vital for future generations.</p>
 <p>Abby Martin has created a series of episodes on YouTube called <a href="http://theempirefiles.tv/" target="_blank">Empire Files</a> which investigates the American Empire. Perhaps with more study we can answer important questions about this emergent cultural phenomenon which is bigger than any one person.</p>
 <p><iframe width="629" height="354" src="https://www.youtube.com/embed/videoseries?list=PLNAlnQ4hvLtTAJcIEcfvfHbMv2omP_rHC" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/02/empire-files-abby-martin/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/02/empire-files-abby-martin/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

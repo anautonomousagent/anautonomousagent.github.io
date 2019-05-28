@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Decentralized Blockchain Wireless Internet Service Provider</title>
+	<title>
+	Comments on: Decentralized Blockchain Wireless Internet Service Provider	</title>
 	<atom:link href="/2018/08/decentralized-blockchain-wireless-internet-service-provider/feed/" rel="self" type="application/rss+xml" />
 	<link>/2018/08/decentralized-blockchain-wireless-internet-service-provider/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:00 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 12 Aug 2018 03:47:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

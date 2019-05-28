@@ -12,16 +12,18 @@
 	<atom:link href="/category/bully-for-brontosaurus/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:50 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Thoughts Based on the Essays of Stephen Jay Gould</title>
 		<link>/2013/10/thoughts-based-on-the-essays-of-stephen-jay-gould/</link>
-		<comments>/2013/10/thoughts-based-on-the-essays-of-stephen-jay-gould/#respond</comments>
-		<pubDate>Sun, 20 Oct 2013 23:51:00 +0000</pubDate>
+				<comments>/2013/10/thoughts-based-on-the-essays-of-stephen-jay-gould/#disqus_thread</comments>
+				<pubDate>Sun, 20 Oct 2013 23:51:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[bully for brontosaurus]]></category>
 		<category><![CDATA[economics]]></category>
@@ -33,8 +35,8 @@
 		<category><![CDATA[universe]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=139</guid>
-		<description><![CDATA[After reading Stephen Jay Gould&#8217;s book of essays, Bully for Brontosaurus, two titles really stuck in my mind. Although I enjoyed every one of the thirty five essays, the ones titled &#8220;Kropotkin Was No Crackpot&#8221; and &#8220;Justice Scalia&#8217;s Misunderstanding&#8221; were most provoking to my understanding of biology and science. In &#8220;Kropotkin Was No Crackpot&#8221; Gould [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;">After reading Stephen Jay Gould&#8217;s book of essays, <i><a href="//ttrott.blogspot.com/2013/08/bully-for-brontosaurus-stephen-jay-gould.html" target="_blank">Bully for Brontosaurus</a></i>, two titles really stuck in my mind. Although I enjoyed every one of the thirty five essays, the ones titled &#8220;Kropotkin Was No Crackpot&#8221; and &#8220;Justice Scalia&#8217;s Misunderstanding&#8221; were most provoking to my understanding of biology and science.</div>
+				<description><![CDATA[After reading Stephen Jay Gould&#8217;s book of essays, Bully for Brontosaurus, two titles really stuck in my mind. Although I enjoyed every one of the thirty five essays, the ones titled &#8220;Kropotkin Was No Crackpot&#8221; and &#8220;Justice Scalia&#8217;s Misunderstanding&#8221; were most provoking to my understanding of biology and science. In &#8220;Kropotkin Was No Crackpot&#8221; Gould [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;">After reading Stephen Jay Gould&#8217;s book of essays, <i><a href="//ttrott.blogspot.com/2013/08/bully-for-brontosaurus-stephen-jay-gould.html" target="_blank">Bully for Brontosaurus</a></i>, two titles really stuck in my mind. Although I enjoyed every one of the thirty five essays, the ones titled &#8220;Kropotkin Was No Crackpot&#8221; and &#8220;Justice Scalia&#8217;s Misunderstanding&#8221; were most provoking to my understanding of biology and science.</div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">In &#8220;Kropotkin Was No Crackpot&#8221; Gould explains the influence on Charles Darwin&#8217;s Theory of Natural Selection by several import philosophical and economic thinkers in England. This people included Adam Smith and Thomas Malthus, who wrote about the importance of the individual and competition for survival and success. Darwin saw these forces of competition directly in action while visiting the tropical parts of the world. In such places, the environment is extremely hospitable to life and natural selection occurs largely through competition. Even though Darwin explained that natural selection also involves cooperation between organisms, he never experienced the importance of cooperation in environments such as Siberia &#8212; where natural selection largely occurs through environmental survival ability.</div>
 <div style="text-align: justify;"></div>
@@ -46,14 +48,14 @@
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">Justice Scalia believed religious opinions were equivalent with scientific hypotheses; an incorrect belief. I jot my ideas down when I have time and many of them deal with speculations on who, how and why the universe exists. Sadly, these are not scientific questions of any kind &#8211; rather, they are speculations which are most likely far from the truth. I do believe that these speculations can be shaped and formed into scientific hypotheses. For example, <a href="//ttrott.blogspot.com/2013/01/the-future-of-materials-of-life-forms.html" target="_blank">my post about future organisms</a> on Earth incorporating human made materials such as plastic in their bodies can be rephrased from a speculation to a scientific hypothesis. All that is needed is a question to answer. Perhaps this question is: do there exist organisms which have changed their genetic structure in such a way to make use of a new material present in their environment? The is answer to that is obviously YES! All oxygen breathing organisms did so millions of years ago. Then I must ask, what does it take to make this change and how can we do it today?</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/10/thoughts-based-on-the-essays-of-stephen-jay-gould/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/10/thoughts-based-on-the-essays-of-stephen-jay-gould/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Bully for Brontosaurus &#8211; Stephen Jay Gould</title>
 		<link>/2013/08/bully-for-brontosaurus-stephen-jay-gould/</link>
-		<comments>/2013/08/bully-for-brontosaurus-stephen-jay-gould/#respond</comments>
-		<pubDate>Fri, 30 Aug 2013 20:22:00 +0000</pubDate>
+				<comments>/2013/08/bully-for-brontosaurus-stephen-jay-gould/#disqus_thread</comments>
+				<pubDate>Fri, 30 Aug 2013 20:22:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropology]]></category>
 		<category><![CDATA[biology]]></category>
@@ -67,12 +69,12 @@
 		<category><![CDATA[stephen jay gould]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=151</guid>
-		<description><![CDATA[For my first book by Stephen Jay Gould, I randomly chose Bully for Brontosaurus. This collection of essays provides thought provoking stories in human and biological history. I look forward to reading more of Gould&#8217;s works.]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/08/150px-Bullybronto1.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/08/150px-Bullybronto1.png" /></a></div>
+				<description><![CDATA[For my first book by Stephen Jay Gould, I randomly chose Bully for Brontosaurus. This collection of essays provides thought provoking stories in human and biological history. I look forward to reading more of Gould&#8217;s works.]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/08/150px-Bullybronto1.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/08/150px-Bullybronto1.png" /></a></div>
 <p>For my first book by Stephen Jay Gould, I randomly chose <a href="//amzn.com/039330857X" target="_blank">Bully for Brontosaurus</a>. This collection of essays provides thought provoking stories in human and biological history. I look forward to reading more of Gould&#8217;s works.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/08/bully-for-brontosaurus-stephen-jay-gould/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/08/bully-for-brontosaurus-stephen-jay-gould/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

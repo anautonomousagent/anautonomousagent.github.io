@@ -12,16 +12,18 @@
 	<atom:link href="/category/katz/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:52:55 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Biggest Bangs: The Mystery of Gamma-ray Bursts, the Most Violent Explosions in the Universe &#8211; Jonathon Katz</title>
 		<link>/2013/01/the-biggest-bangs-the-mystery-of-gamma-ray-bursts-the-most-violent-explosions-in-the-universe-jonathon-katz/</link>
-		<comments>/2013/01/the-biggest-bangs-the-mystery-of-gamma-ray-bursts-the-most-violent-explosions-in-the-universe-jonathon-katz/#respond</comments>
-		<pubDate>Fri, 04 Jan 2013 03:02:00 +0000</pubDate>
+				<comments>/2013/01/the-biggest-bangs-the-mystery-of-gamma-ray-bursts-the-most-violent-explosions-in-the-universe-jonathon-katz/#disqus_thread</comments>
+				<pubDate>Fri, 04 Jan 2013 03:02:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[astronomy]]></category>
 		<category><![CDATA[book]]></category>
@@ -36,12 +38,12 @@
 		<category><![CDATA[universe]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=335</guid>
-		<description><![CDATA[The Biggest Bangs: The Mystery of Gamma-ray Bursts, the Most Violent Explosions in the Universe by Jonathan Katz is a decent book on gamma-ray bursts and their history.&#160; I would recommend this book as an introduction to these transient phenomena.]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/97801951457001.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/97801951457001.jpg" height="320" width="213" /></a></div>
+				<description><![CDATA[The Biggest Bangs: The Mystery of Gamma-ray Bursts, the Most Violent Explosions in the Universe by Jonathan Katz is a decent book on gamma-ray bursts and their history.&#160; I would recommend this book as an introduction to these transient phenomena.]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/97801951457001.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/97801951457001.jpg" height="320" width="213" /></a></div>
 <p><a href="//amzn.com/0195145704" target="_blank"><i>The Biggest Bangs: The Mystery of Gamma-ray Bursts, the Most Violent Explosions in the Universe</i></a> by <a href="//wuphys.wustl.edu/~katz/" target="_blank">Jonathan Katz</a> is a decent book on <a href="//en.wikipedia.org/wiki/Gamma-ray_burst" target="_blank">gamma-ray bursts</a> and their history.&nbsp; I would recommend this book as an introduction to these transient phenomena.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/the-biggest-bangs-the-mystery-of-gamma-ray-bursts-the-most-violent-explosions-in-the-universe-jonathon-katz/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/the-biggest-bangs-the-mystery-of-gamma-ray-bursts-the-most-violent-explosions-in-the-universe-jonathon-katz/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

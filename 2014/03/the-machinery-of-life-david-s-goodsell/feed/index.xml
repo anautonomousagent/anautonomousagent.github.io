@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: The Machinery of Life &#8211; David S. Goodsell</title>
+	<title>
+	Comments on: The Machinery of Life &#8211; David S. Goodsell	</title>
 	<atom:link href="/2014/03/the-machinery-of-life-david-s-goodsell/feed/" rel="self" type="application/rss+xml" />
 	<link>/2014/03/the-machinery-of-life-david-s-goodsell/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:18 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

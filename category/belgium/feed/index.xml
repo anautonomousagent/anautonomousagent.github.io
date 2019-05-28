@@ -12,16 +12,18 @@
 	<atom:link href="/category/belgium/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:49:54 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Congo: White King, Red Rubber, Black Death</title>
 		<link>/2014/12/congo-white-king-red-rubber-black-death/</link>
-		<comments>/2014/12/congo-white-king-red-rubber-black-death/#respond</comments>
-		<pubDate>Tue, 09 Dec 2014 18:08:00 +0000</pubDate>
+				<comments>/2014/12/congo-white-king-red-rubber-black-death/#disqus_thread</comments>
+				<pubDate>Tue, 09 Dec 2014 18:08:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[bbc]]></category>
 		<category><![CDATA[belgium]]></category>
@@ -33,13 +35,13 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=13</guid>
-		<description><![CDATA[In the documentary&#160;Congo: White King, Red Rubber, Black Death&#160;the BBC takes a detailed look at one of the worst humanitarian disasters and ruthless killing of natives done during the imperial colonization era. White King &#8212; King Leopold II of Belgium; Red Rubber &#8212; book by E. D. Morel; Black Death &#8212; Congolese killed number in [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>In the documentary&nbsp;<a href="//topdocumentaryfilms.com/congo-white-king-red-rubber-black-death/" target="_blank">Congo: White King, Red Rubber, Black Death</a>&nbsp;the BBC takes a detailed look at one of the worst humanitarian disasters and ruthless killing of natives done during the imperial colonization era.</p>
+				<description><![CDATA[In the documentary&#160;Congo: White King, Red Rubber, Black Death&#160;the BBC takes a detailed look at one of the worst humanitarian disasters and ruthless killing of natives done during the imperial colonization era. White King &#8212; King Leopold II of Belgium; Red Rubber &#8212; book by E. D. Morel; Black Death &#8212; Congolese killed number in [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>In the documentary&nbsp;<a href="//topdocumentaryfilms.com/congo-white-king-red-rubber-black-death/" target="_blank">Congo: White King, Red Rubber, Black Death</a>&nbsp;the BBC takes a detailed look at one of the worst humanitarian disasters and ruthless killing of natives done during the imperial colonization era.</p>
 <div></div>
 <div>White King &#8212; <a href="//en.wikipedia.org/wiki/Leopold_II_of_Belgium" target="_blank">King Leopold II of Belgium</a>; Red Rubber &#8212; book by <a href="//en.wikipedia.org/wiki/E._D._Morel" target="_blank">E. D. Morel</a>; Black Death &#8212; Congolese killed <a href="//en.wikipedia.org/wiki/Congo_Free_State" target="_blank">number in the millions</a>.&nbsp;</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/12/congo-white-king-red-rubber-black-death/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/12/congo-white-king-red-rubber-black-death/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

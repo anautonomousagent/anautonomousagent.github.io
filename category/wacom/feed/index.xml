@@ -12,16 +12,18 @@
 	<atom:link href="/category/wacom/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 02 Dec 2017 01:53:39 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Wacom Pen Tablets</title>
 		<link>/2013/01/wacom-pen-tablets/</link>
-		<comments>/2013/01/wacom-pen-tablets/#respond</comments>
-		<pubDate>Thu, 03 Jan 2013 19:46:00 +0000</pubDate>
+				<comments>/2013/01/wacom-pen-tablets/#disqus_thread</comments>
+				<pubDate>Thu, 03 Jan 2013 19:46:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[computer]]></category>
@@ -32,8 +34,8 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=341</guid>
-		<description><![CDATA[&#160; Wacom produces high quality pen inputs for the PC. These tablets allow users to write or draw on the computer screen with a pen. The Intuos series provides the best quality reproduction of pen to digital information. These are a favorite among artists wishing to create digital masterpieces. I purchased the Intuos 3 a [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"></div>
+				<description><![CDATA[&#160; Wacom produces high quality pen inputs for the PC. These tablets allow users to write or draw on the computer screen with a pen. The Intuos series provides the best quality reproduction of pen to digital information. These are a favorite among artists wishing to create digital masterpieces. I purchased the Intuos 3 a [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"></div>
 <div style="clear: both; text-align: center;"></div>
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/01/Wacom_Pen-tablet1.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/01/Wacom_Pen-tablet1.jpg" width="320" height="237" border="0" /></a></div>
 <p>&nbsp;</p>
@@ -41,8 +43,8 @@
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/01/IC743831.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/01/IC743831.jpg" width="320" height="310" border="0" /></a><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/01/2012-06-21-14-13418476201.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/01/2012-06-21-14-13418476201.jpg" width="320" height="211" border="0" /></a></div>
 <p>&nbsp;</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/wacom-pen-tablets/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/wacom-pen-tablets/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

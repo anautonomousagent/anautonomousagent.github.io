@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Ode to the World</title>
+	<title>
+	Comments on: Ode to the World	</title>
 	<atom:link href="/2013/01/ode-to-the-world/feed/" rel="self" type="application/rss+xml" />
 	<link>/2013/01/ode-to-the-world/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:24 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:53:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

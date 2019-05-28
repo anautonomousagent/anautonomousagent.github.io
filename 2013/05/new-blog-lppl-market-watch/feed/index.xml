@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: New Blog &#8211; LPPL Market Watch</title>
+	<title>
+	Comments on: New Blog &#8211; LPPL Market Watch	</title>
 	<atom:link href="/2013/05/new-blog-lppl-market-watch/feed/" rel="self" type="application/rss+xml" />
 	<link>/2013/05/new-blog-lppl-market-watch/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:32 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

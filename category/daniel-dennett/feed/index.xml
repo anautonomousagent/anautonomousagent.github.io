@@ -12,16 +12,18 @@
 	<atom:link href="/category/daniel-dennett/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:53 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>YouTube Channel &#8211; WarOnYourMind</title>
 		<link>/2013/06/youtube-channel-waronyourmind/</link>
-		<comments>/2013/06/youtube-channel-waronyourmind/#respond</comments>
-		<pubDate>Sat, 29 Jun 2013 18:06:00 +0000</pubDate>
+				<comments>/2013/06/youtube-channel-waronyourmind/#disqus_thread</comments>
+				<pubDate>Sat, 29 Jun 2013 18:06:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[alan turing]]></category>
 		<category><![CDATA[artificial intelligence]]></category>
@@ -41,11 +43,11 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=155</guid>
-		<description><![CDATA[Started watching the Harvard Distinguished Lecture Series with Daniel Dennett. I enjoyed the lecture on Mind/Brain/Behavior and recommend watching it. Check out WarOnYourMind on YouTube for similar lectures.]]></description>
-				<content:encoded><![CDATA[<p>Started watching the Harvard Distinguished Lecture Series with Daniel Dennett. I enjoyed the lecture on Mind/Brain/Behavior and recommend watching it. Check out <a href="//www.youtube.com/user/WarOnYourMind" target="_blank">WarOnYourMind</a> on YouTube for similar lectures.</p>
+				<description><![CDATA[Started watching the Harvard Distinguished Lecture Series with Daniel Dennett. I enjoyed the lecture on Mind/Brain/Behavior and recommend watching it. Check out WarOnYourMind on YouTube for similar lectures.]]></description>
+								<content:encoded><![CDATA[<p>Started watching the Harvard Distinguished Lecture Series with Daniel Dennett. I enjoyed the lecture on Mind/Brain/Behavior and recommend watching it. Check out <a href="//www.youtube.com/user/WarOnYourMind" target="_blank">WarOnYourMind</a> on YouTube for similar lectures.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/06/youtube-channel-waronyourmind/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/06/youtube-channel-waronyourmind/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

@@ -12,16 +12,18 @@
 	<atom:link href="/category/anthony-peake/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Aug 2018 03:49:39 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Opening the Doors of Perception – Anthony Peake</title>
 		<link>/2018/08/opening-the-doors-of-perception-anthony-peake/</link>
-		<comments>/2018/08/opening-the-doors-of-perception-anthony-peake/#respond</comments>
-		<pubDate>Sun, 12 Aug 2018 03:49:39 +0000</pubDate>
+				<comments>/2018/08/opening-the-doors-of-perception-anthony-peake/#disqus_thread</comments>
+				<pubDate>Sun, 12 Aug 2018 03:49:39 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthony peake]]></category>
 		<category><![CDATA[book]]></category>
@@ -34,11 +36,11 @@
 		<category><![CDATA[roger penrose]]></category>
 
 		<guid isPermaLink="false">/?p=2548</guid>
-		<description><![CDATA[In Opening the Doors of Perception, Anthony Peake strings together research in epilepsy, migraines, autism, Alzheimer’s disease, schizophrenia, and entheogens in an attempt to understand human consciousness. Are we living in a simulation? What is Orchestrated Objective Reduction (Orch-OR) and what can it tell us about ourselves? How is it that flickering light can trigger an [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>In <a href="https://www.anthonypeake.com/product/opening-the-doors-of-perception/">Opening the Doors of Perception</a>, Anthony Peake strings together research in epilepsy, migraines, autism, Alzheimer’s disease, schizophrenia, and entheogens in an attempt to understand human consciousness. Are we living in a simulation? What is <a href="https://en.wikipedia.org/wiki/Orchestrated_objective_reduction">Orchestrated Objective Reduction (Orch-OR)</a> and what can it tell us about ourselves? How is it that flickering light can trigger an altered state of consciousness? What is the relationship between the Eidolon and the Daemon? These are just some of the questions pondered and developed by Peake. Opening the Doors of Perception provides the reader with some fascinating research which will hopefully open ones mind to some really powerful insights.</p>
+				<description><![CDATA[In Opening the Doors of Perception, Anthony Peake strings together research in epilepsy, migraines, autism, Alzheimer’s disease, schizophrenia, and entheogens in an attempt to understand human consciousness. Are we living in a simulation? What is Orchestrated Objective Reduction (Orch-OR) and what can it tell us about ourselves? How is it that flickering light can trigger an [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>In <a href="https://www.anthonypeake.com/product/opening-the-doors-of-perception/">Opening the Doors of Perception</a>, Anthony Peake strings together research in epilepsy, migraines, autism, Alzheimer’s disease, schizophrenia, and entheogens in an attempt to understand human consciousness. Are we living in a simulation? What is <a href="https://en.wikipedia.org/wiki/Orchestrated_objective_reduction">Orchestrated Objective Reduction (Orch-OR)</a> and what can it tell us about ourselves? How is it that flickering light can trigger an altered state of consciousness? What is the relationship between the Eidolon and the Daemon? These are just some of the questions pondered and developed by Peake. Opening the Doors of Perception provides the reader with some fascinating research which will hopefully open ones mind to some really powerful insights.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2018/08/opening-the-doors-of-perception-anthony-peake/feed/</wfw:commentRss>
+							<wfw:commentRss>/2018/08/opening-the-doors-of-perception-anthony-peake/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

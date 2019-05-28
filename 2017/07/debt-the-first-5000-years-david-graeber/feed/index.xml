@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Debt: The First 5,000 Years &#8211; David Graeber</title>
+	<title>
+	Comments on: Debt: The First 5,000 Years &#8211; David Graeber	</title>
 	<atom:link href="/2017/07/debt-the-first-5000-years-david-graeber/feed/" rel="self" type="application/rss+xml" />
 	<link>/2017/07/debt-the-first-5000-years-david-graeber/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:25 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Thu, 07 Dec 2017 02:40:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

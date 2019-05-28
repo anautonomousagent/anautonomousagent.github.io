@@ -12,16 +12,18 @@
 	<atom:link href="/category/fibonacci/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:44 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Structural Harmony of Systems &#8211; Eduard Soroko</title>
 		<link>/2013/11/structural-harmony-of-systems-eduard-soroko/</link>
-		<comments>/2013/11/structural-harmony-of-systems-eduard-soroko/#respond</comments>
-		<pubDate>Thu, 21 Nov 2013 03:12:00 +0000</pubDate>
+				<comments>/2013/11/structural-harmony-of-systems-eduard-soroko/#disqus_thread</comments>
+				<pubDate>Thu, 21 Nov 2013 03:12:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[eduard soroko]]></category>
 		<category><![CDATA[fibonacci]]></category>
@@ -33,8 +35,8 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=131</guid>
-		<description><![CDATA[Today, I read some interesting things on harmony mathematics. Here is a remarkable quote from a guy named Eduard Soroko (I can not find a Wikipedia entry on him): &#8220;The Generalized Golden Proportions are invariants, which allow for natural systems in process of their self-organization to find harmonious structure, stationary regime of their existence, structural [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;">Today, I read some interesting things on harmony mathematics. Here is a remarkable quote from a guy named Eduard Soroko (I can not find a Wikipedia entry on him):</div>
+				<description><![CDATA[Today, I read some interesting things on harmony mathematics. Here is a remarkable quote from a guy named Eduard Soroko (I can not find a Wikipedia entry on him): &#8220;The Generalized Golden Proportions are invariants, which allow for natural systems in process of their self-organization to find harmonious structure, stationary regime of their existence, structural [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;">Today, I read some interesting things on harmony mathematics. Here is a remarkable quote from a guy named Eduard Soroko (I can not find a Wikipedia entry on him):</div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;"><i>&#8220;The Generalized Golden Proportions are invariants, which allow for natural systems in process of their self-organization to find harmonious structure, stationary regime of their existence, structural and functional stability.&#8221;</i></div>
 <div style="text-align: justify;"></div>
@@ -43,8 +45,8 @@
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/11/16100011.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/11/16100011.jpg" width="217" height="320" border="0" /></a></div>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/11/structural-harmony-of-systems-eduard-soroko/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/11/structural-harmony-of-systems-eduard-soroko/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

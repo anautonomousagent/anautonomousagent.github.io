@@ -12,16 +12,18 @@
 	<atom:link href="/category/ode-to-the-world/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:53:09 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Ode to the World</title>
 		<link>/2013/01/ode-to-the-world/</link>
-		<comments>/2013/01/ode-to-the-world/#respond</comments>
-		<pubDate>Wed, 02 Jan 2013 17:40:00 +0000</pubDate>
+				<comments>/2013/01/ode-to-the-world/#disqus_thread</comments>
+				<pubDate>Wed, 02 Jan 2013 17:40:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[China]]></category>
@@ -36,14 +38,14 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=357</guid>
-		<description><![CDATA[Ran across this tumblr website, Ode to the World, while browsing images on Infinity Imagined. Ode to the World contains many stunning and unique pictures from around the world. Check it out!]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/tumblr_mdjak9oqZw1rywzsto1_5001.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2013/01/tumblr_mdjak9oqZw1rywzsto1_5001.jpg" width="227" /></a></div>
+				<description><![CDATA[Ran across this tumblr website, Ode to the World, while browsing images on Infinity Imagined. Ode to the World contains many stunning and unique pictures from around the world. Check it out!]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/tumblr_mdjak9oqZw1rywzsto1_5001.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2013/01/tumblr_mdjak9oqZw1rywzsto1_5001.jpg" width="227" /></a></div>
 <p>Ran across this tumblr website, <a href="//ode-to-the-world.tumblr.com/" target="_blank">Ode to the World</a>, while browsing images on <a href="//infinity-imagined.tumblr.com/" target="_blank">Infinity Imagined</a>. Ode to the World contains many stunning and unique pictures from around the world. Check it out!</p>
 <div><a href="//anautonomousagent.com/wp-content/uploads/2013/01/tumblr_m4q1p7Wwps1qhzsryo1_5001.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2013/01/tumblr_m4q1p7Wwps1qhzsryo1_5001.jpg" width="240" /></a><a href="//anautonomousagent.com/wp-content/uploads/2013/01/tumblr_mehchtZw5h1r4zr2vo1_r3_5001.gif" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2013/01/tumblr_mehchtZw5h1r4zr2vo1_r3_5001.gif" width="228" /></a></div>
 <div></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/ode-to-the-world/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/ode-to-the-world/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

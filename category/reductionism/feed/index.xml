@@ -12,16 +12,18 @@
 	<atom:link href="/category/reductionism/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:51:23 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Stuart Kauffman Videos</title>
 		<link>/2013/02/stuart-kauffman-videos/</link>
-		<comments>/2013/02/stuart-kauffman-videos/#respond</comments>
-		<pubDate>Wed, 27 Feb 2013 03:01:00 +0000</pubDate>
+				<comments>/2013/02/stuart-kauffman-videos/#disqus_thread</comments>
+				<pubDate>Wed, 27 Feb 2013 03:01:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropology]]></category>
 		<category><![CDATA[biology]]></category>
@@ -36,8 +38,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=219</guid>
-		<description><![CDATA[Stuart Kauffman provides many insights into nature, evolution, and other subjects in the following videos: YouTube Playlist Stuart Kauffman &#8211; Beyond Belief 2007 The Re-Enchantment of Humanity: Dr. Stuart Kauffman Stuart Kauffman on Beyond Reductionism Reinventing the Sacred with Stuart Kauffman part1 Stuart Kauffman: Yuk &#8216;n&#8217; Yum Stuart Kauffman Returns to Gund 1/2 Stuart Kauffman [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"></div>
+				<description><![CDATA[Stuart Kauffman provides many insights into nature, evolution, and other subjects in the following videos: YouTube Playlist Stuart Kauffman &#8211; Beyond Belief 2007 The Re-Enchantment of Humanity: Dr. Stuart Kauffman Stuart Kauffman on Beyond Reductionism Reinventing the Sacred with Stuart Kauffman part1 Stuart Kauffman: Yuk &#8216;n&#8217; Yum Stuart Kauffman Returns to Gund 1/2 Stuart Kauffman [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"></div>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/02/SKauffman67w1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/02/SKauffman67w1.jpg" height="228" width="320" /></a></div>
 <p>Stuart Kauffman provides many insights into nature, evolution, and other subjects in the following videos: </p>
 <p><a href="//www.youtube.com/playlist?list=PLu5OLBTMJfBvE8eo5NRpVIpdzyFLIuxpk" target="_blank">YouTube Playlist </a></p>
@@ -50,8 +52,8 @@
 <p><a href="//youtu.be/yg7QKLH5NuQ" target="_blank">Stuart Kauffman &#8211; Mind in the Poised Realm</a></p>
 <p><a href="//youtu.be/xbbCYSdfcZc" target="_blank">Biologist and complexity theorist Stuart Kauffman on preadaptations in evolution</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/02/stuart-kauffman-videos/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/02/stuart-kauffman-videos/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

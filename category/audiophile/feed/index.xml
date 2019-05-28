@@ -12,16 +12,18 @@
 	<atom:link href="/category/audiophile/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:52:59 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>TEAC UD-501, Sennheiser HD 650, Audiophile Linux</title>
 		<link>/2014/08/teac-ud-501-sennheiser-hd-650-audiophile-linux/</link>
-		<comments>/2014/08/teac-ud-501-sennheiser-hd-650-audiophile-linux/#respond</comments>
-		<pubDate>Fri, 01 Aug 2014 18:11:00 +0000</pubDate>
+				<comments>/2014/08/teac-ud-501-sennheiser-hd-650-audiophile-linux/#disqus_thread</comments>
+				<pubDate>Fri, 01 Aug 2014 18:11:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[amplifier]]></category>
 		<category><![CDATA[audiophile]]></category>
@@ -34,22 +36,22 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=33</guid>
-		<description><![CDATA[UPDATE (2016-Feb-01): Upgraded from HD 650 to HD 800. Now in audiophile heaven. Also, added SOtM internal USB port with SOtM SATA In-Line power filter. I recently switched my computer&#8217;s audio system from the Objective2 Amplifier and ObjectiveDAC (a good low-cost set-up) to the TEAC USB AUDIO DAC UD-501. I connected the TEAC to a [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;">UPDATE (2016-Feb-01):</div>
+				<description><![CDATA[UPDATE (2016-Feb-01): Upgraded from HD 650 to HD 800. Now in audiophile heaven. Also, added SOtM internal USB port with SOtM SATA In-Line power filter. I recently switched my computer&#8217;s audio system from the Objective2 Amplifier and ObjectiveDAC (a good low-cost set-up) to the TEAC USB AUDIO DAC UD-501. I connected the TEAC to a [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;">UPDATE (2016-Feb-01):</div>
 <div style="text-align: justify;">Upgraded from HD 650 to HD 800. Now in audiophile heaven. Also, added SOtM internal USB port with SOtM SATA In-Line power filter.</div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">I recently switched my computer&#8217;s audio system from the Objective2 Amplifier and ObjectiveDAC (a good low-cost set-up) to the <a href="//www.teac.com/product/ud-501/" target="_blank" rel="noopener">TEAC USB AUDIO DAC UD-501</a>. I connected the TEAC to a spare laptop running <a href="//www.ap-linux.com/" target="_blank" rel="noopener">Audiophile Linux</a>. Listening with Sennheiser&#8217;s HD 650 headphones, the system playing native <a href="//en.wikipedia.org/wiki/Direct_Stream_Digital" target="_blank" rel="noopener">DSD</a> albums sounds remarkable. All instruments and vocals are crystal clear and superbly smooth. It&#8217;s the way music was meant to be heard.</div>
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2014/08/900x900px-LL-9d60ffd2_DSC_07551.jpeg"><img src="//anautonomousagent.com/wp-content/uploads/2014/08/900x900px-LL-9d60ffd2_DSC_07551.jpeg" alt="" width="320" height="212" border="0" /></a></div>
 <div style="text-align: justify;">DSD is the future of music &#8212; beautiful high quality audio. With a well produced DSD album, it sounds as if you are at the recording studio with the artist. Granted that a typical DSD album can be around 2-4 GB, it is rather disappointing that people seem to prefer poor quality MP3 recordings playing on low quality DAC chips in iPods and cell phones. NOTE: If you want a portable option, see the <a href="//dagogo.com/geek-wave-worlds-first-portable-player-capable-32bit-384-khz-native-dsd" target="_blank" rel="noopener">Geek Wave</a>. An MP3 album is less than half the cost of a DSD album, but it is also less than half the quality IMO. I don&#8217;t think many people are aware of how amazing DSD quality music played back with professional quality electronics can sound. Since we live in a time where hard drives in the 2-4 TB range are rather cheap, I hope that consumers begin to demand that music producers focus on providing high fidelity music.</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/08/teac-ud-501-sennheiser-hd-650-audiophile-linux/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/08/teac-ud-501-sennheiser-hd-650-audiophile-linux/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Audiophile Headphones</title>
 		<link>/2013/01/audiophile-headphones/</link>
-		<comments>/2013/01/audiophile-headphones/#respond</comments>
-		<pubDate>Thu, 03 Jan 2013 19:21:00 +0000</pubDate>
+				<comments>/2013/01/audiophile-headphones/#disqus_thread</comments>
+				<pubDate>Thu, 03 Jan 2013 19:21:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[amplifier]]></category>
 		<category><![CDATA[audiophile]]></category>
@@ -62,11 +64,11 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=342</guid>
-		<description><![CDATA[Wishing for a high quality music environment, I did some research into audiophile headphones. I learned that there does not exist a &#8220;best&#8221; pair of headphones. Rather, there are various headphones which are great for their reproduction of various parts of the audio spectrum. For example, the ones that I bought, the Sennheiser HD 598s [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;">Wishing for a high quality music environment, I did some research into audiophile headphones. I learned that there does not exist a &#8220;best&#8221; pair of headphones. Rather, there are various headphones which are great for their reproduction of various parts of the <a href="//www.teachmeaudio.com/production/mixing/4-techniques/10-audio-spectrum" target="_blank">audio spectrum</a>. For example, the ones that I bought, the <a href="//amzn.com/B0042A8CW2" target="_blank">Sennheiser HD 598s</a> are known to be good (considering their price) for listening to the higher side of the spectrum; i.e., vocals and other high frequency sounds. I must say that I love my Sennheiser HD 598s. <a href="//www.sennheiserusa.com/home" target="_blank">Sennheiser</a> produces a couple of other highly rated headphones, including the <a href="//amzn.com/B00018MSNI" target="_blank">HD 650</a> and <a href="//amzn.com/B001OTZ8DA" target="_blank">HD 800</a>. Here are some other headphones which have good reviews:&nbsp; <a href="//amzn.com/B0006NL5SM" target="_blank">Beyerdynamic DT 770</a>, <a href="//amzn.com/B001RCD2DW" target="_blank">AKG K702</a>, <a href="//amzn.com/B0006DPMU4" target="_blank">Grado SR60</a>, <a href="//amzn.com/B00076VEG6" target="_blank">Grado RS1</a>, and the <a href="//amzn.com/B000ULAP4U" target="_blank">ATH M50</a>. Also, to get the best sound out of the headphones, one should buy an <a href="//ttrott.blogspot.com/2012/12/headphone-amp.html" target="_blank">amplifier</a>.</div>
+				<description><![CDATA[Wishing for a high quality music environment, I did some research into audiophile headphones. I learned that there does not exist a &#8220;best&#8221; pair of headphones. Rather, there are various headphones which are great for their reproduction of various parts of the audio spectrum. For example, the ones that I bought, the Sennheiser HD 598s [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;">Wishing for a high quality music environment, I did some research into audiophile headphones. I learned that there does not exist a &#8220;best&#8221; pair of headphones. Rather, there are various headphones which are great for their reproduction of various parts of the <a href="//www.teachmeaudio.com/production/mixing/4-techniques/10-audio-spectrum" target="_blank">audio spectrum</a>. For example, the ones that I bought, the <a href="//amzn.com/B0042A8CW2" target="_blank">Sennheiser HD 598s</a> are known to be good (considering their price) for listening to the higher side of the spectrum; i.e., vocals and other high frequency sounds. I must say that I love my Sennheiser HD 598s. <a href="//www.sennheiserusa.com/home" target="_blank">Sennheiser</a> produces a couple of other highly rated headphones, including the <a href="//amzn.com/B00018MSNI" target="_blank">HD 650</a> and <a href="//amzn.com/B001OTZ8DA" target="_blank">HD 800</a>. Here are some other headphones which have good reviews:&nbsp; <a href="//amzn.com/B0006NL5SM" target="_blank">Beyerdynamic DT 770</a>, <a href="//amzn.com/B001RCD2DW" target="_blank">AKG K702</a>, <a href="//amzn.com/B0006DPMU4" target="_blank">Grado SR60</a>, <a href="//amzn.com/B00076VEG6" target="_blank">Grado RS1</a>, and the <a href="//amzn.com/B000ULAP4U" target="_blank">ATH M50</a>. Also, to get the best sound out of the headphones, one should buy an <a href="//ttrott.blogspot.com/2012/12/headphone-amp.html" target="_blank">amplifier</a>.</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/audiophile-headphones/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/audiophile-headphones/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

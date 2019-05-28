@@ -12,16 +12,18 @@
 	<atom:link href="/category/nick-lane/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:50 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Oxygen: The Molecule that Made the World &#8211; Nick Lane</title>
 		<link>/2015/03/oxygen-the-molecule-that-made-the-world-nick-lane/</link>
-		<comments>/2015/03/oxygen-the-molecule-that-made-the-world-nick-lane/#respond</comments>
-		<pubDate>Wed, 25 Mar 2015 16:48:53 +0000</pubDate>
+				<comments>/2015/03/oxygen-the-molecule-that-made-the-world-nick-lane/#disqus_thread</comments>
+				<pubDate>Wed, 25 Mar 2015 16:48:53 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[book]]></category>
@@ -31,12 +33,12 @@
 		<category><![CDATA[science]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1023</guid>
-		<description><![CDATA[Incredibly brilliant, well written, and thought-provoking; you will never take another breath of air without appreciating the amazing history of air itself. In Oxygen: The Molecule that Made the World, Nick Lane presents many convincing arguments about the development of early life and the geological history of Earth &#8212; all based on Oxygen. Lane&#8217;s book [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Incredibly brilliant, well written, and thought-provoking; you will never take another breath of air without appreciating the amazing history of air itself. In<a href="http://amzn.com/0198607830" target="_blank"> Oxygen: The Molecule that Made the World</a>, Nick Lane presents many convincing arguments about the development of early life and the geological history of Earth &#8212; all based on Oxygen. Lane&#8217;s book is one of the best I have read about the ancient history of Earth and is a great resource to learn about anti-oxidants, LUCA, and the role of oxygen in biology. He has written other books which I hope to read.</p>
+				<description><![CDATA[Incredibly brilliant, well written, and thought-provoking; you will never take another breath of air without appreciating the amazing history of air itself. In Oxygen: The Molecule that Made the World, Nick Lane presents many convincing arguments about the development of early life and the geological history of Earth &#8212; all based on Oxygen. Lane&#8217;s book [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Incredibly brilliant, well written, and thought-provoking; you will never take another breath of air without appreciating the amazing history of air itself. In<a href="http://amzn.com/0198607830" target="_blank"> Oxygen: The Molecule that Made the World</a>, Nick Lane presents many convincing arguments about the development of early life and the geological history of Earth &#8212; all based on Oxygen. Lane&#8217;s book is one of the best I have read about the ancient history of Earth and is a great resource to learn about anti-oxidants, LUCA, and the role of oxygen in biology. He has written other books which I hope to read.</p>
 <p>It would be interesting to study the effects of meditation on oxygen respiration in the human body. Does anyone know of any such studies?</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/03/oxygen-the-molecule-that-made-the-world-nick-lane/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/03/oxygen-the-molecule-that-made-the-world-nick-lane/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

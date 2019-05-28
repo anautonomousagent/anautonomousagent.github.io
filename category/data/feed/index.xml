@@ -12,16 +12,18 @@
 	<atom:link href="/category/data/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:13 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>D3 Data Driven Documents</title>
 		<link>/2014/04/d3-data-driven-documents/</link>
-		<comments>/2014/04/d3-data-driven-documents/#respond</comments>
-		<pubDate>Tue, 15 Apr 2014 15:18:00 +0000</pubDate>
+				<comments>/2014/04/d3-data-driven-documents/#disqus_thread</comments>
+				<pubDate>Tue, 15 Apr 2014 15:18:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[computer]]></category>
 		<category><![CDATA[d3]]></category>
@@ -33,11 +35,11 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=78</guid>
-		<description><![CDATA[A friend told me about D3 Data Driven Documents. This is an excellent site for anyone with a desire to display data in a unique and cool fashion on the internet. I will be updating my site, thebubbleindex.com with D3 js methods soon.]]></description>
-				<content:encoded><![CDATA[<p>A friend told me about <a href="//d3js.org/" target="_blank">D3 Data Driven Documents</a>. This is an excellent site for anyone with a desire to display data in a unique and cool fashion on the internet. I will be updating my site, thebubbleindex.com with D3 js methods soon.</p>
+				<description><![CDATA[A friend told me about D3 Data Driven Documents. This is an excellent site for anyone with a desire to display data in a unique and cool fashion on the internet. I will be updating my site, thebubbleindex.com with D3 js methods soon.]]></description>
+								<content:encoded><![CDATA[<p>A friend told me about <a href="//d3js.org/" target="_blank">D3 Data Driven Documents</a>. This is an excellent site for anyone with a desire to display data in a unique and cool fashion on the internet. I will be updating my site, thebubbleindex.com with D3 js methods soon.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/04/d3-data-driven-documents/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/04/d3-data-driven-documents/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

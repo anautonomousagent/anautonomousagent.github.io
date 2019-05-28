@@ -12,16 +12,18 @@
 	<atom:link href="/category/underset/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:51:05 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>underset</title>
 		<link>/2013/04/underset/</link>
-		<comments>/2013/04/underset/#respond</comments>
-		<pubDate>Mon, 08 Apr 2013 16:56:00 +0000</pubDate>
+				<comments>/2013/04/underset/#disqus_thread</comments>
+				<pubDate>Mon, 08 Apr 2013 16:56:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[deep house]]></category>
 		<category><![CDATA[house]]></category>
@@ -31,13 +33,13 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=176</guid>
-		<description><![CDATA[underset, aka Paul Volkanov, from Krasnodar, Russia does a nice job at creating electronic music. Mostly deep or progressive house and techno, I suggest listening to the following playlist: underset YouTube playlist]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/04/avatars-000016251137-921qwb-crop-300x1681.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="225" src="//anautonomousagent.com/wp-content/uploads/2013/04/avatars-000016251137-921qwb-crop-300x1681.jpg" width="400" /></a></div>
+				<description><![CDATA[underset, aka Paul Volkanov, from Krasnodar, Russia does a nice job at creating electronic music. Mostly deep or progressive house and techno, I suggest listening to the following playlist: underset YouTube playlist]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/04/avatars-000016251137-921qwb-crop-300x1681.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="225" src="//anautonomousagent.com/wp-content/uploads/2013/04/avatars-000016251137-921qwb-crop-300x1681.jpg" width="400" /></a></div>
 <p><a href="https://soundcloud.com/underset" target="_blank">underset</a>, aka Paul Volkanov, from Krasnodar, Russia does a nice job at creating electronic music. Mostly deep or progressive house and techno, I suggest listening to the following playlist:</p>
 <p><a href="//www.youtube.com/playlist?list=PLu5OLBTMJfButNVoXXJUp0ia_zK-G4Pua" target="_blank">underset YouTube playlist</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/04/underset/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/04/underset/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

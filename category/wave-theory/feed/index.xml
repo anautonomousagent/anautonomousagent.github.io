@@ -12,16 +12,18 @@
 	<atom:link href="/category/wave-theory/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:47 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Misbehavior of Markets: A Fractal View of Financial Turbulence &#8211; Benoit Mandelbrot</title>
 		<link>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/</link>
-		<comments>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/#respond</comments>
-		<pubDate>Wed, 27 Aug 2014 23:45:00 +0000</pubDate>
+				<comments>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/#disqus_thread</comments>
+				<pubDate>Wed, 27 Aug 2014 23:45:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[benoit mandelbrot]]></category>
 		<category><![CDATA[book]]></category>
@@ -39,19 +41,19 @@
 		<category><![CDATA[wave theory]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=26</guid>
-		<description><![CDATA[I&#8217;ve been wanting to read The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" width="211" /></a></div>
+				<description><![CDATA[I&#8217;ve been wanting to read The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" width="211" /></a></div>
 <div style="text-align: justify;">I&#8217;ve been wanting to read <a href="//amzn.com/0465043577" target="_blank">The Misbehavior of Markets: A Fractal View of Financial Turbulence</a> by <a href="//en.wikipedia.org/wiki/Benoit_Mandelbrot" target="_blank">Benoit Mandelbrot</a> for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It is a little surprising that Mandelbrot did not talk in detail about the work of <a href="//anautonomousagent.com/?p=138" target="_blank">R.N. Elliott or Robert Prechter</a>, among others, which I think complement Mandelbrot&#8217;s work on financial fractals. Patrick Harris wrote a short paper discussing whether Mandelbrot should have cited Elliott (<a href="//www.math.utah.edu/vigre/reu/reports/harris_fall2005.pdf" target="_blank">link to paper</a>).</p>
 <p>To me, the idea of infinite memory processes is one of the most important concepts touched on by Mandelbrot in this book. It suggests that economists and traders should be developing models and theories which value the importance of price series and data going back decades. And it makes sense to me that people and prices do not change their fundamental behavior over extended periods of technological evolution. However, I suspect that organisms do change their fundamental behavior if the time horizon is thousands or millions of years. I am very curious to read more about Hurst&#8217;s studies of the Nile.</p></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Socionomics: The Science of History and Social Prediction &#8211; Robert R. Prechter, Jr.</title>
 		<link>/2014/01/socionomics-the-science-of-history-and-social-prediction-robert-r-prechter-jr/</link>
-		<comments>/2014/01/socionomics-the-science-of-history-and-social-prediction-robert-r-prechter-jr/#respond</comments>
-		<pubDate>Sat, 18 Jan 2014 21:17:00 +0000</pubDate>
+				<comments>/2014/01/socionomics-the-science-of-history-and-social-prediction-robert-r-prechter-jr/#disqus_thread</comments>
+				<pubDate>Sat, 18 Jan 2014 21:17:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[didier sornette]]></category>
 		<category><![CDATA[edward wilson]]></category>
@@ -65,19 +67,19 @@
 		<category><![CDATA[wave theory]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=121</guid>
-		<description><![CDATA[I posted before about the Elliott Wave Principle and several books dealing with the subject. However, I feel the need to reiterate the importance of two books by Robert R. Prechter, Jr. They are: The Wave Principle of Human Social Behavior and Pioneering Studies in Socionomics. I purchased both these books in a two volume [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I posted <a href="//ttrott.blogspot.com/2013/11/the-elliott-wave-principle.html" target="_blank">before</a> about the Elliott Wave Principle and several books dealing with the subject. However, I feel the need to reiterate the importance of two books by Robert R. Prechter, Jr. They are: <i>The Wave Principle of Human Social Behavior</i> and <i>Pioneering Studies in Socionomics</i>. I purchased both these books in a two volume collection called, <i><a href="//amzn.com/0932750575" target="_blank">Socionomics: The Science of History and Social Prediction</a></i>. In all my studies as an undergraduate and graduate student in the field of finance and mathematics, not one professor has ever mentioned Prechter or Elliott.</p>
+				<description><![CDATA[I posted before about the Elliott Wave Principle and several books dealing with the subject. However, I feel the need to reiterate the importance of two books by Robert R. Prechter, Jr. They are: The Wave Principle of Human Social Behavior and Pioneering Studies in Socionomics. I purchased both these books in a two volume [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I posted <a href="//ttrott.blogspot.com/2013/11/the-elliott-wave-principle.html" target="_blank">before</a> about the Elliott Wave Principle and several books dealing with the subject. However, I feel the need to reiterate the importance of two books by Robert R. Prechter, Jr. They are: <i>The Wave Principle of Human Social Behavior</i> and <i>Pioneering Studies in Socionomics</i>. I purchased both these books in a two volume collection called, <i><a href="//amzn.com/0932750575" target="_blank">Socionomics: The Science of History and Social Prediction</a></i>. In all my studies as an undergraduate and graduate student in the field of finance and mathematics, not one professor has ever mentioned Prechter or Elliott.</p>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/01/books-hsb1.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/01/books-hsb1.png" height="320" width="181" /></a></div>
 <p></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/01/socionomics-the-science-of-history-and-social-prediction-robert-r-prechter-jr/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/01/socionomics-the-science-of-history-and-social-prediction-robert-r-prechter-jr/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>The Elliott Wave Principle</title>
 		<link>/2013/11/the-elliott-wave-principle/</link>
-		<comments>/2013/11/the-elliott-wave-principle/#respond</comments>
-		<pubDate>Sun, 03 Nov 2013 14:36:00 +0000</pubDate>
+				<comments>/2013/11/the-elliott-wave-principle/#disqus_thread</comments>
+				<pubDate>Sun, 03 Nov 2013 14:36:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[book]]></category>
@@ -94,8 +96,8 @@
 		<category><![CDATA[wave theory]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=138</guid>
-		<description><![CDATA[&#160; In the financial industry many models are based on Geometric Brownian Motion. However, these models tend to be inadequate and breakdown when the assumptions are violated. Searching for better stochastic models to model the market, I recently ran across an interesting topic in the field of market prediction and structure &#8212; the ideas of [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/11/250px-Elliott_wave.svg_1.png"><img src="//anautonomousagent.com/wp-content/uploads/2013/11/250px-Elliott_wave.svg_1.png" border="0" /></a></div>
+				<description><![CDATA[&#160; In the financial industry many models are based on Geometric Brownian Motion. However, these models tend to be inadequate and breakdown when the assumptions are violated. Searching for better stochastic models to model the market, I recently ran across an interesting topic in the field of market prediction and structure &#8212; the ideas of [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/11/250px-Elliott_wave.svg_1.png"><img src="//anautonomousagent.com/wp-content/uploads/2013/11/250px-Elliott_wave.svg_1.png" border="0" /></a></div>
 <p>&nbsp;</p>
 <div style="text-align: justify;">In the financial industry many models are based on <a href="//en.wikipedia.org/wiki/Geometric_Brownian_motion" target="_blank" rel="noopener">Geometric Brownian Motion</a>. However, these models tend to be inadequate and breakdown when the assumptions are violated. Searching for better stochastic models to model the market, I recently ran across an interesting topic in the field of market prediction and structure &#8212; the ideas of <a href="//en.wikipedia.org/wiki/Ralph_Nelson_Elliott" target="_blank" rel="noopener">Ralph Nelson Elliott</a>. It is remarkable that his ideas of market waves and structure were formulated in the 1930&#8217;s.  His ideas were popularized by <a href="//en.wikipedia.org/wiki/Robert_Prechter" target="_blank" rel="noopener">Robert Prechter</a> who has numerous books and articles written on the subject. In this post I have introduced these ideas and will post all the articles and books I have and will read on this subject. I hope to develop these ideas further.</div>
 <p>&nbsp;</p>
@@ -115,8 +117,8 @@
 <p>Videos:</p>
 <p><a href="//youtu.be/JspcunzCw1o" target="_blank" rel="noopener">Mastering Elliott Wave &#8211; Jamie Saettele</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/11/the-elliott-wave-principle/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/11/the-elliott-wave-principle/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

@@ -12,16 +12,18 @@
 	<atom:link href="/category/power-law/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Aug 2018 03:54:09 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Scale – Geoffrey West</title>
 		<link>/2018/08/scale-geoffrey-west/</link>
-		<comments>/2018/08/scale-geoffrey-west/#respond</comments>
-		<pubDate>Sun, 12 Aug 2018 03:54:09 +0000</pubDate>
+				<comments>/2018/08/scale-geoffrey-west/#disqus_thread</comments>
+				<pubDate>Sun, 12 Aug 2018 03:54:09 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[book]]></category>
@@ -43,17 +45,17 @@
 		<category><![CDATA[socionomics]]></category>
 
 		<guid isPermaLink="false">/?p=2552</guid>
-		<description><![CDATA[Scale, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://a.co/0tTatb5">Scale</a>, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is an important summary of really profound work and research performed at the Santa Fe Institute. And it is a great introduction to understanding power laws and scaling in biology and network topologies.</p>
+				<description><![CDATA[Scale, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="http://a.co/0tTatb5">Scale</a>, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is an important summary of really profound work and research performed at the Santa Fe Institute. And it is a great introduction to understanding power laws and scaling in biology and network topologies.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2018/08/scale-geoffrey-west/feed/</wfw:commentRss>
+							<wfw:commentRss>/2018/08/scale-geoffrey-west/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>On the Distribution of Kingdom/Dynasty/Government Lengths</title>
 		<link>/2014/05/on-the-distribution-of-kingdomdynastygovernment-lengths/</link>
-		<comments>/2014/05/on-the-distribution-of-kingdomdynastygovernment-lengths/#respond</comments>
-		<pubDate>Thu, 29 May 2014 16:41:00 +0000</pubDate>
+				<comments>/2014/05/on-the-distribution-of-kingdomdynastygovernment-lengths/#disqus_thread</comments>
+				<pubDate>Thu, 29 May 2014 16:41:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropology]]></category>
 		<category><![CDATA[complexity theory]]></category>
@@ -66,8 +68,8 @@
 		<category><![CDATA[social behavior]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=57</guid>
-		<description><![CDATA[Do there exist studies on the distribution of the lengths of kingdoms and dynasties &#8212; &#160;distinct political entities &#8212; since the 3rd millennium B.C.E.? It seems likely that someone has already studied this topic, but I can not find any papers online. To explain, I have included a file, here, containing the beginning and end [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Do there exist studies on the distribution of the lengths of kingdoms and dynasties &#8212; &nbsp;distinct political entities &#8212; since the 3rd millennium B.C.E.? It seems likely that someone has already studied this topic, but I can not find any papers online. To explain, I have included a file, <a href="//speedy.sh/qez3J/DynastiesAndKingdoms.csv" target="_blank">here</a>, containing the beginning and end dates of about 700 distinct social groups since the dawn of recorded history. It was complied from various Wikipedia pages. I do not doubt that the data is not very reliable, however, graphing the histogram of these lengths, see Figure 1, would provide at least a rough idea of their distribution.</p>
+				<description><![CDATA[Do there exist studies on the distribution of the lengths of kingdoms and dynasties &#8212; &#160;distinct political entities &#8212; since the 3rd millennium B.C.E.? It seems likely that someone has already studied this topic, but I can not find any papers online. To explain, I have included a file, here, containing the beginning and end [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Do there exist studies on the distribution of the lengths of kingdoms and dynasties &#8212; &nbsp;distinct political entities &#8212; since the 3rd millennium B.C.E.? It seems likely that someone has already studied this topic, but I can not find any papers online. To explain, I have included a file, <a href="//speedy.sh/qez3J/DynastiesAndKingdoms.csv" target="_blank">here</a>, containing the beginning and end dates of about 700 distinct social groups since the dawn of recorded history. It was complied from various Wikipedia pages. I do not doubt that the data is not very reliable, however, graphing the histogram of these lengths, see Figure 1, would provide at least a rough idea of their distribution.</p>
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 <tbody>
 <tr>
@@ -97,8 +99,8 @@
 <div></div>
 <div>A sample must be obtained which is not biased. A dataset containing the population of all existing kingdoms and dynasties existing since the 3rd millinium B.C.E. would work best. Even so, this would be biased because it would ignore all the dynasties and kingdoms existing before that time.&nbsp;</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/05/on-the-distribution-of-kingdomdynastygovernment-lengths/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/05/on-the-distribution-of-kingdomdynastygovernment-lengths/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

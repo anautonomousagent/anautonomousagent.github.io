@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Time Lapse of the City of Boston &#8211; Bodhi Films</title>
+	<title>
+	Comments on: Time Lapse of the City of Boston &#8211; Bodhi Films	</title>
 	<atom:link href="/2014/05/time-lapse-of-the-city-of-boston-bodhi-films/feed/" rel="self" type="application/rss+xml" />
 	<link>/2014/05/time-lapse-of-the-city-of-boston-bodhi-films/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:42 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

@@ -12,16 +12,18 @@
 	<atom:link href="/category/ben-hoo/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:56 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Ben Hoo</title>
 		<link>/2013/06/ben-hoo/</link>
-		<comments>/2013/06/ben-hoo/#respond</comments>
-		<pubDate>Wed, 12 Jun 2013 02:24:00 +0000</pubDate>
+				<comments>/2013/06/ben-hoo/#disqus_thread</comments>
+				<pubDate>Wed, 12 Jun 2013 02:24:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[ben hoo]]></category>
@@ -34,13 +36,13 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=161</guid>
-		<description><![CDATA[Ben Hoo is just awesome. Warm, dark, groovy, electronica music. Check out Ben Hoo&#8217;s SoundCloud.]]></description>
-				<content:encoded><![CDATA[<p>Ben Hoo is just awesome. Warm, dark, groovy, electronica music.</p>
+				<description><![CDATA[Ben Hoo is just awesome. Warm, dark, groovy, electronica music. Check out Ben Hoo&#8217;s SoundCloud.]]></description>
+								<content:encoded><![CDATA[<p>Ben Hoo is just awesome. Warm, dark, groovy, electronica music.</p>
 <p><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/videoseries?list=PLCpjCAUNQ25U-piIxT1bIcOTYL9O7FAbH" width="560"></iframe></p>
 <p>Check out <a href="https://soundcloud.com/ben-hoo" target="_blank">Ben Hoo&#8217;s SoundCloud</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/06/ben-hoo/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/06/ben-hoo/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

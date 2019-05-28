@@ -12,16 +12,18 @@
 	<atom:link href="/category/hugh-raffles/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:55 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Insectopedia &#8211; Hugh Raffles</title>
 		<link>/2013/06/insectopedia-hugh-raffles/</link>
-		<comments>/2013/06/insectopedia-hugh-raffles/#respond</comments>
-		<pubDate>Mon, 24 Jun 2013 19:56:00 +0000</pubDate>
+				<comments>/2013/06/insectopedia-hugh-raffles/#disqus_thread</comments>
+				<pubDate>Mon, 24 Jun 2013 19:56:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropology]]></category>
 		<category><![CDATA[biology]]></category>
@@ -36,12 +38,12 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=158</guid>
-		<description><![CDATA[The Big Think interview with Hugh Raffles changed the way I think about insects. I want to read his book, Insectopedia. Cool and interesting man with unique perspective on anthropology.]]></description>
-				<content:encoded><![CDATA[<p>The <a href="//youtu.be/u_d5PQjdqoM" target="_blank">Big Think interview with Hugh Raffles</a> changed the way I think about insects. I want to read his book, <i><a href="//amzn.com/1400096960" target="_blank">Insectopedia</a></i>. Cool and interesting man with unique perspective on anthropology.</p>
+				<description><![CDATA[The Big Think interview with Hugh Raffles changed the way I think about insects. I want to read his book, Insectopedia. Cool and interesting man with unique perspective on anthropology.]]></description>
+								<content:encoded><![CDATA[<p>The <a href="//youtu.be/u_d5PQjdqoM" target="_blank">Big Think interview with Hugh Raffles</a> changed the way I think about insects. I want to read his book, <i><a href="//amzn.com/1400096960" target="_blank">Insectopedia</a></i>. Cool and interesting man with unique perspective on anthropology.</p>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/06/Insectopedia-20cover1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2013/06/Insectopedia-20cover1.jpg" width="219" /></a></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/06/insectopedia-hugh-raffles/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/06/insectopedia-hugh-raffles/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

@@ -12,16 +12,18 @@
 	<atom:link href="/category/daniel-kahneman/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:51:28 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Thinking, Fast and Slow &#8211; Daniel Kahneman</title>
 		<link>/2013/02/thinking-fast-and-slow-daniel-kahneman/</link>
-		<comments>/2013/02/thinking-fast-and-slow-daniel-kahneman/#respond</comments>
-		<pubDate>Thu, 07 Feb 2013 04:35:00 +0000</pubDate>
+				<comments>/2013/02/thinking-fast-and-slow-daniel-kahneman/#disqus_thread</comments>
+				<pubDate>Thu, 07 Feb 2013 04:35:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropology]]></category>
 		<category><![CDATA[biology]]></category>
@@ -33,11 +35,11 @@
 		<category><![CDATA[edward wilson]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=243</guid>
-		<description><![CDATA[A friend recommended that I read Thinking, Fast and Slow by Daniel Kahneman. Since the book appears to be extremely popular, I guess my curiosity is piqued and I will have to give it a read. Perhaps it develops sociobiological concepts introduced by Edward O. Wilson in On Human Nature.]]></description>
-				<content:encoded><![CDATA[<p>A friend recommended that I read <i><a href="//amzn.com/0374275637" target="_blank">Thinking, Fast and Slow</a> </i>by <a href="//en.wikipedia.org/wiki/Daniel_Kahneman" target="_blank">Daniel Kahneman</a>. Since the book appears to be extremely popular, I guess my curiosity is piqued and I will have to give it a read. Perhaps it develops sociobiological concepts introduced by <a href="//ttrott.blogspot.com/2013/01/lord-of-ants-nova.html" target="_blank">Edward O. Wilson</a> in <i><a href="//ttrott.blogspot.com/2013/01/on-human-nature-edward-o-wilson.html" target="_blank">On Human Nature</a></i>.</p>
+				<description><![CDATA[A friend recommended that I read Thinking, Fast and Slow by Daniel Kahneman. Since the book appears to be extremely popular, I guess my curiosity is piqued and I will have to give it a read. Perhaps it develops sociobiological concepts introduced by Edward O. Wilson in On Human Nature.]]></description>
+								<content:encoded><![CDATA[<p>A friend recommended that I read <i><a href="//amzn.com/0374275637" target="_blank">Thinking, Fast and Slow</a> </i>by <a href="//en.wikipedia.org/wiki/Daniel_Kahneman" target="_blank">Daniel Kahneman</a>. Since the book appears to be extremely popular, I guess my curiosity is piqued and I will have to give it a read. Perhaps it develops sociobiological concepts introduced by <a href="//ttrott.blogspot.com/2013/01/lord-of-ants-nova.html" target="_blank">Edward O. Wilson</a> in <i><a href="//ttrott.blogspot.com/2013/01/on-human-nature-edward-o-wilson.html" target="_blank">On Human Nature</a></i>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/02/thinking-fast-and-slow-daniel-kahneman/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/02/thinking-fast-and-slow-daniel-kahneman/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

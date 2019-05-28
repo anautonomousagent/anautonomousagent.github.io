@@ -12,16 +12,18 @@
 	<atom:link href="/category/lunar/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:15 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Chang&#8217;e 3 Lander Pictures</title>
 		<link>/2016/07/change-3-lander-pictures/</link>
-		<comments>/2016/07/change-3-lander-pictures/#respond</comments>
-		<pubDate>Tue, 19 Jul 2016 01:43:07 +0000</pubDate>
+				<comments>/2016/07/change-3-lander-pictures/#disqus_thread</comments>
+				<pubDate>Tue, 19 Jul 2016 01:43:07 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[lunar]]></category>
 		<category><![CDATA[picture]]></category>
@@ -30,12 +32,12 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1586</guid>
-		<description><![CDATA[Great pictures of the Moon from Chinese lander: Fun with a new data set: Chang&#8217;e 3 lander and Yutu rover camera data]]></description>
-				<content:encoded><![CDATA[<p>Great pictures of the Moon from Chinese lander:</p>
+				<description><![CDATA[Great pictures of the Moon from Chinese lander: Fun with a new data set: Chang&#8217;e 3 lander and Yutu rover camera data]]></description>
+								<content:encoded><![CDATA[<p>Great pictures of the Moon from Chinese lander:</p>
 <p><a href="http://www.planetary.org/blogs/emily-lakdawalla/2016/01281656-fun-with-a-new-data-set-change.html" target="_blank">Fun with a new data set: Chang&#8217;e 3 lander and Yutu rover camera data</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/07/change-3-lander-pictures/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/07/change-3-lander-pictures/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: The God Particle &#8211; Leon Lederman</title>
+	<title>
+	Comments on: The God Particle &#8211; Leon Lederman	</title>
 	<atom:link href="/2013/01/the-god-particle-leon-lederman/feed/" rel="self" type="application/rss+xml" />
 	<link>/2013/01/the-god-particle-leon-lederman/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:10 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:53:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

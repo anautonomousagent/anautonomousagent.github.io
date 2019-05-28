@@ -12,16 +12,18 @@
 	<atom:link href="/category/john-cage/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:19 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>&#8220;THE CHAOTIC UNIVERSE&#8221; &#8211; Ilya Prigogine, John Cage, Huston Smith</title>
 		<link>/2014/03/the-chaotic-universe-ilya-prigogine-john-cage-huston-smith/</link>
-		<comments>/2014/03/the-chaotic-universe-ilya-prigogine-john-cage-huston-smith/#respond</comments>
-		<pubDate>Fri, 07 Mar 2014 04:59:00 +0000</pubDate>
+				<comments>/2014/03/the-chaotic-universe-ilya-prigogine-john-cage-huston-smith/#disqus_thread</comments>
+				<pubDate>Fri, 07 Mar 2014 04:59:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[chaos]]></category>
 		<category><![CDATA[complexity theory]]></category>
@@ -37,16 +39,16 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=99</guid>
-		<description><![CDATA[Art Meets Science &#38; Spirituality in a Changing Economy &#8211;&#160;&#8220;THE CHAOTIC UNIVERSE&#8221; &#8211; Ilya Prigogine, John Cage, Huston Smith Old, but good!]]></description>
-				<content:encoded><![CDATA[<p>Art Meets Science &amp; Spirituality in a Changing Economy &#8211;&nbsp;&#8220;THE CHAOTIC UNIVERSE&#8221; &#8211; Ilya Prigogine, John Cage, Huston Smith</p>
+				<description><![CDATA[Art Meets Science &#38; Spirituality in a Changing Economy &#8211;&#160;&#8220;THE CHAOTIC UNIVERSE&#8221; &#8211; Ilya Prigogine, John Cage, Huston Smith Old, but good!]]></description>
+								<content:encoded><![CDATA[<p>Art Meets Science &amp; Spirituality in a Changing Economy &#8211;&nbsp;&#8220;THE CHAOTIC UNIVERSE&#8221; &#8211; Ilya Prigogine, John Cage, Huston Smith</p>
 <p>Old, but good!</p>
 <div class="youtube"
      id="y4AnTsB-OsQ"
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/03/the-chaotic-universe-ilya-prigogine-john-cage-huston-smith/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/03/the-chaotic-universe-ilya-prigogine-john-cage-huston-smith/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

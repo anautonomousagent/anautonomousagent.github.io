@@ -12,16 +12,18 @@
 	<atom:link href="/category/adam-curtis/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:03 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>All Watched Over by Machines of Loving Grace &#8211; Adam Curtis</title>
 		<link>/2014/07/all-watched-over-by-machines-of-loving-grace-adam-curtis/</link>
-		<comments>/2014/07/all-watched-over-by-machines-of-loving-grace-adam-curtis/#respond</comments>
-		<pubDate>Sun, 13 Jul 2014 13:02:00 +0000</pubDate>
+				<comments>/2014/07/all-watched-over-by-machines-of-loving-grace-adam-curtis/#disqus_thread</comments>
+				<pubDate>Sun, 13 Jul 2014 13:02:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[adam curtis]]></category>
 		<category><![CDATA[anthropocene]]></category>
@@ -37,14 +39,14 @@
 		<category><![CDATA[video]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=42</guid>
-		<description><![CDATA[All Watched Over by Machines of Loving Grace, by Adam Curtis, provides a grand overview of many of the people and ideas which have shaped the development of computers, systems, social theory, and politics over the past century. It is one of the better documentaries I have every seen and definitely worth watching; however, I [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="//en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(TV_series)" target="_blank">All Watched Over by Machines of Loving Grace</a>, by Adam Curtis, provides a grand overview of many of the people and ideas which have shaped the development of computers, systems, social theory, and politics over the past century. It is one of the better documentaries I have every seen and definitely worth watching; however, I agree with the reviewer John Preston who said it had an &#8220;&#8230;infuriating glibness too as the web of connectedness became ever more stretched. No one could dispute that Curtis has got a very big bite indeed. But what about the chewing, you ask. There wasn’t any – or nothing like enough of it to prevent a bad case of mental indigestion.&#8221;</p>
+				<description><![CDATA[All Watched Over by Machines of Loving Grace, by Adam Curtis, provides a grand overview of many of the people and ideas which have shaped the development of computers, systems, social theory, and politics over the past century. It is one of the better documentaries I have every seen and definitely worth watching; however, I [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="//en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(TV_series)" target="_blank">All Watched Over by Machines of Loving Grace</a>, by Adam Curtis, provides a grand overview of many of the people and ideas which have shaped the development of computers, systems, social theory, and politics over the past century. It is one of the better documentaries I have every seen and definitely worth watching; however, I agree with the reviewer John Preston who said it had an &#8220;&#8230;infuriating glibness too as the web of connectedness became ever more stretched. No one could dispute that Curtis has got a very big bite indeed. But what about the chewing, you ask. There wasn’t any – or nothing like enough of it to prevent a bad case of mental indigestion.&#8221;</p>
 <p>Watch it:</p>
 <p>Shush.se<br /><a href="//www.shush.se/index.php?documentaries" target="_blank">All Watched Over by Machines of Loving Grace</a></p>
 <p>Vimeo<br /><a href="//topdocumentaryfilms.com/all-watched-over-by-machines-of-loving-grace/" target="_blank">All Watched Over by Machines of Loving Grace</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/07/all-watched-over-by-machines-of-loving-grace-adam-curtis/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/07/all-watched-over-by-machines-of-loving-grace-adam-curtis/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

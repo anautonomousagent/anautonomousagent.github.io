@@ -12,16 +12,18 @@
 	<atom:link href="/category/daniel-sheehan/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Daniel Sheehan</title>
 		<link>/2018/09/daniel-sheehan/</link>
-		<comments>/2018/09/daniel-sheehan/#respond</comments>
-		<pubDate>Sat, 08 Sep 2018 18:44:52 +0000</pubDate>
+				<comments>/2018/09/daniel-sheehan/#disqus_thread</comments>
+				<pubDate>Sat, 08 Sep 2018 18:44:52 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[9/11]]></category>
 		<category><![CDATA[book]]></category>
@@ -38,8 +40,8 @@
 		<category><![CDATA[zeitgeist]]></category>
 
 		<guid isPermaLink="false">/?p=2556</guid>
-		<description><![CDATA[Daniel Sheehan is a brilliant thinker who has written a fascinating book on his memories as a top lawyer in the United States entitled The People&#8217;s Advocate. Additionally, he gives amazing public lectures on both his experiences and world history. All of his YouTube videos are worth watching. Here are some that I started with: [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Daniel Sheehan is a brilliant thinker who has written a fascinating book on his memories as a top lawyer in the United States entitled <a href="http://a.co/d/aTqHHIr">The People&#8217;s Advocate</a>. Additionally, he gives amazing public lectures on both his experiences and world history. All of his YouTube videos are worth watching. Here are some that I started with:</p>
+				<description><![CDATA[Daniel Sheehan is a brilliant thinker who has written a fascinating book on his memories as a top lawyer in the United States entitled The People&#8217;s Advocate. Additionally, he gives amazing public lectures on both his experiences and world history. All of his YouTube videos are worth watching. Here are some that I started with: [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Daniel Sheehan is a brilliant thinker who has written a fascinating book on his memories as a top lawyer in the United States entitled <a href="http://a.co/d/aTqHHIr">The People&#8217;s Advocate</a>. Additionally, he gives amazing public lectures on both his experiences and world history. All of his YouTube videos are worth watching. Here are some that I started with:</p>
 <div id="RgYFD8_jmQY" class="youtube" style="width: 100%; height: 360px;"></div>
 <p>Iran-Contra Scandal<br />
 &nbsp;</p>
@@ -49,8 +51,8 @@
 <div id="Yi07Rfh3J5E" class="youtube" style="width: 100%; height: 360px;"></div>
 <p>Daniel Sheehan on 9/11</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2018/09/daniel-sheehan/feed/</wfw:commentRss>
+							<wfw:commentRss>/2018/09/daniel-sheehan/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

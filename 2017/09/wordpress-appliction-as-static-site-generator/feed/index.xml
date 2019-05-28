@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: WordPress Application as Static Site Generator</title>
+	<title>
+	Comments on: WordPress Application as Static Site Generator	</title>
 	<atom:link href="/2017/09/wordpress-appliction-as-static-site-generator/feed/" rel="self" type="application/rss+xml" />
 	<link>/2017/09/wordpress-appliction-as-static-site-generator/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:09 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sat, 03 Feb 2018 23:03:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

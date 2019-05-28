@@ -12,16 +12,18 @@
 	<atom:link href="/category/clothing/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:53:02 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Hemp Hoodlamb Tech 4-20 Jacket</title>
 		<link>/2013/01/hemp-hoodlamb-tech-4-20-jacket/</link>
-		<comments>/2013/01/hemp-hoodlamb-tech-4-20-jacket/#respond</comments>
-		<pubDate>Thu, 03 Jan 2013 06:34:00 +0000</pubDate>
+				<comments>/2013/01/hemp-hoodlamb-tech-4-20-jacket/#disqus_thread</comments>
+				<pubDate>Thu, 03 Jan 2013 06:34:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[clothing]]></category>
 		<category><![CDATA[earth]]></category>
@@ -30,8 +32,8 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=347</guid>
-		<description><![CDATA[Hemp Hoodlamb Tech 4-20 Jacket.&#160; Such a great jacket. Very warm and comfortable. About ten pockets that I can find, including two with magnetic buttons. Made from hemp and recycled plastic, it has a strong and durable feel. Highly recommended as a quality jacket, worth every penny, that will last many years.&#160;Might be cheaper here.]]></description>
-				<content:encoded><![CDATA[<table style="background-color: white; border-collapse: collapse; color: #333333; font-family: Verdana,Arial,Helvetica,sans-serif; line-height: 20px; margin-bottom: 0px; table-layout: fixed; text-align: start;">
+				<description><![CDATA[Hemp Hoodlamb Tech 4-20 Jacket.&#160; Such a great jacket. Very warm and comfortable. About ten pockets that I can find, including two with magnetic buttons. Made from hemp and recycled plastic, it has a strong and durable feel. Highly recommended as a quality jacket, worth every penny, that will last many years.&#160;Might be cheaper here.]]></description>
+								<content:encoded><![CDATA[<table style="background-color: white; border-collapse: collapse; color: #333333; font-family: Verdana,Arial,Helvetica,sans-serif; line-height: 20px; margin-bottom: 0px; table-layout: fixed; text-align: start;">
 <tbody style="box-sizing: border-box;">
 <tr>
 <td style="padding: 0px;" valign="top">
@@ -42,8 +44,8 @@
 </tbody>
 </table>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/hemp-hoodlamb-tech-4-20-jacket/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/hemp-hoodlamb-tech-4-20-jacket/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

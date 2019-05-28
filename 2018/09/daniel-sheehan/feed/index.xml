@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Daniel Sheehan</title>
+	<title>
+	Comments on: Daniel Sheehan	</title>
 	<atom:link href="/2018/09/daniel-sheehan/feed/" rel="self" type="application/rss+xml" />
 	<link>/2018/09/daniel-sheehan/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:00 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sat, 08 Sep 2018 18:47:40 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

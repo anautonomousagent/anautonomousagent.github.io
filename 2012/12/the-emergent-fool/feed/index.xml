@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: The Emergent Fool</title>
+	<title>
+	Comments on: The Emergent Fool	</title>
 	<atom:link href="/2012/12/the-emergent-fool/feed/" rel="self" type="application/rss+xml" />
 	<link>/2012/12/the-emergent-fool/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:15 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:55:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

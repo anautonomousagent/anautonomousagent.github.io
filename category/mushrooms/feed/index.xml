@@ -12,16 +12,18 @@
 	<atom:link href="/category/mushrooms/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:12 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Paul Stamets Videos</title>
 		<link>/2016/10/paul-stamets-videos/</link>
-		<comments>/2016/10/paul-stamets-videos/#respond</comments>
-		<pubDate>Tue, 25 Oct 2016 01:42:54 +0000</pubDate>
+				<comments>/2016/10/paul-stamets-videos/#disqus_thread</comments>
+				<pubDate>Tue, 25 Oct 2016 01:42:54 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropocene]]></category>
 		<category><![CDATA[anthropology]]></category>
@@ -35,8 +37,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1610</guid>
-		<description><![CDATA[Paul Stamets speaks about the power and importance of mushrooms: Younger Stamets talking about Psilocybin Mushrooms: Great Lecture about Fungi: Mushrooms as medicine for humans (and bees!):]]></description>
-				<content:encoded><![CDATA[<p>Paul Stamets speaks about the power and importance of mushrooms:</p>
+				<description><![CDATA[Paul Stamets speaks about the power and importance of mushrooms: Younger Stamets talking about Psilocybin Mushrooms: Great Lecture about Fungi: Mushrooms as medicine for humans (and bees!):]]></description>
+								<content:encoded><![CDATA[<p>Paul Stamets speaks about the power and importance of mushrooms:</p>
 <div class="youtube"
      id="T-9zzXuZ2h4"
      style="width: 100%; height: 360px;">
@@ -57,8 +59,8 @@
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/10/paul-stamets-videos/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/10/paul-stamets-videos/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

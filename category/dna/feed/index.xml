@@ -12,16 +12,43 @@
 	<atom:link href="/category/dna/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 May 2019 00:42:12 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
+		<title>Evolution from Space &#8211; Fred Hoyle and Chandra Wickramasinghe</title>
+		<link>/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/</link>
+				<comments>/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/#disqus_thread</comments>
+				<pubDate>Tue, 28 May 2019 00:42:12 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[astrobiology]]></category>
+		<category><![CDATA[biology]]></category>
+		<category><![CDATA[chandra wickramasinghe]]></category>
+		<category><![CDATA[dna]]></category>
+		<category><![CDATA[evolution]]></category>
+		<category><![CDATA[fred hoyle]]></category>
+		<category><![CDATA[meteorite]]></category>
+		<category><![CDATA[panspermia]]></category>
+		<category><![CDATA[philosophy]]></category>
+		<category><![CDATA[space]]></category>
+
+		<guid isPermaLink="false">/?p=2604</guid>
+				<description><![CDATA[Evolution from Space by Fred Hoyle and Chandra Wickramasinghe is a revolutionary book concerning the interpretation of the biological, astronomical, and mathematical evidence which indicates that evolution of life occurs on a galactic scale. The authors&#8217; arguments against important assumptions of natural selection and the origin of life are still applicable and their proposed solution [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>Evolution from Space by Fred Hoyle and Chandra Wickramasinghe is a revolutionary book concerning the interpretation of the biological, astronomical, and mathematical evidence which indicates that evolution of life occurs on a galactic scale. The authors&#8217; arguments against important assumptions of natural selection and the origin of life are still applicable and their proposed solution seems reasonable, although perhaps subject to improvements, especially if one makes no <em>a priori</em> assumptions that life originated on Earth. Besides, the chondrites provide clear support for their theory and I believe trivially contradict the spontaneous generation on Earth hypothesis.</p>
+]]></content:encoded>
+							<wfw:commentRss>/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
 		<title>From Virus to Cosmology &#8211; Fred Hoyle</title>
 		<link>/2019/01/from-virus-to-cosmology-fred-hoyle/</link>
-		<comments>/2019/01/from-virus-to-cosmology-fred-hoyle/#respond</comments>
-		<pubDate>Wed, 09 Jan 2019 07:34:08 +0000</pubDate>
+				<comments>/2019/01/from-virus-to-cosmology-fred-hoyle/#disqus_thread</comments>
+				<pubDate>Wed, 09 Jan 2019 07:34:08 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[astrobiology]]></category>
 		<category><![CDATA[biology]]></category>
@@ -36,19 +63,19 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">/?p=2598</guid>
-		<description><![CDATA[This lecture provides a decent glance at Fred Hoyle&#8217;s understanding of the universe. One can certainly say that he held a view quite different than most. Fred Hoyle&#8217;s IFS Lecture December 1982]]></description>
-				<content:encoded><![CDATA[<p>This lecture provides a decent glance at Fred Hoyle&#8217;s understanding of the universe. One can certainly say that he held a view quite different than most.</p>
+				<description><![CDATA[This lecture provides a decent glance at Fred Hoyle&#8217;s understanding of the universe. One can certainly say that he held a view quite different than most. Fred Hoyle&#8217;s IFS Lecture December 1982]]></description>
+								<content:encoded><![CDATA[<p>This lecture provides a decent glance at Fred Hoyle&#8217;s understanding of the universe. One can certainly say that he held a view quite different than most.</p>
 <p>Fred Hoyle&#8217;s IFS Lecture December 1982</p>
 <div id="hsiFvCYSjHI" class="youtube" style="width: 100%; height: 360px;"></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2019/01/from-virus-to-cosmology-fred-hoyle/feed/</wfw:commentRss>
+							<wfw:commentRss>/2019/01/from-virus-to-cosmology-fred-hoyle/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>New Theories on the Origin of Life with Dr. Eric Smith</title>
 		<link>/2017/04/new-theories-on-the-origin-of-life-with-dr-eric-smith/</link>
-		<comments>/2017/04/new-theories-on-the-origin-of-life-with-dr-eric-smith/#respond</comments>
-		<pubDate>Mon, 24 Apr 2017 15:09:31 +0000</pubDate>
+				<comments>/2017/04/new-theories-on-the-origin-of-life-with-dr-eric-smith/#disqus_thread</comments>
+				<pubDate>Mon, 24 Apr 2017 15:09:31 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[complexity theory]]></category>
@@ -60,21 +87,21 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1743</guid>
-		<description><![CDATA[Dr. Eric Smith&#8217;s lecture on the origin of life really challenged everything I thought I understood regarding how life functions and possibly originated on Earth. Make sure to watch the question and answer at the end for some good points regarding panspermia and Miller&#8217;s experiments.]]></description>
-				<content:encoded><![CDATA[<p><a href="http://tuvalu.santafe.edu/~desmith/Main.html" target="_blank" rel="noopener noreferrer">Dr. Eric Smith&#8217;s</a> lecture on the origin of life really challenged everything I thought I understood regarding how life functions and possibly originated on Earth. Make sure to watch the question and answer at the end for some good points regarding panspermia and Miller&#8217;s experiments.</p>
+				<description><![CDATA[Dr. Eric Smith&#8217;s lecture on the origin of life really challenged everything I thought I understood regarding how life functions and possibly originated on Earth. Make sure to watch the question and answer at the end for some good points regarding panspermia and Miller&#8217;s experiments.]]></description>
+								<content:encoded><![CDATA[<p><a href="http://tuvalu.santafe.edu/~desmith/Main.html" target="_blank" rel="noopener noreferrer">Dr. Eric Smith&#8217;s</a> lecture on the origin of life really challenged everything I thought I understood regarding how life functions and possibly originated on Earth. Make sure to watch the question and answer at the end for some good points regarding panspermia and Miller&#8217;s experiments.</p>
 <div class="youtube"
      id="0cwvj0XBKlE"
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2017/04/new-theories-on-the-origin-of-life-with-dr-eric-smith/feed/</wfw:commentRss>
+							<wfw:commentRss>/2017/04/new-theories-on-the-origin-of-life-with-dr-eric-smith/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>The Cannabis Evolution Project</title>
 		<link>/2016/10/the-cannabis-evolution-project/</link>
-		<comments>/2016/10/the-cannabis-evolution-project/#respond</comments>
-		<pubDate>Sun, 23 Oct 2016 22:19:22 +0000</pubDate>
+				<comments>/2016/10/the-cannabis-evolution-project/#disqus_thread</comments>
+				<pubDate>Sun, 23 Oct 2016 22:19:22 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[cannabis]]></category>
@@ -86,8 +113,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1607</guid>
-		<description><![CDATA[The Cannabis Evolution Project did an amazing job sequencing thousands of strains of cannabis and displaying the resulting genetic data. Take a look at the results: The Phylos Galaxy And I recommend watching some of the Cannabis Science Pub &#8211; Feb 2016]]></description>
-				<content:encoded><![CDATA[<p>The Cannabis Evolution Project did an amazing job sequencing thousands of strains of cannabis and displaying the resulting genetic data. Take a look at the results:</p>
+				<description><![CDATA[The Cannabis Evolution Project did an amazing job sequencing thousands of strains of cannabis and displaying the resulting genetic data. Take a look at the results: The Phylos Galaxy And I recommend watching some of the Cannabis Science Pub &#8211; Feb 2016]]></description>
+								<content:encoded><![CDATA[<p>The Cannabis Evolution Project did an amazing job sequencing thousands of strains of cannabis and displaying the resulting genetic data. Take a look at the results:</p>
 <p><a href="http://www.phylosbioscience.com/the-phylos-galaxy/" target="_blank">The Phylos Galaxy</a></p>
 <p>And I recommend watching some of the Cannabis Science Pub &#8211; Feb 2016</p>
 <div class="youtube"
@@ -95,14 +122,14 @@
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/10/the-cannabis-evolution-project/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/10/the-cannabis-evolution-project/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Panspermia and Messages Encoded in DNA?</title>
 		<link>/2016/03/idea-of-message-encoded-in-dna/</link>
-		<comments>/2016/03/idea-of-message-encoded-in-dna/#respond</comments>
-		<pubDate>Sat, 05 Mar 2016 15:14:34 +0000</pubDate>
+				<comments>/2016/03/idea-of-message-encoded-in-dna/#disqus_thread</comments>
+				<pubDate>Sat, 05 Mar 2016 15:14:34 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[dna]]></category>
@@ -111,8 +138,8 @@
 		<category><![CDATA[thoughts]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1452</guid>
-		<description><![CDATA[Scientists, while studying the non-coding regions of DNA found that: &#8230; the non-coding sequences have certain statistical features in common with natural and artificial languages. Specifically, we adapt to DNA the Zipf approach to analyzing linguistic texts. These statistical properties of non-coding sequences support the possibility that non-coding regions of DNA may carry biological information. [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://polymer.bu.edu/hes/articles/bghmmpss95.pdf" target="_blank">Scientists</a>, while studying the <a href="http://www.academia.edu/5447758/Statistical_Properties_of_DNA_Sequences" target="_blank">non-coding regions of DNA</a> found that:</p>
+				<description><![CDATA[Scientists, while studying the non-coding regions of DNA found that: &#8230; the non-coding sequences have certain statistical features in common with natural and artificial languages. Specifically, we adapt to DNA the Zipf approach to analyzing linguistic texts. These statistical properties of non-coding sequences support the possibility that non-coding regions of DNA may carry biological information. [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="http://polymer.bu.edu/hes/articles/bghmmpss95.pdf" target="_blank">Scientists</a>, while studying the <a href="http://www.academia.edu/5447758/Statistical_Properties_of_DNA_Sequences" target="_blank">non-coding regions of DNA</a> found that:</p>
 <blockquote><p>&#8230; the non-coding sequences have certain statistical features in common with natural and artificial languages. Specifically, we adapt to DNA the Zipf approach to analyzing linguistic texts. These statistical properties of non-coding sequences support the possibility that non-coding regions of DNA may carry biological information.</p></blockquote>
 <p>With that quote in mind, consider that Francis Crick <a href="http://ofbacteriaandmen.blogspot.com/2012/08/francis-crick-and-directed-panspermia.html" target="_blank">suggested in 1975</a> that life on Earth could have been the result of &#8220;Directed Panspermia.&#8221;</p>
 <p>Also, check out <a href="https://anautonomousagent.com/2015/11/cosmic-serpent-dna-and-the-origins-of-knowledge-jeremy-narby/">Cosmic Serpent: DNA and the Origins of Knowledge </a>for Jeremy Narby’s thoughts on this subject.</p>
@@ -123,14 +150,14 @@
 <p>But a message based on form seems to be invalid because it is the non-coding regions of DNA which are not expressed in protein structures that contain the statistical properties of Zipf. However, I think we still have much to learn about DNA and its interactions with the rest of the cell which may change the way we view DNA. It just seems hard for me to understand how 1,000,000 specially crafted objects (proteins) of various shapes thrown in a zero gravity room together could somehow bounce and collide to eventually create an organized dynamic transport mechanism across that same room &#8212; not to mention the dozens of other cellular processes. So, where does the form of cellular processes arise?</p>
 <p>These thoughts came as I was watching 3D animations of kinesin protein travel along microtubules. Perhaps we could design a sort of kinesin vehicle which would travel along a microtubule connection from the Earth to Moon? Or, they could serve as connections between asteroid space bases suspended in the Lagrangian points. No need for rocket fuel, it would be similar to magnetic trains. What would it imply if an idea for space travel and transport could be found inside the cell?</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/03/idea-of-message-encoded-in-dna/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/03/idea-of-message-encoded-in-dna/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>The Molecular Basis of Life</title>
 		<link>/2016/01/the-molecular-basis-of-life/</link>
-		<comments>/2016/01/the-molecular-basis-of-life/#respond</comments>
-		<pubDate>Sat, 09 Jan 2016 20:31:43 +0000</pubDate>
+				<comments>/2016/01/the-molecular-basis-of-life/#disqus_thread</comments>
+				<pubDate>Sat, 09 Jan 2016 20:31:43 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[dna]]></category>
@@ -139,21 +166,21 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1399</guid>
-		<description><![CDATA[DNA and its molecular dynamics visualized (posted by author of Infinity Imagined):]]></description>
-				<content:encoded><![CDATA[<p>DNA and its molecular dynamics visualized (posted by author of <a href="http://infinity-imagined.tumblr.com/" target="_blank">Infinity Imagined</a>):</p>
+				<description><![CDATA[DNA and its molecular dynamics visualized (posted by author of Infinity Imagined):]]></description>
+								<content:encoded><![CDATA[<p>DNA and its molecular dynamics visualized (posted by author of <a href="http://infinity-imagined.tumblr.com/" target="_blank">Infinity Imagined</a>):</p>
 <div class="youtube"
      id="fpHaxzroYxg"
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/01/the-molecular-basis-of-life/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/01/the-molecular-basis-of-life/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Cosmic Serpent: DNA and the Origins of Knowledge &#8211; Jeremy Narby</title>
 		<link>/2015/11/cosmic-serpent-dna-and-the-origins-of-knowledge-jeremy-narby/</link>
-		<comments>/2015/11/cosmic-serpent-dna-and-the-origins-of-knowledge-jeremy-narby/#respond</comments>
-		<pubDate>Wed, 11 Nov 2015 01:47:09 +0000</pubDate>
+				<comments>/2015/11/cosmic-serpent-dna-and-the-origins-of-knowledge-jeremy-narby/#disqus_thread</comments>
+				<pubDate>Wed, 11 Nov 2015 01:47:09 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[animals]]></category>
 		<category><![CDATA[anthropology]]></category>
@@ -170,17 +197,17 @@
 		<category><![CDATA[universe]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1372</guid>
-		<description><![CDATA[I learned of Jeremy Narby&#8217;s book Cosmic Serpent: DNA and the Origins of Knowledge while reading Graham Hancock&#8217;s book, Supernatural. The ideas present within both books are incredible. DNA may be an extra-terrestrial biotechnology. Of course, you don&#8217;t have to read these books to come to that conclusion. Narby further suggests that DNA actually has [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I learned of Jeremy Narby&#8217;s book <a href="http://amzn.com/0874779642" target="_blank">Cosmic Serpent: DNA and the Origins of Knowledge</a> while reading Graham Hancock&#8217;s book, <a href="https://anautonomousagent.com/2015/11/supernatural-graham-hancock/" target="_blank">Supernatural</a>. The ideas present within both books are incredible. DNA may be an extra-terrestrial biotechnology. Of course, you don&#8217;t have to read these books to come to that conclusion. Narby further suggests that DNA actually has a mysterious way to communicate with the conscious awareness of all life, especially after the consumption of various consciousness altering molecules. It is through this alteration of the brain that life is able to receive a mysterious informational signal from DNA. Even if his hypothesis turns out to be false, the sheer intellectual creativity of Narby&#8217;s work deserves praise. As wild as that sounds, it really would not be surprising given the complexity and probability arguments presented by the <a href="https://en.wikipedia.org/wiki/Panspermia" target="_blank">panspermia</a> supporters (Francis Crick for instance and also see: <a href="http://arxiv.org/abs/1303.6739" target="_blank">The &#8220;Wow! signal&#8221; of the terrestrial genetic code</a>.</p>
+				<description><![CDATA[I learned of Jeremy Narby&#8217;s book Cosmic Serpent: DNA and the Origins of Knowledge while reading Graham Hancock&#8217;s book, Supernatural. The ideas present within both books are incredible. DNA may be an extra-terrestrial biotechnology. Of course, you don&#8217;t have to read these books to come to that conclusion. Narby further suggests that DNA actually has [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I learned of Jeremy Narby&#8217;s book <a href="http://amzn.com/0874779642" target="_blank">Cosmic Serpent: DNA and the Origins of Knowledge</a> while reading Graham Hancock&#8217;s book, <a href="https://anautonomousagent.com/2015/11/supernatural-graham-hancock/" target="_blank">Supernatural</a>. The ideas present within both books are incredible. DNA may be an extra-terrestrial biotechnology. Of course, you don&#8217;t have to read these books to come to that conclusion. Narby further suggests that DNA actually has a mysterious way to communicate with the conscious awareness of all life, especially after the consumption of various consciousness altering molecules. It is through this alteration of the brain that life is able to receive a mysterious informational signal from DNA. Even if his hypothesis turns out to be false, the sheer intellectual creativity of Narby&#8217;s work deserves praise. As wild as that sounds, it really would not be surprising given the complexity and probability arguments presented by the <a href="https://en.wikipedia.org/wiki/Panspermia" target="_blank">panspermia</a> supporters (Francis Crick for instance and also see: <a href="http://arxiv.org/abs/1303.6739" target="_blank">The &#8220;Wow! signal&#8221; of the terrestrial genetic code</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/11/cosmic-serpent-dna-and-the-origins-of-knowledge-jeremy-narby/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/11/cosmic-serpent-dna-and-the-origins-of-knowledge-jeremy-narby/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Supernatural &#8211; Graham Hancock</title>
 		<link>/2015/11/supernatural-graham-hancock/</link>
-		<comments>/2015/11/supernatural-graham-hancock/#respond</comments>
-		<pubDate>Sat, 07 Nov 2015 11:53:10 +0000</pubDate>
+				<comments>/2015/11/supernatural-graham-hancock/#disqus_thread</comments>
+				<pubDate>Sat, 07 Nov 2015 11:53:10 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropology]]></category>
 		<category><![CDATA[ayahuasca]]></category>
@@ -194,18 +221,18 @@
 		<category><![CDATA[theology]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1363</guid>
-		<description><![CDATA[Graham Hancock&#8217;s book Supernatural: Meetings with the Ancient Teachers of Mankind is a great synthesis of various ideas regarding the origin of religion, the visions of shamans, UFO encounters, DMT, elves, fairies and other supernatural phenomenon. I recently read Rick Strassman&#8217;s DMT: The Spirit Molecule and Alan Shoemaker&#8217;s Ayahuasca Medicine. Thus, I had background knowledge [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Graham Hancock&#8217;s book <a href="http://amzn.com/1932857842" target="_blank">Supernatural: Meetings with the Ancient Teachers of Mankind</a> is a great synthesis of various ideas regarding the origin of religion, the visions of shamans, UFO encounters, DMT, elves, fairies and other supernatural phenomenon. I recently read <a href="https://anautonomousagent.com/2015/10/dmt-the-spirit-molecule-rick-strassman-m-d/" target="_blank">Rick Strassman&#8217;s DMT: The Spirit Molecule</a> and <a href="https://anautonomousagent.com/2015/10/ayahuasca-medicine-alan-shoemaker/" target="_blank">Alan Shoemaker&#8217;s Ayahuasca Medicine</a>. Thus, I had background knowledge on some of these subjects. This did not prepare me for the incredible connections made by Hancock.</p>
+				<description><![CDATA[Graham Hancock&#8217;s book Supernatural: Meetings with the Ancient Teachers of Mankind is a great synthesis of various ideas regarding the origin of religion, the visions of shamans, UFO encounters, DMT, elves, fairies and other supernatural phenomenon. I recently read Rick Strassman&#8217;s DMT: The Spirit Molecule and Alan Shoemaker&#8217;s Ayahuasca Medicine. Thus, I had background knowledge [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Graham Hancock&#8217;s book <a href="http://amzn.com/1932857842" target="_blank">Supernatural: Meetings with the Ancient Teachers of Mankind</a> is a great synthesis of various ideas regarding the origin of religion, the visions of shamans, UFO encounters, DMT, elves, fairies and other supernatural phenomenon. I recently read <a href="https://anautonomousagent.com/2015/10/dmt-the-spirit-molecule-rick-strassman-m-d/" target="_blank">Rick Strassman&#8217;s DMT: The Spirit Molecule</a> and <a href="https://anautonomousagent.com/2015/10/ayahuasca-medicine-alan-shoemaker/" target="_blank">Alan Shoemaker&#8217;s Ayahuasca Medicine</a>. Thus, I had background knowledge on some of these subjects. This did not prepare me for the incredible connections made by Hancock.</p>
 <p>Some of Hancock&#8217;s previous books, like Heavens Mirror, Fingerprints of Gods, Sign and Seal, and Underworld, I read and enjoyed more than seven years ago. I saw Supernatural when it came out in mid 2000&#8217;s, but I was not interested. At the time I thought, &#8220;Clearly Hancock has gone too far into the abyss of crazy.&#8221; It took me more than ten years to mature and discover the greatness of this work. I must say that Hancock does an incredible job and I can not wait to read his newest book, releasing in a few days. Supernatural has the power to shape your perceptions of reality and everything you thought you knew and understood. It is not to be taken lightly and I would suggest first reading Strassman&#8217;s DMT: The Spirit Molecule and perhaps even <a href="http://amzn.com/0874779642" target="_blank">Jeremy Narby&#8217;s The Cosmic Serpent</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/11/supernatural-graham-hancock/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/11/supernatural-graham-hancock/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Neanderthal Man: In Search of Lost Genomes &#8211; Savnte Pääbo</title>
 		<link>/2015/02/neanderthal-man-in-search-of-lost-genomes-savnte-paabo/</link>
-		<comments>/2015/02/neanderthal-man-in-search-of-lost-genomes-savnte-paabo/#respond</comments>
-		<pubDate>Sat, 21 Feb 2015 16:20:28 +0000</pubDate>
+				<comments>/2015/02/neanderthal-man-in-search-of-lost-genomes-savnte-paabo/#disqus_thread</comments>
+				<pubDate>Sat, 21 Feb 2015 16:20:28 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropology]]></category>
 		<category><![CDATA[biology]]></category>
@@ -217,18 +244,18 @@
 		<category><![CDATA[science]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1011</guid>
-		<description><![CDATA[The ability to take a bone from a Neanderthal who lived tens of thousands of years ago and extract genetic information about that individual boarders on the unbelievable. Yet, if you read Savnte Pääbo&#8217;s book, Neanderthal Man: In Search of Lost Genomes, you will find out how such an achievement was made possible. The book [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>The ability to take a bone from a Neanderthal who lived tens of thousands of years ago and extract genetic information about that individual boarders on the unbelievable. Yet, if you read Savnte Pääbo&#8217;s book, <a href="//amzn.com/0465020836" target="_blank">Neanderthal Man: In Search of Lost Genomes</a>, you will find out how such an achievement was made possible. The book provides a well written account of the journey Pääbo and his team took to ensure that our society would be able to learn about our ancient biological relatives &#8212; the Neanderthal, and more recently, the Denisovan.</p>
+				<description><![CDATA[The ability to take a bone from a Neanderthal who lived tens of thousands of years ago and extract genetic information about that individual boarders on the unbelievable. Yet, if you read Savnte Pääbo&#8217;s book, Neanderthal Man: In Search of Lost Genomes, you will find out how such an achievement was made possible. The book [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>The ability to take a bone from a Neanderthal who lived tens of thousands of years ago and extract genetic information about that individual boarders on the unbelievable. Yet, if you read Savnte Pääbo&#8217;s book, <a href="//amzn.com/0465020836" target="_blank">Neanderthal Man: In Search of Lost Genomes</a>, you will find out how such an achievement was made possible. The book provides a well written account of the journey Pääbo and his team took to ensure that our society would be able to learn about our ancient biological relatives &#8212; the Neanderthal, and more recently, the Denisovan.</p>
 <p>My own genome, according to 23andMe has an estimated 2.8% from the Neanderthal genome &#8212; putting me in the 65th percentile. My father has an estimated 3.0%, which puts him in the 87th percentile. Entire DNA composition <a href="//anautonomousagent.com/2014/02/23andme-dna-ancestry/" target="_blank">posted here</a>. Even though I think I will have a low percentage, I hope 23andMe decides to include the Denisovan estimate in the future.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/02/neanderthal-man-in-search-of-lost-genomes-savnte-paabo/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/02/neanderthal-man-in-search-of-lost-genomes-savnte-paabo/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>The Power of Scientific Visualization</title>
 		<link>/2014/05/the-power-of-scientific-visualization/</link>
-		<comments>/2014/05/the-power-of-scientific-visualization/#respond</comments>
-		<pubDate>Thu, 08 May 2014 12:36:00 +0000</pubDate>
+				<comments>/2014/05/the-power-of-scientific-visualization/#disqus_thread</comments>
+				<pubDate>Thu, 08 May 2014 12:36:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[computer]]></category>
@@ -245,37 +272,13 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=67</guid>
-		<description><![CDATA[&#8220;A picture is worth a thousand words&#8221;, a cliché, but true. A semester or even a textbook can be condensed into a beautiful visualization thanks to modern graphics. This is why I find the work of Drew Berry, XVIVO, and David Goodsell so powerful. Seeing DNA replication and intracellular transportation makes me speechless. Many of [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>&#8220;A picture is worth a thousand words&#8221;, a cliché, but true. A semester or even a textbook can be condensed into a beautiful visualization thanks to modern graphics. This is why I find the work of <a href="http://www.molecularmovies.com/movies/viewanimatorstudio/Drew%20Berry/" target="_blank" rel="noopener">Drew Berry</a>, <a href="//www.xvivo.net/" target="_blank" rel="noopener">XVIVO</a>, and <a href="//anautonomousagent.com/?p=97" target="_blank" rel="noopener">David Goodsell </a>so powerful. Seeing DNA replication and intracellular transportation makes me speechless. Many of these are created with Maya or Molecular Maya. I really want to explore Maya to visualize financial networks and data after watching these&#8230;</p>
+				<description><![CDATA[&#8220;A picture is worth a thousand words&#8221;, a cliché, but true. A semester or even a textbook can be condensed into a beautiful visualization thanks to modern graphics. This is why I find the work of Drew Berry, XVIVO, and David Goodsell so powerful. Seeing DNA replication and intracellular transportation makes me speechless. Many of [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>&#8220;A picture is worth a thousand words&#8221;, a cliché, but true. A semester or even a textbook can be condensed into a beautiful visualization thanks to modern graphics. This is why I find the work of <a href="http://www.molecularmovies.com/movies/viewanimatorstudio/Drew%20Berry/" target="_blank" rel="noopener">Drew Berry</a>, <a href="//www.xvivo.net/" target="_blank" rel="noopener">XVIVO</a>, and <a href="//anautonomousagent.com/?p=97" target="_blank" rel="noopener">David Goodsell </a>so powerful. Seeing DNA replication and intracellular transportation makes me speechless. Many of these are created with Maya or Molecular Maya. I really want to explore Maya to visualize financial networks and data after watching these&#8230;</p>
 <div id="WFCvkkDSfIU" class="youtube" style="width: 100%; height: 360px;"></div>
 <div id="TZuxuVJA36Q" class="youtube" style="width: 100%; height: 360px;"></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/05/the-power-of-scientific-visualization/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/05/the-power-of-scientific-visualization/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Machinery of Life &#8211; David S. Goodsell</title>
-		<link>/2014/03/the-machinery-of-life-david-s-goodsell/</link>
-		<comments>/2014/03/the-machinery-of-life-david-s-goodsell/#respond</comments>
-		<pubDate>Sun, 09 Mar 2014 18:05:00 +0000</pubDate>
-		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
-				<category><![CDATA[art]]></category>
-		<category><![CDATA[biology]]></category>
-		<category><![CDATA[book]]></category>
-		<category><![CDATA[david s. goodsell]]></category>
-		<category><![CDATA[dna]]></category>
-		<category><![CDATA[education]]></category>
-		<category><![CDATA[picture]]></category>
-		<category><![CDATA[pictures]]></category>
-		<category><![CDATA[science]]></category>
-
-		<guid isPermaLink="false">https://anautonomousagent.com/?p=97</guid>
-		<description><![CDATA[The equisite details of cellular life are quite remarkable. Understanding how life continuously exists and reproduces in all parts of the world and the universe is beyond anything I could ever imagine. Nonetheless, I thoroughly enjoy spending time admiring the microscopic biology all around us; which is why I love David S. Goodsell&#8217;s book, The [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>The equisite details of cellular life are quite remarkable. Understanding how life continuously exists and reproduces in all parts of the world and the universe is beyond anything I could ever imagine. Nonetheless, I thoroughly enjoy spending time admiring the microscopic biology all around us; which is why I love <a href="//mgl.scripps.edu/people/goodsell/" target="_blank">David S. Goodsell&#8217;s</a> book, <a href="//mgl.scripps.edu/people/goodsell/books/MoL2-preview.html" target="_blank">The Machinery of Life</a>. You can view many of the pictures <a href="//mgl.scripps.edu/people/goodsell/books/MoL2figures" target="_blank">here</a>.</p>
-<p>&nbsp;  <a href="//anautonomousagent.com/wp-content/uploads/2014/03/MoL2-cover1.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/03/MoL2-cover1.jpg" height="320" width="225" /></a><a href="//anautonomousagent.com/wp-content/uploads/2014/03/Figure6.9-reduced1.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/03/Figure6.9-reduced1.jpg" height="320" width="231" /></a></p>
-]]></content:encoded>
-			<wfw:commentRss>/2014/03/the-machinery-of-life-david-s-goodsell/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

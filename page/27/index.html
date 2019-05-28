@@ -15,14 +15,14 @@
 <link rel="alternate" type="application/rss+xml" title="An Autonomous Agent &raquo; Feed" href="/feed/" />
 <link rel="alternate" type="application/rss+xml" title="An Autonomous Agent &raquo; Comments Feed" href="/comments/feed/" />
 <link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='lovecraft_googleFonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C900%7CPlayfair+Display%3A400%2C700%2C400italic&#038;ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lovecraft_googleFonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C900%7CPlayfair+Display%3A400%2C700%2C400italic&#038;ver=5.2.1' type='text/css' media='all' />
 <link rel='stylesheet' id='lovecraft_genericons-css'  href='/wp-content/themes/lovecraft/genericons/genericons.css' type='text/css' media='all' />
 <link rel='stylesheet' id='lovecraft_style-css'  href='/wp-content/themes/lovecraft/style.css' type='text/css' media='all' />
 <script type='text/javascript' src='https://code.jquery.com/jquery-1.12.4.min.js'></script>
 <link rel='https://api.w.org/' href='/wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.0.2" />
+<meta name="generator" content="WordPress 5.2.1" />
       
 	      <!-- Customizer CSS --> 
 	      
@@ -160,6 +160,76 @@
 				<div class="posts" id="posts">
 						
 			    				    	
+			    		<div id="post-57" class="post post-57 type-post status-publish format-standard has-post-thumbnail hentry category-anthropology category-complexity-theory category-geoffrey-west category-history category-mathematics category-politics category-power-law category-self-organization category-social-behavior">
+
+		
+		<a class="post-image" title="On the Distribution of Kingdom/Dynasty/Government Lengths" href="/2014/05/on-the-distribution-of-kingdomdynastygovernment-lengths/">	
+			
+			<img width="900" height="721" src="/wp-content/uploads/2014/05/Histogram-of-Dynasty-Kingdom-Lifespan1.png" class="attachment-post-image size-post-image wp-post-image" alt="" srcset="/wp-content/uploads/2014/05/Histogram-of-Dynasty-Kingdom-Lifespan1.png 911w, /wp-content/uploads/2014/05/Histogram-of-Dynasty-Kingdom-Lifespan1-300x240.png 300w" sizes="(max-width: 900px) 100vw, 900px" />			
+		</a> <!-- /featured-media -->
+			
+		
+	<div class="post-inner">
+				
+		<div class="post-header">
+
+							
+			    <h2 class="post-title"><a href="/2014/05/on-the-distribution-of-kingdomdynastygovernment-lengths/" title="On the Distribution of Kingdom/Dynasty/Government Lengths">On the Distribution of Kingdom/Dynasty/Government Lengths</a></h2>
+			    
+					    
+		    		    
+		    <div class="post-meta">
+			    
+			    <p class="post-author"><span>By </span><a href="/author/anautonomousagent/" title="Posts by anautonomousagent" rel="author">anautonomousagent</a></p>
+				<p class="post-date"><span>On </span><a href="/2014/05/on-the-distribution-of-kingdomdynastygovernment-lengths/">May 29, 2014</a></p>
+									<p class="post-categories"><span>In </span><a href="/category/anthropology/" rel="category tag">anthropology</a>, <a href="/category/complexity-theory/" rel="category tag">complexity theory</a>, <a href="/category/geoffrey-west/" rel="category tag">geoffrey west</a>, <a href="/category/history/" rel="category tag">history</a>, <a href="/category/mathematics/" rel="category tag">mathematics</a>, <a href="/category/politics/" rel="category tag">politics</a>, <a href="/category/power-law/" rel="category tag">power law</a>, <a href="/category/self-organization/" rel="category tag">self-organization</a>, <a href="/category/social-behavior/" rel="category tag">social behavior</a></p>
+											    
+		    </div>
+		    	    
+		</div> <!-- /post-header -->
+		
+				
+			<div class="post-content">
+			
+				<p>Do there exist studies on the distribution of the lengths of kingdoms and dynasties &#8212; &nbsp;distinct political entities &#8212; since the 3rd millennium B.C.E.? It seems likely that someone has already studied this topic, but I can not find any papers online. To explain, I have included a file, <a href="//speedy.sh/qez3J/DynastiesAndKingdoms.csv" target="_blank">here</a>, containing the beginning and end dates of about 700 distinct social groups since the dawn of recorded history. It was complied from various Wikipedia pages. I do not doubt that the data is not very reliable, however, graphing the histogram of these lengths, see Figure 1, would provide at least a rough idea of their distribution.</p>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/05/Histogram-of-Dynasty-Kingdom-Lifespan1.png" style="margin-left: auto; margin-right: auto;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/05/Histogram-of-Dynasty-Kingdom-Lifespan1.png" height="320" width="400" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figure 1</td>
+</tr>
+</tbody>
+</table>
+<p>It does seem that a nice distribution curve exists which models the data. The distribution seems to take the shape of a power law at first glance. Doing some work in R, I found that a power law with one set of parameters fits the tail nicely but fails to fit the first half; and vice versa, a power law with a different set of parameters fits the majority but not the tail. My hypothesis is that a power law with alpha equal to 3 may be the best fit. This is a prediction based on the <a href="//anautonomousagent.com/?p=185" target="_blank">lectures of Geoffrey West</a>, in which he explains that most biological systems exhibit power law distributions with alpha in the 2.5-3.0 range. However, as seen in Figure 2, this does not seem to be the correct range for alpha if a power law is the best fit for this preliminary data.</p>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/05/EmpericalvsTheoretical1.png" style="margin-left: auto; margin-right: auto;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/05/EmpericalvsTheoretical1.png" height="310" width="400" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figure 2</td>
+</tr>
+</tbody>
+</table>
+<div>The tail of the distribution does not fit well with the parameters shown in Figure 2.&nbsp;</div>
+<div></div>
+<div>I would venture to guess that the data may not be reliable in the displayed tail region. This would suggest that the data may need improvement in the portion where kingdoms and dynasties exist for longer than 200 years. The data I compiled, may of course be missing many kingdoms and dynasties. I believe that my sample is biased, due to these missing kingdoms and dynasties.&nbsp;</div>
+<div></div>
+<div>To improve this rough sketch of the distribution of kingdoms and dynasties, a highly systematic method must be devised to correctly measure the length of time of existence for any dynasty and kingdom. Also, this method must consistently be able to distinguish when a kingdom or dynasty begins and ends. The general idea is to measure the length of existence of a distinct political entity in a geographical region.</div>
+<div></div>
+<div>A sample must be obtained which is not biased. A dataset containing the population of all existing kingdoms and dynasties existing since the 3rd millinium B.C.E. would work best. Even so, this would be biased because it would ignore all the dynasties and kingdoms existing before that time.&nbsp;</div>
+			
+			</div>
+			
+			<div class="clear"></div>
+		
+			
+	</div> <!-- /post-inner -->
+	
+</div> <!-- /post -->			    			        		            
+			        			    	
 			    		<div id="post-60" class="post post-60 type-post status-publish format-standard has-post-thumbnail hentry category-ancient category-anthropology category-book category-egypt category-geopolymer category-history category-joseph-davidovits category-margaret-morris category-pyramid category-website">
 
 		
@@ -347,43 +417,6 @@ Watch it: Hulu, Dailymotion, <a href="//youtu.be/7X6oI92b23M" target="_blank" re
 	</div> <!-- /post-inner -->
 	
 </div> <!-- /post -->			    			        		            
-			        			    	
-			    		<div id="post-72" class="post post-72 type-post status-publish format-standard hentry category-art category-video category-visualization">
-
-		
-	<div class="post-inner">
-				
-		<div class="post-header">
-
-							
-			    <h2 class="post-title"><a href="/2014/05/time-lapse-of-the-city-of-boston-bodhi-films/" title="Time Lapse of the City of Boston &#8211; Bodhi Films">Time Lapse of the City of Boston &#8211; Bodhi Films</a></h2>
-			    
-					    
-		    		    
-		    <div class="post-meta">
-			    
-			    <p class="post-author"><span>By </span><a href="/author/anautonomousagent/" title="Posts by anautonomousagent" rel="author">anautonomousagent</a></p>
-				<p class="post-date"><span>On </span><a href="/2014/05/time-lapse-of-the-city-of-boston-bodhi-films/">May 3, 2014</a></p>
-									<p class="post-categories"><span>In </span><a href="/category/art/" rel="category tag">art</a>, <a href="/category/video/" rel="category tag">video</a>, <a href="/category/visualization/" rel="category tag">visualization</a></p>
-											    
-		    </div>
-		    	    
-		</div> <!-- /post-header -->
-		
-				
-			<div class="post-content">
-			
-				<p>This post is a mixture of art and science. Love this video &#8211; not just for the special effects, but for the perspective it gives the viewers. It helps to visually see how a city functions and operates. Some scenes provide a sort of visual omniscience.</p>
-<p><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="//player.vimeo.com/video/69025727" webkitallowfullscreen="" width="500"></iframe> <br /><a href="//vimeo.com/69025727">This is Boston</a> from <a href="//vimeo.com/bodhifilms">Bodhi Films</a> on <a href="https://vimeo.com/">Vimeo</a>.</p>
-			
-			</div>
-			
-			<div class="clear"></div>
-		
-			
-	</div> <!-- /post-inner -->
-	
-</div> <!-- /post -->			    			        		            
 			        		        	                    
 								
 			</div> <!-- /posts -->
@@ -424,10 +457,38 @@ Watch it: Hulu, Dailymotion, <a href="//youtu.be/7X6oI92b23M" target="_blank" re
 		
 		<div class="sidebar">
 
-	<div class="widget widget_lovecraft_recent_posts"><div class="widget-content"><h3 class="widget-title">Recent Posts</h3>		
+	<div class="widget_text widget widget_custom_html"><div class="widget_text widget-content"><h3 class="widget-title">Search</h3><div class="textwidget custom-html-widget"><iframe src="https://duckduckgo.com/search.html?width=200&site=anautonomousagent.com&prefill=Search" style="overflow:hidden;margin:0;padding:0;width:258px;height:40px;" frameborder="0"></iframe></div></div><div class="clear"></div></div><div class="widget widget_lovecraft_recent_posts"><div class="widget-content"><h3 class="widget-title">Recent Posts</h3>		
 			<ul class="lovecraft-widget-list">
 				
 									
+						<li>
+						
+													
+							<a href="/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/" title="Evolution from Space &#8211; Fred Hoyle and Chandra Wickramasinghe">
+									
+								<div class="post-icon">
+								
+																		
+																		
+										<div class="genericon genericon-standard"></div>
+									
+																		
+								</div>
+								
+								<div class="inner">
+												
+									<p class="title">Evolution from Space &#8211; Fred Hoyle and Chandra Wickramasinghe</p>
+									<p class="meta">May 28, 2019</p>
+								
+								</div>
+								
+								<div class="clear"></div>
+													
+							</a>
+							
+						</li>
+					
+										
 						<li>
 						
 													
@@ -679,34 +740,6 @@ Watch it: Hulu, Dailymotion, <a href="//youtu.be/7X6oI92b23M" target="_blank" re
 							
 						</li>
 					
-										
-						<li>
-						
-													
-							<a href="/2018/08/decentralized-blockchain-wireless-internet-service-provider/" title="Decentralized Blockchain Wireless Internet Service Provider">
-									
-								<div class="post-icon">
-								
-																		
-																		
-										<div class="genericon genericon-standard"></div>
-									
-																		
-								</div>
-								
-								<div class="inner">
-												
-									<p class="title">Decentralized Blockchain Wireless Internet Service Provider</p>
-									<p class="meta">August 12, 2018</p>
-								
-								</div>
-								
-								<div class="clear"></div>
-													
-							</a>
-							
-						</li>
-					
 								
 				</ul>
 				
@@ -727,10 +760,11 @@ Watch it: Hulu, Dailymotion, <a href="//youtu.be/7X6oI92b23M" target="_blank" re
 			<div class="widgets">
 				
 				<div class="widget widget_archive"><div class="widget-content"><h3 class="widget-title">Archives</h3>		<label class="screen-reader-text" for="archives-dropdown-2">Archives</label>
-		<select id="archives-dropdown-2" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+		<select id="archives-dropdown-2" name="archive-dropdown">
 			
 			<option value="">Select Month</option>
-				<option value='https://anautonomousagent.com/2019/01/'> January 2019 </option>
+				<option value='https://anautonomousagent.com/2019/05/'> May 2019 </option>
+	<option value='https://anautonomousagent.com/2019/01/'> January 2019 </option>
 	<option value='https://anautonomousagent.com/2018/11/'> November 2018 </option>
 	<option value='https://anautonomousagent.com/2018/09/'> September 2018 </option>
 	<option value='https://anautonomousagent.com/2018/08/'> August 2018 </option>
@@ -794,6 +828,21 @@ Watch it: Hulu, Dailymotion, <a href="//youtu.be/7X6oI92b23M" target="_blank" re
 	<option value='https://anautonomousagent.com/2012/12/'> December 2012 </option>
 
 		</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-2" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+
 		</div><div class="clear"></div></div><div class="widget widget_nav_menu"><div class="widget-content"><h3 class="widget-title">Links</h3><div class="menu-links-container"><ul id="menu-links" class="menu"><li id="menu-item-928" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-928"><a href="https://thebubbleindex.com/">The Bubble Index</a></li>
 <li id="menu-item-1673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1673"><a href="https://solaranamnesis.com/">Solar Anamnesis</a></li>
 <li id="menu-item-926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-926"><a href="http://infinity-imagined.tumblr.com/">Infinity Imagined</a></li>

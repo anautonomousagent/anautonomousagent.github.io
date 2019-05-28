@@ -12,16 +12,18 @@
 	<atom:link href="/category/dark/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:55:27 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Ben Hoo</title>
 		<link>/2013/06/ben-hoo/</link>
-		<comments>/2013/06/ben-hoo/#respond</comments>
-		<pubDate>Wed, 12 Jun 2013 02:24:00 +0000</pubDate>
+				<comments>/2013/06/ben-hoo/#disqus_thread</comments>
+				<pubDate>Wed, 12 Jun 2013 02:24:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[ben hoo]]></category>
@@ -34,19 +36,19 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=161</guid>
-		<description><![CDATA[Ben Hoo is just awesome. Warm, dark, groovy, electronica music. Check out Ben Hoo&#8217;s SoundCloud.]]></description>
-				<content:encoded><![CDATA[<p>Ben Hoo is just awesome. Warm, dark, groovy, electronica music.</p>
+				<description><![CDATA[Ben Hoo is just awesome. Warm, dark, groovy, electronica music. Check out Ben Hoo&#8217;s SoundCloud.]]></description>
+								<content:encoded><![CDATA[<p>Ben Hoo is just awesome. Warm, dark, groovy, electronica music.</p>
 <p><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/videoseries?list=PLCpjCAUNQ25U-piIxT1bIcOTYL9O7FAbH" width="560"></iframe></p>
 <p>Check out <a href="https://soundcloud.com/ben-hoo" target="_blank">Ben Hoo&#8217;s SoundCloud</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/06/ben-hoo/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/06/ben-hoo/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>YouTube Channel &#8211; mojiito&#8217;s eargasm</title>
 		<link>/2012/12/youtube-channel-mojiitos-eargasm/</link>
-		<comments>/2012/12/youtube-channel-mojiitos-eargasm/#respond</comments>
-		<pubDate>Sun, 30 Dec 2012 03:56:00 +0000</pubDate>
+				<comments>/2012/12/youtube-channel-mojiitos-eargasm/#disqus_thread</comments>
+				<pubDate>Sun, 30 Dec 2012 03:56:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[dark]]></category>
 		<category><![CDATA[deep house]]></category>
@@ -58,19 +60,19 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=421</guid>
-		<description><![CDATA[If you ever want to be awed by great music AND video then mojiito&#8217;s eargasm is the channel for you. &#160;Check out his playlist called the eyegasm&#160;and you will immediately be absorbed into a world of aesthetic beauty, entranced by the quality of music and video. I am not sure how I ran across his [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>If you ever want to be awed by great music AND video then <a href="//www.youtube.com/user/MojiitosEargasm" target="_blank">mojiito&#8217;s eargasm</a> is the channel for you. &nbsp;Check out his playlist called <a href="//www.youtube.com/playlist?list=PLDA9CE02906983C7D" target="_blank">the eyegasm</a>&nbsp;and you will immediately be absorbed into a world of aesthetic beauty, entranced by the quality of music and video. I am not sure how I ran across his channel; but I think it was a random grip of curiosity while listening to various&nbsp;minimal or deep house songs.</p>
+				<description><![CDATA[If you ever want to be awed by great music AND video then mojiito&#8217;s eargasm is the channel for you. &#160;Check out his playlist called the eyegasm&#160;and you will immediately be absorbed into a world of aesthetic beauty, entranced by the quality of music and video. I am not sure how I ran across his [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>If you ever want to be awed by great music AND video then <a href="//www.youtube.com/user/MojiitosEargasm" target="_blank">mojiito&#8217;s eargasm</a> is the channel for you. &nbsp;Check out his playlist called <a href="//www.youtube.com/playlist?list=PLDA9CE02906983C7D" target="_blank">the eyegasm</a>&nbsp;and you will immediately be absorbed into a world of aesthetic beauty, entranced by the quality of music and video. I am not sure how I ran across his channel; but I think it was a random grip of curiosity while listening to various&nbsp;minimal or deep house songs.</p>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2012/12/11.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2012/12/11.jpg" /></a></div>
 <p></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2012/12/youtube-channel-mojiitos-eargasm/feed/</wfw:commentRss>
+							<wfw:commentRss>/2012/12/youtube-channel-mojiitos-eargasm/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>YouTube channel &#8211; El~</title>
 		<link>/2012/12/youtube-channel-el/</link>
-		<comments>/2012/12/youtube-channel-el/#respond</comments>
-		<pubDate>Sun, 30 Dec 2012 03:51:00 +0000</pubDate>
+				<comments>/2012/12/youtube-channel-el/#disqus_thread</comments>
+				<pubDate>Sun, 30 Dec 2012 03:51:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[dark]]></category>
 		<category><![CDATA[deep house]]></category>
@@ -82,13 +84,13 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=422</guid>
-		<description><![CDATA[The other day I happened across a wonderful YouTube channel called&#160;El~. Containing hundreds of uploads of deep house/underground/dark songs, I explored the channel. To my&#160;amazement&#160;and happiness, I found that the user had posted about 30 playlists, containing probably a thousand or so songs of the deep house/dark style. I Love IT when I make such [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>The other day I happened across a wonderful YouTube channel called&nbsp;<a href="//www.youtube.com/user/ElenaCh01" target="_blank">El~</a>. Containing hundreds of uploads of deep house/underground/dark songs, I explored the channel. To my&nbsp;amazement&nbsp;and happiness, I found that the user had posted about 30 playlists, containing probably a thousand or so songs of the deep house/dark style. I Love IT when I make such finds on the Internet!! The user has a taste (perhaps this is not the best term) for music that I find remarkably similar to my own. Keep it up!</p>
+				<description><![CDATA[The other day I happened across a wonderful YouTube channel called&#160;El~. Containing hundreds of uploads of deep house/underground/dark songs, I explored the channel. To my&#160;amazement&#160;and happiness, I found that the user had posted about 30 playlists, containing probably a thousand or so songs of the deep house/dark style. I Love IT when I make such [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>The other day I happened across a wonderful YouTube channel called&nbsp;<a href="//www.youtube.com/user/ElenaCh01" target="_blank">El~</a>. Containing hundreds of uploads of deep house/underground/dark songs, I explored the channel. To my&nbsp;amazement&nbsp;and happiness, I found that the user had posted about 30 playlists, containing probably a thousand or so songs of the deep house/dark style. I Love IT when I make such finds on the Internet!! The user has a taste (perhaps this is not the best term) for music that I find remarkably similar to my own. Keep it up!</p>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2012/12/1.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2012/12/1.png" /></a></div>
 <p></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2012/12/youtube-channel-el/feed/</wfw:commentRss>
+							<wfw:commentRss>/2012/12/youtube-channel-el/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

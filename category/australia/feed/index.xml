@@ -12,16 +12,18 @@
 	<atom:link href="/category/australia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:51:02 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Australia&#8217;s First 4 Billion Years &#8211; NOVA</title>
 		<link>/2013/05/australias-first-4-billion-years-nova/</link>
-		<comments>/2013/05/australias-first-4-billion-years-nova/#respond</comments>
-		<pubDate>Sat, 11 May 2013 22:53:00 +0000</pubDate>
+				<comments>/2013/05/australias-first-4-billion-years-nova/#disqus_thread</comments>
+				<pubDate>Sat, 11 May 2013 22:53:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[animals]]></category>
 		<category><![CDATA[australia]]></category>
@@ -39,13 +41,13 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=170</guid>
-		<description><![CDATA[This series focuses on the geographic and&#160;biological&#160;evolution&#160;of the Australian continent since the formation of the Earth. Dr. Richard Smith narrates the entire series, starting with the formation the first lifeforms on Earth, up until the modern time. Good series and worth a watch. Watch it on PBS here.Watch it on YouTube here.]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/05/51vJDTCPXhL._SX500_1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="//anautonomousagent.com/wp-content/uploads/2013/05/51vJDTCPXhL._SX500_1.jpg" width="320" /></a></div>
+				<description><![CDATA[This series focuses on the geographic and&#160;biological&#160;evolution&#160;of the Australian continent since the formation of the Earth. Dr. Richard Smith narrates the entire series, starting with the formation the first lifeforms on Earth, up until the modern time. Good series and worth a watch. Watch it on PBS here.Watch it on YouTube here.]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/05/51vJDTCPXhL._SX500_1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="//anautonomousagent.com/wp-content/uploads/2013/05/51vJDTCPXhL._SX500_1.jpg" width="320" /></a></div>
 <p>This series focuses on the geographic and&nbsp;biological&nbsp;evolution&nbsp;of the Australian continent since the formation of the Earth. Dr. Richard Smith narrates the entire series, starting with the formation the first lifeforms on Earth, up until the modern time. Good series and worth a watch.</p>
 <p>Watch it on PBS <a href="//www.pbs.org/wgbh/nova/earth/australia-first-years.html#australia-first-years" target="_blank">here</a>.<br />Watch it on YouTube <a href="//www.youtube.com/show/novaaustraliasfirst4billionyears" target="_blank">here</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/05/australias-first-4-billion-years-nova/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/05/australias-first-4-billion-years-nova/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

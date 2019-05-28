@@ -12,16 +12,18 @@
 	<atom:link href="/category/sander-van-der-leeuw/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:13 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Sander van der Leeuw &#8211; Can the Distant Past Teach Us About Modern Crisis?</title>
 		<link>/2014/05/sander-van-der-leeuw-can-the-distant-past-teach-us-about-modern-crisis/</link>
-		<comments>/2014/05/sander-van-der-leeuw-can-the-distant-past-teach-us-about-modern-crisis/#respond</comments>
-		<pubDate>Thu, 01 May 2014 18:30:00 +0000</pubDate>
+				<comments>/2014/05/sander-van-der-leeuw-can-the-distant-past-teach-us-about-modern-crisis/#disqus_thread</comments>
+				<pubDate>Thu, 01 May 2014 18:30:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropocene]]></category>
 		<category><![CDATA[anthropology]]></category>
@@ -33,8 +35,8 @@
 		<category><![CDATA[video]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=73</guid>
-		<description><![CDATA[Sander van der Leeuw, from Arizona State University and the Santa Fe Institute,  discusses anthropology and how modern society has much to learn from its own past. Great presentation, I highly recommend. Fora.tv: Can the Distant Past Teach Us About Modern Crisis? Podcast: Can the Distant Past Teach Us About Modern Crisis? The importance of [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://www.santafe.edu/people/profile/sander-van-der-leeuw" target="_blank" rel="noopener">Sander van der Leeuw</a>, from Arizona State University and the Santa Fe Institute,  discusses anthropology and how modern society has much to learn from its own past. Great presentation, I highly recommend.</p>
+				<description><![CDATA[Sander van der Leeuw, from Arizona State University and the Santa Fe Institute,  discusses anthropology and how modern society has much to learn from its own past. Great presentation, I highly recommend. Fora.tv: Can the Distant Past Teach Us About Modern Crisis? Podcast: Can the Distant Past Teach Us About Modern Crisis? The importance of [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="https://www.santafe.edu/people/profile/sander-van-der-leeuw" target="_blank" rel="noopener">Sander van der Leeuw</a>, from Arizona State University and the Santa Fe Institute,  discusses anthropology and how modern society has much to learn from its own past. Great presentation, I highly recommend.</p>
 <blockquote><p>Fora.tv:<br />
 <a href="//fora.tv/2009/11/18/Sander_van_der_Leeuw_The_Archaeology_of_Innovation/How_Did_Early_Humans_Survive_Climate_Change" target="_blank" rel="noopener">Can the Distant Past Teach Us About Modern Crisis?</a><br />
 Podcast:<br />
@@ -47,8 +49,8 @@ Podcast:<br />
 <li><a href="//youtu.be/_qrnXMH6ob8" target="_blank" rel="noopener">Origin of Cities Part 4</a></li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/05/sander-van-der-leeuw-can-the-distant-past-teach-us-about-modern-crisis/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/05/sander-van-der-leeuw-can-the-distant-past-teach-us-about-modern-crisis/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

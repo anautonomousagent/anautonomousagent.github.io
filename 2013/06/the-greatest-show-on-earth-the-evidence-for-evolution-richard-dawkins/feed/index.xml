@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: The Greatest Show on Earth: The Evidence for Evolution &#8211; Richard Dawkins</title>
+	<title>
+	Comments on: The Greatest Show on Earth: The Evidence for Evolution &#8211; Richard Dawkins	</title>
 	<atom:link href="/2013/06/the-greatest-show-on-earth-the-evidence-for-evolution-richard-dawkins/feed/" rel="self" type="application/rss+xml" />
 	<link>/2013/06/the-greatest-show-on-earth-the-evidence-for-evolution-richard-dawkins/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:43 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

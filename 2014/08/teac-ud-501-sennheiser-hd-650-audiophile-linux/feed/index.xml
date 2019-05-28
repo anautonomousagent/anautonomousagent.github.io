@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: TEAC UD-501, Sennheiser HD 650, Audiophile Linux</title>
+	<title>
+	Comments on: TEAC UD-501, Sennheiser HD 650, Audiophile Linux	</title>
 	<atom:link href="/2014/08/teac-ud-501-sennheiser-hd-650-audiophile-linux/feed/" rel="self" type="application/rss+xml" />
 	<link>/2014/08/teac-ud-501-sennheiser-hd-650-audiophile-linux/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:06 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

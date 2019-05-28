@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>chandra wickramasinghe &#8211; An Autonomous Agent</title>
+	<atom:link href="/category/chandra-wickramasinghe/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>exploring the noosphere</description>
+	<lastBuildDate>Tue, 28 May 2019 00:42:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
+	<item>
+		<title>Evolution from Space &#8211; Fred Hoyle and Chandra Wickramasinghe</title>
+		<link>/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/</link>
+				<comments>/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/#disqus_thread</comments>
+				<pubDate>Tue, 28 May 2019 00:42:12 +0000</pubDate>
+		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
+				<category><![CDATA[astrobiology]]></category>
+		<category><![CDATA[biology]]></category>
+		<category><![CDATA[chandra wickramasinghe]]></category>
+		<category><![CDATA[dna]]></category>
+		<category><![CDATA[evolution]]></category>
+		<category><![CDATA[fred hoyle]]></category>
+		<category><![CDATA[meteorite]]></category>
+		<category><![CDATA[panspermia]]></category>
+		<category><![CDATA[philosophy]]></category>
+		<category><![CDATA[space]]></category>
+
+		<guid isPermaLink="false">/?p=2604</guid>
+				<description><![CDATA[Evolution from Space by Fred Hoyle and Chandra Wickramasinghe is a revolutionary book concerning the interpretation of the biological, astronomical, and mathematical evidence which indicates that evolution of life occurs on a galactic scale. The authors&#8217; arguments against important assumptions of natural selection and the origin of life are still applicable and their proposed solution [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>Evolution from Space by Fred Hoyle and Chandra Wickramasinghe is a revolutionary book concerning the interpretation of the biological, astronomical, and mathematical evidence which indicates that evolution of life occurs on a galactic scale. The authors&#8217; arguments against important assumptions of natural selection and the origin of life are still applicable and their proposed solution seems reasonable, although perhaps subject to improvements, especially if one makes no <em>a priori</em> assumptions that life originated on Earth. Besides, the chondrites provide clear support for their theory and I believe trivially contradict the spontaneous generation on Earth hypothesis.</p>
+]]></content:encoded>
+							<wfw:commentRss>/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

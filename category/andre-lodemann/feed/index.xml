@@ -12,16 +12,18 @@
 	<atom:link href="/category/andre-lodemann/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:51:11 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Andre Lodemann</title>
 		<link>/2013/03/andre-lodemann/</link>
-		<comments>/2013/03/andre-lodemann/#respond</comments>
-		<pubDate>Sun, 24 Mar 2013 02:03:00 +0000</pubDate>
+				<comments>/2013/03/andre-lodemann/#disqus_thread</comments>
+				<pubDate>Sun, 24 Mar 2013 02:03:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[andre lodemann]]></category>
 		<category><![CDATA[art]]></category>
@@ -32,13 +34,13 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=187</guid>
-		<description><![CDATA[Andre Lodemann deserves a massive following for producing such amazing&#160;originals&#160;and remixes. His songs are incredibly DEEP and pleasing to the ear. So, whenever you feel like chilling out to some nice tunes, just listen to this YouTube playlist:&#160;Andre Lodemann Playlist. Andre Lodemann Soundcloud]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/03/lodemann1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="170" src="//anautonomousagent.com/wp-content/uploads/2013/03/lodemann1.jpg" width="400" /></a></div>
+				<description><![CDATA[Andre Lodemann deserves a massive following for producing such amazing&#160;originals&#160;and remixes. His songs are incredibly DEEP and pleasing to the ear. So, whenever you feel like chilling out to some nice tunes, just listen to this YouTube playlist:&#160;Andre Lodemann Playlist. Andre Lodemann Soundcloud]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/03/lodemann1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="170" src="//anautonomousagent.com/wp-content/uploads/2013/03/lodemann1.jpg" width="400" /></a></div>
 <p>Andre Lodemann deserves a massive following for producing such amazing&nbsp;originals&nbsp;and remixes. His songs are incredibly DEEP and pleasing to the ear. So, whenever you feel like chilling out to some nice tunes, just listen to this YouTube playlist:&nbsp;<a href="//www.youtube.com/playlist?list=PLu5OLBTMJfBsRAXD7sLvzgwMl0ZyhZQNh" target="_blank">Andre Lodemann Playlist</a>.</p>
 <p><a href="https://soundcloud.com/lodemann" target="_blank">Andre Lodemann Soundcloud</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/03/andre-lodemann/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/03/andre-lodemann/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

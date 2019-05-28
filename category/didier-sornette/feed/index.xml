@@ -12,16 +12,18 @@
 	<atom:link href="/category/didier-sornette/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Aug 2018 03:54:09 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Scale – Geoffrey West</title>
 		<link>/2018/08/scale-geoffrey-west/</link>
-		<comments>/2018/08/scale-geoffrey-west/#respond</comments>
-		<pubDate>Sun, 12 Aug 2018 03:54:09 +0000</pubDate>
+				<comments>/2018/08/scale-geoffrey-west/#disqus_thread</comments>
+				<pubDate>Sun, 12 Aug 2018 03:54:09 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[book]]></category>
@@ -43,17 +45,17 @@
 		<category><![CDATA[socionomics]]></category>
 
 		<guid isPermaLink="false">/?p=2552</guid>
-		<description><![CDATA[Scale, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://a.co/0tTatb5">Scale</a>, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is an important summary of really profound work and research performed at the Santa Fe Institute. And it is a great introduction to understanding power laws and scaling in biology and network topologies.</p>
+				<description><![CDATA[Scale, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="http://a.co/0tTatb5">Scale</a>, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is an important summary of really profound work and research performed at the Santa Fe Institute. And it is a great introduction to understanding power laws and scaling in biology and network topologies.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2018/08/scale-geoffrey-west/feed/</wfw:commentRss>
+							<wfw:commentRss>/2018/08/scale-geoffrey-west/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Das Kapital &#8211; Karl Marx</title>
 		<link>/2014/02/das-kapital-karl-marx/</link>
-		<comments>/2014/02/das-kapital-karl-marx/#comments</comments>
-		<pubDate>Mon, 17 Feb 2014 16:19:00 +0000</pubDate>
+				<comments>/2014/02/das-kapital-karl-marx/#disqus_thread</comments>
+				<pubDate>Mon, 17 Feb 2014 16:19:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropology]]></category>
 		<category><![CDATA[capitalism]]></category>
@@ -66,8 +68,8 @@
 		<category><![CDATA[robert prechter]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=106</guid>
-		<description><![CDATA[Das Kapital &#8211; The three volume set by Karl Marx and Friedrich Engels may contain the theoretical underpinnings for the observations of R. N. Elliott. The fundamental interactions involved in economics via social relationships between commodities lead to the development of Elliott Waves &#8212; later expanded upon by Prechter, Sornette, and others. More on this [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/02/97838682010481.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/02/97838682010481.jpg" height="320" width="219" /></a></div>
+				<description><![CDATA[Das Kapital &#8211; The three volume set by Karl Marx and Friedrich Engels may contain the theoretical underpinnings for the observations of R. N. Elliott. The fundamental interactions involved in economics via social relationships between commodities lead to the development of Elliott Waves &#8212; later expanded upon by Prechter, Sornette, and others. More on this [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/02/97838682010481.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/02/97838682010481.jpg" height="320" width="219" /></a></div>
 <div style="text-align: justify;"><a href="//en.wikipedia.org/wiki/Das_Kapital" target="_blank">Das Kapital</a> &#8211; The three volume set by Karl Marx and Friedrich Engels may contain the theoretical underpinnings for the observations of R. N. Elliott. The fundamental interactions involved in economics via social relationships between commodities lead to the development of Elliott Waves &#8212; later expanded upon by Prechter, Sornette, and others. More on this possible connection in a future post. Regardless, based on what I have read so far, I think this will be an interesting intellectual read. The well-worn hardback copy version I am reading, from a Boston library, was published in 1902; I wonder who has read this copy in the past 112 years?</div>
 <p>Volume 1 &#8211; Capital: Critique of Political Economy<br />Volume 2 &#8211; Capital: The Process of Circulation of Capital<br />Volume 3 &#8211; Capital: The Process of Capitalist Production as a Whole</p>
 <p>Ebook and PDF versions: <a href="https://www.marxists.org/archive/marx/works/1867-c1/" target="_blank">here</a> and <a href="https://archive.org/details/KarlMarxDasKapitalpdf" target="_blank">here</a></p>
@@ -75,14 +77,14 @@
 <p>Possible conception for The Organism which Marx refers to:</p>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/02/theorganism_small1.jpeg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/02/theorganism_small1.jpeg" height="240" width="400" /></a></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/02/das-kapital-karl-marx/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/02/das-kapital-karl-marx/feed/</wfw:commentRss>
 		<slash:comments>4</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Socionomics: The Science of History and Social Prediction &#8211; Robert R. Prechter, Jr.</title>
 		<link>/2014/01/socionomics-the-science-of-history-and-social-prediction-robert-r-prechter-jr/</link>
-		<comments>/2014/01/socionomics-the-science-of-history-and-social-prediction-robert-r-prechter-jr/#respond</comments>
-		<pubDate>Sat, 18 Jan 2014 21:17:00 +0000</pubDate>
+				<comments>/2014/01/socionomics-the-science-of-history-and-social-prediction-robert-r-prechter-jr/#disqus_thread</comments>
+				<pubDate>Sat, 18 Jan 2014 21:17:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[didier sornette]]></category>
 		<category><![CDATA[edward wilson]]></category>
@@ -96,19 +98,19 @@
 		<category><![CDATA[wave theory]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=121</guid>
-		<description><![CDATA[I posted before about the Elliott Wave Principle and several books dealing with the subject. However, I feel the need to reiterate the importance of two books by Robert R. Prechter, Jr. They are: The Wave Principle of Human Social Behavior and Pioneering Studies in Socionomics. I purchased both these books in a two volume [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I posted <a href="//ttrott.blogspot.com/2013/11/the-elliott-wave-principle.html" target="_blank">before</a> about the Elliott Wave Principle and several books dealing with the subject. However, I feel the need to reiterate the importance of two books by Robert R. Prechter, Jr. They are: <i>The Wave Principle of Human Social Behavior</i> and <i>Pioneering Studies in Socionomics</i>. I purchased both these books in a two volume collection called, <i><a href="//amzn.com/0932750575" target="_blank">Socionomics: The Science of History and Social Prediction</a></i>. In all my studies as an undergraduate and graduate student in the field of finance and mathematics, not one professor has ever mentioned Prechter or Elliott.</p>
+				<description><![CDATA[I posted before about the Elliott Wave Principle and several books dealing with the subject. However, I feel the need to reiterate the importance of two books by Robert R. Prechter, Jr. They are: The Wave Principle of Human Social Behavior and Pioneering Studies in Socionomics. I purchased both these books in a two volume [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I posted <a href="//ttrott.blogspot.com/2013/11/the-elliott-wave-principle.html" target="_blank">before</a> about the Elliott Wave Principle and several books dealing with the subject. However, I feel the need to reiterate the importance of two books by Robert R. Prechter, Jr. They are: <i>The Wave Principle of Human Social Behavior</i> and <i>Pioneering Studies in Socionomics</i>. I purchased both these books in a two volume collection called, <i><a href="//amzn.com/0932750575" target="_blank">Socionomics: The Science of History and Social Prediction</a></i>. In all my studies as an undergraduate and graduate student in the field of finance and mathematics, not one professor has ever mentioned Prechter or Elliott.</p>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/01/books-hsb1.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/01/books-hsb1.png" height="320" width="181" /></a></div>
 <p></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/01/socionomics-the-science-of-history-and-social-prediction-robert-r-prechter-jr/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/01/socionomics-the-science-of-history-and-social-prediction-robert-r-prechter-jr/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Simulated Stock Price Data &#8211; Ising Type Model</title>
 		<link>/2013/11/simulated-stock-price-data-ising-type-model/</link>
-		<comments>/2013/11/simulated-stock-price-data-ising-type-model/#respond</comments>
-		<pubDate>Thu, 28 Nov 2013 03:17:00 +0000</pubDate>
+				<comments>/2013/11/simulated-stock-price-data-ising-type-model/#disqus_thread</comments>
+				<pubDate>Thu, 28 Nov 2013 03:17:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[computer]]></category>
 		<category><![CDATA[didier sornette]]></category>
@@ -120,8 +122,8 @@
 		<category><![CDATA[stocks]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=127</guid>
-		<description><![CDATA[I am currently exploring stock price movements. I hope to publish a full post on my insights soon. Perhaps linking Elliott Waves with the fundamental tug-of-war between buy and sell price action. Here is a neat simulation of traders in an Ising type model. The resulting stock price simulation can be seen in the PDF. [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I am currently exploring stock price movements. I hope to publish a full post on my insights soon. Perhaps linking Elliott Waves with the fundamental tug-of-war between buy and sell price action. Here is a neat simulation of traders in an Ising type model. The resulting stock price simulation can be seen in the PDF. The model was created using 1,000,000 traders. If this is really the underlying nature of the movement of stock prices, then by observing a stock trajectory, an observer is really only getting a tiny fraction of the information about the state of the system. If there was a way to implement this model on a wide scale, the results would be really neat.</p>
+				<description><![CDATA[I am currently exploring stock price movements. I hope to publish a full post on my insights soon. Perhaps linking Elliott Waves with the fundamental tug-of-war between buy and sell price action. Here is a neat simulation of traders in an Ising type model. The resulting stock price simulation can be seen in the PDF. [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I am currently exploring stock price movements. I hope to publish a full post on my insights soon. Perhaps linking Elliott Waves with the fundamental tug-of-war between buy and sell price action. Here is a neat simulation of traders in an Ising type model. The resulting stock price simulation can be seen in the PDF. The model was created using 1,000,000 traders. If this is really the underlying nature of the movement of stock prices, then by observing a stock trajectory, an observer is really only getting a tiny fraction of the information about the state of the system. If there was a way to implement this model on a wide scale, the results would be really neat.</p>
 <div>PDF of the price movement:</p>
 <div style="-x-system-font: none; display: block; font-family: Helvetica,Arial,Sans-serif; font-size-adjust: none; font-size: 14px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal; margin: 12px auto 6px auto;"><a href="//www.scribd.com/doc/187702914/Simulated-Price-Data-using-Ising-Type-Model" style="text-decoration: underline;" title="View Simulated Price Data using Ising Type Model on Scribd">Simulated Price Data using Ising Type Model</a></div>
 <p><iframe data-aspect-ratio="undefined" data-auto-height="false" frameborder="0" height="600" scrolling="no" src="//www.scribd.com/embeds/187702914/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%"></iframe></div>
@@ -133,14 +135,14 @@
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/11/example0036-300x3001.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2013/11/example0036-300x3001-300x300.png" width="320" /></a></div>
 <p></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/11/simulated-stock-price-data-ising-type-model/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/11/simulated-stock-price-data-ising-type-model/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>New Blog &#8211; LPPL Market Watch</title>
 		<link>/2013/05/new-blog-lppl-market-watch/</link>
-		<comments>/2013/05/new-blog-lppl-market-watch/#respond</comments>
-		<pubDate>Thu, 16 May 2013 19:14:00 +0000</pubDate>
+				<comments>/2013/05/new-blog-lppl-market-watch/#disqus_thread</comments>
+				<pubDate>Thu, 16 May 2013 19:14:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[blog]]></category>
 		<category><![CDATA[didier sornette]]></category>
@@ -150,20 +152,20 @@
 		<category><![CDATA[stocks]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=167</guid>
-		<description><![CDATA[I recently created a new blog, called LPPL Market Watch, for my research on LPPL Oscillations in the stock market. LPPL Market Watch Update June 2013: The Bubble Index]]></description>
-				<content:encoded><![CDATA[<p>I recently created a new blog, called LPPL Market Watch, for my research on LPPL Oscillations in the stock market.</p>
+				<description><![CDATA[I recently created a new blog, called LPPL Market Watch, for my research on LPPL Oscillations in the stock market. LPPL Market Watch Update June 2013: The Bubble Index]]></description>
+								<content:encoded><![CDATA[<p>I recently created a new blog, called LPPL Market Watch, for my research on LPPL Oscillations in the stock market.</p>
 <p><a href="//lpplmarketwatch.blogspot.com/">LPPL Market Watch</a></p>
 <p>Update June 2013: <a href="//www.thebubbleindex.com/">The Bubble Index</a></p>
 <p></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/05/new-blog-lppl-market-watch/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/05/new-blog-lppl-market-watch/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Log-Periodic Power Law Oscillations (LPPL) to Predict Market Crashes</title>
 		<link>/2013/05/log-periodic-power-law-oscillations-lppl-to-predict-market-crashes/</link>
-		<comments>/2013/05/log-periodic-power-law-oscillations-lppl-to-predict-market-crashes/#respond</comments>
-		<pubDate>Wed, 01 May 2013 18:18:00 +0000</pubDate>
+				<comments>/2013/05/log-periodic-power-law-oscillations-lppl-to-predict-market-crashes/#disqus_thread</comments>
+				<pubDate>Wed, 01 May 2013 18:18:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[complexity theory]]></category>
 		<category><![CDATA[didier sornette]]></category>
@@ -175,8 +177,8 @@
 		<category><![CDATA[stocks]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=171</guid>
-		<description><![CDATA[The works of Didier Sornette and others show that Log-Periodic Power Law (LPPL) oscillations occur before financial crashes. Implementing the ideas found in various papers, the following graphs were created. As can be seen from the following graphs, peaks in the periodogram signals occurs shortly before some of the crashes.&#160; I created a blog devoted [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: justify;">The works of Didier Sornette and others show that Log-Periodic Power Law (LPPL) oscillations occur before financial crashes. Implementing the ideas found in various papers, the following graphs were created. As can be seen from the following graphs, peaks in the periodogram signals occurs shortly before some of the crashes.&nbsp;</div>
+				<description><![CDATA[The works of Didier Sornette and others show that Log-Periodic Power Law (LPPL) oscillations occur before financial crashes. Implementing the ideas found in various papers, the following graphs were created. As can be seen from the following graphs, peaks in the periodogram signals occurs shortly before some of the crashes.&#160; I created a blog devoted [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: justify;">The works of Didier Sornette and others show that Log-Periodic Power Law (LPPL) oscillations occur before financial crashes. Implementing the ideas found in various papers, the following graphs were created. As can be seen from the following graphs, peaks in the periodogram signals occurs shortly before some of the crashes.&nbsp;</div>
 <div style="clear: both; text-align: justify;"></div>
 <div style="clear: both; text-align: justify;">I created a blog devoted to exploring these LPPL market signals: <a href="//lpplmarketwatch.blogspot.com/" target="_blank">LPPL Market Watch</a></div>
 <div style="clear: both; text-align: justify;">Update: new website devoted to this subject. Visit: <a href="//www.thebubbleindex.com/" target="_blank">The Bubble Index</a>.</div>
@@ -258,14 +260,14 @@
 </table>
 <p><b>Figure 4</b> was produced with C++ code. Dow Jones Industrial Average. Seven year window of data.<br />1. December 31, 1909 &#8212; followed by a 23% drop<br />2. October 2, 1929 &#8212; followed by a 43% drop<br />3. March 12, 1937 &#8212; followed by a 40% drop<br />4. September 23, 1955 &#8212; followed by a quick 8.7% drop and then recovery<br />5.&nbsp;January 8, 1960 &#8212; followed by a 15.6% drop<br />6. October 2, 1987 &#8212; followed by a 31.7% drop<br />7. July 27, 1990 &#8212; followed by a 17% drop<br />8. September 8, 2000 &#8212; followed by a 36% drop<br />9. October 12, 2007 &#8212; followed by a drop in excess of 42%<br />10. July 8, 2011 &#8212; followed by a 16% drop</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/05/log-periodic-power-law-oscillations-lppl-to-predict-market-crashes/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/05/log-periodic-power-law-oscillations-lppl-to-predict-market-crashes/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Complex System vs. Stochastic Models of Market Returns</title>
 		<link>/2013/02/complex-system-vs-stochastic-models-of-market-returns/</link>
-		<comments>/2013/02/complex-system-vs-stochastic-models-of-market-returns/#respond</comments>
-		<pubDate>Thu, 14 Feb 2013 20:32:00 +0000</pubDate>
+				<comments>/2013/02/complex-system-vs-stochastic-models-of-market-returns/#disqus_thread</comments>
+				<pubDate>Thu, 14 Feb 2013 20:32:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anders johanson]]></category>
 		<category><![CDATA[complexity theory]]></category>
@@ -279,8 +281,8 @@
 		<category><![CDATA[thoughts]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=236</guid>
-		<description><![CDATA[Modelling market returns as independent random variables/martingales is the same as modelling the solar system as a geocentric system with the planets and Sun circling around Earth in epicycles. Predictions of the future are often vastly incorrect in both models. Quite surprisingly, this solar system model survived for thousands of years, despite it being totally incorrect. Then [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"></div>
+				<description><![CDATA[Modelling market returns as independent random variables/martingales is the same as modelling the solar system as a geocentric system with the planets and Sun circling around Earth in epicycles. Predictions of the future are often vastly incorrect in both models. Quite surprisingly, this solar system model survived for thousands of years, despite it being totally incorrect. Then [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"></div>
 <p><span style="text-align: justify;">Modelling market returns as independent random variables/martingales is the same as modelling the solar system as a geocentric system with the planets and Sun circling around Earth in epicycles. Predictions of the future are <a href="//www.voxeu.org/article/failed-forecasts-and-financial-crisis-how-resurrect-economic-modelling" target="_blank">often vastly incorrect</a> in both models. Quite surprisingly, this solar system model survived for thousands of years, despite it being totally incorrect. Then came Tycho Brahe who introduced a modified version of this </span><a style="text-align: justify;" href="//en.wikipedia.org/wiki/Ptolemy" target="_blank">Ptolemaic system</a><span style="text-align: justify;">. In Brahe&#8217;s model the planets orbit the Sun which orbits the Earth. While this model improved the accuracy of planetary motions, it failed to model reality. Perhaps it could be said that stochastic jump processes are equivalent to Brahe&#8217;s model of the solar system. While these jump process do a better job at modelling the returns than simple stochastic processes, they fail to grasp the underlying true model of returns.</span></p>
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
@@ -309,14 +311,14 @@
 <div style="text-align: justify;">So, it seems that we need to modify or throw away the old models in favour of these new complex system models. These complex models offer better prediction of the overall market and more fully represent reality.</p>
 <p>There is the interesting possibility of this: the stochastic volatility model referred to as the <a href="//en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process" target="_blank">Ornstein-Uhlenbeck</a> process represents the physical process of a &#8220;noisy relaxation process.&#8221; The Wiener Process represents Brownian motion or motion of a particle through a gas or liquid. So, if we consider the movement of a stock through a virtual container of many stocks (these stocks are the atoms in the Brownian motion) then we need to ask ourselves: What does the price, interest rate, returns, etc. mimic? It is NOT the equations! BUT the physical processes themselves.  Why is an interest rate in a state of disequilibrium in the first place&#8230; that it must try to relax? Who put the stock in swarm of human hands all independently moving&#8230; It more correctly seems that the traders are following its movement at every second, waiting to grab it when the time if right (thus not independent)?</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/02/complex-system-vs-stochastic-models-of-market-returns/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/02/complex-system-vs-stochastic-models-of-market-returns/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Didier Sornette: Predicting risk</title>
 		<link>/2013/02/didier-sornette-predicting-risk/</link>
-		<comments>/2013/02/didier-sornette-predicting-risk/#respond</comments>
-		<pubDate>Sun, 03 Feb 2013 14:36:00 +0000</pubDate>
+				<comments>/2013/02/didier-sornette-predicting-risk/#disqus_thread</comments>
+				<pubDate>Sun, 03 Feb 2013 14:36:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropocene]]></category>
 		<category><![CDATA[biology]]></category>
@@ -333,22 +335,22 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=247</guid>
-		<description><![CDATA[Very interesting video on &#8220;Where are we going? And what can we do?&#8221; about financial markets, critical points, ecology, biology, and other issues of the Anthropocene by Didier Sornette. Humans are growing at a super-exponential rate, so what does this mean? He also points out the importance of non-linear behavior in markets and the concept [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="//vimeo.com/45469209" target="_blank" rel="noopener">Very interesting video</a> on &#8220;Where are we going? And what can we do?&#8221; about financial markets, critical points, ecology, biology, and other issues of the <a href="//ttrott.blogspot.com/2013/01/the-anthropocene-journal.html">Anthropocene</a> by <a href="//ttrott.blogspot.com/2013/01/why-stock-markets-crash-didier-sornette.html">Didier Sornette</a>. Humans are growing at a super-exponential rate, so what does this mean? He also points out the importance of <a href="//ttrott.blogspot.com/2012/12/phase-transitions-and-signs-of-life.html">non-linear behavior in markets</a> and the concept of <a href="//arxiv.org/abs/0907.4290" target="_blank" rel="noopener">Dragon-Kings</a>. Also, <a href="//youtu.be/7jncWyx3I94" target="_blank" rel="noopener">here is a link</a> to a good interview with Sornette thanks to <a href="//www.youtube.com/user/zurichminds" target="_blank" rel="noopener">ZURICH.MINDS</a>.</p>
+				<description><![CDATA[Very interesting video on &#8220;Where are we going? And what can we do?&#8221; about financial markets, critical points, ecology, biology, and other issues of the Anthropocene by Didier Sornette. Humans are growing at a super-exponential rate, so what does this mean? He also points out the importance of non-linear behavior in markets and the concept [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="//vimeo.com/45469209" target="_blank" rel="noopener">Very interesting video</a> on &#8220;Where are we going? And what can we do?&#8221; about financial markets, critical points, ecology, biology, and other issues of the <a href="//ttrott.blogspot.com/2013/01/the-anthropocene-journal.html">Anthropocene</a> by <a href="//ttrott.blogspot.com/2013/01/why-stock-markets-crash-didier-sornette.html">Didier Sornette</a>. Humans are growing at a super-exponential rate, so what does this mean? He also points out the importance of <a href="//ttrott.blogspot.com/2012/12/phase-transitions-and-signs-of-life.html">non-linear behavior in markets</a> and the concept of <a href="//arxiv.org/abs/0907.4290" target="_blank" rel="noopener">Dragon-Kings</a>. Also, <a href="//youtu.be/7jncWyx3I94" target="_blank" rel="noopener">here is a link</a> to a good interview with Sornette thanks to <a href="//www.youtube.com/user/zurichminds" target="_blank" rel="noopener">ZURICH.MINDS</a>.</p>
 <p>For anyone interested in watching some of his lectures, <a href="//videolectures.net/didier_sornette/" target="_blank" rel="noopener">here is a link</a>.</p>
 <div class="youtube"
      id="bAKWVTb-AKA"
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/02/didier-sornette-predicting-risk/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/02/didier-sornette-predicting-risk/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Can a Stock Market Crash be Avoided? Can the Collapse of Society be Avoided?</title>
 		<link>/2013/01/can-a-stock-market-crash-be-avoided-can-the-collapse-of-society-be-avoided/</link>
-		<comments>/2013/01/can-a-stock-market-crash-be-avoided-can-the-collapse-of-society-be-avoided/#respond</comments>
-		<pubDate>Tue, 08 Jan 2013 05:05:00 +0000</pubDate>
+				<comments>/2013/01/can-a-stock-market-crash-be-avoided-can-the-collapse-of-society-be-avoided/#disqus_thread</comments>
+				<pubDate>Tue, 08 Jan 2013 05:05:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[complexity theory]]></category>
 		<category><![CDATA[didier sornette]]></category>
@@ -364,8 +366,8 @@
 		<category><![CDATA[thoughts]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=310</guid>
-		<description><![CDATA[The idea in Why Stock Markets Crash is that there exists a critical point which represents the boundary between two regimes. The entire stock market exists as numerous agents whose decisions are not independent.  These agents are in a state of disorder under &#8220;normal&#8221; trading conditions, thus creating return distributions which are normally distributed. As [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;">The idea in <a href="//ttrott.blogspot.com/2013/01/why-stock-markets-crash-didier-sornette.html" target="_blank" rel="noopener"><i>Why Stock Markets Crash</i></a> is that there exists a critical point which represents the boundary between two regimes. The entire stock market exists as numerous agents whose decisions are not independent.  These agents are in a state of disorder under &#8220;normal&#8221; trading conditions, thus creating return distributions which are normally distributed. As time progresses the market rises and the agents begin to enter a state bordering disorder and order.  While in this state, the market attitudes of the agents can be abstracted to fractal islands just like the <a href="//link.springer.com/article/10.1140%2Fepjb%2Fe2006-00391-6?LI=true" target="_blank" rel="noopener">Ising model</a> when close to criticality; in this state, attitudes are able to percolate through various hierarchies and organizations. I have left out many details, but the general concept is that once the market reaches this state, the probability for a crash becomes large; in other words, a crash is the result of instabilities caused by agents reaching a critical state.</div>
+				<description><![CDATA[The idea in Why Stock Markets Crash is that there exists a critical point which represents the boundary between two regimes. The entire stock market exists as numerous agents whose decisions are not independent.  These agents are in a state of disorder under &#8220;normal&#8221; trading conditions, thus creating return distributions which are normally distributed. As [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;">The idea in <a href="//ttrott.blogspot.com/2013/01/why-stock-markets-crash-didier-sornette.html" target="_blank" rel="noopener"><i>Why Stock Markets Crash</i></a> is that there exists a critical point which represents the boundary between two regimes. The entire stock market exists as numerous agents whose decisions are not independent.  These agents are in a state of disorder under &#8220;normal&#8221; trading conditions, thus creating return distributions which are normally distributed. As time progresses the market rises and the agents begin to enter a state bordering disorder and order.  While in this state, the market attitudes of the agents can be abstracted to fractal islands just like the <a href="//link.springer.com/article/10.1140%2Fepjb%2Fe2006-00391-6?LI=true" target="_blank" rel="noopener">Ising model</a> when close to criticality; in this state, attitudes are able to percolate through various hierarchies and organizations. I have left out many details, but the general concept is that once the market reaches this state, the probability for a crash becomes large; in other words, a crash is the result of instabilities caused by agents reaching a critical state.</div>
 <table style="float: left; margin-left: 0px; margin-right: 0px; text-align: left;" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -399,14 +401,14 @@
 </div>
 <div style="text-align: justify;">It seems that Asimov is once again ahead of his time!</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/can-a-stock-market-crash-be-avoided-can-the-collapse-of-society-be-avoided/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/can-a-stock-market-crash-be-avoided-can-the-collapse-of-society-be-avoided/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Natural Resource Depletion &#8211; Solution: Algae Oil and Water Cavitation</title>
 		<link>/2013/01/natural-resource-depletion-solution-algae-oil-and-water-cavitation/</link>
-		<comments>/2013/01/natural-resource-depletion-solution-algae-oil-and-water-cavitation/#respond</comments>
-		<pubDate>Mon, 07 Jan 2013 23:05:00 +0000</pubDate>
+				<comments>/2013/01/natural-resource-depletion-solution-algae-oil-and-water-cavitation/#disqus_thread</comments>
+				<pubDate>Mon, 07 Jan 2013 23:05:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[algae oil]]></category>
 		<category><![CDATA[complexity theory]]></category>
@@ -421,8 +423,8 @@
 		<category><![CDATA[water cavitation]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=311</guid>
-		<description><![CDATA[I recently read Phase Transitions, by Ricard Sole. The last chapter talks about societal collapse due to resource depletion. Under some assumptions, modelling the per capita consumption rate of natural resources shows that there exists a phase transition between stability and collapse. In other words, a gradual increase in the per capita consumption rate (or [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;">I recently read <a href="//ttrott.blogspot.com/2012/12/phase-transitions-and-signs-of-life.html" target="_blank" rel="noopener"><i>Phase Transitions</i></a>, by <a href="//complex.upf.es/~ricard/Main/RicardSole.html" target="_blank" rel="noopener">Ricard Sole</a>. The last chapter talks about societal collapse due to resource depletion. Under some assumptions, modelling the per capita consumption rate of natural resources shows that there exists a phase transition between stability and collapse. In other words, a gradual increase in the per capita consumption rate (or an increase in population, given a fixed per capita consumption rate) will result in a sudden and extreme phase shift &#8212; from stability to instability, i.e. collapse.</div>
+				<description><![CDATA[I recently read Phase Transitions, by Ricard Sole. The last chapter talks about societal collapse due to resource depletion. Under some assumptions, modelling the per capita consumption rate of natural resources shows that there exists a phase transition between stability and collapse. In other words, a gradual increase in the per capita consumption rate (or [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;">I recently read <a href="//ttrott.blogspot.com/2012/12/phase-transitions-and-signs-of-life.html" target="_blank" rel="noopener"><i>Phase Transitions</i></a>, by <a href="//complex.upf.es/~ricard/Main/RicardSole.html" target="_blank" rel="noopener">Ricard Sole</a>. The last chapter talks about societal collapse due to resource depletion. Under some assumptions, modelling the per capita consumption rate of natural resources shows that there exists a phase transition between stability and collapse. In other words, a gradual increase in the per capita consumption rate (or an increase in population, given a fixed per capita consumption rate) will result in a sudden and extreme phase shift &#8212; from stability to instability, i.e. collapse.</div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">Interestingly, the book <a href="//ttrott.blogspot.com/2013/01/why-stock-markets-crash-didier-sornette.html" target="_blank" rel="noopener"><i>Why Stock Markets Crash</i></a>, by <a href="http://www.er.ethz.ch/about-us/people/sornette.html" target="_blank" rel="noopener">Didier Sornette</a>, mentions the same phase transition, or critical point as he refers to it, occurring due to an increasing rate of population growth and dependence upon technology. The rate of population growth implies the occurrence of a finite time singularity. Upon reaching this critical point, a change from one regime into another will occur. What this change will be is unknown.</div>
 <div style="text-align: justify;"></div>
@@ -434,8 +436,8 @@
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">Water Cavitation, as mentioned in the link above, provides a reliable mechanism for removing chemicals and organisms from water. A perfect source of clean, fresh water for the world. However, there still exists the problem of water availability. Perhaps there are good ideas for this, I am not sure.</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/natural-resource-depletion-solution-algae-oil-and-water-cavitation/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/natural-resource-depletion-solution-algae-oil-and-water-cavitation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

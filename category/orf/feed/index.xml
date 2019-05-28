@@ -12,16 +12,18 @@
 	<atom:link href="/category/orf/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:16 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>ORF Universum Documentaries</title>
 		<link>/2014/03/orf-universum-documentaries/</link>
-		<comments>/2014/03/orf-universum-documentaries/#respond</comments>
-		<pubDate>Thu, 13 Mar 2014 22:31:00 +0000</pubDate>
+				<comments>/2014/03/orf-universum-documentaries/#disqus_thread</comments>
+				<pubDate>Thu, 13 Mar 2014 22:31:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[animals]]></category>
 		<category><![CDATA[biology]]></category>
@@ -39,8 +41,8 @@
 		<category><![CDATA[video]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=92</guid>
-		<description><![CDATA[Hulu has about 100 of these episodes. The Limits of Perception trilogy and Nature Technology trilogy are some great choices. The is also a great episode on Lapis Lazuli, Egyptians, and Afghanistan. Amazon Prime pleasantly surprised me with some offerings from ORF Universum: Ancient Amazon (1999) &#160; Limits of Perception (2000)   Baja: The Other [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Hulu has about 100 of these episodes. The Limits of Perception trilogy and Nature Technology trilogy are some great choices. The is also a great episode on Lapis Lazuli, Egyptians, and Afghanistan. Amazon Prime pleasantly surprised me with some offerings from <a href="//contentsales.orf.at/" target="_blank" rel="noopener">ORF Universum:</a></p>
+				<description><![CDATA[Hulu has about 100 of these episodes. The Limits of Perception trilogy and Nature Technology trilogy are some great choices. The is also a great episode on Lapis Lazuli, Egyptians, and Afghanistan. Amazon Prime pleasantly surprised me with some offerings from ORF Universum: Ancient Amazon (1999) &#160; Limits of Perception (2000)   Baja: The Other [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Hulu has about 100 of these episodes. The Limits of Perception trilogy and Nature Technology trilogy are some great choices. The is also a great episode on Lapis Lazuli, Egyptians, and Afghanistan. Amazon Prime pleasantly surprised me with some offerings from <a href="//contentsales.orf.at/" target="_blank" rel="noopener">ORF Universum:</a></p>
 <div style="text-align: center;"><a href="//amzn.com/B00H8V06XA" target="_blank" rel="noopener">Ancient Amazon (1999)</a></div>
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2014/03/215471.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2014/03/215471.jpg" width="320" height="213" border="0" /></a></div>
 <p>&nbsp;</p>
@@ -82,8 +84,8 @@
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2014/03/arana_01_01.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2014/03/arana_01_01.jpg" width="320" height="213" border="0" /></a></div>
 <div style="clear: both; text-align: center;"></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/03/orf-universum-documentaries/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/03/orf-universum-documentaries/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

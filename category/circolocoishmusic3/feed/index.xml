@@ -12,16 +12,18 @@
 	<atom:link href="/category/circolocoishmusic3/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:51:15 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Kanal von CircolocoishMusic3</title>
 		<link>/2013/03/kanal-von-circolocoishmusic3/</link>
-		<comments>/2013/03/kanal-von-circolocoishmusic3/#respond</comments>
-		<pubDate>Sat, 02 Mar 2013 19:07:00 +0000</pubDate>
+				<comments>/2013/03/kanal-von-circolocoishmusic3/#disqus_thread</comments>
+				<pubDate>Sat, 02 Mar 2013 19:07:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[circolocoishmusic3]]></category>
@@ -34,11 +36,11 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=205</guid>
-		<description><![CDATA[Kanal von CircolocoishMusic3, is my new favorite YouTube channel. It&#8217;s incredible how many good songs have been uploaded. Categories: house, minimal, electronic, trance, dance, remixes.]]></description>
-				<content:encoded><![CDATA[<p><a href="https://www.youtube.com/user/CircolocoishMusic3/featured" target="_blank">Kanal von CircolocoishMusic3</a>, is my new favorite YouTube channel. It&#8217;s incredible how many good songs have been uploaded. Categories: house, minimal, electronic, trance, dance, remixes.</p>
+				<description><![CDATA[Kanal von CircolocoishMusic3, is my new favorite YouTube channel. It&#8217;s incredible how many good songs have been uploaded. Categories: house, minimal, electronic, trance, dance, remixes.]]></description>
+								<content:encoded><![CDATA[<p><a href="https://www.youtube.com/user/CircolocoishMusic3/featured" target="_blank">Kanal von CircolocoishMusic3</a>, is my new favorite YouTube channel. It&#8217;s incredible how many good songs have been uploaded. Categories: house, minimal, electronic, trance, dance, remixes.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/03/kanal-von-circolocoishmusic3/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/03/kanal-von-circolocoishmusic3/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

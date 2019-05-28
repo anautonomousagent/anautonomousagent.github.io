@@ -12,16 +12,18 @@
 	<atom:link href="/category/bloublouxp/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:37 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>YouTube Channel and Playlist &#8211; bloublouxp</title>
 		<link>/2014/02/youtube-channel-and-playlist-bloublouxp/</link>
-		<comments>/2014/02/youtube-channel-and-playlist-bloublouxp/#respond</comments>
-		<pubDate>Sun, 09 Feb 2014 16:32:00 +0000</pubDate>
+				<comments>/2014/02/youtube-channel-and-playlist-bloublouxp/#disqus_thread</comments>
+				<pubDate>Sun, 09 Feb 2014 16:32:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[bloublouxp]]></category>
 		<category><![CDATA[music]]></category>
@@ -30,12 +32,12 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=113</guid>
-		<description><![CDATA[It has been a number of months since I last posted an entry on music. Well, I think the following playlist will definitely be worth the wait. Some of the best songs I have heard in a long time. Thank you bloublouxp for this list. Playlist: Amazing song]]></description>
-				<content:encoded><![CDATA[<p>It has been a number of months since I last posted an entry on music. Well, I think the following playlist will definitely be worth the wait. Some of the best songs I have heard in a long time. Thank you <a href="https://www.youtube.com/user/bloublouxp" target="_blank">bloublouxp</a> for this list.</p>
+				<description><![CDATA[It has been a number of months since I last posted an entry on music. Well, I think the following playlist will definitely be worth the wait. Some of the best songs I have heard in a long time. Thank you bloublouxp for this list. Playlist: Amazing song]]></description>
+								<content:encoded><![CDATA[<p>It has been a number of months since I last posted an entry on music. Well, I think the following playlist will definitely be worth the wait. Some of the best songs I have heard in a long time. Thank you <a href="https://www.youtube.com/user/bloublouxp" target="_blank">bloublouxp</a> for this list.</p>
 <p>Playlist: <a href="//www.youtube.com/playlist?list=PLLRH1kxJpCZLugso6Dynpjv1Ef0LAzTtv" target="_blank">Amazing song</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/02/youtube-channel-and-playlist-bloublouxp/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/02/youtube-channel-and-playlist-bloublouxp/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

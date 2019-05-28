@@ -12,16 +12,18 @@
 	<atom:link href="/category/robert-risk/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:07 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Great War for Civilisation &#8211; Robert Fisk</title>
 		<link>/2017/05/the-great-war-for-civilisation-robert-fisk/</link>
-		<comments>/2017/05/the-great-war-for-civilisation-robert-fisk/#respond</comments>
-		<pubDate>Sun, 21 May 2017 02:48:14 +0000</pubDate>
+				<comments>/2017/05/the-great-war-for-civilisation-robert-fisk/#disqus_thread</comments>
+				<pubDate>Sun, 21 May 2017 02:48:14 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[book]]></category>
 		<category><![CDATA[history]]></category>
@@ -30,11 +32,11 @@
 		<category><![CDATA[war]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1752</guid>
-		<description><![CDATA[The Great War for Civilisation by Robert Fisk provides a comprehensive account of events in the Middle East in the 2nd half of the 20th century. The book, despite being 1000+ pages, is easily readable thanks to Fisk&#8217;s incredible stories of adventure, harrowing near death experiences, and interviews with interesting people. Fisk interviewed and reported [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://a.co/9GP5MuW" target="_blank" rel="noopener noreferrer">The Great War for Civilisation</a> by Robert Fisk provides a comprehensive account of events in the Middle East in the 2nd half of the 20th century. The book, despite being 1000+ pages, is easily readable thanks to Fisk&#8217;s incredible stories of adventure, harrowing near death experiences, and interviews with interesting people. Fisk interviewed and reported on some of the areas most notorious figures such as Osama Bin Laden, Saddam Hussein, Ayatollah Khomeini, among others. This is <em>the</em> book to read to have a proper introduction and realistic, albeit with a Western perspective, understanding of historical events in the Middle East.</p>
+				<description><![CDATA[The Great War for Civilisation by Robert Fisk provides a comprehensive account of events in the Middle East in the 2nd half of the 20th century. The book, despite being 1000+ pages, is easily readable thanks to Fisk&#8217;s incredible stories of adventure, harrowing near death experiences, and interviews with interesting people. Fisk interviewed and reported [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a href="http://a.co/9GP5MuW" target="_blank" rel="noopener noreferrer">The Great War for Civilisation</a> by Robert Fisk provides a comprehensive account of events in the Middle East in the 2nd half of the 20th century. The book, despite being 1000+ pages, is easily readable thanks to Fisk&#8217;s incredible stories of adventure, harrowing near death experiences, and interviews with interesting people. Fisk interviewed and reported on some of the areas most notorious figures such as Osama Bin Laden, Saddam Hussein, Ayatollah Khomeini, among others. This is <em>the</em> book to read to have a proper introduction and realistic, albeit with a Western perspective, understanding of historical events in the Middle East.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2017/05/the-great-war-for-civilisation-robert-fisk/feed/</wfw:commentRss>
+							<wfw:commentRss>/2017/05/the-great-war-for-civilisation-robert-fisk/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

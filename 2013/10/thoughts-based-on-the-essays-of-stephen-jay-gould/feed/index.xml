@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Thoughts Based on the Essays of Stephen Jay Gould</title>
+	<title>
+	Comments on: Thoughts Based on the Essays of Stephen Jay Gould	</title>
 	<atom:link href="/2013/10/thoughts-based-on-the-essays-of-stephen-jay-gould/feed/" rel="self" type="application/rss+xml" />
 	<link>/2013/10/thoughts-based-on-the-essays-of-stephen-jay-gould/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:54:23 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 </channel>
 </rss>

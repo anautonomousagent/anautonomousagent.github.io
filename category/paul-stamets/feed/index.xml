@@ -12,16 +12,18 @@
 	<atom:link href="/category/paul-stamets/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:12 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Mycelium Running: How Mushrooms Can Help Save the World &#8211; Paul Stamets</title>
 		<link>/2016/11/mycelium-running-how-mushrooms-can-help-save-the-world-paul-stamets/</link>
-		<comments>/2016/11/mycelium-running-how-mushrooms-can-help-save-the-world-paul-stamets/#respond</comments>
-		<pubDate>Wed, 09 Nov 2016 17:56:28 +0000</pubDate>
+				<comments>/2016/11/mycelium-running-how-mushrooms-can-help-save-the-world-paul-stamets/#disqus_thread</comments>
+				<pubDate>Wed, 09 Nov 2016 17:56:28 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[andrew weil]]></category>
 		<category><![CDATA[book]]></category>
@@ -34,18 +36,18 @@
 		<category><![CDATA[terence mckenna]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1621</guid>
-		<description><![CDATA[Know nothing about mushrooms, fungi, or mycelia? &#8212; Paul Stamet&#8217;s Mycelium Running opens a door to an exotic universe beneath your feet. Fungi and their interaction with ecosystems upturn all of what you thought you knew about the button mushrooms on your salad or pizza. Fungi, simply and truely, are incredibly important and amazing organisms. [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Know nothing about mushrooms, fungi, or mycelia? &#8212; Paul Stamet&#8217;s <a href="https://amzn.com/1580085792" target="_blank">Mycelium Running</a> opens a door to an exotic universe beneath your feet. Fungi and their interaction with ecosystems upturn all of what you thought you knew about the button mushrooms on your salad or pizza. Fungi, simply and truely, are incredibly important and amazing organisms. And as Stamets proves, they are a powerful tool to maintain the world for all of our descendants &#8212; not to mention their ability to provide a healthy and functioning human immune system.</p>
+				<description><![CDATA[Know nothing about mushrooms, fungi, or mycelia? &#8212; Paul Stamet&#8217;s Mycelium Running opens a door to an exotic universe beneath your feet. Fungi and their interaction with ecosystems upturn all of what you thought you knew about the button mushrooms on your salad or pizza. Fungi, simply and truely, are incredibly important and amazing organisms. [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Know nothing about mushrooms, fungi, or mycelia? &#8212; Paul Stamet&#8217;s <a href="https://amzn.com/1580085792" target="_blank">Mycelium Running</a> opens a door to an exotic universe beneath your feet. Fungi and their interaction with ecosystems upturn all of what you thought you knew about the button mushrooms on your salad or pizza. Fungi, simply and truely, are incredibly important and amazing organisms. And as Stamets proves, they are a powerful tool to maintain the world for all of our descendants &#8212; not to mention their ability to provide a healthy and functioning human immune system.</p>
 <p><a href="http://www.fungi.com/" target="_blank">Fungi Perfecti</a> is Stamet&#8217;s family owned company for those interested in supporting mycoremediation, mycoforestry, mycofiltration, or mycopesticides.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/11/mycelium-running-how-mushrooms-can-help-save-the-world-paul-stamets/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/11/mycelium-running-how-mushrooms-can-help-save-the-world-paul-stamets/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Paul Stamets Videos</title>
 		<link>/2016/10/paul-stamets-videos/</link>
-		<comments>/2016/10/paul-stamets-videos/#respond</comments>
-		<pubDate>Tue, 25 Oct 2016 01:42:54 +0000</pubDate>
+				<comments>/2016/10/paul-stamets-videos/#disqus_thread</comments>
+				<pubDate>Tue, 25 Oct 2016 01:42:54 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropocene]]></category>
 		<category><![CDATA[anthropology]]></category>
@@ -59,8 +61,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1610</guid>
-		<description><![CDATA[Paul Stamets speaks about the power and importance of mushrooms: Younger Stamets talking about Psilocybin Mushrooms: Great Lecture about Fungi: Mushrooms as medicine for humans (and bees!):]]></description>
-				<content:encoded><![CDATA[<p>Paul Stamets speaks about the power and importance of mushrooms:</p>
+				<description><![CDATA[Paul Stamets speaks about the power and importance of mushrooms: Younger Stamets talking about Psilocybin Mushrooms: Great Lecture about Fungi: Mushrooms as medicine for humans (and bees!):]]></description>
+								<content:encoded><![CDATA[<p>Paul Stamets speaks about the power and importance of mushrooms:</p>
 <div class="youtube"
      id="T-9zzXuZ2h4"
      style="width: 100%; height: 360px;">
@@ -81,8 +83,8 @@
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/10/paul-stamets-videos/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/10/paul-stamets-videos/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

@@ -12,16 +12,18 @@
 	<atom:link href="/category/ken-olson/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:21 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>A Megatheory of human destiny &#8211; Ken Olson</title>
 		<link>/2014/02/a-megatheory-of-human-destiny-ken-olson/</link>
-		<comments>/2014/02/a-megatheory-of-human-destiny-ken-olson/#respond</comments>
-		<pubDate>Sat, 22 Feb 2014 15:38:00 +0000</pubDate>
+				<comments>/2014/02/a-megatheory-of-human-destiny-ken-olson/#disqus_thread</comments>
+				<pubDate>Sat, 22 Feb 2014 15:38:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropocene]]></category>
 		<category><![CDATA[anthropology]]></category>
@@ -40,8 +42,8 @@
 		<category><![CDATA[steven pinker]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=103</guid>
-		<description><![CDATA[Thanks to Ken Olson for allowing me to post his article on my blog. Be sure to visit his site, A Theory of Everything (social). The following was written by Ken Olson on November 5, 2013. A Megatheory of human destiny In a previous article I described how history flows in a positive direction over [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Thanks to Ken Olson for allowing me to post his article on my blog. Be sure to visit his site, A Theory of Everything (social). The following was written by Ken Olson on November 5, 2013.</p>
+				<description><![CDATA[Thanks to Ken Olson for allowing me to post his article on my blog. Be sure to visit his site, A Theory of Everything (social). The following was written by Ken Olson on November 5, 2013. A Megatheory of human destiny In a previous article I described how history flows in a positive direction over [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Thanks to Ken Olson for allowing me to post his article on my blog. Be sure to visit his site, A Theory of Everything (social). The following was written by Ken Olson on November 5, 2013.</p>
 <p>A Megatheory of human destiny</p>
 <p>In a previous article I described how history flows in a positive direction over the long term, albeit with periodic and sometimes dramatic setbacks. This sequence of alternating advances (progression) and setbacks (regression) has a specific form of three steps forward and two steps backward, called the Wave Principle.</p>
 <p>What propels this pattern of progress? What are the underlying forces that move history inexorably forward toward an ever more progressive future? An answer to these questions would identify no less than the dynamics of human destiny.</p>
@@ -151,8 +153,8 @@ What do these theories share in common? They each reveal dynamics of human behav
 <p>Biologist Martin Nowak notes the inevitable oscillations between periods of cooperation and selfish defection: &#8220;Evolutionary simulations indicate that cooperation is intrinsically unstable; periods of cooperative prosperity inevitably give way to defective doom. And yet the altruistic spirit always seems to rebuild itself; our moral compasses somehow realign. Cycles of cooperation and defection are visible in the ups and downs of human history, the oscillations of political and financial systems.&#8221;</p>
 <p>Elliott wave theory reveals the pattern of these oscillations and shows that over the long term the advancing waves trump the declining waves. Therefore, the positive dynamics in tables one and two escalate over time relative to the negative dynamics. The result is ever increasing progress in human affairs in the long term, interrupted by periodic decline as the negative dynamics surface. Steven Pinker&#8217;s exhaustive study of declining violence over the course of human history is one example of the relative strength of the positive dynamics over the very long term. Despite all the flaws of human nature and the imperfections of the social systems it has created, we can be optimistic about humankind&#8217;s long-term destiny and ultimate advancement.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/02/a-megatheory-of-human-destiny-ken-olson/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/02/a-megatheory-of-human-destiny-ken-olson/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

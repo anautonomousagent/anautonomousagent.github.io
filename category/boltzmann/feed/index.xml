@@ -12,16 +12,18 @@
 	<atom:link href="/category/boltzmann/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:02 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Dangerous Knowledge &#8211; David Malone BBC</title>
 		<link>/2014/07/dangerous-knowledge-david-malone-bbc/</link>
-		<comments>/2014/07/dangerous-knowledge-david-malone-bbc/#respond</comments>
-		<pubDate>Wed, 16 Jul 2014 03:04:00 +0000</pubDate>
+				<comments>/2014/07/dangerous-knowledge-david-malone-bbc/#disqus_thread</comments>
+				<pubDate>Wed, 16 Jul 2014 03:04:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[alan turing]]></category>
 		<category><![CDATA[boltzmann]]></category>
@@ -36,12 +38,12 @@
 		<category><![CDATA[video]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=40</guid>
-		<description><![CDATA[Dangerous Knowledge, by David Malone, summarizes the work and life of some of the greatest thinkers in late 19th and 20th centuries. Includes the work and life of Cantor, Boltzmann, Godel, and Turing. Watch it here: Dangerous Knowledge]]></description>
-				<content:encoded><![CDATA[<p>Dangerous Knowledge, by David Malone, summarizes the work and life of some of the greatest thinkers in late 19th and 20th centuries. Includes the work and life of Cantor, Boltzmann, Godel, and Turing.</p>
+				<description><![CDATA[Dangerous Knowledge, by David Malone, summarizes the work and life of some of the greatest thinkers in late 19th and 20th centuries. Includes the work and life of Cantor, Boltzmann, Godel, and Turing. Watch it here: Dangerous Knowledge]]></description>
+								<content:encoded><![CDATA[<p>Dangerous Knowledge, by David Malone, summarizes the work and life of some of the greatest thinkers in late 19th and 20th centuries. Includes the work and life of Cantor, Boltzmann, Godel, and Turing.</p>
 <p>Watch it here: <a href="//topdocumentaryfilms.com/dangerous-knowledge/" target="_blank">Dangerous Knowledge</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/07/dangerous-knowledge-david-malone-bbc/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/07/dangerous-knowledge-david-malone-bbc/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

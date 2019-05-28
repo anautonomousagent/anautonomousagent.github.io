@@ -12,16 +12,18 @@
 	<atom:link href="/category/stewart-brand/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:57 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Big Think Lectures and Interviews</title>
 		<link>/2013/05/big-think-lectures-and-interviews/</link>
-		<comments>/2013/05/big-think-lectures-and-interviews/#respond</comments>
-		<pubDate>Sun, 19 May 2013 00:09:00 +0000</pubDate>
+				<comments>/2013/05/big-think-lectures-and-interviews/#disqus_thread</comments>
+				<pubDate>Sun, 19 May 2013 00:09:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[benoit mandelbrot]]></category>
 		<category><![CDATA[brain]]></category>
@@ -42,15 +44,15 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=165</guid>
-		<description><![CDATA[Steven Pinker talking about how language helps scientists understand cognition.Steven Pinker: Linguistics as a Window to Understand the Brain Nicholas Christakis talks about important revolutions in understanding the social&#160;sciences.Nicholas Christakis: The Sociological Science Behind Social Networks and Social Influence Benoit Mandelbrot interview, talking about fractals.Big Think Interview with Benoit Mandelbrot Richard Dawkins interview, talking about [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Steven Pinker talking about how language helps scientists understand cognition.<br /><a href="//youtu.be/Q-B_ONJIEcE" target="_blank">Steven Pinker: Linguistics as a Window to Understand the Brain</a></p>
+				<description><![CDATA[Steven Pinker talking about how language helps scientists understand cognition.Steven Pinker: Linguistics as a Window to Understand the Brain Nicholas Christakis talks about important revolutions in understanding the social&#160;sciences.Nicholas Christakis: The Sociological Science Behind Social Networks and Social Influence Benoit Mandelbrot interview, talking about fractals.Big Think Interview with Benoit Mandelbrot Richard Dawkins interview, talking about [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Steven Pinker talking about how language helps scientists understand cognition.<br /><a href="//youtu.be/Q-B_ONJIEcE" target="_blank">Steven Pinker: Linguistics as a Window to Understand the Brain</a></p>
 <p>Nicholas Christakis talks about important revolutions in understanding the social&nbsp;sciences.<br /><a href="//youtu.be/wadBvDPeE4E" target="_blank">Nicholas Christakis: The Sociological Science Behind Social Networks and Social Influence</a></p>
 <p>Benoit Mandelbrot interview, talking about fractals.<br /><a href="//youtu.be/Xm-2ouPGrlY" target="_blank">Big Think Interview with Benoit Mandelbrot</a></p>
 <p>Richard Dawkins interview, talking about evolution and other related topics.<br /><a href="//youtu.be/gLgNWp7_cg8" target="_blank">Richard Dawkins &#8211; Evolutionary Biologist &#8211; Big Think &#8211; discussing a multitude of scientific topics</a></p>
 <p>First time I have heard about Stewart Brand; really smart and wise guy.<br /><a href="//youtu.be/iV3PBfmnI4I" target="_blank">Big Think Interview With Stewart Brand</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/05/big-think-lectures-and-interviews/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/05/big-think-lectures-and-interviews/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

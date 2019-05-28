@@ -12,16 +12,18 @@
 	<atom:link href="/category/jew/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:53:07 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Baraka (1992)</title>
 		<link>/2013/01/baraka-1992/</link>
-		<comments>/2013/01/baraka-1992/#respond</comments>
-		<pubDate>Wed, 02 Jan 2013 18:17:00 +0000</pubDate>
+				<comments>/2013/01/baraka-1992/#disqus_thread</comments>
+				<pubDate>Wed, 02 Jan 2013 18:17:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[baraka]]></category>
@@ -42,13 +44,13 @@
 		<category><![CDATA[western]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=355</guid>
-		<description><![CDATA[Great &#8220;movie&#8221; about human life and religion. I say &#8220;movie&#8221; because Baraka&#160;has &#8220;no plot, no dialogue, no actors.&#8221; &#160;It contains numerous religious ceremonies and peoples which I never knew existed. The visuals are stunning and I would suggest watching the&#160;Blu-Ray version. Really surprising that it only earned $1.3 million in the box office. Check out [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/Baraka1.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/Baraka1.jpg" height="320" width="213" /></a>Great &#8220;movie&#8221; about human life and religion. I say &#8220;movie&#8221; because <a href="//en.wikipedia.org/wiki/Baraka_(film)" target="_blank"><i>Baraka</i></a>&nbsp;has &#8220;no plot, no dialogue, no actors.&#8221; &nbsp;It contains numerous religious ceremonies and peoples which I never knew existed. The visuals are stunning and I would suggest watching the&nbsp;Blu-Ray version. Really surprising that it only earned $1.3 million in the box office.</div>
+				<description><![CDATA[Great &#8220;movie&#8221; about human life and religion. I say &#8220;movie&#8221; because Baraka&#160;has &#8220;no plot, no dialogue, no actors.&#8221; &#160;It contains numerous religious ceremonies and peoples which I never knew existed. The visuals are stunning and I would suggest watching the&#160;Blu-Ray version. Really surprising that it only earned $1.3 million in the box office. Check out [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/Baraka1.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/Baraka1.jpg" height="320" width="213" /></a>Great &#8220;movie&#8221; about human life and religion. I say &#8220;movie&#8221; because <a href="//en.wikipedia.org/wiki/Baraka_(film)" target="_blank"><i>Baraka</i></a>&nbsp;has &#8220;no plot, no dialogue, no actors.&#8221; &nbsp;It contains numerous religious ceremonies and peoples which I never knew existed. The visuals are stunning and I would suggest watching the&nbsp;Blu-Ray version. Really surprising that it only earned $1.3 million in the box office.</div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">Check out the trailer <a href="//youtu.be/KIxawleLISM" target="_blank">here</a>. Purchase the Blu-Ray <a href="//amzn.com/B001CDLATE" target="_blank">here</a>.</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/baraka-1992/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/baraka-1992/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

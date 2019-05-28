@@ -12,16 +12,18 @@
 	<atom:link href="/category/cullen-roche/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:53:33 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>MMT- Modern Monetary Theory</title>
 		<link>/2013/01/mmt-modern-monetary-theory/</link>
-		<comments>/2013/01/mmt-modern-monetary-theory/#respond</comments>
-		<pubDate>Tue, 01 Jan 2013 18:46:00 +0000</pubDate>
+				<comments>/2013/01/mmt-modern-monetary-theory/#disqus_thread</comments>
+				<pubDate>Tue, 01 Jan 2013 18:46:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[banks]]></category>
 		<category><![CDATA[cullen roche]]></category>
@@ -34,8 +36,8 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=399</guid>
-		<description><![CDATA[I first learned about MMT or Modern Monetary Theory after reading an article by Cullen Roche. The article contains a link to a detailed description of MMT. The ideas presented in these articles provide a different perspective on capitalism and the economics of federal governments. Found this visual model of MMT from this webpage &#160;]]></description>
-				<content:encoded><![CDATA[<p>I first learned about MMT or Modern Monetary Theory after reading an <a href="//seekingalpha.com/article/317527-the-burden-we-leave-our-grandchildren" target="_blank" rel="noopener">article</a> by <a href="//seekingalpha.com/author/cullen-roche">Cullen Roche</a>. The article contains a <a href="//pragcap.com/understanding-modern-monetary-system" target="_blank" rel="noopener">link</a> to a detailed description of MMT. The ideas presented in these articles provide a different perspective on capitalism and the economics of federal governments.</p>
+				<description><![CDATA[I first learned about MMT or Modern Monetary Theory after reading an article by Cullen Roche. The article contains a link to a detailed description of MMT. The ideas presented in these articles provide a different perspective on capitalism and the economics of federal governments. Found this visual model of MMT from this webpage &#160;]]></description>
+								<content:encoded><![CDATA[<p>I first learned about MMT or Modern Monetary Theory after reading an <a href="//seekingalpha.com/article/317527-the-burden-we-leave-our-grandchildren" target="_blank" rel="noopener">article</a> by <a href="//seekingalpha.com/author/cullen-roche">Cullen Roche</a>. The article contains a <a href="//pragcap.com/understanding-modern-monetary-system" target="_blank" rel="noopener">link</a> to a detailed description of MMT. The ideas presented in these articles provide a different perspective on capitalism and the economics of federal governments.</p>
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
@@ -48,8 +50,8 @@
 </table>
 <p>&nbsp;</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/mmt-modern-monetary-theory/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/mmt-modern-monetary-theory/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

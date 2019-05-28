@@ -12,16 +12,18 @@
 	<atom:link href="/category/robert-melamede/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Dec 2017 03:02:12 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Endocannabinoid System</title>
 		<link>/2017/12/endocannabinoid-system/</link>
-		<comments>/2017/12/endocannabinoid-system/#respond</comments>
-		<pubDate>Sat, 02 Dec 2017 02:07:04 +0000</pubDate>
+				<comments>/2017/12/endocannabinoid-system/#disqus_thread</comments>
+				<pubDate>Sat, 02 Dec 2017 02:07:04 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[brain]]></category>
@@ -33,8 +35,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">/?p=2493</guid>
-		<description><![CDATA[Posted here are three great lectures on cannabinoids and the Endocannabinoid System in the human body. The first lecture, by Dr. Robert Melamede is my favorite. Melamede frequently references Ilya Prigogine&#8217;s work and provides an understanding of the Endocannabinoid system based on a &#8220;far from equilibrium&#8221; perspective. For the more physics and math inclined readers, [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Posted here are three great lectures on cannabinoids and the Endocannabinoid System in the human body. The first lecture, by Dr. Robert Melamede is my favorite. Melamede frequently references Ilya Prigogine&#8217;s work and provides an understanding of the Endocannabinoid system based on a &#8220;far from equilibrium&#8221; perspective. For the more physics and math inclined readers, this is a wonderful connection.</p>
+				<description><![CDATA[Posted here are three great lectures on cannabinoids and the Endocannabinoid System in the human body. The first lecture, by Dr. Robert Melamede is my favorite. Melamede frequently references Ilya Prigogine&#8217;s work and provides an understanding of the Endocannabinoid system based on a &#8220;far from equilibrium&#8221; perspective. For the more physics and math inclined readers, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Posted here are three great lectures on cannabinoids and the Endocannabinoid System in the human body. The first lecture, by Dr. Robert Melamede is my favorite. Melamede frequently references Ilya Prigogine&#8217;s work and provides an understanding of the Endocannabinoid system based on a &#8220;far from equilibrium&#8221; perspective. For the more physics and math inclined readers, this is a wonderful connection.</p>
 <p><strong>Dr. Robert Melamede &#8211; Endocannabinoid System</strong></p>
 <div id="iQprh5scuYY" class="youtube" style="width: 100%; height: 360px;"></div>
 <p>&nbsp;<br />
@@ -64,8 +66,8 @@
 <li>At 1 hour and 2 min in the lecture, entire list of cancers which exhibit cannabinoid sensitivity and in many cases the tumor goes away with cannabinoid treatment</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>/2017/12/endocannabinoid-system/feed/</wfw:commentRss>
+							<wfw:commentRss>/2017/12/endocannabinoid-system/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

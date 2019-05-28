@@ -12,16 +12,18 @@
 	<atom:link href="/category/marvin-herndon/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:45 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Theories of J. Marvin Herdon</title>
 		<link>/2015/06/the-theories-of-j-marvin-herdon/</link>
-		<comments>/2015/06/the-theories-of-j-marvin-herdon/#respond</comments>
-		<pubDate>Thu, 18 Jun 2015 12:49:33 +0000</pubDate>
+				<comments>/2015/06/the-theories-of-j-marvin-herdon/#disqus_thread</comments>
+				<pubDate>Thu, 18 Jun 2015 12:49:33 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[astronomy]]></category>
 		<category><![CDATA[book]]></category>
@@ -32,8 +34,8 @@
 		<category><![CDATA[science]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1134</guid>
-		<description><![CDATA[I was curious to learn about the Whole-Earth Decompression Dynamics (WEDD) theory developed by J. Marvin Herndon after I discovered that Lynn Margulis had edited and recommended his work several years ago.  After purchasing Herndon&#8217;s Earth and the Dark Side of Science and reading the foreword by Dorion Sagan, whom I respect as an excellent [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I was curious to learn about the Whole-Earth Decompression Dynamics (WEDD) theory developed by J. Marvin Herndon after I discovered that Lynn Margulis had edited and recommended his work several years ago.  After purchasing <a href="http://amzn.com/1503041271" target="_blank" rel="noopener noreferrer">Herndon&#8217;s Earth and the Dark Side of Science</a> and reading the foreword by Dorion Sagan, whom I respect as an excellent science writer, I began to see Herndon as a scientist who is attempting to shake the foundations of more than three distinct subject areas &#8211; Geoscience, Planetary Sciences, and Nuclear Science. Whether or not you personally think his WEDD theory is right or wrong is irrelevant to the truth. If someone thinks his theory is incorrect, then they can refute the theory with substantive evidence by publishing a paper which details the inconsistencies in logic or facts. But remember, as Feyerabend and Kuhn note repeatedly, facts are always theory laden.</p>
+				<description><![CDATA[I was curious to learn about the Whole-Earth Decompression Dynamics (WEDD) theory developed by J. Marvin Herndon after I discovered that Lynn Margulis had edited and recommended his work several years ago.  After purchasing Herndon&#8217;s Earth and the Dark Side of Science and reading the foreword by Dorion Sagan, whom I respect as an excellent [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I was curious to learn about the Whole-Earth Decompression Dynamics (WEDD) theory developed by J. Marvin Herndon after I discovered that Lynn Margulis had edited and recommended his work several years ago.  After purchasing <a href="http://amzn.com/1503041271" target="_blank" rel="noopener noreferrer">Herndon&#8217;s Earth and the Dark Side of Science</a> and reading the foreword by Dorion Sagan, whom I respect as an excellent science writer, I began to see Herndon as a scientist who is attempting to shake the foundations of more than three distinct subject areas &#8211; Geoscience, Planetary Sciences, and Nuclear Science. Whether or not you personally think his WEDD theory is right or wrong is irrelevant to the truth. If someone thinks his theory is incorrect, then they can refute the theory with substantive evidence by publishing a paper which details the inconsistencies in logic or facts. But remember, as Feyerabend and Kuhn note repeatedly, facts are always theory laden.</p>
 <p>Science is not a religion; scientists are not priests who defend a fixed doctrine. Scientists who simply ridicule or resort to name calling are doing a disservice to science in a time when science is being attacked on many fronts &#8211; by religions, governments, and corporations. Scientists who forsake truth for tenure, personal prestige or their own beliefs are just as dangerous to science as any external threat. And this does not exclude Herndon himself.</p>
 <p>As a reader of science subjects, I find the ideas of Herndon to be a fresh and fascinating departure from the status-quo. This is what science is all about, proposing preposterous ideas and then proving them right or wrong. His theory is nothing short of a revolution in the subjects previously mentioned. Even if it turns out to be false, they still provide food for thought and may even perhaps result in a more developed and better understanding of the true nature of natural phenomenon.</p>
 <p>In light of all the exoplanet discoveries of the Kepler Space Telescope there is even more reason to seriously consider investigating the theories presented by Herdon. Of the thousands of exoplanets discovered thus far, there is a large fraction of Jupiter type planets which lie within the orbit of Earth. In fact there are so many such exoplanets that the question should not be: &#8220;Why are there so many Jupiter type planets in such close proximity to their host star?&#8221; but should rather be: &#8220;Why does our Solar System <em>not</em> contain Jupiter type planets within Earth&#8217;s orbit?&#8221;</p>
@@ -43,8 +45,8 @@
 <p>For a list of his papers &#8211; <a href="http://arxiv.org/find/physics/1/au:+Herndon_J/0/1/0/all/0/1" target="_blank" rel="noopener noreferrer">J. Marvin Herdon on arXiv.org</a>.</p>
 <p><iframe width="629" height="354" src="https://www.youtube.com/embed/SdQWipgf4B4?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/06/the-theories-of-j-marvin-herdon/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/06/the-theories-of-j-marvin-herdon/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

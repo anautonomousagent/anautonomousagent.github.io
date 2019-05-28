@@ -12,16 +12,18 @@
 	<atom:link href="/category/v-sag/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:52:38 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>V-Sag</title>
 		<link>/2013/01/v-sag/</link>
-		<comments>/2013/01/v-sag/#respond</comments>
-		<pubDate>Wed, 09 Jan 2013 05:24:00 +0000</pubDate>
+				<comments>/2013/01/v-sag/#disqus_thread</comments>
+				<pubDate>Wed, 09 Jan 2013 05:24:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[house]]></category>
@@ -32,11 +34,11 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=301</guid>
-		<description><![CDATA[V-Sag, a Greek electronic music producer, creates a lot of incredible music. The first song by V-Sag that I heard was Time Is Up, off El~&#8217;s playlist Listen Again.  His album Out of My Way was released under the label, The Sound of Everything Records.]]></description>
-				<content:encoded><![CDATA[<p><a href="https://soundcloud.com/v-sag" target="_blank" rel="noopener">V-Sag</a>, a Greek electronic music producer, creates a lot of incredible music. The first song by V-Sag that I heard was <a href="//www.youtube.com/watch?v=-Vw9MHD7QGI&amp;feature=share&amp;list=PL0DA8B2E7DA7802D3" target="_blank" rel="noopener">Time Is Up</a>, off <a href="//ttrott.blogspot.com/2012/12/youtube-channel-el.html" target="_blank" rel="noopener">El~&#8217;s</a> playlist <a href="//www.youtube.com/playlist?list=PL0DA8B2E7DA7802D3" target="_blank" rel="noopener">Listen Again</a>.  His album <a href="//www.beatport.com/release/out-of-my-way/931839" target="_blank" rel="noopener">Out of My Way</a> was released under the label, <a href="//www.youtube.com/user/soundofeverything" target="_blank" rel="noopener">The Sound of Everything Records.</a></p>
+				<description><![CDATA[V-Sag, a Greek electronic music producer, creates a lot of incredible music. The first song by V-Sag that I heard was Time Is Up, off El~&#8217;s playlist Listen Again.  His album Out of My Way was released under the label, The Sound of Everything Records.]]></description>
+								<content:encoded><![CDATA[<p><a href="https://soundcloud.com/v-sag" target="_blank" rel="noopener">V-Sag</a>, a Greek electronic music producer, creates a lot of incredible music. The first song by V-Sag that I heard was <a href="//www.youtube.com/watch?v=-Vw9MHD7QGI&amp;feature=share&amp;list=PL0DA8B2E7DA7802D3" target="_blank" rel="noopener">Time Is Up</a>, off <a href="//ttrott.blogspot.com/2012/12/youtube-channel-el.html" target="_blank" rel="noopener">El~&#8217;s</a> playlist <a href="//www.youtube.com/playlist?list=PL0DA8B2E7DA7802D3" target="_blank" rel="noopener">Listen Again</a>.  His album <a href="//www.beatport.com/release/out-of-my-way/931839" target="_blank" rel="noopener">Out of My Way</a> was released under the label, <a href="//www.youtube.com/user/soundofeverything" target="_blank" rel="noopener">The Sound of Everything Records.</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/v-sag/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/v-sag/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

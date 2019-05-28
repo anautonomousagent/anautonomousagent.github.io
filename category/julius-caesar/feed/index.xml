@@ -12,16 +12,18 @@
 	<atom:link href="/category/julius-caesar/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:52:37 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Julius Caesar &#8211; Philip Freeman</title>
 		<link>/2013/01/julius-caesar-philip-freeman/</link>
-		<comments>/2013/01/julius-caesar-philip-freeman/#respond</comments>
-		<pubDate>Sat, 12 Jan 2013 17:56:00 +0000</pubDate>
+				<comments>/2013/01/julius-caesar-philip-freeman/#disqus_thread</comments>
+				<pubDate>Sat, 12 Jan 2013 17:56:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[ancient]]></category>
 		<category><![CDATA[book]]></category>
@@ -30,11 +32,11 @@
 		<category><![CDATA[western]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=296</guid>
-		<description><![CDATA[Julius Caesar, by Philip Freeman, details the life of one of the most influential people in history. Not only does the biography contain a detailed account of Caesar, but also provides a remarkable look at the culture and politics of ancient Rome. Freeman&#8217;s book is a must read for any reader interested in Caesar and ancient Rome.]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;"><i><a href="//amzn.com/0743289544" target="_blank">Julius Caesar</a></i>, by Philip Freeman, details the life of one of the most influential people in history. Not only does the biography contain a detailed account of Caesar, but also provides a remarkable look at the culture and politics of ancient Rome. Freeman&#8217;s book is a must read for any reader interested in Caesar and ancient Rome.</div>
+				<description><![CDATA[Julius Caesar, by Philip Freeman, details the life of one of the most influential people in history. Not only does the biography contain a detailed account of Caesar, but also provides a remarkable look at the culture and politics of ancient Rome. Freeman&#8217;s book is a must read for any reader interested in Caesar and ancient Rome.]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;"><i><a href="//amzn.com/0743289544" target="_blank">Julius Caesar</a></i>, by Philip Freeman, details the life of one of the most influential people in history. Not only does the biography contain a detailed account of Caesar, but also provides a remarkable look at the culture and politics of ancient Rome. Freeman&#8217;s book is a must read for any reader interested in Caesar and ancient Rome.</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/julius-caesar-philip-freeman/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/julius-caesar-philip-freeman/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

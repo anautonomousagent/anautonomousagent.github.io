@@ -12,16 +12,18 @@
 	<atom:link href="/category/landscape/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:55:24 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Origins of Order &#8211; Stuart Kauffman</title>
 		<link>/2012/12/origins-of-order-stuart-kauffman/</link>
-		<comments>/2012/12/origins-of-order-stuart-kauffman/#respond</comments>
-		<pubDate>Mon, 31 Dec 2012 06:41:00 +0000</pubDate>
+				<comments>/2012/12/origins-of-order-stuart-kauffman/#disqus_thread</comments>
+				<pubDate>Mon, 31 Dec 2012 06:41:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[animals]]></category>
 		<category><![CDATA[biology]]></category>
@@ -42,21 +44,21 @@
 		<category><![CDATA[stuart Kauffman]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=400</guid>
-		<description><![CDATA[Origins of Order, by Stuart Kauffman, provides a new look at evolution through natural selection. Instead of holding that the main creator of order is genetic drift with Natural Selection, Kauffman explores the idea that order can spontaneously form under various&#160;conditions&#160;in the natural world. Kauffman also&#160;emphasizes&#160;the importance of&#160;co-evolution&#160;among organisms in creating complex&#160;evolutionary&#160;systems. All of these [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2012/12/originsoforder.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2012/12/originsoforder.jpg" height="320" width="215" /></a></div>
+				<description><![CDATA[Origins of Order, by Stuart Kauffman, provides a new look at evolution through natural selection. Instead of holding that the main creator of order is genetic drift with Natural Selection, Kauffman explores the idea that order can spontaneously form under various&#160;conditions&#160;in the natural world. Kauffman also&#160;emphasizes&#160;the importance of&#160;co-evolution&#160;among organisms in creating complex&#160;evolutionary&#160;systems. All of these [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2012/12/originsoforder.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2012/12/originsoforder.jpg" height="320" width="215" /></a></div>
 <p><a href="//anautonomousagent.com/wp-content/uploads/2012/12/1745-6150-2-24-9-l.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2012/12/1745-6150-2-24-9-l.jpg" height="262" width="320" /></a></p>
 <div style="text-align: justify;"><i><a href="//amzn.com/0195079515" target="_blank">Origins of Order</a></i>, by <a href="//en.wikipedia.org/wiki/Stuart_Kauffman" target="_blank">Stuart Kauffman</a>, provides a new look at evolution through natural selection. Instead of holding that the main creator of order is genetic drift with Natural Selection, Kauffman explores the idea that order can spontaneously form under various&nbsp;conditions&nbsp;in the natural world. Kauffman also&nbsp;emphasizes&nbsp;the importance of&nbsp;<a href="//en.wikipedia.org/wiki/Coevolution" target="_blank">co-evolution</a>&nbsp;among organisms in creating complex&nbsp;evolutionary&nbsp;systems. All of these ideas are explored through the mathematical tool of <a href="//en.wikipedia.org/wiki/Fitness_landscape" target="_blank">fitness landscapes</a>.</div>
 <p></p>
 <div style="text-align: justify;">The book, although long and dense, provides deep insights into the nature of life and evolution. The concepts &nbsp;presented involve&nbsp;mathematics, computer science, chemistry, and biology. I would recommend this book if the reader likes these topics and has enough time (or is fast reader). (ISBN-13: 978-0195079517)</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2012/12/origins-of-order-stuart-kauffman/feed/</wfw:commentRss>
+							<wfw:commentRss>/2012/12/origins-of-order-stuart-kauffman/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Stuck In Customs &#8211; HDR Photography &#8211; Trey Ratcliff</title>
 		<link>/2012/12/stuck-in-customs-hdr-photography-trey-ratcliff/</link>
-		<comments>/2012/12/stuck-in-customs-hdr-photography-trey-ratcliff/#respond</comments>
-		<pubDate>Sun, 30 Dec 2012 18:26:00 +0000</pubDate>
+				<comments>/2012/12/stuck-in-customs-hdr-photography-trey-ratcliff/#disqus_thread</comments>
+				<pubDate>Sun, 30 Dec 2012 18:26:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[animals]]></category>
 		<category><![CDATA[art]]></category>
@@ -69,8 +71,8 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=417</guid>
-		<description><![CDATA[I ran across this website,&#160;Stuck In Customs,&#160;a few years ago. The website&#8217;s creator, Trey Ratcliff posts HDR photographs of many different places around the world. His pictures are stunning and he allows anyone to download the hi-res versions of his photographs. Check it out!]]></description>
-				<content:encoded><![CDATA[<p>I ran across this website,&nbsp;<a href="//www.stuckincustoms.com/" target="_blank">Stuck In Customs</a>,&nbsp;a few years ago. The website&#8217;s creator, Trey Ratcliff posts HDR photographs of many different places around the world. His pictures are stunning and he allows anyone to download the hi-res versions of his photographs. Check it out!</p>
+				<description><![CDATA[I ran across this website,&#160;Stuck In Customs,&#160;a few years ago. The website&#8217;s creator, Trey Ratcliff posts HDR photographs of many different places around the world. His pictures are stunning and he allows anyone to download the hi-res versions of his photographs. Check it out!]]></description>
+								<content:encoded><![CDATA[<p>I ran across this website,&nbsp;<a href="//www.stuckincustoms.com/" target="_blank">Stuck In Customs</a>,&nbsp;a few years ago. The website&#8217;s creator, Trey Ratcliff posts HDR photographs of many different places around the world. His pictures are stunning and he allows anyone to download the hi-res versions of his photographs. Check it out!</p>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2012/12/Paris-Forever-Trey-Ratcliff-L.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="173" src="//anautonomousagent.com/wp-content/uploads/2012/12/Paris-Forever-Trey-Ratcliff-L.jpg" width="320" /></a></div>
 <div style="clear: both; text-align: center;"></div>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2012/12/Trey-20Ratcliff-20-20Hawaii-20-20Path-20Through-20the-20Bamboo-20Forest-L.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="214" src="//anautonomousagent.com/wp-content/uploads/2012/12/Trey-20Ratcliff-20-20Hawaii-20-20Path-20Through-20the-20Bamboo-20Forest-L.jpg" width="320" /></a></div>
@@ -79,8 +81,8 @@
 <div style="clear: both; text-align: center;"></div>
 <p></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2012/12/stuck-in-customs-hdr-photography-trey-ratcliff/feed/</wfw:commentRss>
+							<wfw:commentRss>/2012/12/stuck-in-customs-hdr-photography-trey-ratcliff/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

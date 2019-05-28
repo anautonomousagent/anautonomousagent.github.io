@@ -12,16 +12,18 @@
 	<atom:link href="/category/p53/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:49:03 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>p53: The Gene that Cracked the Cancer Code &#8211; Sue Armstrong</title>
 		<link>/2015/02/p53-the-gene-that-cracked-the-cancer-code-sue-armstrong/</link>
-		<comments>/2015/02/p53-the-gene-that-cracked-the-cancer-code-sue-armstrong/#respond</comments>
-		<pubDate>Sat, 07 Feb 2015 04:07:40 +0000</pubDate>
+				<comments>/2015/02/p53-the-gene-that-cracked-the-cancer-code-sue-armstrong/#disqus_thread</comments>
+				<pubDate>Sat, 07 Feb 2015 04:07:40 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
 		<category><![CDATA[genome]]></category>
@@ -29,12 +31,12 @@
 		<category><![CDATA[sue armstrong]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=982</guid>
-		<description><![CDATA[Sue Armstrong&#8217;s new book, p53: The Gene that Cracked the Cancer Code, is a fascinating summary of the many people and discoveries which led to our modern knowledge about p53. The book goes into detail about the conceptual struggles and breakthroughs which occurred over a period of several decades. The path to our current understanding [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Sue Armstrong&#8217;s new book, <a href="//amzn.com/1472910516">p53: The Gene that Cracked the Cancer Code</a>, is a fascinating summary of the many people and discoveries which led to our modern knowledge about p53. The book goes into detail about the conceptual struggles and breakthroughs which occurred over a period of several decades. The path to our current understanding was not linear and still continues to be a challenge. The best part about these accounts is the spirit and language with which Armstrong writes. She transforms a subject heavy with biological jargon into a great tale accessible to anyone with a general understanding of biology and genetics.</p>
+				<description><![CDATA[Sue Armstrong&#8217;s new book, p53: The Gene that Cracked the Cancer Code, is a fascinating summary of the many people and discoveries which led to our modern knowledge about p53. The book goes into detail about the conceptual struggles and breakthroughs which occurred over a period of several decades. The path to our current understanding [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Sue Armstrong&#8217;s new book, <a href="//amzn.com/1472910516">p53: The Gene that Cracked the Cancer Code</a>, is a fascinating summary of the many people and discoveries which led to our modern knowledge about p53. The book goes into detail about the conceptual struggles and breakthroughs which occurred over a period of several decades. The path to our current understanding was not linear and still continues to be a challenge. The best part about these accounts is the spirit and language with which Armstrong writes. She transforms a subject heavy with biological jargon into a great tale accessible to anyone with a general understanding of biology and genetics.</p>
 <p>The book mentions several possible paths for the future of cancer therapy. I think the most interesting are those of prevention and finding a molecular band-aide. The efforts at cancer prevention should really be encouraged and insurance companies should start requiring yearly screenings. If we can achieve rates of discovery around 50-75%, that is solving half the problem. A molecular approach to stabilizing the p53 mutant sounds, to me, like an optimal solution. For an example, see <a href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3695503/">this paper</a>. The discovery of molecules which could safely enter the body and stabilize the mutant p53 &#8212; making it behave normally &#8212; would be a discovery of a lifetime.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/02/p53-the-gene-that-cracked-the-cancer-code-sue-armstrong/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/02/p53-the-gene-that-cracked-the-cancer-code-sue-armstrong/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

@@ -12,16 +12,18 @@
 	<atom:link href="/category/edward-said/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:16 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Myth of the &#8220;Clash of Civilizations&#8221; &#8211; Edward Said</title>
 		<link>/2016/07/the-myth-of-the-clash-of-civilizations-edward-said/</link>
-		<comments>/2016/07/the-myth-of-the-clash-of-civilizations-edward-said/#respond</comments>
-		<pubDate>Sun, 17 Jul 2016 15:26:13 +0000</pubDate>
+				<comments>/2016/07/the-myth-of-the-clash-of-civilizations-edward-said/#disqus_thread</comments>
+				<pubDate>Sun, 17 Jul 2016 15:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[civilization]]></category>
 		<category><![CDATA[edward said]]></category>
@@ -31,16 +33,16 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1584</guid>
-		<description><![CDATA[But the work of Man is only just beginning, and it remains to conquer all the violence entrenched in the recesses of our passion&#8230; and no race possesses the monopoly of beauty, of intelligence, of force. And there is a place for all at the rendezvous of victory. &#8212; Aime Cesaire]]></description>
-				<content:encoded><![CDATA[<blockquote><p>But the work of Man is only just beginning, and it remains to conquer all the violence entrenched in the recesses of our passion&#8230; and no race possesses the monopoly of beauty, of intelligence, of force. And there is a place for all at the rendezvous of victory.</p>
+				<description><![CDATA[But the work of Man is only just beginning, and it remains to conquer all the violence entrenched in the recesses of our passion&#8230; and no race possesses the monopoly of beauty, of intelligence, of force. And there is a place for all at the rendezvous of victory. &#8212; Aime Cesaire]]></description>
+								<content:encoded><![CDATA[<blockquote><p>But the work of Man is only just beginning, and it remains to conquer all the violence entrenched in the recesses of our passion&#8230; and no race possesses the monopoly of beauty, of intelligence, of force. And there is a place for all at the rendezvous of victory.</p>
 <p>&#8212; Aime Cesaire</p></blockquote>
 <div class="youtube"
      id="aPS-pONiEG8"
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/07/the-myth-of-the-clash-of-civilizations-edward-said/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/07/the-myth-of-the-clash-of-civilizations-edward-said/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

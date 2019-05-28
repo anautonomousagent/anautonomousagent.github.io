@@ -12,16 +12,18 @@
 	<atom:link href="/category/asana/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:53:06 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Light on Yoga &#8211; B.K.S. Iyengar</title>
 		<link>/2013/01/light-on-yoga-b-k-s-iyengar/</link>
-		<comments>/2013/01/light-on-yoga-b-k-s-iyengar/#respond</comments>
-		<pubDate>Wed, 02 Jan 2013 19:15:00 +0000</pubDate>
+				<comments>/2013/01/light-on-yoga-b-k-s-iyengar/#disqus_thread</comments>
+				<pubDate>Wed, 02 Jan 2013 19:15:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[asana]]></category>
@@ -38,14 +40,14 @@
 		<category><![CDATA[yoga]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=354</guid>
-		<description><![CDATA[Great illustrated book on Yoga: Light on Yoga by B. K. S. Iyengar. Every asana contains several pictures and a detailed description. Some of the asanas are literally impossible!]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/0978080521031_500X5001.jpg" style="clear: right; display: inline !important; float: right; margin-bottom: 1em; margin-left: 1em; text-align: center;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/0978080521031_500X5001.jpg" height="320" width="320" /></a>Great illustrated book on Yoga:</div>
+				<description><![CDATA[Great illustrated book on Yoga: Light on Yoga by B. K. S. Iyengar. Every asana contains several pictures and a detailed description. Some of the asanas are literally impossible!]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/0978080521031_500X5001.jpg" style="clear: right; display: inline !important; float: right; margin-bottom: 1em; margin-left: 1em; text-align: center;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/0978080521031_500X5001.jpg" height="320" width="320" /></a>Great illustrated book on Yoga:</div>
 <div style="text-align: justify;"><i><a href="//amzn.com/0805210318" target="_blank">Light on Yoga</a></i> by <a href="//en.wikipedia.org/wiki/B._K._S._Iyengar" target="_blank">B. K. S. Iyengar</a>.</div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">Every <a href="//en.wikipedia.org/wiki/Asana" target="_blank">asana</a> contains several pictures and a detailed description. Some of the asanas are literally impossible!</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/light-on-yoga-b-k-s-iyengar/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/light-on-yoga-b-k-s-iyengar/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

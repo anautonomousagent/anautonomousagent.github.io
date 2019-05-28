@@ -12,16 +12,18 @@
 	<atom:link href="/category/jason-silva/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:51:07 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Jason Silva Videos</title>
 		<link>/2013/03/jason-silva-videos/</link>
-		<comments>/2013/03/jason-silva-videos/#respond</comments>
-		<pubDate>Wed, 27 Mar 2013 14:49:00 +0000</pubDate>
+				<comments>/2013/03/jason-silva-videos/#disqus_thread</comments>
+				<pubDate>Wed, 27 Mar 2013 14:49:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[art]]></category>
 		<category><![CDATA[Bach]]></category>
@@ -41,8 +43,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=181</guid>
-		<description><![CDATA[Jason Silva creates some incredible philosophical videos. He is noted for reiterating Timothy Leary&#8217;s description of the computer and internet as the LSD of the 90&#8217;s. And his short clips are intended to be such a psychedelic experience. Really great; as most of them are based on many of the books and ideas posted in this blog. Be sure [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/03/jason_silva1.png"><img src="//anautonomousagent.com/wp-content/uploads/2013/03/jason_silva1.png" width="400" height="266" border="0" /></a></div>
+				<description><![CDATA[Jason Silva creates some incredible philosophical videos. He is noted for reiterating Timothy Leary&#8217;s description of the computer and internet as the LSD of the 90&#8217;s. And his short clips are intended to be such a psychedelic experience. Really great; as most of them are based on many of the books and ideas posted in this blog. Be sure [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/03/jason_silva1.png"><img src="//anautonomousagent.com/wp-content/uploads/2013/03/jason_silva1.png" width="400" height="266" border="0" /></a></div>
 <p><a href="//en.wikipedia.org/wiki/Jason_Silva" target="_blank" rel="noopener">Jason Silva</a> creates some incredible philosophical videos. He is noted for reiterating Timothy Leary&#8217;s description of the computer and internet as the LSD of the 90&#8217;s. And his short clips are intended to be such a psychedelic experience. Really great; as most of them are based on many of the books and ideas posted in this blog. Be sure to watch his videos:</p>
 <p><a href="//vimeo.com/jasonsilva/videos" target="_blank" rel="noopener">Jason Silva on Vimeo</a></p>
 <p><a href="//www.youtube.com/user/jasonsilvamindmeld" target="_blank" rel="noopener">Jason Silva on YouTube</a></p>
@@ -52,8 +54,8 @@
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/03/jason-silva-videos/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/03/jason-silva-videos/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

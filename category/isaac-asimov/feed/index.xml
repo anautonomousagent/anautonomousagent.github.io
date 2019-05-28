@@ -12,16 +12,18 @@
 	<atom:link href="/category/isaac-asimov/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:55:17 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Can a Stock Market Crash be Avoided? Can the Collapse of Society be Avoided?</title>
 		<link>/2013/01/can-a-stock-market-crash-be-avoided-can-the-collapse-of-society-be-avoided/</link>
-		<comments>/2013/01/can-a-stock-market-crash-be-avoided-can-the-collapse-of-society-be-avoided/#respond</comments>
-		<pubDate>Tue, 08 Jan 2013 05:05:00 +0000</pubDate>
+				<comments>/2013/01/can-a-stock-market-crash-be-avoided-can-the-collapse-of-society-be-avoided/#disqus_thread</comments>
+				<pubDate>Tue, 08 Jan 2013 05:05:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[complexity theory]]></category>
 		<category><![CDATA[didier sornette]]></category>
@@ -37,8 +39,8 @@
 		<category><![CDATA[thoughts]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=310</guid>
-		<description><![CDATA[The idea in Why Stock Markets Crash is that there exists a critical point which represents the boundary between two regimes. The entire stock market exists as numerous agents whose decisions are not independent.  These agents are in a state of disorder under &#8220;normal&#8221; trading conditions, thus creating return distributions which are normally distributed. As [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;">The idea in <a href="//ttrott.blogspot.com/2013/01/why-stock-markets-crash-didier-sornette.html" target="_blank" rel="noopener"><i>Why Stock Markets Crash</i></a> is that there exists a critical point which represents the boundary between two regimes. The entire stock market exists as numerous agents whose decisions are not independent.  These agents are in a state of disorder under &#8220;normal&#8221; trading conditions, thus creating return distributions which are normally distributed. As time progresses the market rises and the agents begin to enter a state bordering disorder and order.  While in this state, the market attitudes of the agents can be abstracted to fractal islands just like the <a href="//link.springer.com/article/10.1140%2Fepjb%2Fe2006-00391-6?LI=true" target="_blank" rel="noopener">Ising model</a> when close to criticality; in this state, attitudes are able to percolate through various hierarchies and organizations. I have left out many details, but the general concept is that once the market reaches this state, the probability for a crash becomes large; in other words, a crash is the result of instabilities caused by agents reaching a critical state.</div>
+				<description><![CDATA[The idea in Why Stock Markets Crash is that there exists a critical point which represents the boundary between two regimes. The entire stock market exists as numerous agents whose decisions are not independent.  These agents are in a state of disorder under &#8220;normal&#8221; trading conditions, thus creating return distributions which are normally distributed. As [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;">The idea in <a href="//ttrott.blogspot.com/2013/01/why-stock-markets-crash-didier-sornette.html" target="_blank" rel="noopener"><i>Why Stock Markets Crash</i></a> is that there exists a critical point which represents the boundary between two regimes. The entire stock market exists as numerous agents whose decisions are not independent.  These agents are in a state of disorder under &#8220;normal&#8221; trading conditions, thus creating return distributions which are normally distributed. As time progresses the market rises and the agents begin to enter a state bordering disorder and order.  While in this state, the market attitudes of the agents can be abstracted to fractal islands just like the <a href="//link.springer.com/article/10.1140%2Fepjb%2Fe2006-00391-6?LI=true" target="_blank" rel="noopener">Ising model</a> when close to criticality; in this state, attitudes are able to percolate through various hierarchies and organizations. I have left out many details, but the general concept is that once the market reaches this state, the probability for a crash becomes large; in other words, a crash is the result of instabilities caused by agents reaching a critical state.</div>
 <table style="float: left; margin-left: 0px; margin-right: 0px; text-align: left;" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -72,14 +74,14 @@
 </div>
 <div style="text-align: justify;">It seems that Asimov is once again ahead of his time!</div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/can-a-stock-market-crash-be-avoided-can-the-collapse-of-society-be-avoided/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/can-a-stock-market-crash-be-avoided-can-the-collapse-of-society-be-avoided/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Foundation &#8211; Isaac Asimov</title>
 		<link>/2012/12/foundation-isaac-asimov/</link>
-		<comments>/2012/12/foundation-isaac-asimov/#respond</comments>
-		<pubDate>Mon, 31 Dec 2012 01:20:00 +0000</pubDate>
+				<comments>/2012/12/foundation-isaac-asimov/#disqus_thread</comments>
+				<pubDate>Mon, 31 Dec 2012 01:20:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[astronomy]]></category>
 		<category><![CDATA[book]]></category>
@@ -93,13 +95,13 @@
 		<category><![CDATA[universe]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=408</guid>
-		<description><![CDATA[The&#160;Foundation&#160;novel begins the epic series of novels by Isaac Asimov called The Foundation Series. These novels are a thrilling science-fiction journey through time and space. &#160;Taking place over thousands of years and multiple locations throughout the Milky Way Galaxy, these novels take the reader on a mind bending journey. I recommend this series for any [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2012/12/foundation.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2012/12/foundation.jpg" height="320" width="202" /></a></div>
+				<description><![CDATA[The&#160;Foundation&#160;novel begins the epic series of novels by Isaac Asimov called The Foundation Series. These novels are a thrilling science-fiction journey through time and space. &#160;Taking place over thousands of years and multiple locations throughout the Milky Way Galaxy, these novels take the reader on a mind bending journey. I recommend this series for any [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2012/12/foundation.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2012/12/foundation.jpg" height="320" width="202" /></a></div>
 <p>The&nbsp;<i><a href="//amzn.com/0553382578" target="_blank">Foundation</a>&nbsp;</i>novel begins the epic series of novels by Isaac Asimov called <a href="//en.wikipedia.org/wiki/Foundation_series" target="_blank">The Foundation Series</a>. These novels are a thrilling science-fiction journey through time and space. &nbsp;Taking place over thousands of years and multiple locations throughout the Milky Way Galaxy, these novels take the reader on a mind bending journey. I recommend this series for any fan of science-fiction and I look forward to watching any <a href="//www.cinemablend.com/new/Isaac-Asimov-Foundation-Series-Get-Big-Screen-Treatment-27289.html" target="_blank">movies</a>&nbsp;based on them. (ISBN-13: 978-0553382570)</p>
 <div style="clear: both; text-align: center;"></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2012/12/foundation-isaac-asimov/feed/</wfw:commentRss>
+							<wfw:commentRss>/2012/12/foundation-isaac-asimov/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

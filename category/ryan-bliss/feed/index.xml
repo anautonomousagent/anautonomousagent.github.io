@@ -12,16 +12,18 @@
 	<atom:link href="/category/ryan-bliss/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:58 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Digital Blasphemy</title>
 		<link>/2013/05/digital-blasphemy/</link>
-		<comments>/2013/05/digital-blasphemy/#respond</comments>
-		<pubDate>Sat, 18 May 2013 12:07:00 +0000</pubDate>
+				<comments>/2013/05/digital-blasphemy/#disqus_thread</comments>
+				<pubDate>Sat, 18 May 2013 12:07:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[animals]]></category>
 		<category><![CDATA[art]]></category>
@@ -35,8 +37,8 @@
 		<category><![CDATA[website]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=166</guid>
-		<description><![CDATA[Ran across this website where Ryan Bliss posts stunning digital images. Digital Blasphemy]]></description>
-				<content:encoded><![CDATA[<p>Ran across this website where Ryan Bliss posts stunning digital images.</p>
+				<description><![CDATA[Ran across this website where Ryan Bliss posts stunning digital images. Digital Blasphemy]]></description>
+								<content:encoded><![CDATA[<p>Ran across this website where Ryan Bliss posts stunning digital images.</p>
 <p><a href="http://digitalblasphemy.com/" target="_blank" rel="noopener">Digital Blasphemy</a></p>
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/05/jelly2k131fbt1.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/05/jelly2k131fbt1.jpg" width="400" height="147" border="0" /></a></div>
 <div style="clear: both; text-align: center;"></div>
@@ -44,8 +46,8 @@
 <div style="clear: both; text-align: center;"></div>
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2013/05/arrakeenday1fbt1.jpg"><img src="//anautonomousagent.com/wp-content/uploads/2013/05/arrakeenday1fbt1.jpg" width="400" height="147" border="0" /></a></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/05/digital-blasphemy/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/05/digital-blasphemy/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

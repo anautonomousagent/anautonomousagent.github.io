@@ -12,16 +12,18 @@
 	<atom:link href="/category/light/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:53:30 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Earth at Night</title>
 		<link>/2013/01/earth-at-night/</link>
-		<comments>/2013/01/earth-at-night/#respond</comments>
-		<pubDate>Tue, 01 Jan 2013 21:13:00 +0000</pubDate>
+				<comments>/2013/01/earth-at-night/#disqus_thread</comments>
+				<pubDate>Tue, 01 Jan 2013 21:13:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[civilization]]></category>
 		<category><![CDATA[earth]]></category>
@@ -33,8 +35,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=384</guid>
-		<description><![CDATA[All the light from human activity creates a spectacular view from space. Check out these videos: Earth from Space Video 1 Earth from Space Video 2 Earth from Space Video 3]]></description>
-				<content:encoded><![CDATA[<p>All the light from human activity creates a spectacular view from space. Check out these videos:</p>
+				<description><![CDATA[All the light from human activity creates a spectacular view from space. Check out these videos: Earth from Space Video 1 Earth from Space Video 2 Earth from Space Video 3]]></description>
+								<content:encoded><![CDATA[<p>All the light from human activity creates a spectacular view from space. Check out these videos:</p>
 <div></div>
 <div><a href="//youtu.be/ev9oPUNaqXE" target="_blank">Earth from Space Video 1</a></div>
 <div><a href="//youtu.be/FG0fTKAqZ5g" target="_blank">Earth from Space Video 2</a></div>
@@ -42,14 +44,14 @@
 <div></div>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/earthlights2_dmsp_big.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="200" src="//anautonomousagent.com/wp-content/uploads/2013/01/earthlights2_dmsp_big.jpg" width="400" /></a></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/earth-at-night/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/earth-at-night/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Parallax: The Race to Measure the Cosmos &#8211; Alan Hirshfeld</title>
 		<link>/2013/01/parallax-the-race-to-measure-the-cosmos-alan-hirshfeld/</link>
-		<comments>/2013/01/parallax-the-race-to-measure-the-cosmos-alan-hirshfeld/#respond</comments>
-		<pubDate>Tue, 01 Jan 2013 20:12:00 +0000</pubDate>
+				<comments>/2013/01/parallax-the-race-to-measure-the-cosmos-alan-hirshfeld/#disqus_thread</comments>
+				<pubDate>Tue, 01 Jan 2013 20:12:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[astronomy]]></category>
 		<category><![CDATA[book]]></category>
@@ -65,18 +67,18 @@
 		<category><![CDATA[year]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=392</guid>
-		<description><![CDATA[Ever wonder how humans discovered that stars are actually many light years away? Parallax: The Race to Measure the Cosmos provides a historical account of the scientists who devoted their lives to discovering the true distances to the stars. I really enjoyed reading this book!]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/KGrHqVHJBkE9-JzSZ8kBPVCdRNnLQ-60_35.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/KGrHqVHJBkE9-JzSZ8kBPVCdRNnLQ-60_35.jpg" /></a></div>
+				<description><![CDATA[Ever wonder how humans discovered that stars are actually many light years away? Parallax: The Race to Measure the Cosmos provides a historical account of the scientists who devoted their lives to discovering the true distances to the stars. I really enjoyed reading this book!]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/KGrHqVHJBkE9-JzSZ8kBPVCdRNnLQ-60_35.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/KGrHqVHJBkE9-JzSZ8kBPVCdRNnLQ-60_35.jpg" /></a></div>
 <p><span style="background-color: white; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px;">Ever wonder how humans discovered that stars are actually many light years away? <a href="//amzn.com/0805071334" target="_blank"><i>Parallax: The Race to Measure the Cosmos</i></a> provides a historical account of the scientists who devoted their lives to discovering the true distances to the stars. I really enjoyed reading this book!</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/parallax-the-race-to-measure-the-cosmos-alan-hirshfeld/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/parallax-the-race-to-measure-the-cosmos-alan-hirshfeld/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Isaac Newton &#8211; James Gleick</title>
 		<link>/2013/01/isaac-newton-james-gleick/</link>
-		<comments>/2013/01/isaac-newton-james-gleick/#respond</comments>
-		<pubDate>Tue, 01 Jan 2013 20:08:00 +0000</pubDate>
+				<comments>/2013/01/isaac-newton-james-gleick/#disqus_thread</comments>
+				<pubDate>Tue, 01 Jan 2013 20:08:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biography]]></category>
 		<category><![CDATA[book]]></category>
@@ -90,13 +92,13 @@
 		<category><![CDATA[space]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=393</guid>
-		<description><![CDATA[James Gleick gives a good biography of Isaac Newton in his book, Isaac Newton.]]></description>
-				<content:encoded><![CDATA[<p><span style="background-color: white; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px;">James Gleick gives a good biography of Isaac Newton in his book, <i><a href="//amzn.com/1400032954" target="_blank">Isaac Newton</a></i>.</span></p>
+				<description><![CDATA[James Gleick gives a good biography of Isaac Newton in his book, Isaac Newton.]]></description>
+								<content:encoded><![CDATA[<p><span style="background-color: white; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px;">James Gleick gives a good biography of Isaac Newton in his book, <i><a href="//amzn.com/1400032954" target="_blank">Isaac Newton</a></i>.</span></p>
 <div style="clear: both; text-align: center;"></div>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2013/01/newton-21.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2013/01/newton-21.jpg" height="400" width="285" /></a></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/01/isaac-newton-james-gleick/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/01/isaac-newton-james-gleick/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

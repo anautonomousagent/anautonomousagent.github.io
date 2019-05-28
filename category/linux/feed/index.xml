@@ -12,16 +12,18 @@
 	<atom:link href="/category/linux/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:06 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Free Software Foundation</title>
 		<link>/2017/07/free-software-foundation/</link>
-		<comments>/2017/07/free-software-foundation/#respond</comments>
-		<pubDate>Tue, 11 Jul 2017 20:41:54 +0000</pubDate>
+				<comments>/2017/07/free-software-foundation/#disqus_thread</comments>
+				<pubDate>Tue, 11 Jul 2017 20:41:54 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[computer]]></category>
 		<category><![CDATA[gnu]]></category>
@@ -33,8 +35,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1869</guid>
-		<description><![CDATA[Informative videos on free (Free as in Freedom) software and open source software. Richard Stallman is a great leader for software freedom and seems to be the source of the stereotype for computer programmer &#8220;looks&#8221;. The difference between free and open-source software was not clear to me until after watching these videos and doing further [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Informative videos on free (<a href="https://en.wikipedia.org/wiki/Free_as_in_Freedom">Free as in Freedom</a>) software and open source software. Richard Stallman is a great leader for software freedom and seems to be the source of the stereotype for computer programmer &#8220;looks&#8221;.</p>
+				<description><![CDATA[Informative videos on free (Free as in Freedom) software and open source software. Richard Stallman is a great leader for software freedom and seems to be the source of the stereotype for computer programmer &#8220;looks&#8221;. The difference between free and open-source software was not clear to me until after watching these videos and doing further [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Informative videos on free (<a href="https://en.wikipedia.org/wiki/Free_as_in_Freedom">Free as in Freedom</a>) software and open source software. Richard Stallman is a great leader for software freedom and seems to be the source of the stereotype for computer programmer &#8220;looks&#8221;.</p>
 <p>The difference between free and open-source software was not clear to me until after watching these videos and doing further research. See the <a href="https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy">Wikipedia article on the naming of GNU/Linux</a>.</p>
 <p>I personally encourage readers to consider switching to a GNU/Linux operating system or a distribution like Debian if they have not already. If you prefer having a hard copy of the OS or do not have the technical know-how to perform the image download-transfer-install process, <a href="https://www.osdisc.com/">OSDisc.com</a> is a great site to order many different distributions.</p>
 <p>Also, be sure to become a supporter of <a href="https://www.gnu.org/help/help.html">GNU</a> by joining the <a href="http://www.fsf.org/">Free Software Foundation</a>.</p>
@@ -66,8 +68,8 @@
 <p>And come on&#8230; we need to severely lower the percentage of desktops running Windows.</p>
 <p><iframe id="na636354026884130000" src="" width="600" height="570" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><script type="text/javascript">document.getElementById("na636354026884130000").src="https://netmarketshare.com/report.aspx?qprid=8"+String.fromCharCode(38)+"qptimeframe=M"+String.fromCharCode(38)+"qpsp=216"+String.fromCharCode(38)+"qpnp=6"+String.fromCharCode(38)+"qpch=350"+String.fromCharCode(38)+"qpdt=1"+String.fromCharCode(38)+"qpct=3"+String.fromCharCode(38)+"qpcustomd=0"+String.fromCharCode(38)+"qpcid=fw1316407"+String.fromCharCode(38)+"qpf=16"+String.fromCharCode(38)+"qpwidth=600"+String.fromCharCode(38)+"qpdisplay=1111"+String.fromCharCode(38)+"qpmr=10"+String.fromCharCode(38)+"site="+window.location.hostname</script></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2017/07/free-software-foundation/feed/</wfw:commentRss>
+							<wfw:commentRss>/2017/07/free-software-foundation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

@@ -12,16 +12,18 @@
 	<atom:link href="/category/the-big-picture/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:51:00 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Big Picture &#8211; Barry Ritholtz</title>
 		<link>/2013/05/the-big-picture-barry-ritholtz/</link>
-		<comments>/2013/05/the-big-picture-barry-ritholtz/#respond</comments>
-		<pubDate>Sun, 12 May 2013 01:41:00 +0000</pubDate>
+				<comments>/2013/05/the-big-picture-barry-ritholtz/#disqus_thread</comments>
+				<pubDate>Sun, 12 May 2013 01:41:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[Bach]]></category>
 		<category><![CDATA[Barry Ritholtz]]></category>
@@ -35,11 +37,11 @@
 		<category><![CDATA[The Big Picture]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=168</guid>
-		<description><![CDATA[The Big Picture is the name of Barry Ritholtz&#8217;s blog about stocks, investing, financial markets, and economics. Interestingly, I actually ran across this good blog will searching for Godel, Escher, Bach.]]></description>
-				<content:encoded><![CDATA[<p><a href="//www.ritholtz.com/blog/" target="_blank">The Big Picture</a> is the name of Barry Ritholtz&#8217;s blog about stocks, investing, financial markets, and economics. Interestingly, I actually ran across this good blog will searching for Godel, Escher, Bach.</p>
+				<description><![CDATA[The Big Picture is the name of Barry Ritholtz&#8217;s blog about stocks, investing, financial markets, and economics. Interestingly, I actually ran across this good blog will searching for Godel, Escher, Bach.]]></description>
+								<content:encoded><![CDATA[<p><a href="//www.ritholtz.com/blog/" target="_blank">The Big Picture</a> is the name of Barry Ritholtz&#8217;s blog about stocks, investing, financial markets, and economics. Interestingly, I actually ran across this good blog will searching for Godel, Escher, Bach.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/05/the-big-picture-barry-ritholtz/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/05/the-big-picture-barry-ritholtz/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

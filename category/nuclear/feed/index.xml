@@ -12,16 +12,18 @@
 	<atom:link href="/category/nuclear/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:43 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Thorium &#8211; Kirk Sorenson</title>
 		<link>/2015/05/thorium-kirk-sorenson/</link>
-		<comments>/2015/05/thorium-kirk-sorenson/#respond</comments>
-		<pubDate>Mon, 11 May 2015 01:20:18 +0000</pubDate>
+				<comments>/2015/05/thorium-kirk-sorenson/#disqus_thread</comments>
+				<pubDate>Mon, 11 May 2015 01:20:18 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[documentary]]></category>
 		<category><![CDATA[electricity]]></category>
@@ -35,8 +37,8 @@
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1107</guid>
-		<description><![CDATA[Kirk Sorenson does an excellent job describing the current state of the American nuclear energy program and its future. He sees hope from the current enthusiasm of the Chinese, who are developing extensive nuclear reactor technology. Perhaps their focus will encourage the rest of the world. The nuclear energy field has been plagued by misconceptions [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Kirk Sorenson does an excellent job describing the current state of the American nuclear energy program and its future. He sees hope from the current enthusiasm of the Chinese, who are developing extensive nuclear reactor technology. Perhaps their focus will encourage the rest of the world. The nuclear energy field has been plagued by misconceptions for decades. There is a definite need for someone to stand up and cut through all the ignorance surrounding this important subject.</p>
+				<description><![CDATA[Kirk Sorenson does an excellent job describing the current state of the American nuclear energy program and its future. He sees hope from the current enthusiasm of the Chinese, who are developing extensive nuclear reactor technology. Perhaps their focus will encourage the rest of the world. The nuclear energy field has been plagued by misconceptions [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Kirk Sorenson does an excellent job describing the current state of the American nuclear energy program and its future. He sees hope from the current enthusiasm of the Chinese, who are developing extensive nuclear reactor technology. Perhaps their focus will encourage the rest of the world. The nuclear energy field has been plagued by misconceptions for decades. There is a definite need for someone to stand up and cut through all the ignorance surrounding this important subject.</p>
 <p>There are probably hundreds of new reactor designs. Kirk&#8217;s favourite is the Liquid Fluoride Thorium Reactor (<a href="http://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor" target="_blank">LFTR</a>). He talks extensively about its benefits, its problems, its safety, and how it can be put into operation. Hopefully, people will see his arguments as valid and convincing. Read more on his blog: <a href="http://energyfromthorium.com/" target="_blank">Energy from Thorium</a>. <a href="http://gordonmcdowell.com/thorium/" target="_blank">Gordon McDowell&#8217;s videos</a> present the ideas of Sorenson in a clear and concise manner and there are numerous lectures and talks given by Sorenson on YouTube.</p>
 <p>I would also recommend <a href="https://anautonomousagent.com/2013/11/atomic-awakening-a-new-look-at-the-history-and-future-of-nuclear-power-james-mahaffey/" target="_blank">James Mahaffey&#8217;s book, Atomic Awakening</a>.</p>
 <div class="youtube"
@@ -48,14 +50,14 @@
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2015/05/thorium-kirk-sorenson/feed/</wfw:commentRss>
+							<wfw:commentRss>/2015/05/thorium-kirk-sorenson/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Atomic Awakening: A New Look at the History and Future of Nuclear Power &#8211; James Mahaffey</title>
 		<link>/2013/11/atomic-awakening-a-new-look-at-the-history-and-future-of-nuclear-power-james-mahaffey/</link>
-		<comments>/2013/11/atomic-awakening-a-new-look-at-the-history-and-future-of-nuclear-power-james-mahaffey/#respond</comments>
-		<pubDate>Thu, 28 Nov 2013 20:21:00 +0000</pubDate>
+				<comments>/2013/11/atomic-awakening-a-new-look-at-the-history-and-future-of-nuclear-power-james-mahaffey/#disqus_thread</comments>
+				<pubDate>Thu, 28 Nov 2013 20:21:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[book]]></category>
 		<category><![CDATA[history]]></category>
@@ -66,11 +68,11 @@
 		<category><![CDATA[science]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=125</guid>
-		<description><![CDATA[Probably one of the best books I have read in a long time, Atomic Awakening: A New Look at the History and Future of Nuclear Power by James Mahaffey takes the reader on a grand journey. Covering in great detail almost every single development leading to the nuclear reactor, any intellectual will find this book [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Probably one of the best books I have read in a long time, <i><a href="//amzn.com/B008SLIAJ6" target="_blank">Atomic Awakening: A New Look at the History and Future of Nuclear Power</a></i> by James Mahaffey takes the reader on a grand journey. Covering in great detail almost every single development leading to the nuclear reactor, any intellectual will find this book to be a great pleasure to read.</p>
+				<description><![CDATA[Probably one of the best books I have read in a long time, Atomic Awakening: A New Look at the History and Future of Nuclear Power by James Mahaffey takes the reader on a grand journey. Covering in great detail almost every single development leading to the nuclear reactor, any intellectual will find this book [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Probably one of the best books I have read in a long time, <i><a href="//amzn.com/B008SLIAJ6" target="_blank">Atomic Awakening: A New Look at the History and Future of Nuclear Power</a></i> by James Mahaffey takes the reader on a grand journey. Covering in great detail almost every single development leading to the nuclear reactor, any intellectual will find this book to be a great pleasure to read.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/11/atomic-awakening-a-new-look-at-the-history-and-future-of-nuclear-power-james-mahaffey/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/11/atomic-awakening-a-new-look-at-the-history-and-future-of-nuclear-power-james-mahaffey/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

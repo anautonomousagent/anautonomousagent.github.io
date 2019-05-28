@@ -12,24 +12,26 @@
 	<atom:link href="/category/stocks/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:42 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>Thoughts on Corporate Organization</title>
 		<link>/2016/04/thoughts-on-corporate-organization/</link>
-		<comments>/2016/04/thoughts-on-corporate-organization/#respond</comments>
-		<pubDate>Tue, 19 Apr 2016 15:21:56 +0000</pubDate>
+				<comments>/2016/04/thoughts-on-corporate-organization/#disqus_thread</comments>
+				<pubDate>Tue, 19 Apr 2016 15:21:56 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[robert k. greenleaf]]></category>
 		<category><![CDATA[stocks]]></category>
 		<category><![CDATA[thoughts]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1513</guid>
-		<description><![CDATA[Capitalism does not require corporations. Corporations do not strictly require capitalism. Among other requirements, corporations need laws protecting private property. Corporations are the offspring of limited liability contracts; they are founded with the idea that people, working together, can share the risks and burdens required in a business enterprise. Corporations encourage the joint ownership of property. Through this shared ownership, combining knowledge and [&#8230;]]]></description>
-				<content:encoded><![CDATA[<ul>
+				<description><![CDATA[Capitalism does not require corporations. Corporations do not strictly require capitalism. Among other requirements, corporations need laws protecting private property. Corporations are the offspring of limited liability contracts; they are founded with the idea that people, working together, can share the risks and burdens required in a business enterprise. Corporations encourage the joint ownership of property. Through this shared ownership, combining knowledge and [&#8230;]]]></description>
+								<content:encoded><![CDATA[<ul>
 <li>Capitalism does not require corporations.</li>
 <li>Corporations do not strictly require capitalism.</li>
 <li>Among other requirements, corporations need laws protecting private property.</li>
@@ -45,36 +47,36 @@
 <li>A consumer, given the choice to purchase a similar product among various producers, can make an aware political decision to support the producer aligned with his/her personal beliefs &#8212; Price be damned!</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/04/thoughts-on-corporate-organization/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/04/thoughts-on-corporate-organization/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Investment Fund with a Mandate</title>
 		<link>/2016/03/investment-fund-with-a-mandate/</link>
-		<comments>/2016/03/investment-fund-with-a-mandate/#respond</comments>
-		<pubDate>Sat, 05 Mar 2016 03:47:49 +0000</pubDate>
+				<comments>/2016/03/investment-fund-with-a-mandate/#disqus_thread</comments>
+				<pubDate>Sat, 05 Mar 2016 03:47:49 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[investing]]></category>
 		<category><![CDATA[stocks]]></category>
 		<category><![CDATA[thoughts]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1446</guid>
-		<description><![CDATA[Would it be possible to establish a limited partnership which has the sole mandate to restructure the boards of public corporations simply for public welfare? Or is this idea just wishful thinking. Most &#8220;activist&#8221; investors and funds are simply trying to change corporate boards for self-interest, their goal being to induce a new executive team [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Would it be possible to establish a limited partnership which has the sole mandate to restructure the boards of public corporations simply for public welfare? Or is this idea just wishful thinking.</p>
+				<description><![CDATA[Would it be possible to establish a limited partnership which has the sole mandate to restructure the boards of public corporations simply for public welfare? Or is this idea just wishful thinking. Most &#8220;activist&#8221; investors and funds are simply trying to change corporate boards for self-interest, their goal being to induce a new executive team [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Would it be possible to establish a limited partnership which has the sole mandate to restructure the boards of public corporations simply for public welfare? Or is this idea just wishful thinking.</p>
 <p>Most &#8220;activist&#8221; investors and funds are simply trying to change corporate boards for self-interest, their goal being to induce a new executive team to increase profitability, free cash flow, product diversity, etc&#8230; Most likely the purpose of these activists is to make changes which will result in a large long term gain with a nice 15% tax rate. But, what I am suggesting has no goal other than to raise enough funds to accumulate an ownership stake which will allow a board take-over of a large corporation.</p>
 <p>One of the interesting aspects of this fund would be that it&#8217;s goal would not be in any way to earn investors a profit. Thus, all contributions to join the partnership would be subject to complete loss. Any gains or losses would be given back or incurred to the donors after the mandate has been achieved. Once the mandate is complete, the partnership would be dissolved. This could take 1 year or 10 years depending on the situation in the corporation.</p>
 <p>Starting anew would ensure that any managers would not be corrupted. Fees would be minimal. No one managing this fund would make any more than a living wage. However, there will be legal and other such fees which are unavoidable.</p>
 <p>For instance, if 10 million people invested $3,000 in this partnership, the total of $30 billion would be sufficient to slowly accumulate a controlling interest in the corporation. Once the controlling interest is achieved, the board of directors would be replace by the desired men and women. This new board would then replace the executive team to create a new culture for the corporation to ensure the mandate is achieved.</p>
 <p>Anyway, let me know what you think&#8230; constantly trying to think of ways to improve/fix our existing system.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2016/03/investment-fund-with-a-mandate/feed/</wfw:commentRss>
+							<wfw:commentRss>/2016/03/investment-fund-with-a-mandate/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>No One Would Listen: A True Financial Thriller &#8211; Harry Markopolos</title>
 		<link>/2014/11/no-one-would-listen-a-true-financial-thriller-harry-markopolos/</link>
-		<comments>/2014/11/no-one-would-listen-a-true-financial-thriller-harry-markopolos/#respond</comments>
-		<pubDate>Tue, 18 Nov 2014 19:36:00 +0000</pubDate>
+				<comments>/2014/11/no-one-would-listen-a-true-financial-thriller-harry-markopolos/#disqus_thread</comments>
+				<pubDate>Tue, 18 Nov 2014 19:36:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[book]]></category>
 		<category><![CDATA[business]]></category>
@@ -85,18 +87,18 @@
 		<category><![CDATA[stocks]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=16</guid>
-		<description><![CDATA[In No One Would Listen: A True Financial Thriller, Harry Markopolos, the financial fraud detective who studied Bernie Madoff&#8217;s questionable returns in early 2000, narrates the entire history and investigation of Bernie Madoff&#8217;s ponzi scheme &#8212; starting in 1998. I was shocked, as was Markopolos, on learning about the negligence and failure of the SEC [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/11/No_One_Would_Listen1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/11/No_One_Would_Listen1.jpg" height="320" width="210" /></a></div>
+				<description><![CDATA[In No One Would Listen: A True Financial Thriller, Harry Markopolos, the financial fraud detective who studied Bernie Madoff&#8217;s questionable returns in early 2000, narrates the entire history and investigation of Bernie Madoff&#8217;s ponzi scheme &#8212; starting in 1998. I was shocked, as was Markopolos, on learning about the negligence and failure of the SEC [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/11/No_One_Would_Listen1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/11/No_One_Would_Listen1.jpg" height="320" width="210" /></a></div>
 <p>In <a href="//lp.wileypub.com/Markopolos/" target="_blank">No One Would Listen: A True Financial Thriller</a>, <a href="//en.wikipedia.org/wiki/Harry_Markopolos" target="_blank">Harry Markopolos</a>, the financial fraud detective who studied Bernie Madoff&#8217;s questionable returns in early 2000, narrates the entire history and investigation of Bernie Madoff&#8217;s ponzi scheme &#8212; starting in 1998. I was shocked, as was Markopolos, on learning about the negligence and failure of the SEC on numerous occasions. The book provides a good summary account of the Madoff fraud and the people involved. It also provides important insight into financial fraud, reform, and regulations.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/11/no-one-would-listen-a-true-financial-thriller-harry-markopolos/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/11/no-one-would-listen-a-true-financial-thriller-harry-markopolos/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>The Misbehavior of Markets: A Fractal View of Financial Turbulence &#8211; Benoit Mandelbrot</title>
 		<link>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/</link>
-		<comments>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/#respond</comments>
-		<pubDate>Wed, 27 Aug 2014 23:45:00 +0000</pubDate>
+				<comments>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/#disqus_thread</comments>
+				<pubDate>Wed, 27 Aug 2014 23:45:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[benoit mandelbrot]]></category>
 		<category><![CDATA[book]]></category>
@@ -114,19 +116,19 @@
 		<category><![CDATA[wave theory]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=26</guid>
-		<description><![CDATA[I&#8217;ve been wanting to read The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" width="211" /></a></div>
+				<description><![CDATA[I&#8217;ve been wanting to read The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="//anautonomousagent.com/wp-content/uploads/2014/08/6651341.jpg" width="211" /></a></div>
 <div style="text-align: justify;">I&#8217;ve been wanting to read <a href="//amzn.com/0465043577" target="_blank">The Misbehavior of Markets: A Fractal View of Financial Turbulence</a> by <a href="//en.wikipedia.org/wiki/Benoit_Mandelbrot" target="_blank">Benoit Mandelbrot</a> for a number of years. Mandelbrot helped to change the way people view financial market dynamics. This book is definitely a must read for people working in the financial industry. However, Mandelbrot was not the first. It is a little surprising that Mandelbrot did not talk in detail about the work of <a href="//anautonomousagent.com/?p=138" target="_blank">R.N. Elliott or Robert Prechter</a>, among others, which I think complement Mandelbrot&#8217;s work on financial fractals. Patrick Harris wrote a short paper discussing whether Mandelbrot should have cited Elliott (<a href="//www.math.utah.edu/vigre/reu/reports/harris_fall2005.pdf" target="_blank">link to paper</a>).</p>
 <p>To me, the idea of infinite memory processes is one of the most important concepts touched on by Mandelbrot in this book. It suggests that economists and traders should be developing models and theories which value the importance of price series and data going back decades. And it makes sense to me that people and prices do not change their fundamental behavior over extended periods of technological evolution. However, I suspect that organisms do change their fundamental behavior if the time horizon is thousands or millions of years. I am very curious to read more about Hurst&#8217;s studies of the Nile.</p></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/08/the-misbehavior-of-markets-a-fractal-view-of-financial-turbulence-benoit-mandelbrot/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Species Xchange</title>
 		<link>/2014/07/species-xchange/</link>
-		<comments>/2014/07/species-xchange/#respond</comments>
-		<pubDate>Fri, 11 Jul 2014 14:39:00 +0000</pubDate>
+				<comments>/2014/07/species-xchange/#disqus_thread</comments>
+				<pubDate>Fri, 11 Jul 2014 14:39:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[animals]]></category>
 		<category><![CDATA[biology]]></category>
@@ -136,8 +138,8 @@
 		<category><![CDATA[thoughts]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=45</guid>
-		<description><![CDATA[A big reason why it is so hard to fix and respond to environmental crises is the fact that societies lack a means to store ecological value in a monetary form. As a result, in the never-ending pursuit of growth and technological progress we rarely consider the growth and progress of other species. But how [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>A big reason why it is so hard to fix and respond to environmental crises is the fact that societies lack a means to store ecological value in a monetary form. As a result, in the never-ending pursuit of growth and technological progress we rarely consider the growth and progress of other species. But how can we? Population statistics, ecological value, and other detailed data are rare or non-existent. We have very little quantitative data on the thousands of other species. And we don&#8217;t care. The average citizen can barely find time to consider the fate of the Rhino when he/she works 10 hours a day. We are stuck in fifth gear &#8212; moving full speed into the future despite the dire consequences of ignorance and a failure to act. The current relationship between humanity and the biosphere is reminiscent of parasitism or cancer. I just hope we are not yet in stage 4. Despite the reliance of our survival on other species, we continually threaten their existence &#8212; and indirectly our own.</p>
+				<description><![CDATA[A big reason why it is so hard to fix and respond to environmental crises is the fact that societies lack a means to store ecological value in a monetary form. As a result, in the never-ending pursuit of growth and technological progress we rarely consider the growth and progress of other species. But how [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>A big reason why it is so hard to fix and respond to environmental crises is the fact that societies lack a means to store ecological value in a monetary form. As a result, in the never-ending pursuit of growth and technological progress we rarely consider the growth and progress of other species. But how can we? Population statistics, ecological value, and other detailed data are rare or non-existent. We have very little quantitative data on the thousands of other species. And we don&#8217;t care. The average citizen can barely find time to consider the fate of the Rhino when he/she works 10 hours a day. We are stuck in fifth gear &#8212; moving full speed into the future despite the dire consequences of ignorance and a failure to act. The current relationship between humanity and the biosphere is reminiscent of parasitism or cancer. I just hope we are not yet in stage 4. Despite the reliance of our survival on other species, we continually threaten their existence &#8212; and indirectly our own.</p>
 <p>The solution to the impending crises lies in a change of perception. The often quoted &#8220;survival of the fittest&#8221; ideology tends to cause people to forget about another important form of evolution &#8212; symbiosis. Cancer is the extreme version of &#8220;survival of the fittest&#8221; and parasitism at the cellular level. Cooperation through symbiosis however, is working together to get the job done (mitochrondria and the endosymbiotic theory). If we change the way we view nature, from &#8220;Man versus Nature&#8221; to &#8220;Man with Nature,&#8221; our problems will begin to vanish. The conception of the future will turn from a dismal apocalyptic world to one of harmonious mutualism. A symbiotic biological cooperation between our species and the other species of Earth, who are at our mercy, will forever change the course of history. The importance of symbiosis is becoming increasingly clear as a powerful survival mechanism in biological evolution and the future of <i>homo sapiens</i> may depend on its acceptance.</p>
 <p>Brainstorming ways to establish a framework which intimately connects the economics of humans with that of their relatives in a symbiotic relationship, I believe one solution could be via the market. It involves creating a new asset class. By establishing shares of stock in species (or family/order) and having these shares trade in an exchange, the success of other species now becomes a potentially profitable industry for humans. At the same time benefiting the non-human species. Similar to humans trading shares of stock with theoretical values based on the work potential of organizations of labor producing members, the trading of species shares would be based upon the ecological value of biological organisms.</p>
 <p>This Species Xchange would provide a means to store human labor potential (money) in the data collection, protection, monitoring, preservation, and development of any number of species. This funding would be initiated through an IPO for each species. I believe this would be symbiosis at its finest.&nbsp;Including other species in our financial decision making&nbsp;would fundamentally change the relationship humans have with their biological relatives. &nbsp;By&nbsp;protecting the species humans rely on for ecological harmony, while at the same time providing them with a more &#8220;bio-diverse&#8221; basket of eggs to store their labor potential would, in effect, create a more dynamic and powerful investment system.</p>
@@ -147,14 +149,14 @@
 <p>For example, let&#8217;s say 100 million shares of <i>Macropus Rufus</i> are issued to the public. The IPO is priced at $20 per share. Thus, proceeds of $2 billion would go towards a fund established for the <i>Macropus Rufus</i> species. At the end of each quarter, a species report would be released detailing any changes in population, biological discoveries, and other details related to the status of the species. After each report, a new guaranteed price would be established by a set formula. Let&#8217;s say that new price is $22.50. Fast-forward through time and imagine a set of guaranteed prices: $22.50, $22.80, $21.00, $22.10, $25.00, etc&#8230; The set of guaranteed prices would form a set of lower bounds for the price series. The only reason an investor would redeem the shares would be in the event of an arbitrage if the price fell below the lower bound. However, it remains to be determined whether this would actually happen.</p>
 <p>Perhaps all this seems silly, like something out of science fiction, and not feasible. Even though I would disagree, I think it is at least a step in the right direction. If more people can brainstorm practical ideas which join together humans and other species in a symbiotic relationship with current institutions, we may have a chance at preventing a catastrophic change in the biosphere. Harmony and balance can be restored with the right combination of creativity and institutional power.</p></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/07/species-xchange/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/07/species-xchange/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>A Stock Exchange for Species??</title>
 		<link>/2014/07/a-stock-exchange-for-species/</link>
-		<comments>/2014/07/a-stock-exchange-for-species/#respond</comments>
-		<pubDate>Sun, 06 Jul 2014 23:44:00 +0000</pubDate>
+				<comments>/2014/07/a-stock-exchange-for-species/#disqus_thread</comments>
+				<pubDate>Sun, 06 Jul 2014 23:44:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropocene]]></category>
 		<category><![CDATA[biology]]></category>
@@ -166,21 +168,21 @@
 		<category><![CDATA[thoughts]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=47</guid>
-		<description><![CDATA[It seems to be entirely possible, and even beneficial, if there was an exchange, analogous to the NYSE, where traders and investors could buy and sell &#8220;shares&#8221; of a species. The exchange would begin by issuing an IPO on every species. For example, ticker symbol: QA could be the &#8220;stock&#8221; for Quercus alba. We need [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>It seems to be entirely possible, and even beneficial, if there was an exchange, analogous to the NYSE, where traders and investors could buy and sell &#8220;shares&#8221; of a species. The exchange would begin by issuing an IPO on every species. For example, ticker symbol: QA could be the &#8220;stock&#8221; for <a href="//en.wikipedia.org/wiki/Quercus_alba" target="_blank"><i>Quercus alba</i></a>.</p>
+				<description><![CDATA[It seems to be entirely possible, and even beneficial, if there was an exchange, analogous to the NYSE, where traders and investors could buy and sell &#8220;shares&#8221; of a species. The exchange would begin by issuing an IPO on every species. For example, ticker symbol: QA could be the &#8220;stock&#8221; for Quercus alba. We need [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>It seems to be entirely possible, and even beneficial, if there was an exchange, analogous to the NYSE, where traders and investors could buy and sell &#8220;shares&#8221; of a species. The exchange would begin by issuing an IPO on every species. For example, ticker symbol: QA could be the &#8220;stock&#8221; for <a href="//en.wikipedia.org/wiki/Quercus_alba" target="_blank"><i>Quercus alba</i></a>.</p>
 <p>We need to think outside the box to protect our environment and I see this a way to benefit both man and nature. Man will be awarded with more assets with which he can diversify his financial holdings; nature will win in various ways &#8212; including the proceeds of the IPO to protect the species.</p>
 <p>This would be initiated to test the idea that a traded asset can be something more general than an organization consisting of human labor and assets.</p>
 <p>You may argue that a stock must have a fundamental basis in the value of human commodities and labor. That may be true, however, what limits the definition extending to non-human commodities and the labor of nature? In any case, for the experienced investors, how many companies have you seen being valued in the billions with little or no assets and no profits? In fact, a species actually has an enormous value and potential in terms of biology, ecology, and the sustainability of human activity.</p>
 <p>There are numerous possible arguments against this, which I would enjoy countering. Perhaps I will devote more to this in a future post.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/07/a-stock-exchange-for-species/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/07/a-stock-exchange-for-species/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Golden Boy: The Harold Simmons Story &#8211; John J. Nance</title>
 		<link>/2014/07/golden-boy-the-harold-simmons-story-john-j-nance/</link>
-		<comments>/2014/07/golden-boy-the-harold-simmons-story-john-j-nance/#respond</comments>
-		<pubDate>Sat, 05 Jul 2014 02:07:00 +0000</pubDate>
+				<comments>/2014/07/golden-boy-the-harold-simmons-story-john-j-nance/#disqus_thread</comments>
+				<pubDate>Sat, 05 Jul 2014 02:07:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biography]]></category>
 		<category><![CDATA[book]]></category>
@@ -192,18 +194,18 @@
 		<category><![CDATA[stocks]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=49</guid>
-		<description><![CDATA[I was a long term investor in Harold Simmons&#8217; Keystone Consolidated Industries and now I am currently sitting on a nice return from an investment in Valhi. Being a coattail investor in his companies has paid off &#8212; if you can enter at a low price. Some have called him an &#8220;Evil Genius&#8221; and even [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I was a long term investor in Harold Simmons&#8217; Keystone Consolidated Industries and now I am currently sitting on a nice return from an investment in Valhi. Being a coattail investor in his companies has paid off &#8212; if you can enter at a low price. Some have called him an &#8220;Evil Genius&#8221; and even a crook. However, I find his story to be an amazing story of business success, legal battles, and cunning financial maneuvers to become an icon of the rags-to-riches success story. His biography, written by John J. Nance and entitled <a href="//amzn.com/1571687475" target="_blank">Golden Boy: The Harold Simmons Story</a>, provides a great account of the building of his empire.</p>
+				<description><![CDATA[I was a long term investor in Harold Simmons&#8217; Keystone Consolidated Industries and now I am currently sitting on a nice return from an investment in Valhi. Being a coattail investor in his companies has paid off &#8212; if you can enter at a low price. Some have called him an &#8220;Evil Genius&#8221; and even [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I was a long term investor in Harold Simmons&#8217; Keystone Consolidated Industries and now I am currently sitting on a nice return from an investment in Valhi. Being a coattail investor in his companies has paid off &#8212; if you can enter at a low price. Some have called him an &#8220;Evil Genius&#8221; and even a crook. However, I find his story to be an amazing story of business success, legal battles, and cunning financial maneuvers to become an icon of the rags-to-riches success story. His biography, written by John J. Nance and entitled <a href="//amzn.com/1571687475" target="_blank">Golden Boy: The Harold Simmons Story</a>, provides a great account of the building of his empire.</p>
 <div style="clear: both; text-align: center;"><a href="//anautonomousagent.com/wp-content/uploads/2014/07/x45401.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/07/x45401.jpg" height="320" width="227" /></a></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/07/golden-boy-the-harold-simmons-story-john-j-nance/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/07/golden-boy-the-harold-simmons-story-john-j-nance/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Brief Overview of My Experiences with Stocks</title>
 		<link>/2014/03/brief-overview-of-my-experiences-with-stocks/</link>
-		<comments>/2014/03/brief-overview-of-my-experiences-with-stocks/#respond</comments>
-		<pubDate>Tue, 25 Mar 2014 01:29:00 +0000</pubDate>
+				<comments>/2014/03/brief-overview-of-my-experiences-with-stocks/#disqus_thread</comments>
+				<pubDate>Tue, 25 Mar 2014 01:29:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[benjamin graham]]></category>
 		<category><![CDATA[contran]]></category>
@@ -216,8 +218,8 @@
 		<category><![CDATA[warren buffett]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=83</guid>
-		<description><![CDATA[My first foray into the stock market was after reading the books of the popular writer, Jim Cramer. And it resulted in buying several penny stocks which were developing &#8220;revolutionary&#8221; new products. They did rather poorly and I decided to try buying stocks of more well-known companies, like Goldman Sachs and some others which I [&#8230;]]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;">My first foray into the stock market was after reading the books of the popular writer, Jim Cramer. And it resulted in buying several penny stocks which were developing &#8220;revolutionary&#8221; new products. They did rather poorly and I decided to try buying stocks of more well-known companies, like Goldman Sachs and some others which I do not remember. This was in 2007-8 and the tiny gains from my small investments were financially negligible; however, it was an experience.</div>
+				<description><![CDATA[My first foray into the stock market was after reading the books of the popular writer, Jim Cramer. And it resulted in buying several penny stocks which were developing &#8220;revolutionary&#8221; new products. They did rather poorly and I decided to try buying stocks of more well-known companies, like Goldman Sachs and some others which I [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div style="text-align: justify;">My first foray into the stock market was after reading the books of the popular writer, Jim Cramer. And it resulted in buying several penny stocks which were developing &#8220;revolutionary&#8221; new products. They did rather poorly and I decided to try buying stocks of more well-known companies, like Goldman Sachs and some others which I do not remember. This was in 2007-8 and the tiny gains from my small investments were financially negligible; however, it was an experience.</div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">My knowledge of markets began to change as 2008 progressed into 2009 and I gained experience trading stocks. I lost interest in Cramer and found the work of Benjamin Graham to be far more fascinating. While in high-school I was fascinated by Benjamin Graham&#8217;s record of success and his value investing approach to choosing investments. My interest continued as an undergrad in college; I remember reading all of Graham&#8217;s articles while sitting through accounting class. Reading <i>Security Analysis </i>more than twice, I attempted to put my newly learned skills to the test. The potential to find muddied gems hidden from view by the dirty coating applied by &#8220;Mr. Market&#8221; spurred my desire to master the art.</div>
 <div style="text-align: justify;"></div>
@@ -228,14 +230,14 @@
 <div style="text-align: justify;">Today I am surprised to learn that <a href="//www.dallasnews.com/news/headlines/20131229-flashback-the-inside-story-of-harold-c.-simmons-from-huck-finn-looks-to-high-rolling-investments.ece" target="_blank" rel="noopener">Harold Simmons passed away in December of 2013</a>. He was a clever man who grew a few thousand dollars into billions.</div>
 <div style="text-align: justify;"></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/03/brief-overview-of-my-experiences-with-stocks/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/03/brief-overview-of-my-experiences-with-stocks/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Flow Chart of Price Formation and Reaction</title>
 		<link>/2014/02/flow-chart-of-price-formation-and-reaction/</link>
-		<comments>/2014/02/flow-chart-of-price-formation-and-reaction/#respond</comments>
-		<pubDate>Fri, 21 Feb 2014 03:54:00 +0000</pubDate>
+				<comments>/2014/02/flow-chart-of-price-formation-and-reaction/#disqus_thread</comments>
+				<pubDate>Fri, 21 Feb 2014 03:54:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[economics]]></category>
 		<category><![CDATA[finance]]></category>
@@ -245,8 +247,8 @@
 		<category><![CDATA[thoughts]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=104</guid>
-		<description><![CDATA[I think that live price data is important, however, there are far more important numbers to be recorded in a financial market. Live data such as: current number of shares long; current number short; size of investor gain (or another measure to see how long a specific investor has been holding his/her position), etc. Price [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I think that live price data is important, however, there are far more important numbers to be recorded in a financial market. Live data such as: current number of shares long; current number short; size of investor gain (or another measure to see how long a specific investor has been holding his/her position), etc.</p>
+				<description><![CDATA[I think that live price data is important, however, there are far more important numbers to be recorded in a financial market. Live data such as: current number of shares long; current number short; size of investor gain (or another measure to see how long a specific investor has been holding his/her position), etc. Price [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>I think that live price data is important, however, there are far more important numbers to be recorded in a financial market. Live data such as: current number of shares long; current number short; size of investor gain (or another measure to see how long a specific investor has been holding his/her position), etc.</p>
 <div></div>
 <div>
 <p>Price can change in a matter of micro-seconds; in the 1930&#8217;s this observational task would have been deemed impossible &#8212; keeping track of such rapid price changes. Now, computers allow humans to do this with ease. What is preventing society from recording and publicly displaying other data in rapid manner. In other words, can we not use our computers to observe the ubiquitous &#8220;invisible hand&#8221; of market exchange?</p>
@@ -260,14 +262,14 @@
 <div style="clear: both; text-align: center;"><a style="margin-left: 1em; margin-right: 1em;" href="//anautonomousagent.com/wp-content/uploads/2014/02/socionomics1.jpeg"><img src="//anautonomousagent.com/wp-content/uploads/2014/02/socionomics1.jpeg" width="400" height="266" border="0" /></a></div>
 <div></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/02/flow-chart-of-price-formation-and-reaction/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/02/flow-chart-of-price-formation-and-reaction/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 		<item>
 		<title>Price Simulation of Trader Matrix Video</title>
 		<link>/2013/12/price-simulation-of-trader-matrix-video/</link>
-		<comments>/2013/12/price-simulation-of-trader-matrix-video/#respond</comments>
-		<pubDate>Sun, 01 Dec 2013 02:02:00 +0000</pubDate>
+				<comments>/2013/12/price-simulation-of-trader-matrix-video/#disqus_thread</comments>
+				<pubDate>Sun, 01 Dec 2013 02:02:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[complexity theory]]></category>
 		<category><![CDATA[finance]]></category>
@@ -278,15 +280,15 @@
 		<category><![CDATA[video]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=124</guid>
-		<description><![CDATA[The following video is the time evolution of a network of 10,000 traders and their effect on the price movement of a stock. For more information, please read the following paper: Non-normal Model of Stock Prices]]></description>
-				<content:encoded><![CDATA[<p>The following video is the time evolution of a network of 10,000 traders and their effect on the price movement of a stock. </p>
+				<description><![CDATA[The following video is the time evolution of a network of 10,000 traders and their effect on the price movement of a stock. For more information, please read the following paper: Non-normal Model of Stock Prices]]></description>
+								<content:encoded><![CDATA[<p>The following video is the time evolution of a network of 10,000 traders and their effect on the price movement of a stock. </p>
 <div id="Gcz4AdsPPyI" class="youtube" style="width: 100%; height: 360px;"></div>
 <p>For more information, please read the following paper:</p>
 <div style="-x-system-font: none; display: block; font-family: Helvetica,Arial,Sans-serif; font-size-adjust: none; font-size: 14px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal; margin: 12px auto 6px auto;"><a href="//www.scribd.com/doc/190440994/Non-normal-Model-of-Stock-Prices" style="text-decoration: underline;" title="View Non-normal Model of Stock Prices on Scribd">Non-normal Model of Stock Prices</a></div>
 <p><iframe data-aspect-ratio="undefined" data-auto-height="false" frameborder="0" height="600" scrolling="no" src="//www.scribd.com/embeds/190440994/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%"></iframe></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2013/12/price-simulation-of-trader-matrix-video/feed/</wfw:commentRss>
+							<wfw:commentRss>/2013/12/price-simulation-of-trader-matrix-video/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

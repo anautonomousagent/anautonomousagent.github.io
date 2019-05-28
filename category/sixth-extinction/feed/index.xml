@@ -12,16 +12,18 @@
 	<atom:link href="/category/sixth-extinction/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:50:14 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>The Sixth Extinction: An Unnatural History &#8211; Elizabeth Kolbert</title>
 		<link>/2014/04/the-sixth-extinction-an-unnatural-history-elizabeth-kolbert/</link>
-		<comments>/2014/04/the-sixth-extinction-an-unnatural-history-elizabeth-kolbert/#respond</comments>
-		<pubDate>Mon, 07 Apr 2014 16:25:00 +0000</pubDate>
+				<comments>/2014/04/the-sixth-extinction-an-unnatural-history-elizabeth-kolbert/#disqus_thread</comments>
+				<pubDate>Mon, 07 Apr 2014 16:25:00 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[animals]]></category>
 		<category><![CDATA[anthropocene]]></category>
@@ -33,8 +35,8 @@
 		<category><![CDATA[sixth extinction]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=80</guid>
-		<description><![CDATA[The information contained in Elizabeth Kolbert&#8217;s book, The Sixth Extinction: An Unnatural History, should concern all humans alive today. The facts presented have been known to the scientific community for a number of years. Its message is clear and important: the human species has been the chief cause of a massive extinction not seen since [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>The information contained in Elizabeth Kolbert&#8217;s book, <a href="//amzn.com/0805092994" target="_blank"><i>The Sixth Extinction: An Unnatural History</i></a>, should concern all humans alive today. The facts presented have been known to the scientific community for a number of years. Its message is clear and important: the human species has been the chief cause of a massive extinction not seen since the dinosaurs perished. Biological diversity has been decreasing for a long time. She presents the facts in a clear and fascinating story; visiting numerous places around the globe and witnessing first hand the effects of &#8220;The New Pangea.&#8221; <a href="//www.washingtonpost.com/opinions/the-sixth-extinction-an-unnatural-history-b-y-elizabeth-kolbert/2014/02/21/23ea733e-8ddc-11e3-833c-33098f9e5267_story.html" target="_blank">The Washington Post&#8217;s review of Kolbert&#8217;s book.</a></p>
+				<description><![CDATA[The information contained in Elizabeth Kolbert&#8217;s book, The Sixth Extinction: An Unnatural History, should concern all humans alive today. The facts presented have been known to the scientific community for a number of years. Its message is clear and important: the human species has been the chief cause of a massive extinction not seen since [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>The information contained in Elizabeth Kolbert&#8217;s book, <a href="//amzn.com/0805092994" target="_blank"><i>The Sixth Extinction: An Unnatural History</i></a>, should concern all humans alive today. The facts presented have been known to the scientific community for a number of years. Its message is clear and important: the human species has been the chief cause of a massive extinction not seen since the dinosaurs perished. Biological diversity has been decreasing for a long time. She presents the facts in a clear and fascinating story; visiting numerous places around the globe and witnessing first hand the effects of &#8220;The New Pangea.&#8221; <a href="//www.washingtonpost.com/opinions/the-sixth-extinction-an-unnatural-history-b-y-elizabeth-kolbert/2014/02/21/23ea733e-8ddc-11e3-833c-33098f9e5267_story.html" target="_blank">The Washington Post&#8217;s review of Kolbert&#8217;s book.</a></p>
 <div style="clear: both; text-align: center;"></div>
 <div style="clear: both; text-align: center;"></div>
 <p></p>
@@ -45,8 +47,8 @@
 <p><a href="//anautonomousagent.com/wp-content/uploads/2014/04/the-sixth-extinction-elizabeth-kolbert1.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="//anautonomousagent.com/wp-content/uploads/2014/04/the-sixth-extinction-elizabeth-kolbert1.jpg" height="140" width="200" /></a></p>
 <div style="clear: both; text-align: center;"></div>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/04/the-sixth-extinction-an-unnatural-history-elizabeth-kolbert/feed/</wfw:commentRss>
+							<wfw:commentRss>/2014/04/the-sixth-extinction-an-unnatural-history-elizabeth-kolbert/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>

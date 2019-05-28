@@ -12,24 +12,26 @@
 	<atom:link href="/category/thomas-pynchon/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>exploring the noosphere</description>
-	<lastBuildDate>Wed, 09 Jan 2019 07:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Oct 2017 02:47:10 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 	<item>
 		<title>A Journey into the Mind of Pynchon</title>
 		<link>/2017/01/journey-into-mind-pynchon/</link>
-		<comments>/2017/01/journey-into-mind-pynchon/#respond</comments>
-		<pubDate>Thu, 19 Jan 2017 03:25:27 +0000</pubDate>
+				<comments>/2017/01/journey-into-mind-pynchon/#disqus_thread</comments>
+				<pubDate>Thu, 19 Jan 2017 03:25:27 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[thomas pynchon]]></category>
 		<category><![CDATA[video]]></category>
 		<category><![CDATA[youtube]]></category>
 
 		<guid isPermaLink="false">https://anautonomousagent.com/?p=1710</guid>
-		<description><![CDATA[It has been a long time since I read a fictional book. For various uncertain reasons I have only read non-fiction for the past several years; I am tired of non-fiction and for the past few weeks I have been on a quest for a book that grabs me and says: &#8220;Read THIS!&#8221; I have [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>It has been a long time since I read a fictional book. For various uncertain reasons I have only read non-fiction for the past several years; I am tired of non-fiction and for the past few weeks I have been on a quest for a book that grabs me and says: &#8220;Read THIS!&#8221;</p>
+				<description><![CDATA[It has been a long time since I read a fictional book. For various uncertain reasons I have only read non-fiction for the past several years; I am tired of non-fiction and for the past few weeks I have been on a quest for a book that grabs me and says: &#8220;Read THIS!&#8221; I have [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>It has been a long time since I read a fictional book. For various uncertain reasons I have only read non-fiction for the past several years; I am tired of non-fiction and for the past few weeks I have been on a quest for a book that grabs me and says: &#8220;Read THIS!&#8221;</p>
 <p>I have been enjoying Gore Vidal&#8217;s <em>Burr;</em> although a wonderful book of historical fiction, my desire is for a more mind expanding literary challenge. Perhaps Thomas Pynchon&#8217;s work? I am going to start with <em>V</em>.</p>
 <p>A fascinating video about Pynchon is linked below; it is amusing to watch how, near the end, the narrators analyze video footage as they search (in vain?) for an image of Pynchon &#8212; it reminded me of the old videos of the ever-elusive big-foot roaming in the woods, too funny.</p>
 <div class="youtube"
@@ -37,8 +39,8 @@
      style="width: 100%; height: 360px;">
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/2017/01/journey-into-mind-pynchon/feed/</wfw:commentRss>
+							<wfw:commentRss>/2017/01/journey-into-mind-pynchon/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
+							</item>
 	</channel>
 </rss>
