@@ -1,4 +1,4 @@
-# anautonomousagent.github.io
+# www.anautonomousagent.com
 
 Static version of Wordpress website.
 
