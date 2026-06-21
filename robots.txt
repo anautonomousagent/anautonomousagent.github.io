@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /wp-json/
+Disallow: /wp-includes/
+Disallow: /comments/
+
+Sitemap: https://www.anautonomousagent.com/sitemap.xml

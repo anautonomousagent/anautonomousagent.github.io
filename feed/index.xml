@@ -9,8 +9,8 @@
 
 <channel>
 	<title>An Autonomous Agent</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.anautonomousagent.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.anautonomousagent.com/</link>
 	<description>exploring the noosphere</description>
 	<lastBuildDate>Sat, 12 Oct 2019 19:31:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.2.3</generator>
 	<item>
 		<title>The Meteorite (Chondrite) and its Organisms &#8211; Otto Hahn</title>
-		<link>/2019/10/the-meteorite-chondrite-and-its-organisms-otto-hahn/</link>
-				<comments>/2019/10/the-meteorite-chondrite-and-its-organisms-otto-hahn/#disqus_thread</comments>
+		<link>https://www.anautonomousagent.com/2019/10/the-meteorite-chondrite-and-its-organisms-otto-hahn/</link>
+				<comments>https://www.anautonomousagent.com/2019/10/the-meteorite-chondrite-and-its-organisms-otto-hahn/#disqus_thread</comments>
 				<pubDate>Sat, 12 Oct 2019 19:24:05 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[astrobiology]]></category>
@@ -38,7 +38,7 @@
 		<category><![CDATA[space]]></category>
 		<category><![CDATA[universe]]></category>
 
-		<guid isPermaLink="false">/?p=2608</guid>
+		<guid isPermaLink="false">https://www.anautonomousagent.com/?p=2608</guid>
 				<description><![CDATA[Petrified life-forms compose the chondrites (which represent 86% of the total number of collected meteorites to date) proposed Otto Hahn in his book, The Meteorite (Chondrite) and its Organisms, containing 142 microphotographs to serve as his proof. Published in 1880 this work took the academic community by surprise. David Weinland wrote in Das Ausland: The [&#8230;]]]></description>
 								<content:encoded><![CDATA[
 <p>Petrified life-forms compose the chondrites (which represent 86% of the total number of collected meteorites to date) proposed <a href="https://en.wikipedia.org/wiki/Otto_Hahn_(petrologist)">Otto Hahn</a> in his book, <em>The Meteorite (Chondrite) and its Organisms</em>, containing 142 microphotographs to serve as his proof. Published in 1880 this work took the academic community by surprise. <a href="https://en.wikipedia.org/wiki/David_Friedrich_Weinland">David Weinland</a> wrote in <em>Das Ausland</em>:</p>
@@ -83,13 +83,13 @@
 
 <p>Read: <em><a href="https://github.com/solaranamnesis/Das-Ausland">Das Ausland</a></em><a href="https://github.com/solaranamnesis/Das-Ausland"> Articles</a></p>
 ]]></content:encoded>
-							<wfw:commentRss>/2019/10/the-meteorite-chondrite-and-its-organisms-otto-hahn/feed/</wfw:commentRss>
+							<wfw:commentRss>https://www.anautonomousagent.com/2019/10/the-meteorite-chondrite-and-its-organisms-otto-hahn/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Evolution from Space &#8211; Fred Hoyle and Chandra Wickramasinghe</title>
-		<link>/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/</link>
-				<comments>/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/#disqus_thread</comments>
+		<link>https://www.anautonomousagent.com/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/</link>
+				<comments>https://www.anautonomousagent.com/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/#disqus_thread</comments>
 				<pubDate>Tue, 28 May 2019 00:42:12 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[astrobiology]]></category>
@@ -103,18 +103,18 @@
 		<category><![CDATA[philosophy]]></category>
 		<category><![CDATA[space]]></category>
 
-		<guid isPermaLink="false">/?p=2604</guid>
+		<guid isPermaLink="false">https://www.anautonomousagent.com/?p=2604</guid>
 				<description><![CDATA[Evolution from Space by Fred Hoyle and Chandra Wickramasinghe is a revolutionary book concerning the interpretation of the biological, astronomical, and mathematical evidence which indicates that evolution of life occurs on a galactic scale. The authors&#8217; arguments against important assumptions of natural selection and the origin of life are still applicable and their proposed solution [&#8230;]]]></description>
 								<content:encoded><![CDATA[
 <p>Evolution from Space by Fred Hoyle and Chandra Wickramasinghe is a revolutionary book concerning the interpretation of the biological, astronomical, and mathematical evidence which indicates that evolution of life occurs on a galactic scale. The authors&#8217; arguments against important assumptions of natural selection and the origin of life are still applicable and their proposed solution seems reasonable, although perhaps subject to improvements, especially if one makes no <em>a priori</em> assumptions that life originated on Earth. Besides, the chondrites provide clear support for their theory and I believe trivially contradict the spontaneous generation on Earth hypothesis.</p>
 ]]></content:encoded>
-							<wfw:commentRss>/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/feed/</wfw:commentRss>
+							<wfw:commentRss>https://www.anautonomousagent.com/2019/05/evolution-from-space-fred-hoyle-and-chandra-wickramasinghe/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>From Virus to Cosmology &#8211; Fred Hoyle</title>
-		<link>/2019/01/from-virus-to-cosmology-fred-hoyle/</link>
-				<comments>/2019/01/from-virus-to-cosmology-fred-hoyle/#disqus_thread</comments>
+		<link>https://www.anautonomousagent.com/2019/01/from-virus-to-cosmology-fred-hoyle/</link>
+				<comments>https://www.anautonomousagent.com/2019/01/from-virus-to-cosmology-fred-hoyle/#disqus_thread</comments>
 				<pubDate>Wed, 09 Jan 2019 07:34:08 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[astrobiology]]></category>
@@ -129,19 +129,19 @@
 		<category><![CDATA[video]]></category>
 		<category><![CDATA[youtube]]></category>
 
-		<guid isPermaLink="false">/?p=2598</guid>
+		<guid isPermaLink="false">https://www.anautonomousagent.com/?p=2598</guid>
 				<description><![CDATA[This lecture provides a decent glance at Fred Hoyle&#8217;s understanding of the universe. One can certainly say that he held a view quite different than most. Fred Hoyle&#8217;s IFS Lecture December 1982]]></description>
 								<content:encoded><![CDATA[<p>This lecture provides a decent glance at Fred Hoyle&#8217;s understanding of the universe. One can certainly say that he held a view quite different than most.</p>
 <p>Fred Hoyle&#8217;s IFS Lecture December 1982</p>
 <div id="hsiFvCYSjHI" class="youtube" style="width: 100%; height: 360px;"></div>
 ]]></content:encoded>
-							<wfw:commentRss>/2019/01/from-virus-to-cosmology-fred-hoyle/feed/</wfw:commentRss>
+							<wfw:commentRss>https://www.anautonomousagent.com/2019/01/from-virus-to-cosmology-fred-hoyle/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Massive Crater and Younger Dryas</title>
-		<link>/2019/01/massive-crater-and-younger-dryas/</link>
-				<comments>/2019/01/massive-crater-and-younger-dryas/#disqus_thread</comments>
+		<link>https://www.anautonomousagent.com/2019/01/massive-crater-and-younger-dryas/</link>
+				<comments>https://www.anautonomousagent.com/2019/01/massive-crater-and-younger-dryas/#disqus_thread</comments>
 				<pubDate>Wed, 02 Jan 2019 03:58:52 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropology]]></category>
@@ -151,19 +151,19 @@
 		<category><![CDATA[video]]></category>
 		<category><![CDATA[youtube]]></category>
 
-		<guid isPermaLink="false">/?p=2584</guid>
+		<guid isPermaLink="false">https://www.anautonomousagent.com/?p=2584</guid>
 				<description><![CDATA[Bright Insight did a concise summary of this news and its potential implications. Worth the watch. Staggering, can you even imagine what an object ten billion tons traveling at 12 miles per second&#8230; does to an ice sheet two miles thick. Also consider this article on meteorite strew fields in order to understand that this [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p>Bright Insight did a concise summary of this news and its potential implications. Worth the watch. Staggering, can you even imagine what an object ten billion tons traveling at 12 miles per second&#8230; does to an ice sheet two miles thick. Also consider <a href="http://www.woreczko.pl/meteorites/features/glossary-StrewnField.htm">this article</a> on meteorite strew fields in order to understand that this event could have had multiple impact sites which could be related to the formation of the Carolina Bays.</p>
 <p>The 12,000 Year old Comet that Landed on TEDTalks…and Erased Ancient Civilization &#8211; Greenland Crater</p>
 <div id="hMTTFLiOwX0" class="youtube" style="width: 100%; height: 360px;"></div>
 ]]></content:encoded>
-							<wfw:commentRss>/2019/01/massive-crater-and-younger-dryas/feed/</wfw:commentRss>
+							<wfw:commentRss>https://www.anautonomousagent.com/2019/01/massive-crater-and-younger-dryas/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Microfossils and Biomolecules in Meteorites &#8211; Dr. Richard B. Hoover</title>
-		<link>/2018/11/microfossils-and-biomolecules-in-meteorites-dr-richard-b-hoover/</link>
-				<comments>/2018/11/microfossils-and-biomolecules-in-meteorites-dr-richard-b-hoover/#disqus_thread</comments>
+		<link>https://www.anautonomousagent.com/2018/11/microfossils-and-biomolecules-in-meteorites-dr-richard-b-hoover/</link>
+				<comments>https://www.anautonomousagent.com/2018/11/microfossils-and-biomolecules-in-meteorites-dr-richard-b-hoover/#disqus_thread</comments>
 				<pubDate>Mon, 12 Nov 2018 19:01:23 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
@@ -175,7 +175,7 @@
 		<category><![CDATA[sun]]></category>
 		<category><![CDATA[youtube]]></category>
 
-		<guid isPermaLink="false">/?p=2571</guid>
+		<guid isPermaLink="false">https://www.anautonomousagent.com/?p=2571</guid>
 				<description><![CDATA[Microfossils and Biomolecules in Meteorites &#8211; Dr. Richard B. Hoover This video by Dr. Richard B. Hoover points at why I am so interested in meteorites. Imagine if Dr. Hoover is correct and that life pervades the universe, or even lets say a large galaxy and/or group of galaxies. This is a viable outcome of [&#8230;]]]></description>
 								<content:encoded><![CDATA[<div id="nCZDqOrkXb8" class="youtube" style="width: 100%; height: 360px;"></div>
 <p>Microfossils and Biomolecules in Meteorites &#8211; Dr. Richard B. Hoover</p>
@@ -185,13 +185,13 @@
 <p><a href="http://www.thetricottetcollection.com/data/Mignan_Meteorite2011.pdf">Claims of Indigenous Life Forms in Meteorites: A Short Review</a></p>
 <p><a href="https://www.panspermia.org/chandra.htm">Chandra Wickramasinghe Testimony</a></p>
 ]]></content:encoded>
-							<wfw:commentRss>/2018/11/microfossils-and-biomolecules-in-meteorites-dr-richard-b-hoover/feed/</wfw:commentRss>
+							<wfw:commentRss>https://www.anautonomousagent.com/2018/11/microfossils-and-biomolecules-in-meteorites-dr-richard-b-hoover/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Casual Randall Carlson</title>
-		<link>/2018/09/casual-randall-carlson/</link>
-				<comments>/2018/09/casual-randall-carlson/#disqus_thread</comments>
+		<link>https://www.anautonomousagent.com/2018/09/casual-randall-carlson/</link>
+				<comments>https://www.anautonomousagent.com/2018/09/casual-randall-carlson/#disqus_thread</comments>
 				<pubDate>Thu, 20 Sep 2018 04:41:03 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[anthropology]]></category>
@@ -204,18 +204,18 @@
 		<category><![CDATA[randall carlson]]></category>
 		<category><![CDATA[youtube]]></category>
 
-		<guid isPermaLink="false">/?p=2566</guid>
+		<guid isPermaLink="false">https://www.anautonomousagent.com/?p=2566</guid>
 				<description><![CDATA[Randall Carlson does a nice job explaining subjects which would otherwise be incredibly dense. I especially enjoyed this entire series: Cosmography 101. In this series he points out that ancient humans around the time of the last ice age appear to have been cosmographists. With this in mind he explores various scenarios of what might [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p>Randall Carlson does a nice job explaining subjects which would otherwise be incredibly dense. I especially enjoyed this entire series: <a href="https://www.youtube.com/playlist?list=PLTRcDAFHjDSg-bjFZevjMQYOZunJJ-K4k">Cosmography 101</a>. In this series he points out that ancient humans around the time of the last ice age appear to have been cosmographists. With this in mind he explores various scenarios of what might have occurred based on geological evidence. Once you finish hearing what Carlson presents I am certain you will know more than you wanted about the Younger Dryas. You will also encounter many comprehensive descriptions of comets and asteroids. Unfortunately for Carlson, his ideas on the events of the last ice age are an anathema to some of the worlds popular ideologies: those who hold a religious based on the Bible&#8217;s account of a supernatural guiding force and those who hold a scientific view based on gradualism. If you maintain a religious understanding, then the proof that these historical events occurred through purely physical interactions between material things following mathematical laws, then you will most likely close your attention to the evidence immediately. The same refusal will occur by those scientifically oriented who think their already correct view of this time era is true and scientifically valid. Dare to be challenged?</p>
 <p><a href="https://www.youtube.com/user/YSIproductions/playlists?view=50&amp;sort=dd&amp;shelf_id=4">Randall Carlson YouTube Lectures</a></p>
 ]]></content:encoded>
-							<wfw:commentRss>/2018/09/casual-randall-carlson/feed/</wfw:commentRss>
+							<wfw:commentRss>https://www.anautonomousagent.com/2018/09/casual-randall-carlson/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Daniel Sheehan</title>
-		<link>/2018/09/daniel-sheehan/</link>
-				<comments>/2018/09/daniel-sheehan/#disqus_thread</comments>
+		<link>https://www.anautonomousagent.com/2018/09/daniel-sheehan/</link>
+				<comments>https://www.anautonomousagent.com/2018/09/daniel-sheehan/#disqus_thread</comments>
 				<pubDate>Sat, 08 Sep 2018 18:44:52 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[9/11]]></category>
@@ -232,7 +232,7 @@
 		<category><![CDATA[youtube]]></category>
 		<category><![CDATA[zeitgeist]]></category>
 
-		<guid isPermaLink="false">/?p=2556</guid>
+		<guid isPermaLink="false">https://www.anautonomousagent.com/?p=2556</guid>
 				<description><![CDATA[Daniel Sheehan is a brilliant thinker who has written a fascinating book on his memories as a top lawyer in the United States entitled The People&#8217;s Advocate. Additionally, he gives amazing public lectures on both his experiences and world history. All of his YouTube videos are worth watching. Here are some that I started with: [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p>Daniel Sheehan is a brilliant thinker who has written a fascinating book on his memories as a top lawyer in the United States entitled <a href="http://a.co/d/aTqHHIr">The People&#8217;s Advocate</a>. Additionally, he gives amazing public lectures on both his experiences and world history. All of his YouTube videos are worth watching. Here are some that I started with:</p>
 <div id="RgYFD8_jmQY" class="youtube" style="width: 100%; height: 360px;"></div>
@@ -244,13 +244,13 @@
 <div id="Yi07Rfh3J5E" class="youtube" style="width: 100%; height: 360px;"></div>
 <p>Daniel Sheehan on 9/11</p>
 ]]></content:encoded>
-							<wfw:commentRss>/2018/09/daniel-sheehan/feed/</wfw:commentRss>
+							<wfw:commentRss>https://www.anautonomousagent.com/2018/09/daniel-sheehan/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Dunbar’s Law and Economic Relationships</title>
-		<link>/2018/08/dunbars-law-and-economic-relationships/</link>
-				<comments>/2018/08/dunbars-law-and-economic-relationships/#disqus_thread</comments>
+		<link>https://www.anautonomousagent.com/2018/08/dunbars-law-and-economic-relationships/</link>
+				<comments>https://www.anautonomousagent.com/2018/08/dunbars-law-and-economic-relationships/#disqus_thread</comments>
 				<pubDate>Sun, 12 Aug 2018 03:55:15 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[currency]]></category>
@@ -260,20 +260,20 @@
 		<category><![CDATA[sociology]]></category>
 		<category><![CDATA[thoughts]]></category>
 
-		<guid isPermaLink="false">/?p=2554</guid>
+		<guid isPermaLink="false">https://www.anautonomousagent.com/?p=2554</guid>
 				<description><![CDATA[On page 306 of Scale, Geoffrey West discusses Dunbar’s Law and its implication for human social networks. To summarize this law: it claims that humans have multiple levels of bonding strength. At the lowest level a human will have around five connections of the strongest type of friendship and intimacy. Typically this would include some [&#8230;]]]></description>
 								<content:encoded><![CDATA[<div class="post-content">
 <p>On page 306 of <a href="https://www.anautonomousagent.com/2018/04/scale-geoffrey-west/">Scale</a>, Geoffrey West discusses <a href="https://en.wikipedia.org/wiki/Dunbar%27s_number">Dunbar’s Law</a> and its implication for human social networks. To summarize this law: it claims that humans have multiple levels of bonding strength. At the lowest level a human will have around five connections of the strongest type of friendship and intimacy. Typically this would include some members of one’s family or a best friend. At the next level there are around fifteen connections that are not as strong as the first level, but are still firm. This would include close friends you might talk to on a daily or weekly basis. At the next level there are about fifty connections… and so on… The numbers of connections scales by tripling the connections at each higher level. In the book the levels are labeled as: 1) Kin, 2) Super-family 3) Clan, 4) Tribe, and 5) Strangers.</p>
 <p>When I first read this in Scale, I was immediately reminded of David Graeber’s anthropological work regarding economic relationships among humans. In his book <a href="https://www.anautonomousagent.com/2017/07/debt-the-first-5000-years-david-graeber/">Debt: The First 5,000 Years</a>, Graeber observes on page 99-100 that baseline communism (sharing) follows a similar structure. Thus, using the terminology from above: At the kin level Graeber notes that there is much sharing between members and the relationship is baseline communism. Thus, you can extend this and map these economic relationships with those of Dunbar’s Law: 1) Kin (~5 people) : Almost all sharing with very little debt or IOU, 2) Super-family (~15 people) : IOU with a good amount of sharing, 3) Clan (~ 50 people) : Mostly IOU and little sharing, and 4) Tribe (~150 people) : Almost entirely IOU with very little sharing. Anything outside the tribe would be exchange via a cash medium except in rare occasions, such as a child falling in front of an on-coming vehicle (a person would naturally share his strength to save the child’s life). Although I may not have followed Graeber’s observations exactly I find this train of thought to be interesting as it requires one to rethink the concept of currency, exchange, and economic relationships. Indeed, Graeber’s book challenges the entire paradigm of the historical development of currency and debt by analyzing the anthropological record.</p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>/2018/08/dunbars-law-and-economic-relationships/feed/</wfw:commentRss>
+							<wfw:commentRss>https://www.anautonomousagent.com/2018/08/dunbars-law-and-economic-relationships/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Scale – Geoffrey West</title>
-		<link>/2018/08/scale-geoffrey-west/</link>
-				<comments>/2018/08/scale-geoffrey-west/#disqus_thread</comments>
+		<link>https://www.anautonomousagent.com/2018/08/scale-geoffrey-west/</link>
+				<comments>https://www.anautonomousagent.com/2018/08/scale-geoffrey-west/#disqus_thread</comments>
 				<pubDate>Sun, 12 Aug 2018 03:54:09 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[biology]]></category>
@@ -295,17 +295,17 @@
 		<category><![CDATA[sociobiology]]></category>
 		<category><![CDATA[socionomics]]></category>
 
-		<guid isPermaLink="false">/?p=2552</guid>
+		<guid isPermaLink="false">https://www.anautonomousagent.com/?p=2552</guid>
 				<description><![CDATA[Scale, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p><a href="http://a.co/0tTatb5">Scale</a>, by Geoffrey West, is a thought provoking book about coarse grained quantitative network theories which concern the entire human species and its interaction with the environment. Although verbose — as I think the intended audience is upper high school and entry-level college — it is clear in its depictions and explanations. This book is an important summary of really profound work and research performed at the Santa Fe Institute. And it is a great introduction to understanding power laws and scaling in biology and network topologies.</p>
 ]]></content:encoded>
-							<wfw:commentRss>/2018/08/scale-geoffrey-west/feed/</wfw:commentRss>
+							<wfw:commentRss>https://www.anautonomousagent.com/2018/08/scale-geoffrey-west/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Mastering Bitcoin – Andreas M. Antonopoulos</title>
-		<link>/2018/08/mastering-bitcoin-andreas-m-antonopoulos/</link>
-				<comments>/2018/08/mastering-bitcoin-andreas-m-antonopoulos/#disqus_thread</comments>
+		<link>https://www.anautonomousagent.com/2018/08/mastering-bitcoin-andreas-m-antonopoulos/</link>
+				<comments>https://www.anautonomousagent.com/2018/08/mastering-bitcoin-andreas-m-antonopoulos/#disqus_thread</comments>
 				<pubDate>Sun, 12 Aug 2018 03:51:56 +0000</pubDate>
 		<dc:creator><![CDATA[anautonomousagent]]></dc:creator>
 				<category><![CDATA[andreas antonopoulos]]></category>
@@ -316,14 +316,14 @@
 		<category><![CDATA[computer]]></category>
 		<category><![CDATA[internet]]></category>
 
-		<guid isPermaLink="false">/?p=2550</guid>
+		<guid isPermaLink="false">https://www.anautonomousagent.com/?p=2550</guid>
 				<description><![CDATA[I’ve been following Bitcoin since 2011 but sadly never researched its technical foundations. A few weeks ago I decided to dive into the subject. Mastering Bitcoin, by Andreas M. Antonopoulos, clearly explains the fundamental designs of Bitcoin. The book is well written and an excellent entry point for developers new to the subject. Many sites [&#8230;]]]></description>
 								<content:encoded><![CDATA[<div class="post-content">
 <p>I’ve been following Bitcoin since 2011 but sadly never researched its technical foundations. A few weeks ago I decided to dive into the subject. <a href="http://a.co/4VbZiYq">Mastering Bitcoin</a>, by Andreas M. Antonopoulos, clearly explains the fundamental designs of Bitcoin. The book is well written and an excellent entry point for developers new to the subject. Many sites and people recommend this book and rightly so, because after reading it, I feel that I have a new understanding and appreciation of everything blockchain related. While it is detailed and technical — geared towards an audience familiar with programming and Internet technologies, it can be a great resource for those wanting an intellectual challenge.</p>
 <p>If you decide to purchase the book, make sure you do it on <a href="https://purse.io/shop">purse.io</a> with Bitcoin. Purse is now where I make any purchases for books or things I would have bought directly from Amazon.</p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>/2018/08/mastering-bitcoin-andreas-m-antonopoulos/feed/</wfw:commentRss>
+							<wfw:commentRss>https://www.anautonomousagent.com/2018/08/mastering-bitcoin-andreas-m-antonopoulos/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
