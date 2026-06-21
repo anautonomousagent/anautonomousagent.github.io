@@ -4,7 +4,7 @@ This file provides context for AI coding assistants working in this repository.
 
 ## Project Overview
 
-**An Autonomous Agent** (`anautonomousagent.github.io`) is a personal blog and content archive with the tagline "exploring the noosphere". It was originally a self-hosted WordPress site (WordPress 5.2.3) that was exported to a fully static HTML site and is now served via GitHub Pages (CDN). There is no server-side rendering, no build step, and no package manager — all content is pre-built static HTML.
+**An Autonomous Agent** (`www.anautonomousagent.com`) is a personal blog and content archive with the tagline "exploring the noosphere". It was originally a self-hosted WordPress site (WordPress 5.2.3) that was exported to a fully static HTML site and is now served via GitHub Pages (CDN). There is no server-side rendering, no build step, and no package manager — all content is pre-built static HTML.
 
 ## Repository Structure
 
