@@ -72,8 +72,8 @@ jQuery(document).ready(function($) {
 		var $container = $('.posts');
 		$container.masonry( 'reloadItems' );
 		
-		$blocks.imagesLoaded(function(){
-			$blocks.masonry({
+		$container.imagesLoaded(function(){
+			$container.masonry({
 				itemSelector: '.post-container'
 			});
 	
@@ -95,7 +95,7 @@ jQuery(document).ready(function($) {
 	        smoothHeight: true   
 	    });
 		
-		$(document).ready( function() { setTimeout( function() { $blocks.masonry(); }, 500); });
+		$(document).ready( function() { setTimeout( function() { $container.masonry(); }, 500); });
 
 	});
 	
